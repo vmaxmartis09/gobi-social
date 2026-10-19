@@ -1,11 +1,15 @@
 import json
 import re
 import sys
+import os
 
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
 
-content_file = r"C:\Users\HAI\.gemini\antigravity\brain\383fa778-c3ea-408f-bf80-315f12e6d6f3\.system_generated\steps\837\content.md"
+content_file = sys.argv[1] if len(sys.argv) > 1 else "sample_content.md"
+if not os.path.exists(content_file):
+    print(f"File not found: {content_file}. Provide content file as first argument.")
+    sys.exit(0)
 
 with open(content_file, "r", encoding="utf-8") as f:
     text = f.read()

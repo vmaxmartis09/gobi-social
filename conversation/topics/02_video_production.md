@@ -28,14 +28,14 @@ flowchart LR
 ## 3. CÁC THÀNH PHẦN KỸ THUẬT
 
 ### 3.1. Core Video Engine
-* File mã nguồn: [`core/video_engine.py`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/core/video_engine.py)
+* File mã nguồn: [`core/video_engine.py`](../../core/video_engine.py)
 * Dựa trên nền tảng `MoviePy (2.2.1)` kết hợp `imageio-ffmpeg`.
 * Hỗ trợ chèn overlay, xử lý âm thanh đa luồng (Voice chính + Nhạc nền có ducking tự động hạ âm khi có tiếng nói).
 
 ### 3.2. AI Concat Auto Editor & Bridge
-* File mã nguồn: [`core/ai_concat_auto_editor.py`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/core/ai_concat_auto_editor.py) và [`core/concat_bridge.py`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/core/concat_bridge.py).
+* File mã nguồn: [`core/ai_concat_auto_editor.py`](../../core/ai_concat_auto_editor.py) và [`core/concat_bridge.py`](../../core/concat_bridge.py).
 * Nhận cấu hình kịch bản phân cảnh từ `scenes_config.json`, tự động tính toán thời lượng từng scene dựa trên độ dài audio thực tế.
-* Quản lý thư mục tạm [`temp_clips/`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/temp_clips) để ghép nối mượt mà trước khi nén file cuối.
+* Quản lý thư mục tạm [`temp_clips/`](../../temp_clips) để ghép nối mượt mà trước khi nén file cuối.
 
 ### 3.3. Quy chuẩn TikTok Safe Zone
 * Vùng đỉnh (Top 15%): Tránh thanh tìm kiếm TikTok.
@@ -46,7 +46,7 @@ flowchart LR
 ---
 
 ## 4. CÁC FILE LIÊN QUAN CHÍNH
-* [`render_full_video.py`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/render_full_video.py)
-* [`create_koc_video.py`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/create_koc_video.py)
-* [`polish_subtitles.py`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/polish_subtitles.py)
-* [`output/KOC_AI_Tai_Nghe_Viral_Review.mp4`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/output)
+* [`render_full_video.py`](../../render_full_video.py)
+* [`create_koc_video.py`](../../create_koc_video.py)
+* [`polish_subtitles.py`](../../polish_subtitles.py)
+* [`output/KOC_AI_Tai_Nghe_Viral_Review.mp4`](../../output)

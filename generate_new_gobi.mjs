@@ -40,5 +40,5 @@ if (canGenerate.btnFound && !canGenerate.btnDisabled) {
 }
 
 await page.waitForTimeout(3000);
-await page.screenshot({ path: "C:/Users/HAI/OneDrive/Tài liệu/vmax/shots/ego_gobi_new_adn_generating.png" });
+await page.screenshot({ path: "shots/ego_gobi_new_adn_generating.png" });
 console.log("Saved screenshot to shots/ego_gobi_new_adn_generating.png");

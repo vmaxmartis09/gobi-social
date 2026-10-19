@@ -14,19 +14,19 @@
 * **Tailoring CV & Cover Letter:** Tự động đối chiếu yêu cầu công việc (Job Description) và chỉnh sửa file CV HTML/PDF tương thích tối đa với bộ lọc ATS.
 * **Tự động nộp đơn:** Hỗ trợ điền form ứng tuyển và theo dõi kết quả nộp đơn qua Google Sheets / Notion / Gmail sync.
 * **File quản lý:**
-  * [`tools/job_search/job_hunter.py`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/tools/job_search/job_hunter.py)
-  * [`tools/job_search/job_pipeline.py`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/tools/job_search/job_pipeline.py)
-  * [`tools/job_search/salary_lookup.py`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/tools/job_search/salary_lookup.py)
+  * [`tools/job_search/job_hunter.py`](../../tools/job_search/job_hunter.py)
+  * [`tools/job_search/job_pipeline.py`](../../tools/job_search/job_pipeline.py)
+  * [`tools/job_search/salary_lookup.py`](../../tools/job_search/salary_lookup.py)
 
 ---
 
 ## 3. PHÂN HỆ AGENT REACH (`tools/reach/`)
 * **Chức năng:** Kết nối và đăng bài tự động trên nhiều nền tảng mạng xã hội khác nhau (Twitter/X, Reddit, Xiaohongshu, LinkedIn).
 * **Quản lý Cookie & Session:** Xuất nhập cookie an toàn để không cần đăng nhập lại nhiều lần.
-* **Thư mục:** [`tools/reach/agent-reach/`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/tools/reach/agent-reach)
+* **Thư mục:** [`tools/reach/agent-reach/`](../../tools/reach/agent-reach)
 
 ---
 
 ## 4. CÁC FILE LIÊN QUAN CHÍNH
-* [`tools/job_search/README.md`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/tools/job_search/README.md)
-* [`tools/reach/agent-reach/README.md`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/tools/reach/agent-reach/README.md)
+* [`tools/job_search/README.md`](../../tools/job_search/README.md)
+* [`tools/reach/agent-reach/README.md`](../../tools/reach/agent-reach/README.md)

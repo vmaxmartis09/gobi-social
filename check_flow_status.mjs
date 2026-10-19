@@ -8,7 +8,7 @@ for (const p of pageList) {
   const pageUrl = await p.url();
   console.log("Inspecting page:", p.label, pageUrl);
   if (pageUrl && pageUrl.includes("flow.google.com")) {
-    await p.screenshot({ path: "C:/Users/HAI/OneDrive/Tài liệu/vmax/shots/ego_gobi_generation_status.png" });
+    await p.screenshot({ path: "shots/ego_gobi_generation_status.png" });
     console.log("Saved screenshot to ego_gobi_generation_status.png");
     
     const info = await p.evaluate(() => {

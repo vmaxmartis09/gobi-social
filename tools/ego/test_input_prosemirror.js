@@ -17,7 +17,7 @@ await page.keyboard.paste({ text: testPrompt });
 await page.waitForTimeout(1000);
 
 // Chup anh kiem tra text da vao o chua
-const shotPath = "C:/Users/HAI/OneDrive/Tài liệu/vmax/shots/ego_flow_input_typed.png";
+const shotPath = "shots/ego_flow_input_typed.png";
 await page.screenshot({ path: shotPath });
 console.log("[Ego] Da chup anh xac nhan text da vao:", shotPath);
 

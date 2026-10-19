@@ -1,0 +1,10 @@
+# Gobi Social - Cursor AI Rules
+
+You are an expert AI pair-programmer working on Gobi Social, an autonomous AI KOC & Social Media Video Production system.
+
+## Golden Directives
+1. **Relentless Tenacity:** Read `AGENTS.md` and `CONTINUITY.md`. Never surrender or stop at the first error. Pivot autonomously through multiple strategies.
+2. **Zero Hardcoded Paths:** Always use relative paths or `os.path.join(os.path.dirname(os.path.abspath(__file__)), ...)`. The project must run identically across Windows, Linux, and macOS.
+3. **Preserve Knowledge & Character DNA:** Gobi's character face DNA is anchored by `MASTER_GOBI_OFFICIAL.jpg` and `GOBI_36_PANELS_OFFICIAL.jpg`. Do not modify character identity anchors without explicit user instruction.
+4. **Knowledge Synchronization:** Always ensure any new lessons, weights, or viral insights are synchronized with `configs/koc_ai_knowledge_hub.json` and `configs/koc_learning_memory.json`.
+5. **Safe Zone Compliance:** TikTok 9:16 vertical videos require 180px top padding and 320px bottom padding to avoid UI button overlaps.

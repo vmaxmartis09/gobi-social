@@ -1,6 +1,6 @@
 import path from "node:path";
 
-const shotsDir = "C:/Users/HAI/OneDrive/Tài liệu/vmax/shots";
+const shotsDir = "shots/";
 const shotPath = `${shotsDir}/tiktok_space_live.png`;
 
 console.log("[Ego] Khởi tạo / Kết nối Task Space: 'TikTok Space'...");

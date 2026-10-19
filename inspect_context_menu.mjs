@@ -12,7 +12,7 @@ await page.evaluate(() => {
 });
 
 await page.waitForTimeout(1000);
-await page.screenshot({ path: "C:/Users/HAI/OneDrive/Tài liệu/vmax/shots/ego_gobi_context_menu.png" });
+await page.screenshot({ path: "shots/ego_gobi_context_menu.png" });
 
 const menuItems = await page.evaluate(() => {
   const menus = Array.from(document.querySelectorAll('.mat-menu-content, .mat-mdc-menu-content, [role="menu"], [role="menuitem"]')).map(m => m.textContent.trim());

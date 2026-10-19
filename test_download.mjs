@@ -20,7 +20,7 @@ await page.evaluate(() => {
 try {
   const download = await downloadPromise;
   console.log("Download triggered! URL:", download.url(), "Filename:", download.suggestedFilename());
-  const savePath = "C:/Users/HAI/OneDrive/Tài liệu/vmax/shots/test_flow_download.mp4";
+  const savePath = "shots/test_flow_download.mp4";
   await download.saveAs(savePath);
   console.log("Saved video to:", savePath);
 } catch (e) {

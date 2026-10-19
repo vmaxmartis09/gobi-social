@@ -2,7 +2,7 @@ from playwright.sync_api import sync_playwright
 
 with sync_playwright() as p:
     browser = p.chromium.launch_persistent_context(
-        r'C:\Users\HAI\.agent-browser\profiles\ai_profile',
+        os.path.join(os.path.expanduser("~"), ".agent-browser", "profiles", r"ai_profile"),
         channel='chrome',
         headless=True,
         args=["--disable-blink-features=AutomationControlled"]
@@ -15,7 +15,7 @@ with sync_playwright() as p:
     if qr_btn.is_visible(timeout=3000):
         qr_btn.click()
         page.wait_for_timeout(2000)
-        page.screenshot(path=r'c:\Users\HAI\OneDrive\Tài liệu\vmax\shots\tiktok_qr_login.png')
-        page.screenshot(path=r'c:\Users\HAI\OneDrive\Tài liệu\vmax\shots\live.png')
+        page.screenshot(path=r'shots/tiktok_qr_login.png')
+        page.screenshot(path=r'shots/live.png')
         print("[+] QR Code da duoc chup va cap nhat len live_viewer.html!")
     browser.close()

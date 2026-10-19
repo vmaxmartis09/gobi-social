@@ -1,7 +1,13 @@
 import re
 import json
 
-path = r"C:\Users\HAI\.gemini\antigravity\brain\e2ae0d54-6ee5-467b-a6bc-af20d8fb67a4\.system_generated\steps\2\content.md"
+# Input file path specified via sys.argv[1] or environment
+import sys, os
+target_path = sys.argv[1] if len(sys.argv) > 1 else 'sample_input.txt'
+if not os.path.exists(target_path):
+    print(f'Input file not found: {target_path}. Provide input path as first argument.')
+    sys.exit(0)
+with open(target_path, 'r', encoding='utf-8', errors='ignore') as f:
 with open(path, "r", encoding="utf-8", errors="ignore") as f:
     html = f.read()
 

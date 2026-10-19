@@ -7,7 +7,7 @@ if hasattr(sys.stdout, "reconfigure"):
 
 with sync_playwright() as p:
     browser = p.chromium.launch_persistent_context(
-        r'C:\Users\HAI\.agent-browser\profiles\ai_profile',
+        os.path.join(os.path.expanduser("~"), ".agent-browser", "profiles", r"ai_profile"),
         channel='chrome',
         headless=True,
         args=["--disable-blink-features=AutomationControlled"]
@@ -45,8 +45,8 @@ with sync_playwright() as p:
     send_btn.click()
     page.wait_for_timeout(4000)
     
-    page.screenshot(path=r"c:\Users\HAI\OneDrive\Tài liệu\vmax\shots\debug_send_code.png")
-    page.screenshot(path=r"c:\Users\HAI\OneDrive\Tài liệu\vmax\shots\live.png")
+    page.screenshot(path=r"shots/debug_send_code.png")
+    page.screenshot(path=r"shots/live.png")
     
     # Print button text now
     print("Button text now:", repr(send_btn.inner_text().strip()))

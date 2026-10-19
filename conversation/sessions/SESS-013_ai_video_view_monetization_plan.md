@@ -34,9 +34,9 @@
 ---
 
 ## 🏆 3. KẾT QUẢ ĐẠT ĐƯỢC & BẰNG CHỨNG (PROOF-OF-WORK)
-* **Báo cáo chiến lược 1:** [`ai_video_monetization_niches_report.md`](file:///C:/Users/HAI/.gemini/antigravity/brain/8bed2751-1d56-4673-ac60-2385be840d7e/ai_video_monetization_niches_report.md) – Báo cáo toàn diện 9 đại ngách kiếm tiền từ view, cơ chế tính RPM và bộ công cụ sản xuất AI thực chiến 2026.
-* **Kế hoạch chiến lược 2:** [`social_ecosystem_and_niche_landscape.md`](file:///C:/Users/HAI/.gemini/antigravity/brain/8bed2751-1d56-4673-ac60-2385be840d7e/social_ecosystem_and_niche_landscape.md) – Bản thiết kế hệ thống đa kênh, quy chuẩn profile thống nhất và bản đồ thị trường Thiếu - Nhiều - Dễ làm.
-* **Tài liệu lưu trữ:** [`conversation/sessions/SESS-013_ai_video_view_monetization_plan.md`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/conversation/sessions/SESS-013_ai_video_view_monetization_plan.md).
+* **Báo cáo chiến lược 1:** [`ai_video_monetization_niches_report.md`](ai_video_monetization_niches_report.md) – Báo cáo toàn diện 9 đại ngách kiếm tiền từ view, cơ chế tính RPM và bộ công cụ sản xuất AI thực chiến 2026.
+* **Kế hoạch chiến lược 2:** [`social_ecosystem_and_niche_landscape.md`](social_ecosystem_and_niche_landscape.md) – Bản thiết kế hệ thống đa kênh, quy chuẩn profile thống nhất và bản đồ thị trường Thiếu - Nhiều - Dễ làm.
+* **Tài liệu lưu trữ:** [`conversation/sessions/SESS-013_ai_video_view_monetization_plan.md`](../../conversation/sessions/SESS-013_ai_video_view_monetization_plan.md).
 
 ---
 

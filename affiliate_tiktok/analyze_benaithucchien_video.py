@@ -3,9 +3,9 @@ import subprocess
 import imageio_ffmpeg
 from PIL import Image
 
-video_path = r"c:\Users\HAI\OneDrive\Tài liệu\vmax\shots\benaithucchien_full.mp4"
-audio_out = r"c:\Users\HAI\OneDrive\Tài liệu\vmax\shots\benaithucchien_audio.mp3"
-frames_dir = r"c:\Users\HAI\OneDrive\Tài liệu\vmax\shots\benaithucchien_frames"
+video_path = r"shots/benaithucchien_full.mp4"
+audio_out = r"shots/benaithucchien_audio.mp3"
+frames_dir = r"shots/benaithucchien_frames"
 os.makedirs(frames_dir, exist_ok=True)
 
 ffmpeg_exe = imageio_ffmpeg.get_ffmpeg_exe()

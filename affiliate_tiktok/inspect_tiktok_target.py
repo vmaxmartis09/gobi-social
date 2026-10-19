@@ -10,8 +10,8 @@ import imageio_ffmpeg
 load_dotenv()
 
 TARGET_URL = "https://www.tiktok.com/@ainativelab/video/7693210848747113748"
-PROFILE_DIR = r"C:\Users\HAI\.agent-browser\profiles\ai_profile"
-SHOTS_DIR = r"C:\Users\HAI\OneDrive\Tài liệu\vmax\shots"
+PROFILE_DIR = os.environ.get("BROWSER_PROFILE_DIR", os.path.join(os.path.expanduser("~"), ".agent-browser", "profiles", r"ai_profile"))
+SHOTS_DIR = r"shots/"
 VIDEO_OUT = os.path.join(SHOTS_DIR, "ainative_video.mp4")
 AUDIO_OUT = os.path.join(SHOTS_DIR, "ainative_audio.mp3")
 INFO_OUT = os.path.join(SHOTS_DIR, "ainative_info.json")

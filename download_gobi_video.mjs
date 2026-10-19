@@ -28,7 +28,7 @@ try {
   console.log("URL:", download.url());
   console.log("Suggested filename:", download.suggestedFilename());
   
-  const targetPath = "C:/Users/HAI/OneDrive/Tài liệu/vmax/affiliate_tiktok/sample_video/output/gobi_official_speaking_video_1.mp4";
+  const targetPath = "./affiliate_tiktok/sample_video/output/gobi_official_speaking_video_1.mp4";
   await download.saveAs(targetPath);
   console.log("Video saved successfully to:", targetPath);
 } catch (e) {

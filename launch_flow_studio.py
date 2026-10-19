@@ -5,7 +5,7 @@ from playwright.sync_api import sync_playwright
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-PROFILE_DIR = r"C:\Users\HAI\.agent-browser\profiles\ai_profile"
+PROFILE_DIR = os.environ.get("BROWSER_PROFILE_DIR", os.path.join(os.path.expanduser("~"), ".agent-browser", "profiles", r"ai_profile"))
 TARGET_URL = "https://accounts.google.com/v3/signin/challenge/pwd?continue=https%3A%2F%2Fflow.google.com%2F&flowEntry=ServiceLogin&flowName=GlifWebSignIn"
 
 def run():

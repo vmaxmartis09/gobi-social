@@ -6,7 +6,7 @@ if hasattr(sys.stdout, "reconfigure"):
 
 with sync_playwright() as p:
     browser = p.chromium.launch_persistent_context(
-        r'C:\Users\HAI\.agent-browser\profiles\ai_profile',
+        os.path.join(os.path.expanduser("~"), ".agent-browser", "profiles", r"ai_profile"),
         channel='chrome',
         headless=True,
         args=["--disable-blink-features=AutomationControlled"]
@@ -55,6 +55,6 @@ with sync_playwright() as p:
     send_btn = page.locator('button[data-e2e="send-code-button"]').first
     print("Send code button is enabled?:", send_btn.is_enabled())
     
-    page.screenshot(path=r"c:\Users\HAI\OneDrive\Tài liệu\vmax\shots\bday_and_send_code_ready.png")
-    page.screenshot(path=r"c:\Users\HAI\OneDrive\Tài liệu\vmax\shots\live.png")
+    page.screenshot(path=r"shots/bday_and_send_code_ready.png")
+    page.screenshot(path=r"shots/live.png")
     browser.close()

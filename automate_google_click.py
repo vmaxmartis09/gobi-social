@@ -5,7 +5,7 @@ from playwright.sync_api import sync_playwright
 
 sys.stdout.reconfigure(encoding='utf-8', errors='replace')
 
-USER_PROFILE_DIR = r"C:\Users\HAI\.agent-browser\profiles\ai_profile"
+USER_PROFILE_DIR = os.environ.get("USER_PROFILE_DIR", os.path.join(os.path.expanduser("~"), ".agent-browser", "profiles", "ai_profile"))
 CHROME_EXE = r"C:\Program Files\Google\Chrome\Application\chrome.exe"
 os.makedirs("shots", exist_ok=True)
 

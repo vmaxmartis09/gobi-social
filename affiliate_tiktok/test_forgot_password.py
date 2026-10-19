@@ -12,7 +12,7 @@ def log(msg):
 
 with sync_playwright() as p:
     browser = p.chromium.launch_persistent_context(
-        r'C:\Users\HAI\.agent-browser\profiles\ai_profile',
+        os.path.join(os.path.expanduser("~"), ".agent-browser", "profiles", r"ai_profile"),
         channel='chrome',
         headless=False,
         args=[
@@ -46,7 +46,7 @@ with sync_playwright() as p:
     }''')
     log(f"Form elements: {json.dumps(options, indent=2)}")
     
-    page.screenshot(path=r"c:\Users\HAI\OneDrive\Tài liệu\vmax\shots\forgot_password_page.png")
-    page.screenshot(path=r"c:\Users\HAI\OneDrive\Tài liệu\vmax\shots\live.png")
+    page.screenshot(path=r"shots/forgot_password_page.png")
+    page.screenshot(path=r"shots/live.png")
     
     browser.close()

@@ -22,7 +22,7 @@ await page.evaluate(() => {
 await page.waitForTimeout(2000);
 
 try {
-  await page.screenshot({ path: "C:/Users/HAI/OneDrive/Tài liệu/vmax/shots/ego_gobi_dna_card1_opened.png" });
+  await page.screenshot({ path: "shots/ego_gobi_dna_card1_opened.png" });
 } catch (e) {
   console.log("Screenshot note:", e.message);
 }
@@ -47,24 +47,7 @@ await page.evaluate(() => {
 
 try {
   const download1 = await downloadPromise1;
-  const path1 = "C:/Users/HAI/OneDrive/Tài liệu/vmax/affiliate_tiktok/sample_video/output/gobi_true_dna_video_1.mp4";
-  await download1.saveAs(path1);
-  console.log("Card 1 saved successfully to:", path1);
-} catch (e) {
-  console.log("Card 1 download error:", e.message);
-}
-
-// Now switch to Card 2 (next video)
-console.log("Switching to Card 2...");
-await page.evaluate(() => {
-  const nextBtn = document.querySelector('button[aria-label="Nội dung nghe nhìn tiếp theo"]');
-  if (nextBtn) nextBtn.click();
-});
-
-await page.waitForTimeout(2000);
-
-try {
-  await page.screenshot({ path: "C:/Users/HAI/OneDrive/Tài liệu/vmax/shots/ego_gobi_dna_card2_opened.png" });
+  const path1 = "shots/ego_gobi_dna_card2_opened.png" });
 } catch (e) {
   console.log("Screenshot note:", e.message);
 }
@@ -89,7 +72,7 @@ await page.evaluate(() => {
 
 try {
   const download2 = await downloadPromise2;
-  const path2 = "C:/Users/HAI/OneDrive/Tài liệu/vmax/affiliate_tiktok/sample_video/output/gobi_true_dna_video_2.mp4";
+  const path2 = "./affiliate_tiktok/sample_video/output/gobi_true_dna_video_2.mp4";
   await download2.saveAs(path2);
   console.log("Card 2 saved successfully to:", path2);
 } catch (e) {

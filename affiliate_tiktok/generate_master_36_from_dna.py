@@ -6,7 +6,7 @@ from google import genai
 from google.genai import types
 
 # Load .env
-env_path = Path(r"c:\Users\HAI\OneDrive\Tài liệu\vmax\.env")
+env_path = Path(r"./.env")
 if env_path.exists():
     for line in env_path.read_text(encoding="utf-8").splitlines():
         if "=" in line and not line.strip().startswith("#"):
@@ -20,7 +20,7 @@ if not api_key:
 
 client = genai.Client(api_key=api_key)
 
-master_dna_path = Path(r"c:\Users\HAI\OneDrive\Tài liệu\vmax\affiliate_tiktok\dataset_koc\MASTER_KOC_DNA.jpg")
+master_dna_path = Path(r"./affiliate_tiktok\dataset_koc\MASTER_KOC_DNA.jpg")
 master_img = Image.open(master_dna_path)
 
 prompt = """Create an ultra-realistic 8K 36-panel camera angle and pose reference storyboard (strict 6x6 grid layout of 36 equal square panels with thin clean white borders) featuring the EXACT SAME young Vietnamese woman from the attached reference image (MASTER_KOC_DNA.jpg).
@@ -51,7 +51,7 @@ models_to_try = [
     "imagen-3.0-generate-002",
 ]
 
-out_path = Path(r"c:\Users\HAI\OneDrive\Tài liệu\vmax\affiliate_tiktok\dataset_koc\ethereal_koc_36_storyboard_v3.jpg")
+out_path = Path(r"./affiliate_tiktok\dataset_koc\ethereal_koc_36_storyboard_v3.jpg")
 
 for model_name in models_to_try:
     print(f"Trying model: {model_name} ...")

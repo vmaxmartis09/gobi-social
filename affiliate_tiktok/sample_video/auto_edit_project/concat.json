@@ -245,7 +245,7 @@
   "media": [
     {
       "id": "m1",
-      "path": "C:/Users/HAI/OneDrive/Tài liệu/vmax/affiliate_tiktok/sample_video/audio/cardigan_voiceover.mp3",
+      "path": "./affiliate_tiktok/sample_video/audio/cardigan_voiceover.mp3",
       "name": "cardigan_voiceover.mp3",
       "kind": "audio",
       "hasAudio": true,
@@ -253,28 +253,28 @@
     },
     {
       "id": "m2",
-      "path": "C:/Users/HAI/OneDrive/Tài liệu/vmax/affiliate_tiktok/sample_video/images/01_hook_model_cafe.jpg",
+      "path": "./affiliate_tiktok/sample_video/images/01_hook_model_cafe.jpg",
       "name": "01_hook_model_cafe.jpg",
       "kind": "image",
       "hasAudio": false
     },
     {
       "id": "m3",
-      "path": "C:/Users/HAI/OneDrive/Tài liệu/vmax/affiliate_tiktok/sample_video/images/02_texture_fabric_buttons.jpg",
+      "path": "./affiliate_tiktok/sample_video/images/02_texture_fabric_buttons.jpg",
       "name": "02_texture_fabric_buttons.jpg",
       "kind": "image",
       "hasAudio": false
     },
     {
       "id": "m4",
-      "path": "C:/Users/HAI/OneDrive/Tài liệu/vmax/affiliate_tiktok/sample_video/images/03_fullbody_korean_ootd.jpg",
+      "path": "./affiliate_tiktok/sample_video/images/03_fullbody_korean_ootd.jpg",
       "name": "03_fullbody_korean_ootd.jpg",
       "kind": "image",
       "hasAudio": false
     },
     {
       "id": "m5",
-      "path": "C:/Users/HAI/OneDrive/Tài liệu/vmax/affiliate_tiktok/sample_video/images/04_cta_pointing_cart.jpg",
+      "path": "./affiliate_tiktok/sample_video/images/04_cta_pointing_cart.jpg",
       "name": "04_cta_pointing_cart.jpg",
       "kind": "image",
       "hasAudio": false

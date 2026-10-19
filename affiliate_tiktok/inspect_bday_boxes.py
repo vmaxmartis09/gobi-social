@@ -6,7 +6,7 @@ if hasattr(sys.stdout, "reconfigure"):
 
 with sync_playwright() as p:
     browser = p.chromium.launch_persistent_context(
-        r'C:\Users\HAI\.agent-browser\profiles\ai_profile',
+        os.path.join(os.path.expanduser("~"), ".agent-browser", "profiles", r"ai_profile"),
         channel='chrome',
         headless=True,
         args=["--disable-blink-features=AutomationControlled"]

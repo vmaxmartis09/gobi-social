@@ -2,7 +2,7 @@ const task = await claimTaskSpace(4);
 const page = task.page("p2");
 
 // Take screenshot of current state
-await page.screenshot({ path: "C:/Users/HAI/OneDrive/Tài liệu/vmax/shots/ego_gobi_new_adn_render_status.png" });
+await page.screenshot({ path: "shots/ego_gobi_new_adn_render_status.png" });
 
 // Inspect the video cards on canvas
 const cards = await page.evaluate(() => {

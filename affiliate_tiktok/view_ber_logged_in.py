@@ -10,7 +10,7 @@ if hasattr(sys.stdout, "reconfigure"):
 
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SHOTS_DIR = os.path.join(PROJECT_ROOT, "shots")
-PROFILE_DIR = r"C:\Users\HAI\.agent-browser\profiles\ai_profile"
+PROFILE_DIR = os.environ.get("BROWSER_PROFILE_DIR", os.path.join(os.path.expanduser("~"), ".agent-browser", "profiles", r"ai_profile"))
 TARGET_URL = "https://www.tiktok.com/@ber.review/video/7680784467144887573"
 
 def run():

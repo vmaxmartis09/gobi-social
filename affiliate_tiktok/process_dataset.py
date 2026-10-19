@@ -9,8 +9,9 @@ if hasattr(sys.stdout, "reconfigure"):
 
 pillow_heif.register_heif_opener()
 
-SRC_DIR = r"C:\Users\HAI\Downloads\Mauz"
-DST_DIR = r"c:\Users\HAI\OneDrive\Tài liệu\vmax\affiliate_tiktok\dataset_koc\raw_photos"
+PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+SRC_DIR = os.environ.get("RAW_PHOTOS_SRC", os.path.join(PROJECT_ROOT, "affiliate_tiktok", "dataset_koc", "raw_photos"))
+DST_DIR = r"./affiliate_tiktok\dataset_koc\raw_photos"
 os.makedirs(DST_DIR, exist_ok=True)
 
 print("="*60)

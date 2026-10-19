@@ -11,7 +11,7 @@ def log(msg):
 
 with sync_playwright() as p:
     browser = p.chromium.launch_persistent_context(
-        r'C:\Users\HAI\.agent-browser\profiles\ai_profile',
+        os.path.join(os.path.expanduser("~"), ".agent-browser", "profiles", r"ai_profile"),
         channel='chrome',
         headless=False,
         args=[
@@ -51,8 +51,8 @@ with sync_playwright() as p:
     }''')
     log(f"User Settings API:\n{json.dumps(user_settings, indent=2, ensure_ascii=False)}")
     
-    page.screenshot(path=r"c:\Users\HAI\OneDrive\Tài liệu\vmax\shots\tiktok_current_state.png")
-    page.screenshot(path=r"c:\Users\HAI\OneDrive\Tài liệu\vmax\shots\live.png")
+    page.screenshot(path=r"shots/tiktok_current_state.png")
+    page.screenshot(path=r"shots/live.png")
     
     # If logged in, navigate to profile
     user_id = account_info.get("data", {}).get("user_id") or account_info.get("data", {}).get("user_id_str")
@@ -63,8 +63,8 @@ with sync_playwright() as p:
         log(f"Navigating to user profile: {profile_url}")
         page.goto(profile_url, timeout=30000)
         page.wait_for_timeout(4000)
-        page.screenshot(path=r"c:\Users\HAI\OneDrive\Tài liệu\vmax\shots\my_exact_tiktok_profile.png")
-        page.screenshot(path=r"c:\Users\HAI\OneDrive\Tài liệu\vmax\shots\live.png")
+        page.screenshot(path=r"shots/my_exact_tiktok_profile.png")
+        page.screenshot(path=r"shots/live.png")
         log(f"Profile Title: {page.title()}")
         
     time.sleep(10)

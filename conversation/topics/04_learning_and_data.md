@@ -13,20 +13,20 @@
 ## 2. CƠ CHẾ HOẠT ĐỘNG
 
 ### 2.1. Cào & Phân tích Big Data thị trường
-* **Bộ cào dữ liệu:** [`mass_tiktok_fashion_miner.py`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/mass_tiktok_fashion_miner.py), [`scrape_tiktok_fashion.py`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/scrape_tiktok_fashion.py).
+* **Bộ cào dữ liệu:** [`mass_tiktok_fashion_miner.py`](../../mass_tiktok_fashion_miner.py), [`scrape_tiktok_fashion.py`](../../scrape_tiktok_fashion.py).
 * **Kho dữ liệu khai phá:**
-  * [`configs/koc_fashion_bigdata_harvest.json`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/configs/koc_fashion_bigdata_harvest.json) (~730KB dữ liệu sản phẩm, lượt tim, giá thành).
-  * [`configs/koc_fashion_bigdata_analytics.json`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/configs/koc_fashion_bigdata_analytics.json).
-* **Phân tích dữ liệu:** [`core/analyze_bigdata_harvest.py`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/core/analyze_bigdata_harvest.py).
+  * [`configs/koc_fashion_bigdata_harvest.json`](../../configs/koc_fashion_bigdata_harvest.json) (~730KB dữ liệu sản phẩm, lượt tim, giá thành).
+  * [`configs/koc_fashion_bigdata_analytics.json`](../../configs/koc_fashion_bigdata_analytics.json).
+* **Phân tích dữ liệu:** [`core/analyze_bigdata_harvest.py`](../../core/analyze_bigdata_harvest.py).
 
 ### 2.2. Kiểm tra tuân thủ chính sách (Policy Compliance Checker)
-* File mã nguồn: [`tools/video/policy_compliance_checker.py`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/tools/video/policy_compliance_checker.py).
-* Kho từ khóa cấm & Quy chuẩn nội dung: [`configs/koc_ai_knowledge_hub.json`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/configs/koc_ai_knowledge_hub.json).
+* File mã nguồn: [`tools/video/policy_compliance_checker.py`](../../tools/video/policy_compliance_checker.py).
+* Kho từ khóa cấm & Quy chuẩn nội dung: [`configs/koc_ai_knowledge_hub.json`](../../configs/koc_ai_knowledge_hub.json).
 * Tự động quét kịch bản trước khi đưa vào phòng thu âm (TTS) để lọc sạch các từ có thể khiến video bị bóp tương tác hoặc cấm kênh.
 
 ### 2.3. Động cơ tự học liên tục (Continuous Learning Engine)
-* File mã nguồn: [`core/continuous_learning_engine.py`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/core/continuous_learning_engine.py).
-* Sổ cái lưu bài học: [`configs/koc_learning_memory.json`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/configs/koc_learning_memory.json).
+* File mã nguồn: [`core/continuous_learning_engine.py`](../../core/continuous_learning_engine.py).
+* Sổ cái lưu bài học: [`configs/koc_learning_memory.json`](../../configs/koc_learning_memory.json).
 * Tự động cập nhật:
   * Trọng số biểu cảm, ánh sáng, góc quay camera (`auto_tuned_prompt_weights`).
   * Danh sách bài học kinh nghiệm lịch sử (`historical_lessons`).
@@ -34,7 +34,7 @@
 ---
 
 ## 3. CÁC FILE LIÊN QUAN CHÍNH
-* [`core/continuous_learning_engine.py`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/core/continuous_learning_engine.py)
-* [`configs/koc_ai_knowledge_hub.json`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/configs/koc_ai_knowledge_hub.json)
-* [`configs/koc_learning_memory.json`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/configs/koc_learning_memory.json)
-* [`tools/video/policy_compliance_checker.py`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/tools/video/policy_compliance_checker.py)
+* [`core/continuous_learning_engine.py`](../../core/continuous_learning_engine.py)
+* [`configs/koc_ai_knowledge_hub.json`](../../configs/koc_ai_knowledge_hub.json)
+* [`configs/koc_learning_memory.json`](../../configs/koc_learning_memory.json)
+* [`tools/video/policy_compliance_checker.py`](../../tools/video/policy_compliance_checker.py)

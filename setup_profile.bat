@@ -3,12 +3,12 @@ setlocal enabledelayedexpansion
 chcp 65001 >nul
 cd /d "%~dp0"
 
-set "PROFILE_DIR=C:\Users\HAI\.agent-browser\profiles\ai_profile"
+set "PROFILE_DIR=%USERPROFILE%\.agent-browser\profiles\ai_profile"
 
 if exist "C:\Program Files\Google\Chrome\Application\chrome.exe" (
     set "CHROME_BIN=C:\Program Files\Google\Chrome\Application\chrome.exe"
 ) else (
-    set "CHROME_BIN=C:\Users\HAI\.agent-browser\browsers\chrome-155.0.8059.84\chrome.exe"
+    set "CHROME_BIN=%USERPROFILE%\.agent-browser\browsers\chrome-155.0.8059.84\chrome.exe"
 )
 
 echo ======================================================================

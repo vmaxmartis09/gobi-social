@@ -11,7 +11,7 @@ const res = await page.evaluate(async () => {
 });
 
 await page.waitForTimeout(1000);
-await page.screenshot({ path: "C:/Users/HAI/OneDrive/Tài liệu/vmax/shots/ego_download_clicked.png" });
+await page.screenshot({ path: "shots/ego_download_clicked.png" });
 
 const menuOrDialog = await page.evaluate(() => {
   const menus = Array.from(document.querySelectorAll('.mat-mdc-menu-content, mat-menu-panel, [role="menu"], [role="dialog"], [role="menuitem"]')).map(el => el.textContent.trim());

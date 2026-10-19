@@ -4,11 +4,12 @@ import numpy as np
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
 # 1. File paths
-DNA_PATH = r"c:\Users\HAI\OneDrive\Tài liệu\vmax\affiliate_tiktok\dataset_koc\MASTER_KOC_DNA.jpg"
-G2_PATH = r"c:\Users\HAI\OneDrive\Tài liệu\vmax\affiliate_tiktok\dataset_koc\cinematic_koc_36_storyboard_v2.jpg"
-G1_PATH = r"C:\Users\HAI\.gemini\antigravity\brain\383fa778-c3ea-408f-bf80-315f12e6d6f3\vietnamese_model_36_panel_storyboard_refined_1792253598141.jpg"
-PANELS_DIR = r"c:\Users\HAI\OneDrive\Tài liệu\vmax\affiliate_tiktok\dataset_koc\ethereal_koc_panels_v3"
-STORYBOARD_OUT = r"c:\Users\HAI\OneDrive\Tài liệu\vmax\affiliate_tiktok\dataset_koc\ethereal_koc_36_storyboard_v3.jpg"
+DNA_PATH = r"./affiliate_tiktok\dataset_koc\MASTER_KOC_DNA.jpg"
+G2_PATH = r"./affiliate_tiktok\dataset_koc\cinematic_koc_36_storyboard_v2.jpg"
+PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+G1_PATH = os.path.join(PROJECT_ROOT, "GOBI_36_PANELS_OFFICIAL.jpg")
+PANELS_DIR = r"./affiliate_tiktok\dataset_koc\ethereal_koc_panels_v3"
+STORYBOARD_OUT = r"./affiliate_tiktok\dataset_koc\ethereal_koc_36_storyboard_v3.jpg"
 
 os.makedirs(PANELS_DIR, exist_ok=True)
 

@@ -29,7 +29,7 @@ await page.keyboard.paste({ text: scene1Prompt });
 await page.waitForTimeout(1500);
 
 // Chup anh xac nhan da dan prompt
-const shotBefore = "C:/Users/HAI/OneDrive/Tài liệu/vmax/shots/ego_flow_scene1_prompt_ready.png";
+const shotBefore = "shots/ego_flow_scene1_prompt_ready.png";
 await page.screenshot({ path: shotBefore });
 console.log("[Ego] Da chup anh truoc khi submit:", shotBefore);
 
@@ -66,7 +66,7 @@ if (!clickResult.success) {
 await page.waitForTimeout(3000);
 
 // Chup anh xac nhan sau khi submit
-const shotAfter = "C:/Users/HAI/OneDrive/Tài liệu/vmax/shots/ego_flow_scene1_submitted.png";
+const shotAfter = "shots/ego_flow_scene1_submitted.png";
 await page.screenshot({ path: shotAfter });
 console.log("[Ego] Da chup anh sau khi submit:", shotAfter);
 
@@ -74,7 +74,7 @@ console.log("[Ego] Da chup anh sau khi submit:", shotAfter);
 console.log("[Ego] Bat dau giam sat tien do render...");
 for (let i = 1; i <= 6; i++) {
   await page.waitForTimeout(10000);
-  const progressShot = `C:/Users/HAI/OneDrive/Tài liệu/vmax/shots/ego_flow_scene1_rendering_${i * 10}s.png`;
+  const progressShot = `shots/ego_flow_scene1_rendering_${i * 10}s.png`;
   await page.screenshot({ path: progressShot });
   console.log(`[Ego] Tien do ${i * 10}s: da luu anh tai ${progressShot}`);
   

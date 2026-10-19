@@ -4,7 +4,7 @@ chcp 65001 >nul
 cd /d "%~dp0"
 
 set "AGENT_BIN=%~dp0bin\agent-browser.exe"
-set "PROFILE_DIR=C:\Users\HAI\.agent-browser\profiles\ai_profile"
+set "PROFILE_DIR=%USERPROFILE%\.agent-browser\profiles\ai_profile"
 
 echo ======================================================================
 echo    DEMO THUC THI AI AGENT VOI PROFILE DOC LAP DA LUU

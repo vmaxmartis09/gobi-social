@@ -5,7 +5,7 @@ from playwright.async_api import async_playwright
 
 async def main():
     url = "https://www.tiktok.com/@benaithucchien/video/7649853202522967304"
-    profile_dir = r"C:\Users\HAI\.agent-browser\profiles\ai_profile"
+    profile_dir = os.path.join(os.path.expanduser("~"), ".agent-browser", r"profiles\ai_profile")
     
     async with async_playwright() as p:
         browser = await p.chromium.launch_persistent_context(
@@ -27,7 +27,7 @@ async def main():
         print("Page title:", title)
 
         # Take screenshot of the video page
-        shot_path = r"c:\Users\HAI\OneDrive\Tài liệu\vmax\shots\benaithucchien_video.png"
+        shot_path = r"shots/benaithucchien_video.png"
         await page.screenshot(path=shot_path)
         print("Saved screenshot to", shot_path)
 
@@ -69,7 +69,7 @@ async def main():
             "video_src": video_src
         }
 
-        out_json = r"c:\Users\HAI\OneDrive\Tài liệu\vmax\shots\benaithucchien_info.json"
+        out_json = r"shots/benaithucchien_info.json"
         with open(out_json, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
         print(f"Saved info to {out_json}")

@@ -14,7 +14,7 @@ from playwright.sync_api import sync_playwright
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
 
-PROFILE_DIR = r"C:\Users\HAI\.agent-browser\profiles\ai_profile"
+PROFILE_DIR = os.environ.get("BROWSER_PROFILE_DIR", os.path.join(os.path.expanduser("~"), ".agent-browser", "profiles", r"ai_profile"))
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SHOTS_DIR = os.path.join(PROJECT_ROOT, "shots")
 STATUS_FILE = os.path.join(SHOTS_DIR, "status.json")

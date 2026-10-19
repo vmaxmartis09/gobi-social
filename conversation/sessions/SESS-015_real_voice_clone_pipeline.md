@@ -9,7 +9,7 @@
 
 ## 🎯 1. BỐI CẢNH & MỤC TIÊU CUỘC HỘI THOẠI
 * **Vấn đề đặt ra:**
-  * Người dùng muốn trích xuất giọng người thật trực tiếp từ video review thời trang [`mau-voice.mp4`](file:///c:/Users/HAI/OneDrive/Ta%CC%80i%20li%C3%AA%CC%A3u/vmax/mau-voice.mp4), nhân bản thành một Sound Profile AI độc lập để đọc kịch bản bán hàng bất kỳ.
+  * Người dùng muốn trích xuất giọng người thật trực tiếp từ video review thời trang [`mau-voice.mp4`](../../mau-voice.mp4), nhân bản thành một Sound Profile AI độc lập để đọc kịch bản bán hàng bất kỳ.
   * Các lần thử nghiệm trước đó giọng chưa đạt năng lượng dồn dập (action/hype) của TikTok KOC và còn lỗi ngắt chữ.
   * Người dùng cung cấp video tham chiếu từ TikTok `@benaithucchien` hướng dẫn clone giọng qua nền tảng EverAI v1.6 và yêu cầu Agent tự động làm trọn vẹn từ A đến Z ("làm giúp tôi luôn nhé").
 * **Mục tiêu cần đạt:**
@@ -23,14 +23,14 @@
 
 ## ⚙️ 2. CÁC HÀNH ĐỘNG KỸ THUẬT ĐÃ TRIỂN KHAI
 * **Nghiên cứu & Giải mã phương pháp EverAI v1.6 từ tutorial `@benaithucchien`:**
-  * Tải và phân tích video tutorial: [`assets/benaithucchien/tutorial_voice_ai.mp4`](file:///c:/Users/HAI/OneDrive/Ta%CC%80i%20li%C3%AA%CC%A3u/vmax/assets/benaithucchien/tutorial_voice_ai.mp4).
+  * Tải và phân tích video tutorial: [`assets/benaithucchien/tutorial_voice_ai.mp4`](../../assets/benaithucchien/tutorial_voice_ai.mp4).
   * Xác định lõi công nghệ của EverAI v1.6 chính là kiến trúc **VieNeu-TTS v3 Turbo 48kHz ONNX** (tác giả Phan Nguyễn Nhật Bảo) kết hợp thuật toán khử nhiễu `denoise=True`.
   * Tích hợp và chạy trực tiếp mô hình này offline trên máy (CPU ONNX torch-free), không phụ thuộc credit, Google login hay reCAPTCHA web.
 * **Các file code đã tạo hoặc chỉnh sửa:**
-  * [`tools/voice/koc_voice_cloner.py`](file:///c:/Users/HAI/OneDrive/Ta%CC%80i%20li%C3%AA%CC%A3u/vmax/tools/voice/koc_voice_cloner.py): Module lõi xử lý trích xuất âm thanh, lọc slice chuẩn 4.2s, tạo sound profile, suy luận TTS và chuỗi TikTok Audio Mastering.
-  * [`clone_voice_from_video.py`](file:///c:/Users/HAI/OneDrive/Ta%CC%80i%20li%C3%AA%CC%A3u/vmax/clone_voice_from_video.py): Công cụ dòng lệnh One-Click cho phép người dùng nạp bất kỳ video và kịch bản nào để sinh file âm thanh và render video tự động.
-  * [`configs/koc_ai_knowledge_hub.json`](file:///c:/Users/HAI/OneDrive/Ta%CC%80i%20li%C3%AA%CC%A3u/vmax/configs/koc_ai_knowledge_hub.json): Bổ sung quy chuẩn kỹ thuật phân hệ `koc_voice_engine`.
-  * [`configs/koc_learning_memory.json`](file:///c:/Users/HAI/OneDrive/Ta%CC%80i%20li%C3%AA%CC%A3u/vmax/configs/koc_learning_memory.json): Bổ sung bài học kinh nghiệm `LSN-011` về Voice Cloning & TikTok Action Energy.
+  * [`tools/voice/koc_voice_cloner.py`](../../tools/voice/koc_voice_cloner.py): Module lõi xử lý trích xuất âm thanh, lọc slice chuẩn 4.2s, tạo sound profile, suy luận TTS và chuỗi TikTok Audio Mastering.
+  * [`clone_voice_from_video.py`](../../clone_voice_from_video.py): Công cụ dòng lệnh One-Click cho phép người dùng nạp bất kỳ video và kịch bản nào để sinh file âm thanh và render video tự động.
+  * [`configs/koc_ai_knowledge_hub.json`](../../configs/koc_ai_knowledge_hub.json): Bổ sung quy chuẩn kỹ thuật phân hệ `koc_voice_engine`.
+  * [`configs/koc_learning_memory.json`](../../configs/koc_learning_memory.json): Bổ sung bài học kinh nghiệm `LSN-011` về Voice Cloning & TikTok Action Energy.
 * **Lệnh terminal và script đã thực thi:**
   ```powershell
   # Chạy pipeline nhân bản và render demo video
@@ -45,11 +45,11 @@
 ## 🏆 3. KẾT QUẢ ĐẠT ĐƯỢC & BẰNG CHỨNG (PROOF-OF-WORK)
 * **Kết quả thực tế:**
   * Giọng nói tiếng Việt tự nhiên 100%, đúng âm vực bạn nữ reviewer trong `mau-voice.mp4`, nhịp điệu nhanh dồn dập, ngữ điệu vui tươi cuốn hút chuẩn KOC TikTok.
-  * Đã tạo thành công Sound Profile vĩnh viễn [`assets/voice_profiles/koc_neil_girl/`](file:///c:/Users/HAI/OneDrive/Ta%CC%80i%20li%C3%AA%CC%A3u/vmax/assets/voice_profiles/koc_neil_girl/).
+  * Đã tạo thành công Sound Profile vĩnh viễn [`assets/voice_profiles/koc_neil_girl/`](../../assets/voice_profiles/koc_neil_girl).
 * **File minh chứng đầu ra:**
-  * 🎬 **Video Demo Hoàn Chỉnh:** [`output/koc_neil_girl_review_demo.mp4`](file:///c:/Users/HAI/OneDrive/Ta%CC%80i%20li%C3%AA%CC%A3u/vmax/output/koc_neil_girl_review_demo.mp4) (Video 8.9s, khớp hình tiếng, phụ đề vàng viền đen Safe Zone).
-  * 🔊 **Audio Giọng Clone Mastered:** [`output/koc_neil_girl_review_action.mp3`](file:///c:/Users/HAI/OneDrive/Ta%CC%80i%20li%C3%AA%CC%A3u/vmax/output/koc_neil_girl_review_action.mp3) (Âm lượng chuẩn -14 LUFS, presence boost 3.2kHz).
-  * 🔊 **Audio Option 2 (kNN-VC):** [`output/koc_action_mastered_knn.mp3`](file:///c:/Users/HAI/OneDrive/Ta%CC%80i%20li%C3%AA%CC%A3u/vmax/output/koc_action_mastered_knn.mp3) (Chuyển đổi âm sắc trên 55s từ điển âm thanh).
+  * 🎬 **Video Demo Hoàn Chỉnh:** [`output/koc_neil_girl_review_demo.mp4`](../../output/koc_neil_girl_review_demo.mp4) (Video 8.9s, khớp hình tiếng, phụ đề vàng viền đen Safe Zone).
+  * 🔊 **Audio Giọng Clone Mastered:** [`output/koc_neil_girl_review_action.mp3`](../../output/koc_neil_girl_review_action.mp3) (Âm lượng chuẩn -14 LUFS, presence boost 3.2kHz).
+  * 🔊 **Audio Option 2 (kNN-VC):** [`output/koc_action_mastered_knn.mp3`](../../output/koc_action_mastered_knn.mp3) (Chuyển đổi âm sắc trên 55s từ điển âm thanh).
 
 ---
 

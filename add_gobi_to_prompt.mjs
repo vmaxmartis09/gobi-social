@@ -32,7 +32,7 @@ const clickedAdd = await page.evaluate(() => {
 console.log("Clicked 'Thêm vào câu lệnh':", clickedAdd);
 
 await page.waitForTimeout(1000);
-await page.screenshot({ path: "C:/Users/HAI/OneDrive/Tài liệu/vmax/shots/ego_gobi_added_to_prompt.png" });
+await page.screenshot({ path: "shots/ego_gobi_added_to_prompt.png" });
 
 // Inspect the prompt box
 const promptBox = await page.evaluate(() => {

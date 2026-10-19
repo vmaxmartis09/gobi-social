@@ -2,8 +2,8 @@ import sqlite3
 import os
 import shutil
 
-db_path = r'C:\Users\HAI\.agent-browser\profiles\ai_profile\Default\Network\Cookies'
-temp_db = r'C:\Users\HAI\.agent-browser\profiles\ai_profile\Default\Network\Cookies_temp'
+db_path = os.path.join(os.path.expanduser("~"), ".agent-browser", "profiles", r"ai_profile\Default\Network\Cookies")
+temp_db = os.path.join(os.path.expanduser("~"), ".agent-browser", "profiles", r"ai_profile\Default\Network\Cookies_temp")
 
 if os.path.exists(db_path):
     shutil.copy2(db_path, temp_db)

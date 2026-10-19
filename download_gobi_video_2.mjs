@@ -9,7 +9,7 @@ await page.evaluate(() => {
 });
 
 await page.waitForTimeout(2000);
-await page.screenshot({ path: "C:/Users/HAI/OneDrive/Tài liệu/vmax/shots/ego_gobi_video_2_opened.png" });
+await page.screenshot({ path: "shots/ego_gobi_video_2_opened.png" });
 
 console.log("Setting up download listener for video 2...");
 const downloadPromise = page.waitForEvent("download", { timeout: 30000 });
@@ -37,7 +37,7 @@ try {
   console.log("Download event received for video 2!");
   console.log("Filename:", download.suggestedFilename());
   
-  const targetPath = "C:/Users/HAI/OneDrive/Tài liệu/vmax/affiliate_tiktok/sample_video/output/gobi_official_speaking_video_2.mp4";
+  const targetPath = "./affiliate_tiktok/sample_video/output/gobi_official_speaking_video_2.mp4";
   await download.saveAs(targetPath);
   console.log("Video 2 saved successfully to:", targetPath);
 } catch (e) {

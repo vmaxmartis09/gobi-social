@@ -7,9 +7,9 @@ from playwright.sync_api import sync_playwright
 if sys.stdout.encoding != 'utf-8':
     sys.stdout.reconfigure(encoding='utf-8', errors='replace')
 
-USER_PROFILE_DIR = r"C:\Users\HAI\.agent-browser\profiles\ai_profile"
+USER_PROFILE_DIR = os.environ.get("USER_PROFILE_DIR", os.path.join(os.path.expanduser("~"), ".agent-browser", "profiles", "ai_profile"))
 CHROME_EXE = r"C:\Program Files\Google\Chrome\Application\chrome.exe"
-VIDEO_PATH = r"C:\Users\HAI\OneDrive\Tài liệu\vmax\output\KOC_AI_Tai_Nghe_Viral_Review.mp4"
+VIDEO_PATH = r"./output\KOC_AI_Tai_Nghe_Viral_Review.mp4"
 
 CAPTION_TEXT = (
     "Review tai nghe chống ồn ANC 45dB siêu êm giá cực sốc năm 2026! 🔥 "

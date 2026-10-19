@@ -57,7 +57,7 @@ await page.evaluate(() => {
 });
 
 await page.waitForTimeout(2000);
-await page.screenshot({ path: "C:/Users/HAI/OneDrive/Tài liệu/vmax/shots/ego_after_delete_old_gobi.png" });
+await page.screenshot({ path: "shots/ego_after_delete_old_gobi.png" });
 console.log("Screenshot saved to shots/ego_after_delete_old_gobi.png");
 
 // List remaining characters

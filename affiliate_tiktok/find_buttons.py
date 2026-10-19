@@ -5,7 +5,7 @@ if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
 
 with sync_playwright() as p:
-    browser = p.chromium.launch_persistent_context(r'C:\Users\HAI\.agent-browser\profiles\ai_profile', channel='chrome', headless=True)
+    browser = p.chromium.launch_persistent_context(os.path.join(os.path.expanduser("~"), ".agent-browser", "profiles", r"ai_profile"), channel='chrome', headless=True)
     page = browser.pages[0] if browser.pages else browser.new_page()
     page.goto('https://www.tiktok.com/signup')
     page.wait_for_timeout(3000)

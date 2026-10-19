@@ -5,8 +5,8 @@ from playwright.async_api import async_playwright
 
 async def main():
     url = "https://www.tiktok.com/@benaithucchien/video/7649853202522967304"
-    profile_dir = r"C:\Users\HAI\.agent-browser\profiles\ai_profile"
-    video_out = r"c:\Users\HAI\OneDrive\Tài liệu\vmax\shots\benaithucchien_video.mp4"
+    profile_dir = os.path.join(os.path.expanduser("~"), ".agent-browser", r"profiles\ai_profile")
+    video_out = r"shots/benaithucchien_video.mp4"
     
     media_urls = []
 
@@ -43,7 +43,7 @@ async def main():
         # Capture key frames from the live DOM
         for i in range(1, 6):
             await page.wait_for_timeout(4000)
-            f_path = rf"c:\Users\HAI\OneDrive\Tài liệu\vmax\shots\benaithucchien_f{i}.png"
+            f_path = rf"shots/benaithucchien_f{i}.png"
             await page.screenshot(path=f_path)
             print(f"Captured frame {i} -> {f_path}")
 

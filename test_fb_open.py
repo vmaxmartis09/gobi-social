@@ -5,10 +5,10 @@ from playwright.sync_api import sync_playwright
 
 sys.stdout.reconfigure(encoding='utf-8')
 
-SHOTS_DIR = r"c:\Users\HAI\OneDrive\Tài liệu\vmax\shots"
+SHOTS_DIR = r"shots/"
 os.makedirs(SHOTS_DIR, exist_ok=True)
 
-PROFILE_DIR = r"C:\Users\HAI\.agent-browser\profiles\ai_profile"
+PROFILE_DIR = os.environ.get("BROWSER_PROFILE_DIR", os.path.join(os.path.expanduser("~"), ".agent-browser", "profiles", r"ai_profile"))
 CHROME_BIN = r"C:\Program Files\Google\Chrome\Application\chrome.exe"
 
 print("[*] Launching browser with user profile...")

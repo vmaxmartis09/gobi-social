@@ -11,7 +11,7 @@ def log(msg):
 
 with sync_playwright() as p:
     browser = p.chromium.launch_persistent_context(
-        r'C:\Users\HAI\.agent-browser\profiles\ai_profile',
+        os.path.join(os.path.expanduser("~"), ".agent-browser", "profiles", r"ai_profile"),
         channel='chrome',
         headless=False,
         args=[
@@ -65,7 +65,7 @@ with sync_playwright() as p:
     log(f"Toasts/Errors on page: {toasts}")
     log(f"Current URL: {page.url}")
     
-    page.screenshot(path=r"c:\Users\HAI\OneDrive\Tài liệu\vmax\shots\debug_reset_result.png")
-    page.screenshot(path=r"c:\Users\HAI\OneDrive\Tài liệu\vmax\shots\live.png")
+    page.screenshot(path=r"shots/debug_reset_result.png")
+    page.screenshot(path=r"shots/live.png")
     
     browser.close()

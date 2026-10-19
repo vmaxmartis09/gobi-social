@@ -110,7 +110,7 @@ if __name__ == "__main__":
     else:
         # Tự tìm ảnh ma trận trong artifact hoặc sample_video
         candidate_dirs = [
-            r"C:\Users\HAI\.gemini\antigravity\brain\383fa778-c3ea-408f-bf80-315f12e6d6f3",
+            os.path.join(PROJECT_ROOT, "assets", "character_dna"), PROJECT_ROOT,
             os.path.join(PROJECT_ROOT, "affiliate_tiktok", "sample_video")
         ]
         found = None

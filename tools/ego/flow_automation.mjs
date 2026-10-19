@@ -13,7 +13,7 @@ export async function initFlowSession() {
   await page.waitForLoadState();
   
   // Take status screenshot
-  const shotPath = "C:/Users/HAI/OneDrive/Tài liệu/vmax/shots/ego_flow_current_state.png";
+  const shotPath = "shots/ego_flow_current_state.png";
   await page.screenshot({ path: shotPath });
   console.log(`[Ego Flow] State captured at: ${shotPath}`);
   
@@ -55,7 +55,7 @@ export async function injectSlatePrompt(page, promptText) {
   }
 
   // Screenshot to verify input is populated
-  await page.screenshot({ path: "C:/Users/HAI/OneDrive/Tài liệu/vmax/shots/ego_flow_prompt_injected.png" });
+  await page.screenshot({ path: "shots/ego_flow_prompt_injected.png" });
 }
 
 // Standalone runner when invoked via: ego-browser nodejs tools/ego/flow_automation.mjs

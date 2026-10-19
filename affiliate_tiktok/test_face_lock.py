@@ -1,8 +1,8 @@
 import numpy as np
 from PIL import Image, ImageFilter
 
-dna_path = r"c:\Users\HAI\OneDrive\Tài liệu\vmax\affiliate_tiktok\dataset_koc\MASTER_KOC_DNA.jpg"
-g2_path = r"c:\Users\HAI\OneDrive\Tài liệu\vmax\affiliate_tiktok\dataset_koc\cinematic_koc_36_storyboard_v2.jpg"
+dna_path = r"./affiliate_tiktok\dataset_koc\MASTER_KOC_DNA.jpg"
+g2_path = r"./affiliate_tiktok\dataset_koc\cinematic_koc_36_storyboard_v2.jpg"
 
 dna = Image.open(dna_path).convert("RGB")
 g2 = Image.open(g2_path).convert("RGB")
@@ -104,5 +104,5 @@ out3 = sculpt_and_lock_dna(c3, (257.0, 182.0), (258.0, 276.0), (258.0, 236.0), l
 comp = Image.new("RGB", (1024, 512))
 comp.paste(dna.crop((140, 60, 660, 580)).resize((512, 512), Image.Resampling.LANCZOS), (0, 0))
 comp.paste(out3, (512, 0))
-comp.save(r"c:\Users\HAI\OneDrive\Tài liệu\vmax\affiliate_tiktok\dataset_koc\debug_sculpt_plus_dna.jpg", quality=95)
+comp.save(r"./affiliate_tiktok\dataset_koc\debug_sculpt_plus_dna.jpg", quality=95)
 print("Saved debug_sculpt_plus_dna.jpg")

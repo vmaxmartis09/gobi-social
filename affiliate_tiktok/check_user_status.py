@@ -6,7 +6,7 @@ if hasattr(sys.stdout, "reconfigure"):
 
 with sync_playwright() as p:
     browser = p.chromium.launch_persistent_context(
-        r'C:\Users\HAI\.agent-browser\profiles\ai_profile',
+        os.path.join(os.path.expanduser("~"), ".agent-browser", "profiles", r"ai_profile"),
         channel='chrome',
         headless=True
     )
@@ -21,7 +21,7 @@ with sync_playwright() as p:
         href = l.get_attribute("href")
         print("  -> Link:", href)
         
-    page.screenshot(path=r'c:\Users\HAI\OneDrive\Tài liệu\vmax\shots\live.png')
-    page.screenshot(path=r'c:\Users\HAI\OneDrive\Tài liệu\vmax\shots\current_tiktok.png')
+    page.screenshot(path=r'shots/live.png')
+    page.screenshot(path=r'shots/current_tiktok.png')
     print("Screenshot saved to shots/current_tiktok.png")
     browser.close()

@@ -8,7 +8,7 @@ await page.waitForLoadState();
 await page.waitForTimeout(3000);
 
 // Chup anh kiem tra
-const shotPath = "C:/Users/HAI/OneDrive/Tài liệu/vmax/shots/ego_flow_batch2_loaded.png";
+const shotPath = "shots/ego_flow_batch2_loaded.png";
 await page.screenshot({ path: shotPath });
 console.log("[Ego] Da chup anh:", shotPath);
 

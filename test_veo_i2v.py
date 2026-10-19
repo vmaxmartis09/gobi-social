@@ -11,7 +11,7 @@ load_dotenv()
 client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
 
 # Use sample image
-img_path = r"c:\Users\HAI\OneDrive\Tài liệu\vmax\affiliate_tiktok\sample_video\images\01_hook_model_cafe.jpg"
+img_path = r"./affiliate_tiktok\sample_video\images\01_hook_model_cafe.jpg"
 image_input = types.Image.from_file(location=img_path)
 
 prompt = "A young beautiful Asian woman smiling warmly, gently moving her head and blinking naturally, smooth continuous motion, high quality, photorealistic."

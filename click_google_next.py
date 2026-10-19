@@ -4,7 +4,7 @@ from playwright.async_api import async_playwright
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-profile = r"C:\Users\HAI\.agent-browser\profiles\ai_profile"
+profile = os.path.join(os.path.expanduser("~"), ".agent-browser", r"profiles\ai_profile")
 
 async def run():
     async with async_playwright() as p:

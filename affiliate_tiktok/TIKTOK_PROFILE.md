@@ -14,7 +14,7 @@
 * **TikTok User ID:** `7677817323474748437`
 * **Email liên kết:** `dinhthienthoai@gmail.com`
 * **Mật khẩu an toàn:** `ThoaiReview@2026!`
-* **Profile trình duyệt độc lập:** `C:\Users\HAI\.agent-browser\profiles\ai_profile`
+* **Profile trình duyệt độc lập:** `
 * **Tiểu sử kênh chính thức (Bio TikTok - Chuẩn tối ưu < 80 ký tự):**
   ```text
   🌷 Gobi | 1m62-48kg ✨ Gobi Boutique 👗 Phối đồ hack dáng 👇 Săn deal ở giỏ hàng!

@@ -11,7 +11,7 @@ const pageTitle = await page.title();
 console.log("[Ego] URL hien tai:", currentUrl);
 console.log("[Ego] Tieu de trang:", pageTitle);
 
-const shotPath = "C:/Users/HAI/OneDrive/Tài liệu/vmax/shots/ego_flow_live_check.png";
+const shotPath = "shots/ego_flow_live_check.png";
 await page.screenshot({ path: shotPath });
 console.log("[Ego] Da chup anh man hinh:", shotPath);
 

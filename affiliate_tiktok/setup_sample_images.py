@@ -9,7 +9,7 @@ PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DEST_DIR = os.path.join(PROJECT_ROOT, "affiliate_tiktok", "sample_video", "images")
 os.makedirs(DEST_DIR, exist_ok=True)
 
-SRC_DIR = r"C:\Users\HAI\.gemini\antigravity\brain\383fa778-c3ea-408f-bf80-315f12e6d6f3"
+SRC_DIR = os.environ.get("SAMPLE_SRC_DIR", os.path.join(PROJECT_ROOT, "assets", "images"))
 
 IMAGE_MAP = {
     "cardigan_model_cafe_1792250793583.jpg": "01_hook_model_cafe.jpg",

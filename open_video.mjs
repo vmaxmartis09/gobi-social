@@ -10,7 +10,7 @@ await page.evaluate(() => {
 });
 
 await page.waitForTimeout(2000);
-await page.screenshot({ path: "C:/Users/HAI/OneDrive/Tài liệu/vmax/shots/ego_video_player_opened.png" });
+await page.screenshot({ path: "shots/ego_video_player_opened.png" });
 
 const videoInfo = await page.evaluate(() => {
   const v = document.querySelector('video');

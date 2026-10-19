@@ -1,4 +1,4 @@
-const shotsDir = "C:/Users/HAI/OneDrive/Tài liệu/vmax/shots";
+const shotsDir = "shots/";
 const shotPath = `${shotsDir}/fb_linh_dinh_reels.png`;
 
 console.log("[Ego] Mở Task Space nghiên cứu Facebook Reels của Xuân Linh (mr.linh.dinh)...");

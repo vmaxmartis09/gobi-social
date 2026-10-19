@@ -14,11 +14,11 @@
 
 ## ⚙️ 2. CÁC HÀNH ĐỘNG KỸ THUẬT ĐÃ TRIỂN KHAI
 * Khảo sát toàn bộ 65+ file python ở root, các thư mục `core/`, `affiliate_tiktok/`, `tools/`, `configs/`, `bin/`, `assets/`, `output/`.
-* Tạo cấu trúc thư mục [`conversation/`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/conversation):
-  * [`conversation/README.md`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/conversation/README.md): Bản đồ tổng thể hệ thống VMAX (Mermaid diagram, ma trận 5 phân hệ cốt lõi).
-  * [`conversation/SESSION_INDEX.md`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/conversation/SESSION_INDEX.md): Sổ cái theo dõi các phiên làm việc từ SESS-001 đến SESS-010.
-  * [`conversation/TEMPLATE_CONVERSATION_LOG.md`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/conversation/TEMPLATE_CONVERSATION_LOG.md): Mẫu chuẩn để tóm lược bất kỳ cuộc hội thoại mới nào.
-  * 5 tài liệu chuyên đề trong [`conversation/topics/`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/conversation/topics):
+* Tạo cấu trúc thư mục [`conversation/`](../../conversation):
+  * [`conversation/README.md`](../../conversation/README.md): Bản đồ tổng thể hệ thống VMAX (Mermaid diagram, ma trận 5 phân hệ cốt lõi).
+  * [`conversation/SESSION_INDEX.md`](../../conversation/SESSION_INDEX.md): Sổ cái theo dõi các phiên làm việc từ SESS-001 đến SESS-010.
+  * [`conversation/TEMPLATE_CONVERSATION_LOG.md`](../../conversation/TEMPLATE_CONVERSATION_LOG.md): Mẫu chuẩn để tóm lược bất kỳ cuộc hội thoại mới nào.
+  * 5 tài liệu chuyên đề trong [`conversation/topics/`](../../conversation/topics):
     * `01_koc_ai_and_voice.md`
     * `02_video_production.md`
     * `03_tiktok_automation.md`

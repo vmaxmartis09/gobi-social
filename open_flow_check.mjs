@@ -7,7 +7,7 @@ await page.goto("https://flow.google.com/u/1/project/905a28b7-ceb4-4cf9-b92d-443
 await page.waitForLoadState("domcontentloaded");
 await page.waitForTimeout(5000);
 
-await page.screenshot({ path: "C:/Users/HAI/OneDrive/Tài liệu/vmax/shots/ego_flow_current.png" });
+await page.screenshot({ path: "shots/ego_flow_current.png" });
 console.log("Saved screenshot to shots/ego_flow_current.png");
 
 // Also check what tools/menus exist for an image on canvas

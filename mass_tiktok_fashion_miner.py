@@ -7,7 +7,7 @@ from playwright.sync_api import sync_playwright
 
 sys.stdout.reconfigure(encoding='utf-8')
 
-PROFILE_DIR = r"C:\Users\HAI\.agent-browser\profiles\ai_profile"
+PROFILE_DIR = os.environ.get("BROWSER_PROFILE_DIR", os.path.join(os.path.expanduser("~"), ".agent-browser", "profiles", r"ai_profile"))
 CHROME_BIN = r"C:\Program Files\Google\Chrome\Application\chrome.exe"
 
 collected_videos = {}
@@ -121,7 +121,7 @@ with sync_playwright() as p:
     context.close()
 
 # Save entire big data set
-out_path = os.path.join(r"c:\Users\HAI\OneDrive\Tài liệu\vmax\configs", "koc_fashion_bigdata_harvest.json")
+out_path = os.path.join(r"./configs", "koc_fashion_bigdata_harvest.json")
 with open(out_path, "w", encoding="utf-8") as f:
     json.dump(list(collected_videos.values()), f, ensure_ascii=False, indent=2)
 

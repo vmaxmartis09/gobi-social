@@ -6,7 +6,7 @@ import sys
 def main():
     tmp_dir = r"C:\concat_tmp"
     os.makedirs(tmp_dir, exist_ok=True)
-    src_msi = r"C:\Users\HAI\OneDrive\Tài liệu\vmax\bin\download\Concat-0.2.7-windows-x86_64.msi"
+    src_msi = r"./bin\download\Concat-0.2.7-windows-x86_64.msi"
     dest_msi = os.path.join(tmp_dir, "concat.msi")
     
     print(f"Copying {src_msi} to {dest_msi}...")

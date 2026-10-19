@@ -4,7 +4,13 @@ import re
 if sys.stdout.encoding != 'utf-8':
     sys.stdout.reconfigure(encoding='utf-8', errors='replace')
 
-with open(r'C:\Users\HAI\.gemini\antigravity\brain\f0653b66-ea39-4969-8458-d1570b145951\.system_generated\steps\49\content.md', 'r', encoding='utf-8') as f:
+# Input file path specified via sys.argv[1] or environment
+import sys, os
+target_path = sys.argv[1] if len(sys.argv) > 1 else 'sample_input.txt'
+if not os.path.exists(target_path):
+    print(f'Input file not found: {target_path}. Provide input path as first argument.')
+    sys.exit(0)
+with open(target_path, 'r', encoding='utf-8', errors='ignore') as f:
     text = f.read()
 
 clean = re.sub(r'<script.*?</script>', '', text, flags=re.DOTALL)

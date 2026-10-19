@@ -7,7 +7,7 @@ if hasattr(sys.stdout, "reconfigure"):
 
 with sync_playwright() as p:
     browser = p.chromium.launch_persistent_context(
-        r'C:\Users\HAI\.agent-browser\profiles\ai_profile',
+        os.path.join(os.path.expanduser("~"), ".agent-browser", "profiles", r"ai_profile"),
         channel='chrome',
         headless=True,
         args=["--disable-blink-features=AutomationControlled"]
@@ -26,7 +26,7 @@ with sync_playwright() as p:
     if rows.count() > 0:
         rows.first.click()
         page.wait_for_timeout(3000)
-        page.screenshot(path=r"c:\Users\HAI\OneDrive\Tài liệu\vmax\shots\gmail_detail_test.png")
+        page.screenshot(path=r"shots/gmail_detail_test.png")
         body = page.inner_text("body")
         codes = re.findall(r'\b\d{6}\b', body)
         print("All 6-digit codes in email body:", codes)

@@ -4,8 +4,8 @@ from playwright.async_api import async_playwright
 
 async def main():
     url = "https://www.tiktok.com/@benaithucchien/video/7649853202522967304"
-    profile_dir = r"C:\Users\HAI\.agent-browser\profiles\ai_profile"
-    video_out = r"c:\Users\HAI\OneDrive\Tài liệu\vmax\shots\benaithucchien_full.mp4"
+    profile_dir = os.path.join(os.path.expanduser("~"), ".agent-browser", r"profiles\ai_profile")
+    video_out = r"shots/benaithucchien_full.mp4"
     
     target_video_url = []
 
@@ -34,7 +34,7 @@ async def main():
         # Let it play and capture frames every 5s across the 60s video
         for t in range(5, 55, 6):
             await page.wait_for_timeout(6000)
-            shot_file = rf"c:\Users\HAI\OneDrive\Tài liệu\vmax\shots\benaithucchien_t{t}.png"
+            shot_file = rf"shots/benaithucchien_t{t}.png"
             await page.screenshot(path=shot_file)
             print(f"Captured {shot_file}")
 

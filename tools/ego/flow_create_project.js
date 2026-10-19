@@ -35,7 +35,7 @@ const studioUrl = await page.url();
 console.log("[Ego] URL sau khi vao studio:", studioUrl);
 
 // Chup anh man hinh studio
-const shotPath = "C:/Users/HAI/OneDrive/Tài liệu/vmax/shots/ego_flow_studio_ready.png";
+const shotPath = "shots/ego_flow_studio_ready.png";
 await page.screenshot({ path: shotPath });
 console.log("[Ego] Da chup anh studio:", shotPath);
 

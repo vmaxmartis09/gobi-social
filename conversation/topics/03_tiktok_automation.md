@@ -13,7 +13,7 @@
 ## 2. KIẾN TRÚC TỰ ĐỘNG HÓA TRÌNH DUYỆT (BROWSER ARCHITECTURE)
 
 ### 2.1. Quản lý Profile & Kết nối CDP
-* **Chrome Profile thực:** Được cấu hình tại `C:\Users\HAI\.agent-browser\profiles\ai_profile` hoặc qua cổng **Chrome DevTools Protocol (CDP)** tại `http://localhost:9222`.
+* **Chrome Profile thực:** Được cấu hình tại ` hoặc qua cổng **Chrome DevTools Protocol (CDP)** tại `http://localhost:9222`.
 * **Cờ khởi chạy chống phát hiện bot (Stealth Flags):**
   * `--disable-blink-features=AutomationControlled`
   * `--no-first-run`
@@ -27,18 +27,18 @@
   * Tự động chuyển ngữ cảnh về lại tab TikTok chính sau khi popup hoàn tất.
 
 ### 2.3. Giải Captcha & Theo dõi trực quan qua Live Viewer
-* **Xử lý Captcha:** [`affiliate_tiktok/handle_tiktok_captcha.py`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/affiliate_tiktok/handle_tiktok_captcha.py).
+* **Xử lý Captcha:** [`affiliate_tiktok/handle_tiktok_captcha.py`](../../affiliate_tiktok/handle_tiktok_captcha.py).
   * Chụp ảnh toàn cảnh và ảnh mảnh ghép puzzle.
   * Tự động tính toán khoảng cách offset x để kéo thanh trượt mô phỏng gia tốc tay người thật (human-like mouse drag).
 * **Giao diện giám sát Live Viewer:**
-  * File HTML: [`live_viewer.html`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/live_viewer.html)
-  * File dữ liệu trạng thái: [`shots/status.json`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/shots/status.json)
+  * File HTML: [`live_viewer.html`](../../live_viewer.html)
+  * File dữ liệu trạng thái: [`shots/status.json`](../../shots/status.json)
   * Giúp người dùng quan sát từng bước bot đang click, đang upload hoặc đang chờ lệnh mà không cần nhìn vào terminal.
 
 ---
 
 ## 3. CÁC FILE LIÊN QUAN CHÍNH
-* [`upload_to_tiktok.py`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/upload_to_tiktok.py) & [`publish_tiktok.py`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/publish_tiktok.py)
-* [`affiliate_tiktok/full_verified_login.py`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/affiliate_tiktok/full_verified_login.py)
-* [`affiliate_tiktok/execute_tiktok_flow.py`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/affiliate_tiktok/execute_tiktok_flow.py)
-* [`core/stealth_monitor.py`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/core/stealth_monitor.py)
+* [`upload_to_tiktok.py`](../../upload_to_tiktok.py) & [`publish_tiktok.py`](../../publish_tiktok.py)
+* [`affiliate_tiktok/full_verified_login.py`](../../affiliate_tiktok/full_verified_login.py)
+* [`affiliate_tiktok/execute_tiktok_flow.py`](../../affiliate_tiktok/execute_tiktok_flow.py)
+* [`core/stealth_monitor.py`](../../core/stealth_monitor.py)

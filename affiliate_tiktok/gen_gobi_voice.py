@@ -8,7 +8,7 @@ if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
 
 SCRIPT_9S = "Hello ông kẹ, em là Gobi thúi của anh đây! Hôm nay cùng em lên đồ thật xinh và dạo phố nha, yêu anh nhiều!"
-OUT_DIR = r"c:\Users\HAI\OneDrive\Tài liệu\vmax\affiliate_tiktok\sample_video\audio"
+OUT_DIR = r"./affiliate_tiktok\sample_video\audio"
 os.makedirs(OUT_DIR, exist_ok=True)
 OUT_AUDIO = os.path.join(OUT_DIR, "gobi_thui_9s.mp3")
 OUT_VTT = os.path.join(OUT_DIR, "gobi_thui_9s.vtt")

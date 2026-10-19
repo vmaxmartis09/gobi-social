@@ -10,7 +10,7 @@ def log(msg):
 
 with sync_playwright() as p:
     browser = p.chromium.launch_persistent_context(
-        r'C:\Users\HAI\.agent-browser\profiles\ai_profile',
+        os.path.join(os.path.expanduser("~"), ".agent-browser", "profiles", r"ai_profile"),
         channel='chrome',
         headless=False,
         args=["--disable-blink-features=AutomationControlled"]
@@ -51,7 +51,7 @@ with sync_playwright() as p:
     log(f"Status/error text after Enter: {repr(error_span.inner_text())}")
     log(f"URL after Enter: {page.url}")
     
-    page.screenshot(path=r"c:\Users\HAI\OneDrive\Tài liệu\vmax\shots\after_enter_press.png")
-    page.screenshot(path=r"c:\Users\HAI\OneDrive\Tài liệu\vmax\shots\live.png")
+    page.screenshot(path=r"shots/after_enter_press.png")
+    page.screenshot(path=r"shots/live.png")
     
     browser.close()

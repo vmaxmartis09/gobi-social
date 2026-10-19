@@ -23,7 +23,7 @@ await page.evaluate(() => {
 });
 
 await page.waitForTimeout(2000);
-await page.screenshot({ path: "C:/Users/HAI/OneDrive/Tài liệu/vmax/shots/ego_gobi_card3_opened.png" });
+await page.screenshot({ path: "shots/ego_gobi_card3_opened.png" });
 
 // Inspect the opened video details
 const openedInfo = await page.evaluate(() => {

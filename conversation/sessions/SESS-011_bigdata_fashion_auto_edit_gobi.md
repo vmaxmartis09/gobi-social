@@ -13,28 +13,28 @@
 
 ## 2. KẾT QUẢ CỤ THỂ ĐÃ HOÀN THÀNH (DELIVERABLES)
 1. **Bộ dữ liệu Big Data 104 Video (~15M views):**
-   - File dữ liệu thô: [`configs/koc_fashion_bigdata_harvest.json`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/configs/koc_fashion_bigdata_harvest.json)
-   - Báo cáo phân tích metrics & category: [`configs/koc_fashion_bigdata_analytics.json`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/configs/koc_fashion_bigdata_analytics.json)
-   - Cơ sở dữ liệu sản phẩm chuẩn hóa: [`configs/koc_fashion_korean_products.json`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/configs/koc_fashion_korean_products.json)
-   - Artifact phân tích chuyên sâu: [`koc_fashion_bigdata_deep_analysis.md`](file:///C:/Users/HAI/.gemini/antigravity/brain/a13db4d9-bb82-4f31-9f51-98a691a0994e/koc_fashion_bigdata_deep_analysis.md)
+   - File dữ liệu thô: [`configs/koc_fashion_bigdata_harvest.json`](../../configs/koc_fashion_bigdata_harvest.json)
+   - Báo cáo phân tích metrics & category: [`configs/koc_fashion_bigdata_analytics.json`](../../configs/koc_fashion_bigdata_analytics.json)
+   - Cơ sở dữ liệu sản phẩm chuẩn hóa: [`configs/koc_fashion_korean_products.json`](../../configs/koc_fashion_korean_products.json)
+   - Artifact phân tích chuyên sâu: [`koc_fashion_bigdata_deep_analysis.md`](koc_fashion_bigdata_deep_analysis.md)
 2. **Nạp 3 bài học mới vào Hệ thống tự học (`configs/koc_learning_memory.json`):**
    - `LSN-008`: Body Hack Visuals (Quần tây/jean ống suông cạp cao 2.6M views).
    - `LSN-009`: Save Magnet Format (1 món phối 7 kiểu đạt kỷ lục 8.7k saves).
    - `LSN-010`: Tactile Verification (Cận cảnh sờ thớ vải cho thời trang giá rẻ 89k-149k).
 3. **Mở rộng Kịch bản Review KOC AI:**
-   - Đã thêm 2 kịch bản hoàn chỉnh cho sản phẩm đỉnh cao vào [`affiliate_tiktok/scripts/korean_fashion_review_scripts.py`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/affiliate_tiktok/scripts/korean_fashion_review_scripts.py).
+   - Đã thêm 2 kịch bản hoàn chỉnh cho sản phẩm đỉnh cao vào [`affiliate_tiktok/scripts/korean_fashion_review_scripts.py`](../../affiliate_tiktok/scripts/korean_fashion_review_scripts.py).
 4. **Nâng cấp Bước 6 với Module AI Concat Auto-Editor:**
-   - Tạo file [`core/ai_concat_auto_editor.py`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/core/ai_concat_auto_editor.py) hỗ trợ 4 Preset biên tập học từ video viral (`BODY_HACK_TROUSERS`, `CAPSULE_7_STYLES`, `FAST_CUT_BEAT_SYNC`, `KOREAN_AESTHETIC`), timeline 5 Tracks và Safe Zone.
+   - Tạo file [`core/ai_concat_auto_editor.py`](../../core/ai_concat_auto_editor.py) hỗ trợ 4 Preset biên tập học từ video viral (`BODY_HACK_TROUSERS`, `CAPSULE_7_STYLES`, `FAST_CUT_BEAT_SYNC`, `KOREAN_AESTHETIC`), timeline 5 Tracks và Safe Zone.
 5. **Sản xuất Video Gô Bi 9 Giây Gửi Anh Thoại:**
    - Tạo kịch bản, sinh giọng đọc AI tiếng Việt (`vi-VN-HoaiMyNeural`), đồng bộ Ken Burns motion và render ra file MP4 chuẩn TikTok 9:16.
 
 ---
 
 ## 3. BẰNG CHỨNG THỰC TẾ (PROOF-OF-WORK)
-- **Tệp Video hoàn chỉnh:** [`affiliate_tiktok/sample_video/output/gobi_greeting_anh_thoai_9s.mp4`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/affiliate_tiktok/sample_video/output/gobi_greeting_anh_thoai_9s.mp4) (Dung lượng 3.1 MB, chuẩn 8.83s, 1080x1920, 30 FPS).
-- **Tệp Dự án Concat đã build:** [`affiliate_tiktok/sample_video/output/concat_gobi_project/concat.json`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/affiliate_tiktok/sample_video/output/concat_gobi_project/concat.json).
-- **Ảnh chụp bằng chứng video:** [`shots/gobi_greeting_proof.png`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/shots/gobi_greeting_proof.png) (Hiển thị rõ nụ cười KOC Gô Bi và phụ đề Safe Zone chữ vàng không che mặt).
-- **File Audio giọng đọc AI:** [`affiliate_tiktok/sample_video/audio/gobi_greeting_9s.mp3`](file:///c:/Users/HAI/OneDrive/Tài%20liệu/vmax/affiliate_tiktok/sample_video/audio/gobi_greeting_9s.mp3).
+- **Tệp Video hoàn chỉnh:** [`affiliate_tiktok/sample_video/output/gobi_greeting_anh_thoai_9s.mp4`](../../affiliate_tiktok/sample_video/output/gobi_greeting_anh_thoai_9s.mp4) (Dung lượng 3.1 MB, chuẩn 8.83s, 1080x1920, 30 FPS).
+- **Tệp Dự án Concat đã build:** [`affiliate_tiktok/sample_video/output/concat_gobi_project/concat.json`](../../affiliate_tiktok/sample_video/output/concat_gobi_project/concat.json).
+- **Ảnh chụp bằng chứng video:** [`shots/gobi_greeting_proof.png`](../../shots/gobi_greeting_proof.png) (Hiển thị rõ nụ cười KOC Gô Bi và phụ đề Safe Zone chữ vàng không che mặt).
+- **File Audio giọng đọc AI:** [`affiliate_tiktok/sample_video/audio/gobi_greeting_9s.mp3`](../../affiliate_tiktok/sample_video/audio/gobi_greeting_9s.mp3).
 
 ---
 
