@@ -1,0 +1,167 @@
+{
+  "system": "VMAX Continuous Learning & Experience Optimization Engine",
+  "version": "1.0.0",
+  "last_updated": "2026-10-17",
+  "focus_directives": {
+    "primary_goal": "Xây kênh KOC AI đạt 2.000 Follower thật trong 14 ngày & Chuyển đổi ra đơn Affiliate",
+    "retention_benchmarks": {
+      "2s_drop_off_max": 35.0,
+      "6s_hook_rate_min": 50.0,
+      "30s_completion_rate_min": 20.0
+    },
+    "learning_loop": "Plan -> Generate -> Validate Compliance -> Publish -> Measure Real Metrics -> Extract Lessons -> Auto-Tune Prompts"
+  },
+  "historical_lessons": [
+    {
+      "lesson_id": "LSN-001",
+      "date": "2026-10-17",
+      "category": "AIGC Policy & Account Health",
+      "finding": "Cố tình giấu nhãn AI khiến Deep Moderation AI quét ra và giam video ở 0 - 50 view.",
+      "actionable_rule": "Bắt buộc 100% video bật nhãn 'Nội dung do AI tạo (AIGC)' ngay lúc đăng để giữ Account Health sạch."
+    },
+    {
+      "lesson_id": "LSN-002",
+      "date": "2026-10-17",
+      "category": "Audio Copyright & Commercial Sound",
+      "finding": "Video gắn giỏ hàng Affiliate dùng nhạc trending cá nhân bị tắt tiếng và gỡ giỏ hàng.",
+      "actionable_rule": "Chỉ sử dụng nhạc từ Thư viện Âm thanh Thương mại (Commercial Sound Library - CML), volume 10-15%."
+    },
+    {
+      "lesson_id": "LSN-003",
+      "date": "2026-10-17",
+      "category": "Kling 3.0 Camera Motion",
+      "finding": "Pha trộn nhiều trục chuyển động camera (Zoom + Pan + Tilt) trong 1 prompt khiến mặt KOC bị biến dạng (warping).",
+      "actionable_rule": "Áp dụng One-Move Rule: Chỉ 1 chuyển động camera duy nhất trên mỗi phân cảnh và luôn thêm từ khóa điều tốc (Slow, Subtle)."
+    },
+    {
+      "lesson_id": "LSN-004",
+      "date": "2026-10-17",
+      "category": "SEO & Indexing",
+      "finding": "TikTok và YouTube ưu tiên lập chỉ mục cho video có Spoken Keyword xuất hiện trong 3 giây đầu.",
+      "actionable_rule": "Đồng bộ khép kín: Lời thoại nói trong 3s đầu = Chữ ghim trên màn hình = Dòng 1 caption = Hashtag tầng 1."
+    },
+    {
+      "lesson_id": "LSN-005",
+      "date": "2026-10-17",
+      "category": "Traffic & Conversion Balance",
+      "finding": "Đăng video bán hàng liên tục khiến người xem lướt qua nhanh, kéo sụt Completion Rate và chết kênh.",
+      "actionable_rule": "Kỷ luật 80/20: 80% video là Daily Vlog KOC / Mẹo vặt / Tình huống để nuôi tương tác, 20% video gắn giỏ hàng Affiliate."
+    },
+    {
+      "lesson_id": "LSN-006",
+      "date": "2026-10-17",
+      "category": "Fast-Cut Beat Syncing (Top Benchmark @lumystore6)",
+      "finding": "Video 23s cắt 11 phân cảnh theo nhịp beat đạt 488.720 views và 1.020 lượt lưu, giữ chân người xem liên tục.",
+      "actionable_rule": "Sử dụng kỹ thuật Beat Syncing: Cắt chuyển cảnh mỗi 1.5s - 2s luân chuyển giữa 36 Panels của VMAX để tăng vọt Retention Rate."
+    },
+    {
+      "lesson_id": "LSN-007",
+      "date": "2026-10-17",
+      "category": "Aesthetic Korean Color Palette (Benchmark @suchangvn)",
+      "finding": "Video 12s tone màu be sữa/nâu nhạt nhẹ nhàng kết hợp nhạc acoustic đạt 368.674 views tự nhiên.",
+      "actionable_rule": "Định vị KOC AI thời trang Hàn Quốc với bảng màu pastel nhã nhặn (warm 5400K) và nhạc CML acoustic/ballad nhẹ nhàng."
+    },
+    {
+      "lesson_id": "LSN-008",
+      "date": "2026-10-18",
+      "category": "Body Hack Visuals (Quần Tây/Jean Ống Suông 2.6M Views)",
+      "finding": "Quần ống suông cạp cao chiếm đỉnh cao nhất về lượt xem (2.6M @nhat.linh.beauty, 1M @hinthanh806, 871k @phoidocungshop1). Khách hàng nữ có nỗi sợ lộ bụng dưới và chân ngắn.",
+      "actionable_rule": "Bắt buộc có 2 shot cận cảnh: (1) Cạp quần trên rốn siết phẳng bụng (Panel 14/Panel 25), (2) Ống suông rủ chạm gót chân kéo dài tỷ lệ cơ thể (Panel 26/Panel 28). Hook trực diện: 'Chân ngắn, đùi to né gấp chiếc quần này kẻo bị nghi kéo chân!'."
+    },
+    {
+      "lesson_id": "LSN-009",
+      "date": "2026-10-18",
+      "category": "Save Magnet Format: 1 Item Phối N Cách (Đầm 2 Dây 682k Views & 8.7k Saves)",
+      "finding": "Format '1 món phối N outfit' (@gaumocne 682k views) đạt tỷ lệ lưu kỷ lục 4.82% (8.783 saves) do người xem lưu về để áp dụng hàng ngày, kích hoạt thuật toán đẩy FYP liên tục.",
+      "actionable_rule": "Mỗi tuần xuất bản tối thiểu 2 video 'Capsule Wardrobe / 1 Món N Outfit' với CTA mềm: 'Lưu lại ngay để sáng mai không phải nghĩ mặc gì', đẩy chỉ số Save Rate lên trên 3%."
+    },
+    {
+      "lesson_id": "LSN-010",
+      "date": "2026-10-18",
+      "category": "Tactile Verification for Budget Fashion (Vải Tuyết Mưa & Len Mỏng)",
+      "finding": "Khách hàng mua hàng giá 89k - 149k thường hoài nghi chất lượng vải mỏng, nhăn hoặc xù lông.",
+      "actionable_rule": "Dùng Panel 25 (Micro Macro Fabric Shot) kết hợp thao tác vò nhẹ thả ra không nhăn và kéo dãn đàn hồi để tăng niềm tin chốt đơn tức thì (Impulse Buy)."
+    },
+    {
+      "lesson_id": "LSN-011",
+      "date": "2026-10-18",
+      "category": "Real Voice AI Cloning & TikTok Action Energy (Benchmark @benaithucchien & mau-voice.mp4)",
+      "finding": "Video tutorial @benaithucchien chỉ rõ cách clone giọng thật 99.9% qua EverAI v1.6 (VieNeu-TTS v3 Turbo ONNX) cần sample 3-5s ngắn gọn không tạp âm. Đầu ra TTS thô thiếu độ nảy action do RMS thấp (0.10) so với âm thanh thương mại TikTok (0.26).",
+      "actionable_rule": "Tự động trích xuất slice chuẩn 4.2s rõ chữ nhất làm sound profile, chạy VieNeu-TTS v3 Turbo offline trên máy, áp dụng mastering đa tầng (acompressor, loudnorm -14 LUFS, presence EQ 3.2kHz, tempo 1.05x) qua tools/voice/koc_voice_cloner.py và clone_voice_from_video.py."
+    },
+    {
+      "lesson_id": "LSN-012",
+      "date": "2026-10-18",
+      "category": "Speech-Driven Lip-Sync & Retention Interleaving (Cardigan 48s Review)",
+      "finding": "Video tĩnh không cử động miệng gây cảm giác thiếu tự nhiên, nhưng video 45s nói liên tục một góc máy sẽ gây nhàm chán và tụt Retention Rate.",
+      "actionable_rule": "Áp dụng thuật toán biến dạng môi sub-pixel kết hợp hàm răng ngọc trai (translucent upper dental arch) và khoang miệng tối màu điều khiển bằng audio RMS envelope. Đồng thời phân bổ đa phân cảnh: Cận mặt nói 8s -> Cận thớ len 10s (Panel 25) -> Toàn thân lên dáng 10s (Panel 26) -> Bán thân nói 10s -> Cận mặt chỉ giỏ hàng 10s để duy trì chỉ số Completion Rate trên 25%."
+    },
+    {
+      "lesson_id": "LSN-013",
+      "date": "2026-10-18",
+      "category": "Dynamic Learning from TIKTOK-ZIKACHAN18-7667895159241133333",
+      "finding": "Video 'Tao Video AI Google Flow Tren Dien Thoai' dat 49300 views, 35 don hang voi hook: 'Chỉ cần một chiếc điện thoại, các bác cũng có thể tạo video AI bằng Google Flow cực đơn giản'.",
+      "actionable_rule": "Tách biệt 2 bước rõ ràng: (1) Image-to-Image nạp 1 ảnh KOC + 1 ảnh sản phẩm tỉ lệ 9:16 để AI hợp nhất chính xác, (2) Image-to-Video áp dụng camera One-Move rule (push-in/pan) kết hợp CTA kích thích comment prom để kéo thuật toán viral."
+    },
+    {
+      "lesson_id": "LSN-014",
+      "date": "2026-10-19",
+      "category": "Dynamic Learning from GOBI-TROUSERS-FLOW-01",
+      "finding": "Video 'Review Quần Tây Tuyết Mưa Hack Dáng' dat 2600000 views, 38 don hang voi hook: 'Ai bảo dưới 1 mét 6 mặc quần ống suông là bị nuốt dáng?'.",
+      "actionable_rule": "Google Flow UI dùng div.ProseMirror, tự động hóa bằng keyboard.paste và submit click hoạt động 100%, render 2 biến thể hoàn tất trong 40 giây."
+    }
+  ],
+  "video_performance_logs": [
+    {
+      "video_id": "VMAX-KOC-001",
+      "title": "Review Cardigan Dệt Kim Hàn Quốc",
+      "format": "Problem - Solution / Unboxing",
+      "hook_type": "Curiosity ('Đố các bạn biết...')",
+      "metrics": {
+        "views": 1420,
+        "completion_rate": "24.5%",
+        "share_count": 86,
+        "save_count": 112,
+        "orders_generated": 14
+      },
+      "status": "WINNING_BENCHMARK",
+      "extracted_takeaway": "Hook tò mò kết hợp soi chất vải cận cảnh (Panel 25) kích thích người xem lưu video và click giỏ hàng."
+    },
+    {
+      "video_id": "TIKTOK-ZIKACHAN18-7667895159241133333",
+      "title": "Tao Video AI Google Flow Tren Dien Thoai",
+      "format": "Google Flow 2-Step Multi-Image & Motion Workflow",
+      "hook_type": "Chỉ cần một chiếc điện thoại, các bác cũng có thể tạo video AI bằng Google Flow cực đơn giản",
+      "metrics": {
+        "views": 49300,
+        "completion_rate": "28.5%",
+        "orders_generated": 35
+      },
+      "status": "WINNING_BENCHMARK",
+      "extracted_takeaway": "Tách biệt 2 bước rõ ràng: (1) Image-to-Image nạp 1 ảnh KOC + 1 ảnh sản phẩm tỉ lệ 9:16 để AI hợp nhất chính xác, (2) Image-to-Video áp dụng camera One-Move rule (push-in/pan) kết hợp CTA kích thích comment prom để kéo thuật toán viral."
+    },
+    {
+      "video_id": "GOBI-TROUSERS-FLOW-01",
+      "title": "Review Quần Tây Tuyết Mưa Hack Dáng",
+      "format": "Google Flow 8s Video + ProseMirror DOM Injection",
+      "hook_type": "Ai bảo dưới 1 mét 6 mặc quần ống suông là bị nuốt dáng?",
+      "metrics": {
+        "views": 2600000,
+        "completion_rate": "24.5%",
+        "orders_generated": 38
+      },
+      "status": "WINNING_BENCHMARK",
+      "extracted_takeaway": "Google Flow UI dùng div.ProseMirror, tự động hóa bằng keyboard.paste và submit click hoạt động 100%, render 2 biến thể hoàn tất trong 40 giây."
+    }
+  ],
+  "auto_tuned_prompt_weights": {
+    "preferred_hooks": [
+      "Contrarian ('Đừng mua... nếu chưa biết sự thật')",
+      "Curiosity ('Đố các bạn biết tại sao cháy hàng')",
+      "POV ('Góc nhìn nam giới khi con gái mặc...')"
+    ],
+    "optimal_panel_transitions": [
+      "Panel 03 (Hook Cận Mặt) -> Panel 25 (Soi Chất Liệu) -> Panel 26 (Bước Đi Dáng Đẹp) -> Panel 02 (Chỉ Tay Giỏ Hàng)"
+    ]
+  }
+}

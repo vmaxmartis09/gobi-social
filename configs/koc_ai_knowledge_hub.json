@@ -1,0 +1,204 @@
+{
+  "system_name": "VMAX KOL/KOC AI Automation Hub",
+  "version": "2.0.0",
+  "updated_at": "2026-10-17",
+  "knowledge_sources": [
+    "Tuong Vi KOC AI (W5G Martech) - 6 years experience Content Automation Builder",
+    "TikTok @ngc.chu0161 (Ngoc Chau KOC AI)",
+    "VMAX Affiliate TikTok Engine (36-Panel Consistency Matrix)",
+    "TikTok @zikachan18 (Google Flow 2-Step Mobile Workflow - 49.3k views)"
+  ],
+  "core_philosophy": {
+    "motto": "1 Người = 1 Team Sản Xuất Video Bằng AI",
+    "principle": "Không chọn 1 model cho tất cả - Chia vai chuyên môn hóa (Role-based Model Delegation)",
+    "realism_standards": [
+      "Khóa nhân dạng (Identity Consistency) qua ma trận góc chụp (Consistency Grid)",
+      "Tái tạo chi tiết sinh học thực tế: lỗ chân lông (pores), lông tơ (peach fuzz), nếp nhăn tự nhiên, vân môi",
+      "Tuyệt đối cấm hiệu ứng làm mịn da nhựa (plastic skin) và bộ lọc ảo (beauty filter)",
+      "Giả lập chuyển động camera cầm tay tự nhiên (handheld camera movement) cho daily vlog"
+    ]
+  },
+  "official_koc_channel_profile": {
+    "brand_name": "Gobi Boutique",
+    "display_name": "Gobi Boutique | Gu Nàng Thơ 🌷",
+    "handle_target": "@gobiboutique",
+    "current_username": "@gobiboutique",
+    "live_profile_url": "https://www.tiktok.com/@gobiboutique",
+    "persona": {
+      "character_name": "Gobi (Gô Bi)",
+      "age": 21,
+      "stats": "1m62 - 48kg (Dáng chuẩn người mẫu lookbook Hàn)",
+      "vibe": "Nàng thơ Hàn Quốc nhu mì, ngọt ngào, tinh tế, trong trẻo",
+      "speech_style": "Thân mật: Gobi - các bà / các nàng / chị em",
+      "target_audience": "Nữ sinh viên, Gen Z 18 - 25 tuổi yêu thích thời trang mềm mại giá học sinh sinh viên"
+    },
+    "bio_standard": "🌷 Gobi | 1m62-48kg ✨ Gobi Boutique 👗 Phối đồ hack dáng 👇 Săn deal ở giỏ hàng!",
+    "avatar_panel": "affiliate_tiktok/sample_video/koc_matrix_panels/panel_03_can_mat_chinh_dien.jpg",
+    "niche": "Thời trang nữ phong cách Hàn Quốc nhu mì & Bí kíp phối đồ hack dáng (TikTok Shop Affiliate)"
+  },
+  "ai_model_matrix": {
+    "Nano_Banana_Flux": {
+      "role": "Input Asset & Key Visual Generator",
+      "best_for": "Tạo nhân vật gốc, khóa khuôn mặt, render 3x3 / 6x6 consistency grid, chỉnh sửa chi tiết ảnh gốc",
+      "pros": "Độ phân giải cực cao, bám sát prompt JSON, không bị biến dạng chi tiết giải phẫu"
+    },
+    "Kling_3_0": {
+      "role": "Cinematic Motion Engine",
+      "best_for": "Image-to-Video, điều khiển góc máy camera di chuyển mượt mà (Pan, Tilt, Zoom, Orbit)",
+      "pros": "Motion chân thực, hạn chế méo hình khi vật thể di chuyển, màu sắc chuẩn điện ảnh"
+    },
+    "Seedance": {
+      "role": "Storytelling & Social Lip-Sync Engine",
+      "best_for": "Clip nói chuyện nhiều phân cảnh (multi-shot), nhịp chuyển cảnh nhanh cho TikTok/Reels, khớp khẩu hình tự nhiên",
+      "pros": "Đồng bộ môi với tiếng Việt cực tốt, nhịp dựng phù hợp social media"
+    },
+    "Sora_2_Pro_Veo_3_1": {
+      "role": "Flagship Ultra-Realism Engine",
+      "best_for": "Các shot quay cận cảnh mặt người thật định dạng 9:16, yêu cầu độ nét tối đa và đồng bộ hình tiếng",
+      "pros": "Chất lượng hình ảnh tiệm cận máy quay chuyên nghiệp 4K, độ sâu trường ảnh (depth of field) thật"
+    },
+    "Grok_Aurora": {
+      "role": "Rapid Testing & Concept Prototyping",
+      "best_for": "Thử nghiệm concept kịch bản mới, tạo asset nhanh số lượng lớn cho pipeline automation",
+      "pros": "Tốc độ xử lý siêu nhanh, chi phí thấp"
+    },
+    "Wan": {
+      "role": "Pipeline Middleware & Stability",
+      "best_for": "Cân bằng giữa motion và chất lượng hình ảnh, làm cầu nối linh hoạt giữa các bước dựng tự động",
+      "pros": "Ít lỗi giật khung hình (temporal flickering), độ ổn định cao"
+    },
+    "Google_Flow_Mobile": {
+      "role": "Mobile KOC AI 2-Step Generator (Google Labs / Veo Integration)",
+      "best_for": "Tao video truc tiep tren dien thoai: ghep anh KOC voi san pham (Multi-Image Fusion) va sinh chuyen dong camera chuan 9:16",
+      "pros": "Thao tac nhanh tren smartphone, khong can may tinh, phu hop lam affiliate so luong lon",
+      "benchmark_source": "TikTok @zikachan18 (49.3k views)"
+    }
+  },
+  "structured_prompt_schema": {
+    "required_fields": [
+      "core_concept",
+      "subject_appearance",
+      "layout_and_composition",
+      "photography_and_lighting",
+      "typography_and_text_in_vietnamese",
+      "panels",
+      "negative_prompt"
+    ],
+    "negative_prompt_default": "Different people, drifting facial features, changing face shapes, hair changes, outfit changes, duplicate expressions, incorrect number of fingers, extra arms, clipping hands through face, abnormal eye deformation, wrong teeth structure, unnatural tongue structure, cartoonish style, plastic skin, excessive smoothing, beauty filters, misaligned grid stitching, cropped subjects, watermarks, logos."
+  },
+  "production_workflow_5_steps": [
+    {
+      "step": 1,
+      "name": "Khởi tạo Nhân dạng KOC (Identity Setup)",
+      "tools": [
+        "Google Gemini",
+        "Nano Banana / Flux"
+      ],
+      "action": "Định nghĩa chân dung nhân khẩu học, tạo ảnh gốc và khóa tham số nhận dạng"
+    },
+    {
+      "step": 2,
+      "name": "Xây dựng Ma trận Khung hình (Consistency Matrix)",
+      "tools": [
+        "VMAX 36-Panel Engine",
+        "Nano Banana 3x3 Grid"
+      ],
+      "action": "Xuất bộ 9 hoặc 36 góc máy và biểu cảm để làm dữ liệu tham chiếu (Reference Source)"
+    },
+    {
+      "step": 3,
+      "name": "Diễn hoạt Video & Camera (Motion Synthesis)",
+      "tools": [
+        "Kling 3.0",
+        "Veo 3.1",
+        "FFmpeg Engine"
+      ],
+      "action": "Chuyển ảnh tĩnh thành chuỗi cảnh động với chuyển động camera mượt mà"
+    },
+    {
+      "step": 4,
+      "name": "Lồng tiếng & Khớp khẩu hình (Voice & Lip-Sync)",
+      "tools": [
+        "Edge-TTS / W5G Voice",
+        "Seedance"
+      ],
+      "action": "Sinh giọng đọc tiếng Việt truyền cảm và đồng bộ chuyển động môi"
+    },
+    {
+      "step": 5,
+      "name": "Dựng hoàn thiện & Đóng gói (Automated Assembly)",
+      "tools": [
+        "FFmpeg",
+        "Auto-Subtitles Generator",
+        "Agent-Browser"
+      ],
+      "action": "Gắn phụ đề động chuẩn TikTok, ghép nhạc nền, render video 1080x1920 60fps và xuất bản"
+    }
+  ],
+  "channel_growth_protocol_2000_followers": {
+    "target": "2000 Followers in 14 days without shadowban",
+    "warmup_schedule_7_days": {
+      "day_1": "Setup clean profile, avatar, bio. DO NOT post video for first 24h.",
+      "day_2": "Browse 30-45 mins in niche, like, comment meaningfully, simulate cart view behavior.",
+      "day_3": "Continue trust buildup, prepare 3-5 pre-rendered KOC AI videos.",
+      "day_4": "Publish Video #1 (Value/Tip/Funny, NO shop link, toggle AIGC label ON).",
+      "day_5": "Publish Video #2, reply to 100% comments immediately.",
+      "day_6": "Publish Video #3, verify video views > 300.",
+      "day_7": "Publish Video #4 with TikTok Shop Affiliate link (Funnel product < 150k)."
+    },
+    "posting_golden_hours": [
+      "11:30 - 13:00",
+      "19:00 - 21:30"
+    ],
+    "content_ratio": "80% Value/Entertainment/Daily Vlog - 20% Commercial/Affiliate"
+  },
+  "anti_flop_and_aigc_rules": [
+    "Always toggle 'AI-generated content' (AIGC) label ON to avoid shadowban by Deep Moderation",
+    "Never attach shop cart links in first 3-5 videos",
+    "Hook must grab attention in first 3 seconds with visual emotion + voice problem statement",
+    "Never reup with watermarks from other platforms (use raw clean 1080x1920 60fps)",
+    "Distribute One-to-Many: TikTok (Test bed) -> Facebook Reels (Clean watermark + Pinned comment link) -> YouTube Shorts (SEO keyword title)"
+  ],
+  "master_video_growth_encyclopedia": {
+    "version": "3.0.0",
+    "policy_checker_tool": "tools/video/policy_compliance_checker.py",
+    "safe_zone": {
+      "resolution": "1080x1920",
+      "sweet_spot": "Center-Middle 900x1400px",
+      "margins": "Top 150-280px, Bottom 320-650px, Right 120-180px, Left 50-100px"
+    },
+    "seven_formats": [
+      "1. Problem - Solution",
+      "2. Unboxing & Macro Texture",
+      "3. Before - After / Transformation",
+      "4. Daily Vlog KOC (Handheld camera)",
+      "5. Shocking Comparison",
+      "6. POV (Point of View)",
+      "7. ASMR & Sensory Satisfaction"
+    ],
+    "hashtag_3_tier": {
+      "tier_1_niche": "1-2 hashtags (Long-tail problem)",
+      "tier_2_category": "1-2 hashtags (Broad industry)",
+      "tier_3_platform": "1 hashtag (Trending / Platform)"
+    }
+  },
+  "koc_voice_engine": {
+    "version": "1.0.0",
+    "core_architecture": "VieNeu-TTS v3 Turbo 48kHz ONNX CPU (pnnbao-ump)",
+    "benchmark_reference": "TikTok @benaithucchien (EverAI v1.6 pipeline: 30-60s clean audio, denoise=True, Vlog/Personal use-case)",
+    "pipeline_tool": "tools/voice/koc_voice_cloner.py",
+    "cli_shortcut": "clone_voice_from_video.py",
+    "audio_slicing_standards": {
+      "target_reference_duration": "3.5 - 5.0 seconds (optimal: 4.2s)",
+      "noise_reduction": "denoise=True, bandpass 80Hz-12kHz",
+      "silence_threshold": "RMS > 0.05, zero-crossing rate ~ 0.12"
+    },
+    "tiktok_mastering_specs": {
+      "loudness_standard": "-14.0 LUFS (TikTok / Reels True Peak -1.5dB)",
+      "dynamic_compression": "acompressor threshold=-18dB, ratio=4:1, attack=5ms, release=50ms",
+      "equalizer_presence": "+3.5dB @ 3200Hz (Phone speaker clarity)",
+      "equalizer_warmth": "+1.2dB @ 250Hz (Vocal body & fullness)",
+      "action_tempo": "1.05x - 1.08x (High-energy KOC pace)"
+    }
+  }
+}

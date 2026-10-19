@@ -1,0 +1,10 @@
+{
+  "voice_id": "koc_neil_girl",
+  "source_file": "mau-voice.mp4",
+  "gender": "female",
+  "accent": "vietnamese_north",
+  "speaking_style": "tiktok_fashion_review_energetic",
+  "pitch_shift": "+12Hz",
+  "speed_rate": "+12%",
+  "reference_sample": "assets/cloned_voices/koc_neil_girl\\reference_voice.wav"
+}

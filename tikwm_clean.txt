@@ -1,0 +1,30 @@
+id: 7634957602555792647
+region: VN
+title: Bật mí quy trình làm video AI thay đồ thời trang #hocAI #huongdanAI #makemoneyonline #xaykenhAI #affiliatemarketing 
+content_desc: []
+cover: https://p16-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/ospAUY0XfCgEmAiRzBiI1XwAAeExg6PDDi0Bid~tplv-tiktokx-dmt-logoccm:300:400:tos-alisg-i-0068/osFLEoez5GAX0eAwAaLGDjTADIDAiEg6INeL0I.jpeg?dr=8595&refresh_token=c3a83c8f&x-expires=1792335600&x-signature=TkHdrMEBkND9QiW%2BnigUS7BfHf8%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1d1a97fc&idc=useast5&s=AWEME_DETAIL&sc=cover&biz_tag=tt_video
+ai_dynamic_cover: https://p16-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/ospAUY0XfCgEmAiRzBiI1XwAAeExg6PDDi0Bid~tplv-tiktokx-dmt-logom:tos-alisg-i-0068/osFLEoez5GAX0eAwAaLGDjTADIDAiEg6INeL0I.image?dr=8605&refresh_token=719642f2&x-expires=1792335600&x-signature=pZRjdC3SS0jI16%2BUTR8LedgsVmw%3D&t=bacd0480&ps=4f5296ae&shp=d05b14bd&shcp=1d1a97fc&idc=useast5&s=AWEME_DETAIL&sc=dynamic_cover&biz_tag=tt_video
+origin_cover: https://p19-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/oscga7EIIBgpDw9ff0FU0GjzmbEbGEAQDBNRBm~tplv-tiktokx-shrink-aq:360:360:q75.webp?dr=11731&refresh_token=5ddc5b4b&x-expires=1792335600&x-signature=2KEhki48XXHslRNSovrbigZALCc%3D&t=bacd0480&ps=d97f9a4f&shp=d05b14bd&shcp=1d1a97fc&idc=useast5&biz_tag=tt_video&s=AWEME_DETAIL&sc=feed_cover
+duration: 225
+play: https://v16m.tiktokcdn-us.com/d05abda3f57aec7fe28e846635bec74e/6ad3e6ce/video/tos/alisg/tos-alisg-ve-0068c800-sg/o0a0DQEETfRbQEhItBFpA0nDgmUiLBuafN9Ezm/?a=1233&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&&bt=410&ft=74~WHDDwNHkVQQdGntpisd1t5PZqYlHhDJtMhWLrK&mime_type=video_mp4&rc=Mzw7NDpkZTxnNjZlOWU2OUBpM3RpOm05cjNnOjMzODczNEAwMF9gYGAuNmExMDRgYDU0YSNnM28xMmRzL25hLS1kMTFzcw%3D%3D&vvpl=1&l=20261017151733AF770090F70DCC3DA63A&btag=e00098000
+wmplay: https://v16m.tiktokcdn-us.com/17985d1291bf7aa2340f170ccc549d76/6ad3e6ce/video/tos/alisg/tos-alisg-ve-37c815-sg/ogDSEQi9gEmRAIbApOEnfuFMEzB0UNf1BaQmDo/?a=1233&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&&bt=530&eid=20480&ft=74~WHDDwNHkVQQdGntpisd1t5PZqYlHhDJtMhWLrK&mime_type=video_mp4&rc=NmQ6N2k0OzY8OztmOmRmOEBpM3RpOm05cjNnOjMzODczNEBeYC01YmJiX2IxXjIuYmMzYSNnM28xMmRzL25hLS1kMTFzcw%3D%3D&vvpl=1&l=20261017151733AF770090F70DCC3DA63A&btag=e00098000
+size: 11855460
+wm_size: 15345330
+music: https://v16-ies-music.tiktokcdn-us.com/cee83cb322f9201738e4aa1a4fe9bcbc/6adccdcf/video/tos/alisg/tos-alisg-v-27dcd7/o80cosQqjA0ITBiE4A8MSQOQDfK9wBvkIRpBid/?a=583965&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&&bt=125&ft=7g~atDDwNHkVQQdGntpisd1t5PZqYlHhDJtMhWLrK&mime_type=audio_mpeg&rc=NGlnNTxlOzg2OWU8OjxnM0Bpam5xN3I5cjZnOjMzODU8NEAyX2AyYDQxNjUxMzRjX2NiYSNibWtpMmRrMG5hLS1kMS1zcw%3D%3D&vvpl=1&l=20261017151733AF770090F70DCC3DA63A&btag=e000d8000&shp=d05b14bd&shcp=-
+music_info: {'id': '7634957674173942536', 'title': 'original sound - uyenmmoai', 'play': 'https://v16-ies-music.tiktokcdn-us.com/cee83cb322f9201738e4aa1a4fe9bcbc/6adccdcf/video/tos/alisg/tos-alisg-v-27dcd7/o80cosQqjA0ITBiE4A8MSQOQDfK9wBvkIRpBid/?a=583965&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&&bt=125&ft=7g~atDDwNHkVQQdGntpisd1t5PZqYlHhDJtMhWLrK&mime_type=audio_mpeg&rc=NGlnNTxlOzg2OWU8OjxnM0Bpam5xN3I5cjZnOjMzODU8NEAyX2AyYDQxNjUxMzRjX2NiYSNibWtpMmRrMG5hLS1kMS1zcw%3D%3D&vvpl=1&l=20261017151733AF770090F70DCC3DA63A&btag=e000d8000&shp=d05b14bd&shcp=-', 'cover': 'https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/3b03aa8060b29f035e6675854f649433~tplv-tiktokx-cropcenter-q:1080:1080:q70.jpeg?dr=8837&refresh_token=934ddc12&x-expires=1792335600&x-signature=5hM68sCY6cv7zlXaY5x0rUH6J1A%3D&t=223449c4&ps=87d6e48a&shp=d05b14bd&shcp=1d1a97fc&idc=useast5&sc=avatar&s=AWEME_DETAIL', 'author': 'HỌC AI CÙNG UYÊN', 'original': True, 'duration': 225, 'album': '', 'create_time': 1777652111}
+play_count: 516602
+digg_count: 18659
+comment_count: 1017
+share_count: 4204
+download_count: 2225
+collect_count: 14824
+create_time: 1777652097
+anchors: None
+anchors_extras: 
+is_ad: False
+commerce_info: {'adv_promotable': False, 'auction_ad_invited': False, 'branded_content_type': 0, 'is_diversion_ad': 0, 'organic_log_extra': '{"req_id":"20261017151733AF770090F70DCC3DA63A"}', 'with_comment_filter_words': False}
+commercial_video_info: 
+item_comment_settings: 0
+mentioned_users: 
+author: {'id': '7616008714961585153', 'unique_id': 'uyenmmoai', 'nickname': 'HỌC AI CÙNG UYÊN', 'avatar': 'https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/3b03aa8060b29f035e6675854f649433~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=8834&refresh_token=c306097e&x-expires=1792335600&x-signature=yedHr7ay9xqnEytuVoYLcKUqVxw%3D&t=223449c4&ps=87d6e48a&shp=d05b14bd&shcp=1d1a97fc&idc=useast5&sc=avatar&s=AWEME_DETAIL'}
+is_nff_or_nr: False

@@ -1,0 +1,65 @@
+{
+  "code": 0,
+  "msg": "success",
+  "processed_time": 0.4398,
+  "data": {
+    "id": "7684284912953838866",
+    "region": "VN",
+    "title": "Workflow đa ngách tạo video không giới hạn, người mới cũng làm được #hocAI  #huongdanAI  #AI #affiliatemarketing  #workflow ",
+    "content_desc": [
+      "Workflow đa ngách tạo video không giới hạn, người mới cũng làm được #hocAI ",
+      "#huongdanAI ",
+      "#AI",
+      "#affiliatemarketing ",
+      "#workflow "
+    ],
+    "cover": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/o4cIgUpEeYAEBiqt3FBsEWEAkDrGfwAxRACBCc~tplv-tiktokx-dmt-logoccm:300:400:tos-alisg-i-0068/oMEzoAREEBAfGICkAqAgODOVcCFBeEpDBL8sW2.jpeg?dr=8595&refresh_token=36082884&x-expires=1792335600&x-signature=Xog%2B%2Buz%2Fm%2B%2Bizxu66aVzVIPXirg%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1d1a97fc&idc=useast5&biz_tag=tt_video&s=AWEME_DETAIL&sc=cover",
+    "ai_dynamic_cover": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/o4cIgUpEeYAEBiqt3FBsEWEAkDrGfwAxRACBCc~tplv-tiktokx-dmt-logom:tos-alisg-i-0068/oMEzoAREEBAfGICkAqAgODOVcCFBeEpDBL8sW2.image?dr=8605&refresh_token=d94ed0a3&x-expires=1792335600&x-signature=7q9hXAHHM%2BsdEQivYxRCY3zZf5o%3D&t=bacd0480&ps=4f5296ae&shp=d05b14bd&shcp=1d1a97fc&idc=useast5&biz_tag=tt_video&s=AWEME_DETAIL&sc=dynamic_cover",
+    "origin_cover": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/oMf7kb9ABBBirUgD00BzcqIHpI8fiERvAiCEGW~tplv-tiktokx-shrink-aq:360:360:q75.webp?dr=11731&refresh_token=2b5e74d5&x-expires=1792335600&x-signature=bGPBpM%2FEwJe3tw5Qf4lEfuZYC7Y%3D&t=bacd0480&ps=d97f9a4f&shp=d05b14bd&shcp=1d1a97fc&idc=useast5&biz_tag=tt_video&s=AWEME_DETAIL&sc=feed_cover",
+    "duration": 122,
+    "play": "https://v16m.tiktokcdn-us.com/867dc831a567a1a4f5699e47df69d810/6ad3e6e5/video/tos/alisg/tos-alisg-pve-0037c001/ooAQkiU9fpDIBEDHRfWBA9E0gciZBGrEzqP7IC/?a=1233&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&&bt=513&ft=74~WHDDwNyvVQQdGntpisdG-5PZqYls5yrtMhWLrK&mime_type=video_mp4&rc=PDszOmhnNTRkaGRlaTY8Z0BpM21nb245cngzZDMzODczNEA2YGNjLjM1XzQxMTAyYzVeYSMuNmsuMmRzc2ZhLS1kMWBzcw%3D%3D&vvpl=1&l=202610171519390BAB7FD122690D3F4E50&btag=e000d0000",
+    "wmplay": "https://v16m.tiktokcdn-us.com/3f28d0df841b5050116abd132349ec5b/6ad3e6e5/video/tos/alisg/tos-alisg-ve-37c815-sg/o4E7A9IgclAiCiAE67Rz0pfWmfBtBBJEUQMqDk/?a=1233&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&&bt=643&eid=20480&ft=74~WHDDwNyvVQQdGntpisdG-5PZqYls5yrtMhWLrK&mime_type=video_mp4&rc=NGc1ZTxkOTM6MzQ7Omk5ZUBpM21nb245cngzZDMzODczNEBfX19jYC0vNjQxMjQ0XjMzYSMuNmsuMmRzc2ZhLS1kMWBzcw%3D%3D&vvpl=1&l=202610171519390BAB7FD122690D3F4E50&btag=e00090000",
+    "size": 8046281,
+    "wm_size": 10075040,
+    "music": "https://v16-ies-music.tiktokcdn-us.com/e79841332a90b1f7f2add0215e65bb4b/6adccd7f/video/tos/alisg/tos-alisg-v-27dcd7/o0QUQATEkY8A4xdiACCBlplPiaAYAqyHE0EPS/?a=583965&bti=OTg7QGo5QHM6OjZALTAzYCMvcCMxNDNg&&bt=125&ft=7g~atDDwNyvVQQdGntpisdG-5PZqYls5yrtMhWLrK&mime_type=audio_mpeg&rc=M3JlbWw5cnc0ZDMzODU8NEBpM3JlbWw5cnc0ZDMzODU8NEBwNW5mMmQ0LWZhLS1kMS1zYSNwNW5mMmQ0LWZhLS1kMS1zcw%3D%3D&vvpl=1&l=202610171519390BAB7FD122690D3F4E50&btag=e00050000&shp=d05b14bd&shcp=-",
+    "music_info": {
+      "id": "7684284960281070357",
+      "title": "original sound - uyenmmoai",
+      "play": "https://v16-ies-music.tiktokcdn-us.com/e79841332a90b1f7f2add0215e65bb4b/6adccd7f/video/tos/alisg/tos-alisg-v-27dcd7/o0QUQATEkY8A4xdiACCBlplPiaAYAqyHE0EPS/?a=583965&bti=OTg7QGo5QHM6OjZALTAzYCMvcCMxNDNg&&bt=125&ft=7g~atDDwNyvVQQdGntpisdG-5PZqYls5yrtMhWLrK&mime_type=audio_mpeg&rc=M3JlbWw5cnc0ZDMzODU8NEBpM3JlbWw5cnc0ZDMzODU8NEBwNW5mMmQ0LWZhLS1kMS1zYSNwNW5mMmQ0LWZhLS1kMS1zcw%3D%3D&vvpl=1&l=202610171519390BAB7FD122690D3F4E50&btag=e00050000&shp=d05b14bd&shcp=-",
+      "cover": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/3b03aa8060b29f035e6675854f649433~tplv-tiktokx-cropcenter-q:1080:1080:q70.jpeg?dr=8837&refresh_token=934ddc12&x-expires=1792335600&x-signature=5hM68sCY6cv7zlXaY5x0rUH6J1A%3D&t=223449c4&ps=87d6e48a&shp=d05b14bd&shcp=1d1a97fc&idc=useast5&sc=avatar&s=AWEME_DETAIL",
+      "author": "HỌC AI CÙNG UYÊN",
+      "original": true,
+      "duration": 122,
+      "album": "",
+      "create_time": 1789137015
+    },
+    "play_count": 1691,
+    "digg_count": 25,
+    "comment_count": 3,
+    "share_count": 4,
+    "download_count": 2,
+    "collect_count": 9,
+    "create_time": 1789137008,
+    "anchors": null,
+    "anchors_extras": "",
+    "is_ad": false,
+    "commerce_info": {
+      "adv_promotable": false,
+      "auction_ad_invited": false,
+      "branded_content_type": 0,
+      "is_diversion_ad": 0,
+      "organic_log_extra": "{\"req_id\":\"202610171519390BAB7FD122690D3F4E50\"}",
+      "with_comment_filter_words": false
+    },
+    "commercial_video_info": "",
+    "item_comment_settings": 0,
+    "mentioned_users": "",
+    "author": {
+      "id": "7616008714961585153",
+      "unique_id": "uyenmmoai",
+      "nickname": "HỌC AI CÙNG UYÊN",
+      "avatar": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/3b03aa8060b29f035e6675854f649433~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=8834&refresh_token=6c95fda8&x-expires=1792335600&x-signature=NaLLWzbS0JHWkBme7wMYGivHDYk%3D&t=223449c4&ps=87d6e48a&shp=d05b14bd&shcp=1d1a97fc&idc=useast5&sc=avatar&s=AWEME_DETAIL"
+    },
+    "is_nff_or_nr": false
+  }
+}

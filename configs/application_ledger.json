@@ -1,0 +1,23 @@
+{
+  "total_applied": 2,
+  "logs": [
+    {
+      "audit_id": "QN-SUBMIT-1791699544",
+      "timestamp": "2026-10-11 13:19:04",
+      "company": "FPT Software Quy Nhơn",
+      "title": "Chuyên Viên Truyền Thông & Marketing",
+      "salary": "9.000.000 - 12.000.000 VNĐ",
+      "status": "SUCCESSFUL (Đã nộp)",
+      "verified_by": "XuanHuong Confirmed"
+    },
+    {
+      "audit_id": "QN-SUBMIT-1791699547",
+      "timestamp": "2026-10-11 13:19:07",
+      "company": "Pullman Quy Nhơn (TMS Group)",
+      "title": "Bilingual Content & Video Creator",
+      "salary": "8.500.000 - 10.000.000 VNĐ",
+      "status": "SUCCESSFUL (Đã nộp)",
+      "verified_by": "XuanHuong Confirmed"
+    }
+  ]
+}

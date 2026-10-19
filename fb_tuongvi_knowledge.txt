@@ -1,0 +1,324 @@
+==================== POST #1 ====================
+Mình có bán khóa học không ? --> Không 
+Mình có bán tool không ? --> Không 
+Xin chào, mình là Tường Vi - một Content Automation Builder với 6 năm kinh nghiệm.
+Mình đang chia sẻ về :
+- Build hệ sinh thái AI Video Automation cho KOC/creator
+- Chia sẻ về các quy trình tự động tạo video bằng AI --> giúp nhân bản video nhanh chóng
+- Xây dựng các Digital product hỗ trợ tạo video AI bằng workflow
+- Phát triển mảng KOC AI ở thị trường US
+Mục tiêu: biến 1 người = 1 team sản xuất video bằng AI
+Tại nhiều người nghĩ mình là AI quá, mình là người thật nghen, mình tạo KOC AI thôi ạ. Ngọc Châu mình tạo là KOC AI nha
+Mình có thể tự tin do mình đã làm ra kết quả thật bạn có thể tìm kiếm tóp tóp của mình với @ngc.chu0161
+Thế mình bán gì ? --> Mình bán bộ giải pháp 
+Bộ giải pháp này giúp được gì ?
+Sau khi áp dụng hệ thống này, bạn có thể:
++ Tạo KOC AI chân thật như người thật
++ Sản xuất hàng loạt video mỗi ngày
++ Xây dựng thương hiệu cá nhân bằng AI
++ Tạo Digital Product để thương mại hóa
++ Giảm đáng kể chi phí sản xuất nội dung
+Vậy bộ giải pháp gồm những gì ?
+1. Khóa đào tạo cơ bản đến nâng cao ( hướng dẫn chi tiết cách sử dụng, từng bước một để có thể áp dụng ngay và nâng cao tư duy thiết kế quy trình)
+2. Combo 22 workflow setup sẵn, chỉ cần nhân bản rồi sử dụng ( mỗi workflow được đầu tư rất kĩ lưỡng, và chuyên sâu, để tạo thành một cỗ máy sản xuất video, luôn luôn được update thêm nhiều workflow mới) 
+3. Hệ thống các KOC AI App được xây dựng riêng phục vụ cho việc xây dựng hình ảnh, video cho KOC AI. Bạn có thể dùng trực tiếp hoặc nhân bản và tinh chỉnh lại cá nhân hóa riêng trên hệ sinh thái của Google Gemini 
+4. Phần mềm lồng tiếng, AI Agent viết prompting, công cụ download video ( công cụ bổ trợ cho việc tạo video, được team mình xây dựng, có giá trị sử dụng trọn đời 
+5. Ebook bí kiếp tạo video vlog daily cho KOC AI  và phương pháp tạo video để giúp mang lại hiệu quả cao nhất, KOC AI giống người thật nhất, tiết kiệm chi phí nhất, đã áp dụng nhiều kênh và đây là công thức thành công của riêng mình)
+6. Một bộ Kit 5 bước để có thể tự xây dựng một tài sản số ( Digital Product) nói đơn giản là bạn có thể tự tạo ra một cái app để có thể thương mại hóa và bán nó, mảng Digital Product này đang rất tiềm năng khi kết hợp với KOC AI nó giúp bạn có được sản phẩm số riêng
+Bộ giải pháp này có khác biệt gì so với các giải pháp khác trên thị trường ? 
+Có. Điểm khác biệt lớn nhất là bộ giải pháp này tạo ra các KOC AI vô cùng chân thật, nghĩa là bạn sẽ rất khó phân biệt đây là AI hay người thật, đây là tiêu chính hàng đầu mà bộ giải pháp này hướng đến HIỆU QUẢ NHẤT
+TIẾT KIỆM chi phí nhưng TỐI ƯU nhất: Bộ giải pháp tổng hợp các công cụ có phí và miễn phí, tập trung vào điểm mạnh của từng công cụ để phù hợp với mục tiêu xây dựng KOC AI đúng nghĩa, các công cụ được cung cấp có thể là dùng bên thứ 3, hoặc dùng từ các nền tảng lớn, hoặc team mình lập trình, để bù trừ các ưu nhược điểm của các model AI
+Bộ giải pháp này được xây dựng bởi một đội ngũ chuyên nghiệp và có tính cầu toàn cao, luôn được update nhiều kiến thức, công cụ mới để luôn hướng đến câu nói "Sự thành công của bạn là sự tự hào của đội ngũ chúng tôi"
+Bộ giải pháp này thuộc sỡ hữu của công ty TNHH W5G MARTECH (MST: 0318606096)
+_________
+[Chia sẻ Kinh Nghiệm]
+Mình test khá nhiều model AI để làm hình ảnh và video, và thật ra câu hỏi quan trọng nhất không phải là “model nào mạnh nhất”, mà là “model nào hợp đúng việc mình đang làm”.
+Nếu cần motion đẹp, camera move mượt, image-to-video ổn và cảm giác cinematic rõ ràng, Kling 3.0 vẫn là một lựa chọn rất đáng chú ý.
+Nếu cần làm video kể chuyện, nhiều shot, có thoại, có nhịp chuyển cảnh tốt và ra clip nhanh để đăng social, Seedance là cái tên mình thấy khá thực dụng.
+Nếu ưu tiên độ chân thực cao hơn, muốn video nhìn “xịn” hơn, đặc biệt ở các clip dọc hoặc nội dung thiên về người thật, thì Sora 2 Pro và Veo 3.1 đang nằm ở nhóm rất mạnh.
+Còn nếu mục tiêu là làm nhanh để test concept, chạy số lượng, hoặc tích hợp vào workflow automation, Grok lại có lợi thế về tốc độ và tính tiện dụng hơn.
+Cá nhân mình thấy không nên chọn 1 model cho tất cả.
+Làm thực tế thì nên chia vai: model nào mạnh motion thì giao motion, model nào mạnh storytelling thì giao storytelling, model nào mạnh tạo asset hình thì dùng làm đầu vào.
+Ví dụ, có thể dùng Nano Banana để tạo hoặc chỉnh ảnh đẹp hơn ở bước đầu, rồi dùng Kling để animate, sau đó tận dụng Seedance hoặc Veo cho những đoạn cần nhịp kể chuyện hay chất lượng hình ảnh cao hơn.
+Nếu chốt nhanh theo kiểu dễ nhớ thì mình sẽ xếp như này:
+Kling: mạnh về motion control và cảm giác cinematic.
+Seedance: mạnh về storytelling, social clip và lip sync khá tự nhiên.
+Sora: mạnh về chất hình và chiều sâu hình ảnh.
+Veo: mạnh về realism và đồng bộ hình - tiếng.
+Wan: cân bằng, ổn định, linh hoạt cho nhiều pipeline hơn.
+Grok: nhanh, tiện để test idea và làm automation.
+Nano Banana: hợp để làm hình ảnh đầu vào, key visual, storyboard hoặc edit ảnh.
+Đừng chọn model theo hype, hãy chọn theo mục tiêu sản xuất nội dung của mình.
+Đúng model thì tiết kiệm rất nhiều thời gian, chi phí và công sửa lại ở phía sau.
+Anh em đang dùng model nào nhiều nhất để làm hình/video thời điểm này? See less
+
+==================== POST #2 ====================
+Mình có bán khóa học không ? --> Không
+
+==================== POST #3 ====================
+Xin chào, mình là Tường Vi - một Content Automation Builder với 6 năm kinh nghiệm.
+
+==================== POST #4 ====================
+- Build hệ sinh thái AI Video Automation cho KOC/creator
+
+==================== POST #5 ====================
+- Chia sẻ về các quy trình tự động tạo video bằng AI --> giúp nhân bản video nhanh chóng
+
+==================== POST #6 ====================
+- Xây dựng các Digital product hỗ trợ tạo video AI bằng workflow
+
+==================== POST #7 ====================
+Mục tiêu: biến 1 người = 1 team sản xuất video bằng AI
+
+==================== POST #8 ====================
+Tại nhiều người nghĩ mình là AI quá, mình là người thật nghen, mình tạo KOC AI thôi ạ. Ngọc Châu mình tạo là KOC AI nha
+
+==================== POST #9 ====================
+Mình có thể tự tin do mình đã làm ra kết quả thật bạn có thể tìm kiếm tóp tóp của mình với @ngc.chu0161
+
+==================== POST #10 ====================
+Thế mình bán gì ? --> Mình bán bộ giải pháp
+
+==================== POST #11 ====================
+Sau khi áp dụng hệ thống này, bạn có thể:
+
+==================== POST #12 ====================
+Vậy bộ giải pháp gồm những gì ?
+
+==================== POST #13 ====================
+1. Khóa đào tạo cơ bản đến nâng cao ( hướng dẫn chi tiết cách sử dụng, từng bước một để có thể áp dụng ngay và nâng cao tư duy thiết kế quy trình)
+
+==================== POST #14 ====================
+2. Combo 22 workflow setup sẵn, chỉ cần nhân bản rồi sử dụng ( mỗi workflow được đầu tư rất kĩ lưỡng, và chuyên sâu, để tạo thành một cỗ máy sản xuất video, luôn luôn được update thêm nhiều workflow mới)
+
+==================== POST #15 ====================
+3. Hệ thống các KOC AI App được xây dựng riêng phục vụ cho việc xây dựng hình ảnh, video cho KOC AI. Bạn có thể dùng trực tiếp hoặc nhân bản và tinh chỉnh lại cá nhân hóa riêng trên hệ sinh thái của Google Gemini
+
+==================== POST #16 ====================
+4. Phần mềm lồng tiếng, AI Agent viết prompting, công cụ download video ( công cụ bổ trợ cho việc tạo video, được team mình xây dựng, có giá trị sử dụng trọn đời
+
+==================== POST #17 ====================
+5. Ebook bí kiếp tạo video vlog daily cho KOC AI  và phương pháp tạo video để giúp mang lại hiệu quả cao nhất, KOC AI giống người thật nhất, tiết kiệm chi phí nhất, đã áp dụng nhiều kênh và đây là công thức thành công của riêng mình)
+
+==================== POST #18 ====================
+6. Một bộ Kit 5 bước để có thể tự xây dựng một tài sản số ( Digital Product) nói đơn giản là bạn có thể tự tạo ra một cái app để có thể thương mại hóa và bán nó, mảng Digital Product này đang rất tiềm năng khi kết hợp với KOC AI nó giúp bạn có được sản phẩm số riêng
+
+==================== POST #19 ====================
+Bộ giải pháp này có khác biệt gì so với các giải pháp khác trên thị trường ?
+
+==================== POST #20 ====================
+Có. Điểm khác biệt lớn nhất là bộ giải pháp này tạo ra các KOC AI vô cùng chân thật, nghĩa là bạn sẽ rất khó phân biệt đây là AI hay người thật, đây là tiêu chính hàng đầu mà bộ giải pháp này hướng đến HIỆU QUẢ NHẤT
+
+==================== POST #21 ====================
+TIẾT KIỆM chi phí nhưng TỐI ƯU nhất: Bộ giải pháp tổng hợp các công cụ có phí và miễn phí, tập trung vào điểm mạnh của từng công cụ để phù hợp với mục tiêu xây dựng KOC AI đúng nghĩa, các công cụ được cung cấp có thể là dùng bên thứ 3, hoặc dùng từ các nền tảng lớn, hoặc team mình lập trình, để bù trừ các ưu nhược điểm của các model AI
+
+==================== POST #22 ====================
+Bộ giải pháp này được xây dựng bởi một đội ngũ chuyên nghiệp và có tính cầu toàn cao, luôn được update nhiều kiến thức, công cụ mới để luôn hướng đến câu nói "Sự thành công của bạn là sự tự hào của đội ngũ chúng tôi"
+
+==================== POST #23 ====================
+Bộ giải pháp này thuộc sỡ hữu của công ty TNHH W5G MARTECH (MST: 0318606096)
+
+==================== POST #24 ====================
+Mình test khá nhiều model AI để làm hình ảnh và video, và thật ra câu hỏi quan trọng nhất không phải là “model nào mạnh nhất”, mà là “model nào hợp đúng việc mình đang làm”.
+
+==================== POST #25 ====================
+Nếu cần motion đẹp, camera move mượt, image-to-video ổn và cảm giác cinematic rõ ràng, Kling 3.0 vẫn là một lựa chọn rất đáng chú ý.
+
+==================== POST #26 ====================
+Nếu cần làm video kể chuyện, nhiều shot, có thoại, có nhịp chuyển cảnh tốt và ra clip nhanh để đăng social, Seedance là cái tên mình thấy khá thực dụng.
+
+==================== POST #27 ====================
+Nếu ưu tiên độ chân thực cao hơn, muốn video nhìn “xịn” hơn, đặc biệt ở các clip dọc hoặc nội dung thiên về người thật, thì Sora 2 Pro và Veo 3.1 đang nằm ở nhóm rất mạnh.
+
+==================== POST #28 ====================
+Còn nếu mục tiêu là làm nhanh để test concept, chạy số lượng, hoặc tích hợp vào workflow automation, Grok lại có lợi thế về tốc độ và tính tiện dụng hơn.
+
+==================== POST #29 ====================
+Cá nhân mình thấy không nên chọn 1 model cho tất cả.
+
+==================== POST #30 ====================
+Làm thực tế thì nên chia vai: model nào mạnh motion thì giao motion, model nào mạnh storytelling thì giao storytelling, model nào mạnh tạo asset hình thì dùng làm đầu vào.
+
+==================== POST #31 ====================
+Ví dụ, có thể dùng Nano Banana để tạo hoặc chỉnh ảnh đẹp hơn ở bước đầu, rồi dùng Kling để animate, sau đó tận dụng Seedance hoặc Veo cho những đoạn cần nhịp kể chuyện hay chất lượng hình ảnh cao hơn.
+
+==================== POST #32 ====================
+Nếu chốt nhanh theo kiểu dễ nhớ thì mình sẽ xếp như này:
+
+==================== POST #33 ====================
+Kling: mạnh về motion control và cảm giác cinematic.
+
+==================== POST #34 ====================
+Seedance: mạnh về storytelling, social clip và lip sync khá tự nhiên.
+
+==================== POST #35 ====================
+Sora: mạnh về chất hình và chiều sâu hình ảnh.
+
+==================== POST #36 ====================
+Veo: mạnh về realism và đồng bộ hình - tiếng.
+
+==================== POST #37 ====================
+Wan: cân bằng, ổn định, linh hoạt cho nhiều pipeline hơn.
+
+==================== POST #38 ====================
+Grok: nhanh, tiện để test idea và làm automation.
+
+==================== POST #39 ====================
+Nano Banana: hợp để làm hình ảnh đầu vào, key visual, storyboard hoặc edit ảnh.
+
+==================== POST #40 ====================
+Đừng chọn model theo hype, hãy chọn theo mục tiêu sản xuất nội dung của mình.
+
+==================== POST #41 ====================
+Đúng model thì tiết kiệm rất nhiều thời gian, chi phí và công sửa lại ở phía sau.
+
+==================== POST #42 ====================
+Anh em đang dùng model nào nhiều nhất để làm hình/video thời điểm này? See less
+
+==================== POST #43 ====================
+Câu lệnh KOC AI - hình như biểu cảm này đang là trend nè 
+{… See more
+
+==================== POST #44 ====================
+Câu lệnh KOC AI - hình như biểu cảm này đang là trend nè
+
+==================== POST #45 ====================
+Câu lệnh KOC AI - hình như biểu cảm này đang là trend nè 
+{
+  "image_generation_prompt": {
+    "core_concept": "Ultra-realistic portrait photography of a young East Asian female in her 20s, presented in a 3x3 grid layout (9 panels) featuring an exaggerated, silly, and funny facial expression challenge. The grid MUST feature the exact same woman, same face, same hairstyle, and same outfit across all 9 panels.",
+    "subject_appearance": "Young East Asian female, mid-20s, exquisite oval face, delicate features, fair natural skin. Black natural shoulder-length hair, middle-parted and slightly fluffy. Wearing a simple, minimalistic black crew-neck top.",
+    "layout_and_composition": "Vertical 3:4 aspect ratio, 3x3 standard grid with thin gray separator lines. Pure black background. Each panel is an independent close-up frontal portrait, capturing the head and shoulders, with the face occupying the main area.",
+    "photography_and_lighting": "85mm portrait lens, close-up frontal shot, eye-level camera. Soft studio frontal fill light, slight lateral rim light. High-definition skin details, realistic skin texture, pores, fine peach fuzz, natural lip lines, fine facial wrinkles. NO skin smoothing, NO beauty filters.",
+    "typography_and_text_in_vietnamese": {
+      "instructions": "Leave a proper black area at the top. Add text exclusively in Vietnamese using a simple white sans-serif font.",
+      "main_title": "9 biểu cảm hài hước lầy lội của cô gái",
+      "subtitle": "Bộ 15 · Phong cách mặt quỷ phóng đại",
+      "panel_labels_instructions": "Each panel must have its number and Vietnamese name located in the top left corner of its respective grid cell."
+    },
+    "panels": [
+      {
+        "panel_id": "01",
+        "vietnamese_text_label": "01 | Lưỡi xoắn",
+        "expression_description": "Tangled tongue: Eyes rolled up exaggeratedly, tongue stuck out far and twisted to one side, mouth askew, cheeks squeezed, creating an absurd grimace."
+      },
+      {
+        "panel_id": "02",
+        "vietnamese_text_label": "02 | Mũi lợn",
+        "expression_description": "Pig nose: One hand uses index and middle finger to push up the tip of the nose, making nostrils distinctly face forward. Eyes squinted tightly, nose bridge wrinkled, tip of tongue slightly out, mimicking a cute piglet."
+      },
+      {
+        "panel_id": "03",
+        "vietnamese_text_label": "03 | Mắt lác",
+        "expression_description": "Cross-eyed: Pupils extremely focused on the center of the nose bridge, eyebrows slightly raised, mouth open in an exaggerated 'O' shape, showing a surprised and comical look."
+      },
+      {
+        "panel_id": "04",
+        "vietnamese_text_label": "04 | Kéo tai làm mặt quỷ",
+        "expression_description": "Pulling ears grimace: Both hands pulling the ears outward, eyes rolled up showing whites, tongue sticking downward, facial muscles relaxed yet distorted, full of mischief."
+      },
+      {
+        "panel_id": "05",
+        "vietnamese_text_label": "05 | Véo má bánh bao",
+        "expression_description": "Pinching pancake face: Both hands' index fingers and thumbs pinching cheeks, pulling them outward significantly, corners of the mouth pulled wide and flat, eyes squinted into slits, emphasizing realistic fleshiness and skin stretching."
+      },
+      {
+        "panel_id": "06",
+        "vietnamese_text_label": "06 | Cười hô răng",
+        "expression_description": "Buck-toothed laugh: Eyes wide open, eyebrows raised, mouth exaggeratedly open showing upper and lower teeth, intentionally making a goofy laugh, tense facial muscles, strong comedic feel."
+      },
+      {
+        "panel_id": "07",
+        "vietnamese_text_label": "07 | Ép nọng cằm",
+        "expression_description": "Double chin squeeze: Head tilted down, neck squeezed backward to intentionally force a prominent double chin. Cheeks puffed, eyes squinted into crescents, sly smile."
+      },
+      {
+        "panel_id": "08",
+        "vietnamese_text_label": "08 | Chu môi chữ V",
+        "expression_description": "Pouting with peace sign: Cheeks slightly puffed, lips exaggeratedly gathered forward into a small circle, eyes wide open, one hand holding up a V-sign (peace sign) next to the face."
+      },
+      {
+        "panel_id": "09",
+        "vietnamese_text_label": "09 | Thổi bong bóng",
+        "expression_description": "Blowing bubbles: Cheeks full of air, lips gathered forward into a small circle, eyes looking upward, eyebrows slightly raised, displaying a stifled laugh and goofy look."
+      }
+    ]
+  },
+  "negative_prompt": "Different people, drifting facial features, changing face shapes, hair changes, outfit changes, duplicate expressions, incorrect number of fingers, extra arms, clipping hands through face, abnormal eye deformation, wrong teeth structure, unnatural tongue structure, cartoonish style, plastic skin, excessive smoothing, beauty filters, misaligned grid stitching, cropped subjects, watermarks, logos."
+} See less
+
+==================== POST #46 ====================
+"core_concept": "Ultra-realistic portrait photography of a young East Asian female in her 20s, presented in a 3x3 grid layout (9 panels) featuring an exaggerated, silly, and funny facial expression challenge. The grid MUST feature the exact same woman, same face, same hairstyle, and same outfit across all 9 panels.",
+
+==================== POST #47 ====================
+"subject_appearance": "Young East Asian female, mid-20s, exquisite oval face, delicate features, fair natural skin. Black natural shoulder-length hair, middle-parted and slightly fluffy. Wearing a simple, minimalistic black crew-neck top.",
+
+==================== POST #48 ====================
+"layout_and_composition": "Vertical 3:4 aspect ratio, 3x3 standard grid with thin gray separator lines. Pure black background. Each panel is an independent close-up frontal portrait, capturing the head and shoulders, with the face occupying the main area.",
+
+==================== POST #49 ====================
+"photography_and_lighting": "85mm portrait lens, close-up frontal shot, eye-level camera. Soft studio frontal fill light, slight lateral rim light. High-definition skin details, realistic skin texture, pores, fine peach fuzz, natural lip lines, fine facial wrinkles. NO skin smoothing, NO beauty filters.",
+
+==================== POST #50 ====================
+"instructions": "Leave a proper black area at the top. Add text exclusively in Vietnamese using a simple white sans-serif font.",
+
+==================== POST #51 ====================
+"main_title": "9 biểu cảm hài hước lầy lội của cô gái",
+
+==================== POST #52 ====================
+"subtitle": "Bộ 15 · Phong cách mặt quỷ phóng đại",
+
+==================== POST #53 ====================
+"panel_labels_instructions": "Each panel must have its number and Vietnamese name located in the top left corner of its respective grid cell."
+
+==================== POST #54 ====================
+"vietnamese_text_label": "01 | Lưỡi xoắn",
+
+==================== POST #55 ====================
+"expression_description": "Tangled tongue: Eyes rolled up exaggeratedly, tongue stuck out far and twisted to one side, mouth askew, cheeks squeezed, creating an absurd grimace."
+
+==================== POST #56 ====================
+"expression_description": "Pig nose: One hand uses index and middle finger to push up the tip of the nose, making nostrils distinctly face forward. Eyes squinted tightly, nose bridge wrinkled, tip of tongue slightly out, mimicking a cute piglet."
+
+==================== POST #57 ====================
+"expression_description": "Cross-eyed: Pupils extremely focused on the center of the nose bridge, eyebrows slightly raised, mouth open in an exaggerated 'O' shape, showing a surprised and comical look."
+
+==================== POST #58 ====================
+"vietnamese_text_label": "04 | Kéo tai làm mặt quỷ",
+
+==================== POST #59 ====================
+"expression_description": "Pulling ears grimace: Both hands pulling the ears outward, eyes rolled up showing whites, tongue sticking downward, facial muscles relaxed yet distorted, full of mischief."
+
+==================== POST #60 ====================
+"vietnamese_text_label": "05 | Véo má bánh bao",
+
+==================== POST #61 ====================
+"expression_description": "Pinching pancake face: Both hands' index fingers and thumbs pinching cheeks, pulling them outward significantly, corners of the mouth pulled wide and flat, eyes squinted into slits, emphasizing realistic fleshiness and skin stretching."
+
+==================== POST #62 ====================
+"vietnamese_text_label": "06 | Cười hô răng",
+
+==================== POST #63 ====================
+"expression_description": "Buck-toothed laugh: Eyes wide open, eyebrows raised, mouth exaggeratedly open showing upper and lower teeth, intentionally making a goofy laugh, tense facial muscles, strong comedic feel."
+
+==================== POST #64 ====================
+"vietnamese_text_label": "07 | Ép nọng cằm",
+
+==================== POST #65 ====================
+"expression_description": "Double chin squeeze: Head tilted down, neck squeezed backward to intentionally force a prominent double chin. Cheeks puffed, eyes squinted into crescents, sly smile."
+
+==================== POST #66 ====================
+"vietnamese_text_label": "08 | Chu môi chữ V",
+
+==================== POST #67 ====================
+"expression_description": "Pouting with peace sign: Cheeks slightly puffed, lips exaggeratedly gathered forward into a small circle, eyes wide open, one hand holding up a V-sign (peace sign) next to the face."
+
+==================== POST #68 ====================
+"vietnamese_text_label": "09 | Thổi bong bóng",
+
+==================== POST #69 ====================
+"expression_description": "Blowing bubbles: Cheeks full of air, lips gathered forward into a small circle, eyes looking upward, eyebrows slightly raised, displaying a stifled laugh and goofy look."
+
+==================== POST #70 ====================
+"negative_prompt": "Different people, drifting facial features, changing face shapes, hair changes, outfit changes, duplicate expressions, incorrect number of fingers, extra arms, clipping hands through face, abnormal eye deformation, wrong teeth structure, unnatural tongue structure, cartoonish style, plastic skin, excessive smoothing, beauty filters, misaligned grid stitching, cropped subjects, watermarks, logos."
+

@@ -1,0 +1,57 @@
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+.agent-reach-venv/
+
+# Python cache & artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Environment variables & secrets (CRITICAL)
+.env
+*.env.local
+*.pem
+*.key
+
+# Large video outputs & heavy binary renders
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+
+# Large compiled binaries & installers
+bin/
+*.exe
+*.dll
+*.msi
+
+# Temporary render caches & working directories
+output/
+temp_clips/
+shots/
+_gobi_render_temp/
+_vmax_temp_render/
+concat_project/cache/
+temp_subs/
+temp_extracted/
+temp_job_extracted/
+*.tmp
+*.zip
+*.tar.gz
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# OS specific files
+.DS_Store
+Thumbs.db
+desktop.ini

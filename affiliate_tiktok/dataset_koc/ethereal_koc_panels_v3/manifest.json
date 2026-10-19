@@ -1,0 +1,290 @@
+[
+  {
+    "panel_number": 1,
+    "panel_id": "panel_01_chinh_dien_toan_than",
+    "filename": "panel_01_chinh_dien_toan_than.jpg",
+    "caption": "1. Chính diện toàn thân",
+    "dna_locked": true,
+    "resolution": "512x512"
+  },
+  {
+    "panel_number": 2,
+    "panel_id": "panel_02_chinh_dien_trung_canh",
+    "filename": "panel_02_chinh_dien_trung_canh.jpg",
+    "caption": "2. Chính diện trung cảnh",
+    "dna_locked": true,
+    "resolution": "512x512"
+  },
+  {
+    "panel_number": 3,
+    "panel_id": "panel_03_can_mat_chinh_dien",
+    "filename": "panel_03_can_mat_chinh_dien.jpg",
+    "caption": "3. Cận mặt chính diện",
+    "dna_locked": true,
+    "resolution": "512x512"
+  },
+  {
+    "panel_number": 4,
+    "panel_id": "panel_04_goc_3_4_toan_than",
+    "filename": "panel_04_goc_3_4_toan_than.jpg",
+    "caption": "4. Góc 3/4 toàn thân",
+    "dna_locked": true,
+    "resolution": "512x512"
+  },
+  {
+    "panel_number": 5,
+    "panel_id": "panel_05_goc_3_4_trung_canh",
+    "filename": "panel_05_goc_3_4_trung_canh.jpg",
+    "caption": "5. Góc 3/4 trung cảnh",
+    "dna_locked": true,
+    "resolution": "512x512"
+  },
+  {
+    "panel_number": 6,
+    "panel_id": "panel_06_can_mat_3_4",
+    "filename": "panel_06_can_mat_3_4.jpg",
+    "caption": "6. Cận mặt 3/4",
+    "dna_locked": true,
+    "resolution": "512x512"
+  },
+  {
+    "panel_number": 7,
+    "panel_id": "panel_07_goc_nghieng_toan_than",
+    "filename": "panel_07_goc_nghieng_toan_than.jpg",
+    "caption": "7. Góc nghiêng toàn thân",
+    "dna_locked": true,
+    "resolution": "512x512"
+  },
+  {
+    "panel_number": 8,
+    "panel_id": "panel_08_can_mat_goc_nghieng",
+    "filename": "panel_08_can_mat_goc_nghieng.jpg",
+    "caption": "8. Cận mặt góc nghiêng",
+    "dna_locked": true,
+    "resolution": "512x512"
+  },
+  {
+    "panel_number": 9,
+    "panel_id": "panel_09_goc_chup_tu_sau_lung",
+    "filename": "panel_09_goc_chup_tu_sau_lung.jpg",
+    "caption": "9. Góc chụp từ sau lưng",
+    "dna_locked": true,
+    "resolution": "512x512"
+  },
+  {
+    "panel_number": 10,
+    "panel_id": "panel_10_nhin_lai_qua_vai",
+    "filename": "panel_10_nhin_lai_qua_vai.jpg",
+    "caption": "10. Nhìn lại qua vai",
+    "dna_locked": true,
+    "resolution": "512x512"
+  },
+  {
+    "panel_number": 11,
+    "panel_id": "panel_11_goc_cao_toan_than",
+    "filename": "panel_11_goc_cao_toan_than.jpg",
+    "caption": "11. Góc cao toàn thân",
+    "dna_locked": true,
+    "resolution": "512x512"
+  },
+  {
+    "panel_number": 12,
+    "panel_id": "panel_12_goc_cao_can_mat",
+    "filename": "panel_12_goc_cao_can_mat.jpg",
+    "caption": "12. Góc cao cận mặt",
+    "dna_locked": true,
+    "resolution": "512x512"
+  },
+  {
+    "panel_number": 13,
+    "panel_id": "panel_13_goc_thap_toan_than",
+    "filename": "panel_13_goc_thap_toan_than.jpg",
+    "caption": "13. Góc thấp toàn thân",
+    "dna_locked": true,
+    "resolution": "512x512"
+  },
+  {
+    "panel_number": 14,
+    "panel_id": "panel_14_goc_thap_can_mat",
+    "filename": "panel_14_goc_thap_can_mat.jpg",
+    "caption": "14. Góc thấp cận mặt",
+    "dna_locked": true,
+    "resolution": "512x512"
+  },
+  {
+    "panel_number": 15,
+    "panel_id": "panel_15_goc_90_do_tu_tren_xuong",
+    "filename": "panel_15_goc_90_do_tu_tren_xuong.jpg",
+    "caption": "15. Góc 90 độ từ trên xuống",
+    "dna_locked": true,
+    "resolution": "512x512"
+  },
+  {
+    "panel_number": 16,
+    "panel_id": "panel_16_top_down_trung_canh",
+    "filename": "panel_16_top_down_trung_canh.jpg",
+    "caption": "16. Top-down trung cảnh",
+    "dna_locked": true,
+    "resolution": "512x512"
+  },
+  {
+    "panel_number": 17,
+    "panel_id": "panel_17_top_down_nam_ngua",
+    "filename": "panel_17_top_down_nam_ngua.jpg",
+    "caption": "17. Top-down nằm ngửa",
+    "dna_locked": true,
+    "resolution": "512x512"
+  },
+  {
+    "panel_number": 18,
+    "panel_id": "panel_18_top_down_ngoi_bet",
+    "filename": "panel_18_top_down_ngoi_bet.jpg",
+    "caption": "18. Top-down ngồi bệt",
+    "dna_locked": true,
+    "resolution": "512x512"
+  },
+  {
+    "panel_number": 19,
+    "panel_id": "panel_19_goc_rong_toan_canh",
+    "filename": "panel_19_goc_rong_toan_canh.jpg",
+    "caption": "19. Góc rộng toàn cảnh",
+    "dna_locked": true,
+    "resolution": "512x512"
+  },
+  {
+    "panel_number": 20,
+    "panel_id": "panel_20_can_canh_goc_rong",
+    "filename": "panel_20_can_canh_goc_rong.jpg",
+    "caption": "20. Cận cảnh góc rộng",
+    "dna_locked": true,
+    "resolution": "512x512"
+  },
+  {
+    "panel_number": 21,
+    "panel_id": "panel_21_goc_nghieng_ha_lan",
+    "filename": "panel_21_goc_nghieng_ha_lan.jpg",
+    "caption": "21. Góc nghiêng Hà Lan",
+    "dna_locked": true,
+    "resolution": "512x512"
+  },
+  {
+    "panel_number": 22,
+    "panel_id": "panel_22_goc_ngang_hong",
+    "filename": "panel_22_goc_ngang_hong.jpg",
+    "caption": "22. Góc ngang hông",
+    "dna_locked": true,
+    "resolution": "512x512"
+  },
+  {
+    "panel_number": 23,
+    "panel_id": "panel_23_khoanh_tay_truoc_nguc",
+    "filename": "panel_23_khoanh_tay_truoc_nguc.jpg",
+    "caption": "23. Khoanh tay trước ngực",
+    "dna_locked": true,
+    "resolution": "512x512"
+  },
+  {
+    "panel_number": 24,
+    "panel_id": "panel_24_cham_tay_len_kinh",
+    "filename": "panel_24_cham_tay_len_kinh.jpg",
+    "caption": "24. Chạm tay lên cổ áo",
+    "dna_locked": true,
+    "resolution": "512x512"
+  },
+  {
+    "panel_number": 25,
+    "panel_id": "panel_25_can_canh_chat_lieu",
+    "filename": "panel_25_can_canh_chat_lieu.jpg",
+    "caption": "25. Cận cảnh chất liệu",
+    "dna_locked": true,
+    "resolution": "512x512"
+  },
+  {
+    "panel_number": 26,
+    "panel_id": "panel_26_buoc_di_tu_nhien",
+    "filename": "panel_26_buoc_di_tu_nhien.jpg",
+    "caption": "26. Bước đi tự nhiên",
+    "dna_locked": true,
+    "resolution": "512x512"
+  },
+  {
+    "panel_number": 27,
+    "panel_id": "panel_27_ngoi_ghe_dau",
+    "filename": "panel_27_ngoi_ghe_dau.jpg",
+    "caption": "27. Ngồi ghế đẩu",
+    "dna_locked": true,
+    "resolution": "512x512"
+  },
+  {
+    "panel_number": 28,
+    "panel_id": "panel_28_dua_tuong_ao",
+    "filename": "panel_28_dua_tuong_ao.jpg",
+    "caption": "28. Dựa tường ảo",
+    "dna_locked": true,
+    "resolution": "512x512"
+  },
+  {
+    "panel_number": 29,
+    "panel_id": "panel_29_nguoc_nhin_len",
+    "filename": "panel_29_nguoc_nhin_len.jpg",
+    "caption": "29. Ngước nhìn lên",
+    "dna_locked": true,
+    "resolution": "512x512"
+  },
+  {
+    "panel_number": 30,
+    "panel_id": "panel_30_cui_nhin_xuong",
+    "filename": "panel_30_cui_nhin_xuong.jpg",
+    "caption": "30. Cúi nhìn xuống",
+    "dna_locked": true,
+    "resolution": "512x512"
+  },
+  {
+    "panel_number": 31,
+    "panel_id": "panel_31_can_canh_doi_mat",
+    "filename": "panel_31_can_canh_doi_mat.jpg",
+    "caption": "31. Cận cảnh đôi mắt",
+    "dna_locked": true,
+    "resolution": "512x512"
+  },
+  {
+    "panel_number": 32,
+    "panel_id": "panel_32_anh_sang_bong_do",
+    "filename": "panel_32_anh_sang_bong_do.jpg",
+    "caption": "32. Ánh sáng bóng đổ",
+    "dna_locked": true,
+    "resolution": "512x512"
+  },
+  {
+    "panel_number": 33,
+    "panel_id": "panel_33_goc_chup_nua_mat",
+    "filename": "panel_33_goc_chup_nua_mat.jpg",
+    "caption": "33. Góc chụp nửa mặt",
+    "dna_locked": true,
+    "resolution": "512x512"
+  },
+  {
+    "panel_number": 34,
+    "panel_id": "panel_34_cui_nguoi_ve_truoc",
+    "filename": "panel_34_cui_nguoi_ve_truoc.jpg",
+    "caption": "34. Cúi người về trước",
+    "dna_locked": true,
+    "resolution": "512x512"
+  },
+  {
+    "panel_number": 35,
+    "panel_id": "panel_35_chinh_toc",
+    "filename": "panel_35_chinh_toc.jpg",
+    "caption": "35. Chỉnh tóc",
+    "dna_locked": true,
+    "resolution": "512x512"
+  },
+  {
+    "panel_number": 36,
+    "panel_id": "panel_36_tao_dang_nghe_thuat",
+    "filename": "panel_36_tao_dang_nghe_thuat.jpg",
+    "caption": "36. Tạo dáng nghệ thuật",
+    "dna_locked": true,
+    "resolution": "512x512"
+  }
+]

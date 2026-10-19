@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EGO SPACE - Vmax AI Agent Live Viewport</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            background: #090d16;
+            color: #f1f5f9;
+            display: flex;
+            height: 100vh;
+            overflow: hidden;
+        }
+        /* Sidebar bên trái: Thông tin tiến độ & Log */
+        .sidebar {
+            width: 380px;
+            background: #0f172a;
+            border-right: 1px solid #1e293b;
+            display: flex;
+            flex-direction: column;
+            z-index: 10;
+        }
+        .header {
+            padding: 18px 20px;
+            background: #1e293b;
+            border-bottom: 1px solid #334155;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        .badge {
+            background: #3b82f6;
+            color: white;
+            font-size: 11px;
+            font-weight: 700;
+            padding: 3px 8px;
+            border-radius: 4px;
+            letter-spacing: 0.5px;
+        }
+        .title {
+            font-size: 16px;
+            font-weight: 600;
+            color: #f8fafc;
+        }
+        .pulse {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: #22c55e;
+            box-shadow: 0 0 10px #22c55e;
+            animation: pulse 1.5s infinite;
+        }
+        @keyframes pulse {
+            0% { transform: scale(0.9); opacity: 0.8; }
+            50% { transform: scale(1.3); opacity: 1; }
+            100% { transform: scale(0.9); opacity: 0.8; }
+        }
+        /* Timeline các bước */
+        .timeline {
+            padding: 20px;
+            border-bottom: 1px solid #1e293b;
+            display: flex;
+            flex-direction: column;
+            gap: 14px;
+        }
+        .step-item {
+            display: flex;
+            align-items: flex-start;
+            gap: 12px;
+            font-size: 13px;
+            color: #64748b;
+            transition: all 0.3s;
+        }
+        .step-item.active {
+            color: #38bdf8;
+            font-weight: 600;
+        }
+        .step-item.done {
+            color: #22c55e;
+        }
+        .step-icon {
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            border: 2px solid #334155;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 10px;
+            flex-shrink: 0;
+            background: #0f172a;
+        }
+        .step-item.active .step-icon {
+            border-color: #38bdf8;
+            color: #38bdf8;
+            box-shadow: 0 0 8px rgba(56, 189, 248, 0.4);
+        }
+        .step-item.done .step-icon {
+            border-color: #22c55e;
+            background: #22c55e;
+            color: #0f172a;
+            font-weight: bold;
+        }
+        /* Live Action Console Log */
+        .console-wrapper {
+            flex: 1;
+            padding: 16px 20px;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+        .console-header {
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: #94a3b8;
+            margin-bottom: 10px;
+            display: flex;
+            justify-content: space-between;
+        }
+        .log-box {
+            flex: 1;
+            background: #020617;
+            border: 1px solid #1e293b;
+            border-radius: 6px;
+            padding: 12px;
+            font-family: 'Consolas', 'Courier New', monospace;
+            font-size: 12px;
+            line-height: 1.6;
+            color: #cbd5e1;
+            overflow-y: auto;
+        }
+        .log-line {
+            margin-bottom: 6px;
+            word-break: break-all;
+        }
+        .log-time { color: #64748b; }
+        .log-action { color: #38bdf8; font-weight: 600; }
+        .log-success { color: #4ade80; }
+
+        /* Main Viewport bên phải */
+        .viewport-container {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            background: #020617;
+        }
+        .viewport-topbar {
+            height: 48px;
+            background: #0f172a;
+            border-bottom: 1px solid #1e293b;
+            display: flex;
+            align-items: center;
+            padding: 0 20px;
+            gap: 15px;
+        }
+        .url-bar {
+            flex: 1;
+            background: #1e293b;
+            border: 1px solid #334155;
+            border-radius: 6px;
+            padding: 6px 14px;
+            font-size: 13px;
+            color: #94a3b8;
+            font-family: monospace;
+            overflow: hidden;
+            white-space: nowrap;
+            text-overflow: ellipsis;
+        }
+        .viewport-screen {
+            flex: 1;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+            position: relative;
+            background: #000;
+        }
+        #live-frame {
+            max-width: 100%;
+            max-height: 100%;
+            border-radius: 8px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.8);
+            border: 1px solid #334155;
+            object-fit: contain;
+        }
+    </style>
+</head>
+<body>
+    <!-- Sidebar -->
+    <div class="sidebar">
+        <div class="header">
+            <div class="pulse"></div>
+            <div class="title">EGO SPACE</div>
+            <div class="badge">VMAX ISOLATED</div>
+        </div>
+
+        <div class="timeline">
+            <div class="step-item" id="step-1">
+                <div class="step-icon">1</div>
+                <div>Khởi tạo không gian riêng (Isolated Profile)</div>
+            </div>
+            <div class="step-item" id="step-2">
+                <div class="step-icon">2</div>
+                <div>Mở TikTok & Tìm nút đăng nhập Google</div>
+            </div>
+            <div class="step-item" id="step-3">
+                <div class="step-icon">3</div>
+                <div>Chọn tài khoản Đinh Thiên Thoại</div>
+            </div>
+            <div class="step-item" id="step-4">
+                <div class="step-icon">4</div>
+                <div>Xác thực & Tạo kênh Review Đồ Nữ</div>
+            </div>
+            <div class="step-item" id="step-5">
+                <div class="step-icon">5</div>
+                <div>Kích hoạt Giỏ hàng Affiliate</div>
+            </div>
+        </div>
+
+        <div class="console-wrapper">
+            <div class="console-header">
+                <span>Nhật ký hành động (Live Log)</span>
+                <span id="ping-text">Kết nối: Tốt</span>
+            </div>
+            <div class="log-box" id="log-content">
+                <div class="log-line"><span class="log-time">[Khởi động]</span> Không gian Ego Space đã sẵn sàng.</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Viewport -->
+    <div class="viewport-container">
+        <div class="viewport-topbar">
+            <div style="font-size: 13px; color: #94a3b8; font-weight: 500;">LIVE VIEWPORT:</div>
+            <div class="url-bar" id="current-url">https://www.tiktok.com/signup</div>
+        </div>
+        <div class="viewport-screen">
+            <img id="live-frame" src="shots/live.png" alt="Đang truyền luồng trực tiếp từ trình duyệt..." onerror="this.src='shots/google_logged_in.png'">
+        </div>
+    </div>
+
+    <script>
+        let lastStatus = "";
+        const logContent = document.getElementById('log-content');
+        const urlBar = document.getElementById('current-url');
+        const liveFrame = document.getElementById('live-frame');
+
+        function appendLog(action, isSuccess = false) {
+            const time = new Date().toLocaleTimeString();
+            const div = document.createElement('div');
+            div.className = 'log-line';
+            div.innerHTML = `<span class="log-time">[${time}]</span> <span class="${isSuccess ? 'log-success' : 'log-action'}">${action}</span>`;
+            logContent.appendChild(div);
+            logContent.scrollTop = logContent.scrollHeight;
+        }
+
+        function setStep(currentStep) {
+            for (let i = 1; i <= 5; i++) {
+                const el = document.getElementById(`step-${i}`);
+                if (!el) continue;
+                if (i < currentStep) {
+                    el.className = 'step-item done';
+                } else if (i === currentStep) {
+                    el.className = 'step-item active';
+                } else {
+                    el.className = 'step-item';
+                }
+            }
+        }
+
+        function pollUpdates() {
+            // Đọc trạng thái từ file status.json
+            fetch('shots/status.json?t=' + Date.now())
+                .then(r => r.json())
+                .then(data => {
+                    if (data && data.status && data.status !== lastStatus) {
+                        lastStatus = data.status;
+                        appendLog(data.status, data.success || false);
+                        if (data.url) urlBar.innerText = data.url;
+                        if (data.step) setStep(data.step);
+                    }
+                })
+                .catch(() => {});
+
+            // Cập nhật ảnh màn hình trực tiếp
+            const img = new Image();
+            img.src = 'shots/live.png?t=' + Date.now();
+            img.onload = () => {
+                liveFrame.src = img.src;
+            };
+        }
+
+        // Tự động kiểm tra mỗi 600ms
+        setInterval(pollUpdates, 600);
+        pollUpdates();
+    </script>
+</body>
+</html>

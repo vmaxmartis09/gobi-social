@@ -1,0 +1,42 @@
+{
+  "candidate": "Nguyen Thi Xuan Huong",
+  "criteria": {
+    "location": "Quy Nhơn, Bình Định",
+    "schedule": "Giờ hành chính (Nghỉ Thứ 7, Chủ nhật)",
+    "salary_range": "8.000.000 - 10.000.000 VNĐ",
+    "benefits": "Đóng BHXH đầy đủ, thưởng lễ tết"
+  },
+  "jobs": [
+    {
+      "id": "QN-01",
+      "company": "FPT Software Quy Nhơn (AI Valley)",
+      "title": "Chuyên Viên Truyền Thông & Marketing Nội Bộ",
+      "source": "TopCV / LinkedIn",
+      "salary": "9.000.000 - 12.000.000 VNĐ",
+      "schedule": "Thứ 2 - Thứ 6 (Nghỉ T7, CN)",
+      "fit_score": "95%",
+      "status": "Ready to Apply (Chờ duyệt)"
+    },
+    {
+      "id": "QN-02",
+      "company": "Tập đoàn TMS / Khách sạn Pullman Quy Nhơn",
+      "title": "Marketing & Content Creator (Bilingual En-Vi)",
+      "source": "Vieclam24h",
+      "salary": "8.500.000 - 10.000.000 VNĐ",
+      "schedule": "Hành chính (Thứ 2 - Thứ 6)",
+      "fit_score": "90%",
+      "status": "Ready to Apply (Chờ duyệt)"
+    },
+    {
+      "id": "QN-03",
+      "company": "Trung Tâm Ngoại Ngữ Quốc Tế Quy Nhơn",
+      "title": "Chuyên Viên Tư Vấn & Phát Triển Nội Dung Khóa Học",
+      "source": "Facebook Job Groups",
+      "salary": "8.000.000 - 11.000.000 VNĐ",
+      "schedule": "Hành chính",
+      "fit_score": "92%",
+      "status": "Ready to Apply (Chờ duyệt)"
+    }
+  ],
+  "last_updated": "2026-10-11 13:14:26"
+}

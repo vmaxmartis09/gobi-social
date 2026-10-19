@@ -1,0 +1,137 @@
+=== HEADINGS ===
+<h4> Giỏ hàng
+<h2> Cung cấp giải phápmartech doanh nghiệp
+<h2> Cung cấp giải phápmartech doanh nghiệp
+<h2> Chúng tôi cung cấp các giải pháp Martechgiúp Doanh Nghiệp tiếp cận khách hàng tốt hơn
+<h2> Chúng tôi cung cấp các giải pháp Martechgiúp Doanh Nghiệp tiếp cận khách hàng tốt hơn
+<h3> Hệ thống Martech
+<h3> Thiết kế Website
+<h3> Chuyển đổi số Doanh Nghiệp
+<h3> Dịch vụ Marketing tổng thể
+<h3> Hệ thống CRM
+<h3> Quảng cáo Facebook Ads
+<h2> W5G giúp doanh nghiệp chuyển đổi 5.0 tăng hiệu quả kinh doanh
+<h2> W5G với sứ mệnhđồng hành cùng doanh nghiệp
+<h2> W5G triển khai giải pháp AI & Martech 5.0 cho doanh nghiệp
+<h3> Tích hợp AI
+<h4> Phân tích doanh nghiệp
+<h4> Xây dựng chiến lược AI
+<h3> Nghiên cứu & tùy chỉnh
+<h4> AI Agent
+<h4> Phân tích nhân sự
+<h3> Kịch bản & quy trình
+<h4> Workflow Automation
+<h4> Xử lý tình huống
+<h3> Nội dung & đào tạo
+<h4> Huấn luyện AI
+<h4> Đào tạo nhân sự
+<h3> Triển khai & giám sát
+<h4> Tích hợp AI
+<h4> Giám sát & tối ưu
+<h3> Báo cáo & cải tiến
+<h4> Tối Ưu Hóa Liên Tục
+<h4> Tối ưu AI
+<h2> W5G xây dựng giải pháp Martech 5.0 toàn diện cho doanh nghiệp
+<h2> 1. Tư vấn & chiến lược
+<h3> Tư vấn chiến lược
+<h4> Phân tích doanh nghiệp
+<h4> Xây dựng chiến lược AI
+<h2> 2. Nghiên cứu & tùy chỉnh
+<h3> Nghiên cứu & tùy chỉnh
+<h4> AI Agent:
+<h4> Phân tích nhân sự:
+<h2> 3.Kịch bản & quy trình
+<h3> Kịch bản & quy trình
+<h4> Workflow Automation:
+<h4> Xử lý tình huống
+<h2> Với W5G, bước tiến mới cho doanh nghiệp
+<h3> Hiệu quả và năng suất cao
+<h3> Support 24/7
+<h4> TOP 100 Startup xuất sắc của Startup Wheel 2024
+<h4> Đối tác AWS – “Phát triển khởi nghiệp cùng AWS”
+<h4> Đối tác Microsoft Azure – “Microsoft for Startups Founders”
+<h4> Đối tác OpenAI – “OpenAI for Startups”
+<h2> Bài viết tin tức, chuyên môn
+<h5> MINIMAX API Key & Hermes Agent
+<h5> NVIDIA API Key & Hermes Agent
+<h5> [Tool Dùng Online] AI Automation – Tender / Bidding Hunter: Giải Pháp “Săn” Gói Thầu & Soi Giá Đối Thủ B2B Tự Động
+<h5> [Tool Dùng Online] AI Automation – “Vũ Khí” Săn Data Excel & Dữ Liệu Thô (Raw Data) Cho Doanh Nghiệp
+<h5> [Tool Dùng Online] AI Automation – Công Cụ “Săn” Báo Cáo & Insight Thị Trường
+<h5> [Tool Tải về] AI Automation – Ghi âm và tóm tắt cuộc họp
+<h5> [Tool Tải Về] AI Automation – Chuyển văn bản thành giọng nói
+<h5> [Tool Dùng Online] AI Automation – “Đọc Vị” Tâm Lý & Hành Vi Khách Hàng
+<h3> Về chúng tôi
+<h3> Thông tin quan trọng
+<h3> Dịch vụ chính
+<h3> Thông tin liên hệ
+<h3> Công ty TNHH W5G Martech
+<h4> Giỏ hàng
+<h3> Đăng nhập
+
+=== FEATURED ITEMS & COURSES ===
+Hệ thống Martech | Chúng tôi cung cấp hệ thống Martech Technology giúp cho việc thu thập, quản lý, phân loại và khai thác đối đa tệp khách hàng tiềm năng, giúp tăng doanh thu cho doanh nghiệp.
+---
+Thiết kế Website | Làm Marketing mà không có website chuẩn thì khó có thể làm được. Chúng tôi cung cấp dịch vụ thiết kế website chuẩn SEO, chuyên nghiệp, hữu dụng với giao diện đẹp, tinh tế và nội dung được chăm chút tỉ mỉ.
+---
+Chuyển đổi số Doanh Nghiệp | Dịch vụ chuyển đổi số doanh nghiệp của chúng tôi là một hành trình tận dụng sức mạnh của công nghệ số để giải quyết những thách thức cốt lõi mà doanh nghiệp đang đối diện và gặp phải.
+---
+Dịch vụ Marketing tổng thể | Dịch vụ Marketing tổng thể của chúng tôi cung cấp dịch vụ toàn diện mang đến chiến lược đa chiều, từ xây dựng thương hiệu, tối ưu hóa nội dung đến quảng cáo và phân tích dữ liệu. Chúng tôi cam kết tăng cường hiệu suất và tạo ra kết quả kinh doanh xuất sắc
+---
+Hệ thống CRM | Dịch vụ cung cấp hệ thống CRM của chúng tôi giúp doanh nghiệp quản lý mối quan hệ khách hàng một cách hiệu quả. Tích hợp dữ liệu, tự động hóa quy trình và cung cấp thông tin chi tiết, tạo nền tảng cho sự tăng trưởng bền vững
+---
+Quảng cáo Facebook Ads | Dịch vụ quảng cáo của chúng tôi kết hợp chiến lược thông minh và định hình đối tượng cụ thể. Tối ưu hóa hiệu suất chiến dịch, tăng tương tác và chuyển đổi, mang lại kết quả quảng cáo ấn tượng
+---
+Phân tích doanh nghiệp | Đánh giá quy trình vận hành, xác định điểm mạnh/yếu và cơ hội áp dụng A.
+---
+Xây dựng chiến lược AI | Đề xuất lộ trình triển khai AI giúp tối ưu công việc và tăng hiệu suất.
+---
+AI Agent | Xây dựng AI có khả năng không chỉ trả lời mà còn thực thi công việc.
+---
+Phân tích nhân sự | Tùy chỉnh AI theo đặc thù từng phòng ban để hỗ trợ công việc tốt nhất..
+---
+Workflow Automation | Tạo các luồng công việc tự động giúp giảm tải tác vụ thủ công.
+---
+Xử lý tình huống | AI có khả năng hỗ trợ nhân viên theo kịch bản sẵn có, đảm bảo tính chính xác.
+---
+Huấn luyện AI | Dạy AI xử lý thông tin theo đặc thù ngành và doanh nghiệp.
+---
+Đào tạo nhân sự | Hướng dẫn nhân viên cách tương tác với AI để tối ưu hiệu suất làm việc.
+---
+Tích hợp AI | Kết nối AI với các hệ thống hiện có trong doanh nghiệp.
+---
+Giám sát & tối ưu | Theo dõi, đo lường hiệu quả AI để tinh chỉnh và cải thiện liên tục.
+---
+Tối Ưu Hóa Liên Tục | AI tổng hợp báo cáo chi tiết giúp doanh nghiệp ra quyết định nhanh chóng.
+---
+Tối ưu AI | Cập nhật AI theo phản hồi thực tế và xu hướng công nghệ mới.
+---
+Phân tích doanh nghiệp | Đánh giá quy trình vận hành, xác định điểm mạnh/yếu và cơ hội áp dụng AI.
+---
+AI Agent: | Xây dựng AI có khả năng không chỉ trả lời mà còn thực thi công việc.
+---
+Phân tích nhân sự: | Tùy chỉnh AI theo đặc thù từng phòng ban để hỗ trợ công việc tốt nhất.
+---
+Workflow Automation: | Tạo các luồng công việc tự động giúp giảm tải tác vụ thủ công.
+---
+Hiệu quả và năng suất cao | Với việc hiểu biết và phân tích dữ liệu trên hệ thống – hiệu quả của toàn hệ thống luôn ở mức bình ổn và gia tăng.
+---
+Support 24/7 | Chúng tôi sát cánh cùng doanh nghiệp ngay cả khi chủ doanh nghiệp đang ngủ, chúng tôi cam kết hỗ trợ 24/7 bất kể khi nào khách hàng cần.
+---
+MINIMAX API Key & Hermes Agent | 20/06/2026 | Tài liệu này cung cấp các bước chi tiết để thiết lập mã API từ nền tảng MINIMAX M3 và tích hợp vào ứng...
+---
+NVIDIA API Key & Hermes Agent | 12/06/2026 | Tài liệu này cung cấp các bước chi tiết để thiết lập mã API từ nền tảng NVIDIA và tích hợp vào ứng dụng...
+---
+[Tool Dùng Online] AI Automation – Tender / Bidding Hunter: Giải Pháp “Săn” Gói Thầu & Soi Giá Đối Thủ B2B Tự Động | 04/01/2026 | Tender / Bidding Hunter: Giải Pháp “Săn” Gói Thầu & Soi Giá Đối Thủ B2B Tự Động Khám phá Tender Hunter của W5G Martech...
+---
+[Tool Dùng Online] AI Automation – “Vũ Khí” Săn Data Excel & Dữ Liệu Thô (Raw Data) Cho Doanh Nghiệp | 04/01/2026 | Intelligence Hunter: “Vũ Khí” Săn Data Excel & Dữ Liệu Thô (Raw Data) Cho Doanh Nghiệp Intelligence Hunter của W5G Martech là hệ thống...
+---
+[Tool Dùng Online] AI Automation – Công Cụ “Săn” Báo Cáo & Insight Thị Trường | 04/01/2026 | Market Report Hunter: Công Cụ “Săn” Báo Cáo & Insight Thị Trường Đỉnh Cao Từ W5G Martech Khám phá Market Report Hunter của W5G...
+---
+[Tool Tải về] AI Automation – Ghi âm và tóm tắt cuộc họp | 03/01/2026 | MeetingMind AI: Công Cụ Ghi Âm & Tóm Tắt Cuộc Họp Thông Minh – Hướng Dẫn Từ A-Z Bạn cảm thấy mệt mỏi vì...
+---
+[Tool Tải Về] AI Automation – Chuyển văn bản thành giọng nói | 03/01/2026 | Hướng dẫn sử dụng AI Voice W5G Martech: Chuyển văn bản thành giọng nói chuyên nghiệp chỉ trong 3 bước Khám phá cách tạo...
+---
+[Tool Dùng Online] AI Automation – “Đọc Vị” Tâm Lý & Hành Vi Khách Hàng | 02/01/2026 | Hướng Dẫn Sử Dụng InsightMap: “Đọc Vị” Tâm Lý & Hành Vi Khách Hàng Trong Marketing, “biết người biết ta, trăm trận trăm thắng”....
+---
+W5G đồng hành cùng các doanh nghiệp trong sứ mệnh phát triển bền vững. Rất mong nhận được nhiều hơn nữa sự tin tưởng và ủng hộ của quý khách hàng.
+---

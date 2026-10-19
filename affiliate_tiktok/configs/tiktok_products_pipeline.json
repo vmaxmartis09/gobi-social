@@ -1,0 +1,45 @@
+{
+  "creator_name": "Đinh Thiên Thoại",
+  "channel_handle": "@thienthoaireview",
+  "niche": "Review Đồ Nữ & Gợi Ý Quà Tặng (TikTok Shop Affiliate)",
+  "commission_goal_monthly": "15.000.000 VNĐ",
+  "campaigns": [
+    {
+      "id": "AFF-01",
+      "product_name": "Váy Body Tay Dài Cổ Vuông Tôn Dáng Phối Ren",
+      "category": "Thời trang nữ",
+      "shop_name": "LAVENDER Official Store",
+      "price_vnd": 249000,
+      "commission_rate": "18%",
+      "commission_per_order": 44820,
+      "hook_angle": "Con trai chấm điểm chiếc đầm cháy hàng nhất TikTok Shop tuần qua",
+      "target_audience": "Nữ 18 - 25 tuổi, thích style quyến rũ thanh lịch",
+      "status": "Lên kịch bản (Ready to film)"
+    },
+    {
+      "id": "AFF-02",
+      "product_name": "Túi Xách Nữ Kẹp Nách Da Mềm Đính Dây Xích Bạc",
+      "category": "Túi xách & Phụ kiện",
+      "shop_name": "MOLLIX Studio",
+      "price_vnd": 189000,
+      "commission_rate": "20%",
+      "commission_per_order": 37800,
+      "hook_angle": "Chiếc túi giá chưa bằng 3 ly trà sữa mà đựng được cả thế giới của con gái",
+      "target_audience": "Học sinh, sinh viên, nhân viên văn phòng",
+      "status": "Đang test mẫu (In Review)"
+    },
+    {
+      "id": "AFF-03",
+      "product_name": "Set Quà Tặng Nước Hoa Mini + Son Kem Lì Tone Đỏ Đất",
+      "category": "Mỹ phẩm / Quà tặng",
+      "shop_name": "BEAUTY BOX Vietnam",
+      "price_vnd": 320000,
+      "commission_rate": "22%",
+      "commission_per_order": 70400,
+      "hook_angle": "Gợi ý cho các ông món quà dưới 300k đảm bảo bạn gái khen tinh tế 10 điểm",
+      "target_audience": "Nam giới mua tặng người yêu & Nữ tự thưởng",
+      "status": "Lên lịch gắn giỏ hàng"
+    }
+  ],
+  "last_updated": "2026-10-17"
+}

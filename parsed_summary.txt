@@ -1,0 +1,23 @@
+ID: 7634957602555792647
+Desc: Bật mí quy trình làm video AI thay đồ thời trang #hocAI #huongdanAI #makemoneyonline #xaykenhAI #affiliatemarketing 
+CreateTime: 1777652097
+SuggestedWords: ['ai thời trang', 'làm video ai', 'video ai làm affiliate', 'câu lệnh tạo video thời trang cho nữ', 'ai affiliate', 'uyenmmoai', 'background quay video thời trang', 'background quay video', 'làm video ai bán hàng', 'cách làm video ai miễn phí']
+DiversificationLabels: ['Software & APPs', 'Technology', 'Culture & Education & Technology']
+AIGCDescription: 
+IsAigc: False
+Contents: [{'desc': 'Bật mí quy trình làm video AI thay đồ thời trang #hocAI #huongdanAI #makemoneyonline #xaykenhAI #affiliatemarketing ', 'textExtra': [{'awemeId': '', 'start': 49, 'end': 55, 'hashtagId': '1615655214290945', 'hashtagName': 'hocai', 'type': 1, 'subType': 0, 'isCommerce': False}, {'awemeId': '', 'start': 56, 'end': 67, 'hashtagId': '7248065622617522181', 'hashtagName': 'huongdanai', 'type': 1, 'subType': 0, 'isCommerce': False}, {'awemeId': '', 'start': 68, 'end': 84, 'hashtagId': '21647995', 'hashtagName': 'makemoneyonline', 'type': 1, 'subType': 0, 'isCommerce': False}, {'awemeId': '', 'start': 85, 'end': 95, 'hashtagId': '7278094763713101826', 'hashtagName': 'xaykenhai', 'type': 1, 'subType': 0, 'isCommerce': False}, {'awemeId': '', 'start': 96, 'end': 115, 'hashtagId': '59289072', 'hashtagName': 'affiliatemarketing', 'type': 1, 'subType': 0, 'isCommerce': False}]}]
+video.id: 7634957602555792647
+video.ratio: 
+video.cover: 
+video.originCover: 
+video.dynamicCover: 
+video.playAddr: 
+video.downloadAddr: 
+video.reflowCover: 
+music.id: 7634957674173942536
+music.title: âm thanh gốc - HỌC AI CÙNG UYÊN
+music.playUrl: https://v16m.tiktokcdn.com/08e861ae90e235bcba542db3831f1ee5/6ad4e37e/video/tos/alisg/tos-alisg-v-27dcd7/oYA90T7qBEDYd04RB8iAoBEj0Avi0AAEinwSKf/?a=1180&bti=ODszNWYuMDE6&&bt=125&ft=GcDrcInz7Th7VMKGXq8Zmo&mime_type=audio_mpeg&rc=am5xN3I5cjZnOjMzODU8NEBpam5xN3I5cjZnOjMzODU8NEBibWtpMmRrMG5hLS1kMS1zYSNibWtpMmRrMG5hLS1kMS1zcw%3D%3D&vvpl=1&l=20261017231541B22B36ED8508FEB9B644&btag=e00058000&sp_exp=hash_v0
+music.coverLarge: https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/3b03aa8060b29f035e6675854f649433~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=7bd130cd&x-expires=1792422000&x-signature=nUzezRjLlAhr4MqM59C50%2FlKEE4%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my
+music.coverMedium: https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/3b03aa8060b29f035e6675854f649433~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=b3f04e32&x-expires=1792422000&x-signature=O5KhbqtMC6bex0ePGwm8oY1XBBU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my
+music.coverThumb: https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/3b03aa8060b29f035e6675854f649433~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=891123cd&x-expires=1792422000&x-signature=UbbP7CN4o1cihXR3HiKbsjkjZCQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my
+music.authorName: HỌC AI CÙNG UYÊN

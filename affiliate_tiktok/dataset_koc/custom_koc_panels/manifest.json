@@ -1,0 +1,326 @@
+[
+  {
+    "panel_number": 1,
+    "row": 1,
+    "col": 1,
+    "vn_title": "Chính diện toàn thân",
+    "action_description": "Eye-level full body shot, facing forward, arms naturally at sides.",
+    "file_name": "panel_01_chinh_dien_toan_than.jpg",
+    "file_path": "c:\\Users\\HAI\\OneDrive\\Tài liệu\\vmax\\affiliate_tiktok\\dataset_koc\\custom_koc_panels\\panel_01_chinh_dien_toan_than.jpg"
+  },
+  {
+    "panel_number": 2,
+    "row": 1,
+    "col": 2,
+    "vn_title": "Chính diện trung cảnh",
+    "action_description": "Medium shot from the waist up, facing forward, relaxed expression.",
+    "file_name": "panel_02_chinh_dien_trung_canh.jpg",
+    "file_path": "c:\\Users\\HAI\\OneDrive\\Tài liệu\\vmax\\affiliate_tiktok\\dataset_koc\\custom_koc_panels\\panel_02_chinh_dien_trung_canh.jpg"
+  },
+  {
+    "panel_number": 3,
+    "row": 1,
+    "col": 3,
+    "vn_title": "Cận mặt chính diện",
+    "action_description": "Close-up portrait focusing on the face, glasses, and subtle expression.",
+    "file_name": "panel_03_can_mat_chinh_dien.jpg",
+    "file_path": "c:\\Users\\HAI\\OneDrive\\Tài liệu\\vmax\\affiliate_tiktok\\dataset_koc\\custom_koc_panels\\panel_03_can_mat_chinh_dien.jpg"
+  },
+  {
+    "panel_number": 4,
+    "row": 1,
+    "col": 4,
+    "vn_title": "Góc 3/4 toàn thân",
+    "action_description": "Full body shot turned 45 degrees, looking at the camera.",
+    "file_name": "panel_04_goc_3_4_toan_than.jpg",
+    "file_path": "c:\\Users\\HAI\\OneDrive\\Tài liệu\\vmax\\affiliate_tiktok\\dataset_koc\\custom_koc_panels\\panel_04_goc_3_4_toan_than.jpg"
+  },
+  {
+    "panel_number": 5,
+    "row": 1,
+    "col": 5,
+    "vn_title": "Góc 3/4 trung cảnh",
+    "action_description": "Medium shot turned 45 degrees, hands resting in pockets.",
+    "file_name": "panel_05_goc_3_4_trung_canh.jpg",
+    "file_path": "c:\\Users\\HAI\\OneDrive\\Tài liệu\\vmax\\affiliate_tiktok\\dataset_koc\\custom_koc_panels\\panel_05_goc_3_4_trung_canh.jpg"
+  },
+  {
+    "panel_number": 6,
+    "row": 1,
+    "col": 6,
+    "vn_title": "Cận mặt 3/4",
+    "action_description": "Close-up portrait at a 45-degree angle, soft lighting on the cheek.",
+    "file_name": "panel_06_can_mat_3_4.jpg",
+    "file_path": "c:\\Users\\HAI\\OneDrive\\Tài liệu\\vmax\\affiliate_tiktok\\dataset_koc\\custom_koc_panels\\panel_06_can_mat_3_4.jpg"
+  },
+  {
+    "panel_number": 7,
+    "row": 2,
+    "col": 1,
+    "vn_title": "Góc nghiêng toàn thân",
+    "action_description": "Perfect 90-degree side profile, full body, looking straight ahead off-camera.",
+    "file_name": "panel_07_goc_nghieng_toan_than.jpg",
+    "file_path": "c:\\Users\\HAI\\OneDrive\\Tài liệu\\vmax\\affiliate_tiktok\\dataset_koc\\custom_koc_panels\\panel_07_goc_nghieng_toan_than.jpg"
+  },
+  {
+    "panel_number": 8,
+    "row": 2,
+    "col": 2,
+    "vn_title": "Cận mặt góc nghiêng",
+    "action_description": "Close-up side profile focusing on the jawline, nose, and side of the glasses.",
+    "file_name": "panel_08_can_mat_goc_nghieng.jpg",
+    "file_path": "c:\\Users\\HAI\\OneDrive\\Tài liệu\\vmax\\affiliate_tiktok\\dataset_koc\\custom_koc_panels\\panel_08_can_mat_goc_nghieng.jpg"
+  },
+  {
+    "panel_number": 9,
+    "row": 2,
+    "col": 3,
+    "vn_title": "Góc chụp từ sau lưng",
+    "action_description": "Full body shot from behind, showing the back of the corduroy shirt.",
+    "file_name": "panel_09_goc_chup_tu_sau_lung.jpg",
+    "file_path": "c:\\Users\\HAI\\OneDrive\\Tài liệu\\vmax\\affiliate_tiktok\\dataset_koc\\custom_koc_panels\\panel_09_goc_chup_tu_sau_lung.jpg"
+  },
+  {
+    "panel_number": 10,
+    "row": 2,
+    "col": 4,
+    "vn_title": "Nhìn lại qua vai",
+    "action_description": "Medium shot from behind, head turned looking back over the shoulder at the lens.",
+    "file_name": "panel_10_nhin_lai_qua_vai.jpg",
+    "file_path": "c:\\Users\\HAI\\OneDrive\\Tài liệu\\vmax\\affiliate_tiktok\\dataset_koc\\custom_koc_panels\\panel_10_nhin_lai_qua_vai.jpg"
+  },
+  {
+    "panel_number": 11,
+    "row": 2,
+    "col": 5,
+    "vn_title": "Góc cao toàn thân",
+    "action_description": "High angle shot looking down at the full body, emphasizing perspective.",
+    "file_name": "panel_11_goc_cao_toan_than.jpg",
+    "file_path": "c:\\Users\\HAI\\OneDrive\\Tài liệu\\vmax\\affiliate_tiktok\\dataset_koc\\custom_koc_panels\\panel_11_goc_cao_toan_than.jpg"
+  },
+  {
+    "panel_number": 12,
+    "row": 2,
+    "col": 6,
+    "vn_title": "Góc cao cận mặt",
+    "action_description": "High angle close-up, looking up into the lens with large, curious eyes.",
+    "file_name": "panel_12_goc_cao_can_mat.jpg",
+    "file_path": "c:\\Users\\HAI\\OneDrive\\Tài liệu\\vmax\\affiliate_tiktok\\dataset_koc\\custom_koc_panels\\panel_12_goc_cao_can_mat.jpg"
+  },
+  {
+    "panel_number": 13,
+    "row": 3,
+    "col": 1,
+    "vn_title": "Góc thấp toàn thân",
+    "action_description": "Low angle (worm's-eye view) full body shot, looking powerful and tall.",
+    "file_name": "panel_13_goc_thap_toan_than.jpg",
+    "file_path": "c:\\Users\\HAI\\OneDrive\\Tài liệu\\vmax\\affiliate_tiktok\\dataset_koc\\custom_koc_panels\\panel_13_goc_thap_toan_than.jpg"
+  },
+  {
+    "panel_number": 14,
+    "row": 3,
+    "col": 2,
+    "vn_title": "Góc thấp cận mặt",
+    "action_description": "Low angle close-up focusing on the chin and looking down slightly at the camera.",
+    "file_name": "panel_14_goc_thap_can_mat.jpg",
+    "file_path": "c:\\Users\\HAI\\OneDrive\\Tài liệu\\vmax\\affiliate_tiktok\\dataset_koc\\custom_koc_panels\\panel_14_goc_thap_can_mat.jpg"
+  },
+  {
+    "panel_number": 15,
+    "row": 3,
+    "col": 3,
+    "vn_title": "Góc 90 độ từ trên xuống",
+    "action_description": "TRUE 90-degree overhead shot. Camera mounted directly above, looking straight up.",
+    "file_name": "panel_15_goc_90_do_tu_tren_xuong.jpg",
+    "file_path": "c:\\Users\\HAI\\OneDrive\\Tài liệu\\vmax\\affiliate_tiktok\\dataset_koc\\custom_koc_panels\\panel_15_goc_90_do_tu_tren_xuong.jpg"
+  },
+  {
+    "panel_number": 16,
+    "row": 3,
+    "col": 4,
+    "vn_title": "Top-down trung cảnh",
+    "action_description": "90-degree overhead medium shot, framing from the waist up as she looks up.",
+    "file_name": "panel_16_top_down_trung_canh.jpg",
+    "file_path": "c:\\Users\\HAI\\OneDrive\\Tài liệu\\vmax\\affiliate_tiktok\\dataset_koc\\custom_koc_panels\\panel_16_top_down_trung_canh.jpg"
+  },
+  {
+    "panel_number": 17,
+    "row": 3,
+    "col": 5,
+    "vn_title": "Top-down nằm ngửa",
+    "action_description": "90-degree overhead shot, lying flat on the studio floor looking up at the camera.",
+    "file_name": "panel_17_top_down_nam_ngua.jpg",
+    "file_path": "c:\\Users\\HAI\\OneDrive\\Tài liệu\\vmax\\affiliate_tiktok\\dataset_koc\\custom_koc_panels\\panel_17_top_down_nam_ngua.jpg"
+  },
+  {
+    "panel_number": 18,
+    "row": 3,
+    "col": 6,
+    "vn_title": "Top-down ngồi bệt",
+    "action_description": "90-degree overhead shot, sitting cross-legged on the floor looking up.",
+    "file_name": "panel_18_top_down_ngoi_bet.jpg",
+    "file_path": "c:\\Users\\HAI\\OneDrive\\Tài liệu\\vmax\\affiliate_tiktok\\dataset_koc\\custom_koc_panels\\panel_18_top_down_ngoi_bet.jpg"
+  },
+  {
+    "panel_number": 19,
+    "row": 4,
+    "col": 1,
+    "vn_title": "Góc rộng toàn cảnh",
+    "action_description": "Ultra-wide 14mm lens shot showing the vast negative space of the gray studio.",
+    "file_name": "panel_19_goc_rong_toan_canh.jpg",
+    "file_path": "c:\\Users\\HAI\\OneDrive\\Tài liệu\\vmax\\affiliate_tiktok\\dataset_koc\\custom_koc_panels\\panel_19_goc_rong_toan_canh.jpg"
+  },
+  {
+    "panel_number": 20,
+    "row": 4,
+    "col": 2,
+    "vn_title": "Cận cảnh góc rộng",
+    "action_description": "Wide-angle close-up with a slight natural fisheye effect, quirky and fun.",
+    "file_name": "panel_20_can_canh_goc_rong.jpg",
+    "file_path": "c:\\Users\\HAI\\OneDrive\\Tài liệu\\vmax\\affiliate_tiktok\\dataset_koc\\custom_koc_panels\\panel_20_can_canh_goc_rong.jpg"
+  },
+  {
+    "panel_number": 21,
+    "row": 4,
+    "col": 3,
+    "vn_title": "Góc nghiêng Hà Lan",
+    "action_description": "Dutch angle shot (tilted camera) for a dynamic, editorial fashion vibe.",
+    "file_name": "panel_21_goc_nghieng_ha_lan.jpg",
+    "file_path": "c:\\Users\\HAI\\OneDrive\\Tài liệu\\vmax\\affiliate_tiktok\\dataset_koc\\custom_koc_panels\\panel_21_goc_nghieng_ha_lan.jpg"
+  },
+  {
+    "panel_number": 22,
+    "row": 4,
+    "col": 4,
+    "vn_title": "Góc ngang hông",
+    "action_description": "Cowboy shot (mid-thigh up), arms crossed confidently.",
+    "file_name": "panel_22_goc_ngang_hong.jpg",
+    "file_path": "c:\\Users\\HAI\\OneDrive\\Tài liệu\\vmax\\affiliate_tiktok\\dataset_koc\\custom_koc_panels\\panel_22_goc_ngang_hong.jpg"
+  },
+  {
+    "panel_number": 23,
+    "row": 4,
+    "col": 5,
+    "vn_title": "Khoanh tay trước ngực",
+    "action_description": "Medium close-up, arms crossed over the textured knit sweater.",
+    "file_name": "panel_23_khoanh_tay_truoc_nguc.jpg",
+    "file_path": "c:\\Users\\HAI\\OneDrive\\Tài liệu\\vmax\\affiliate_tiktok\\dataset_koc\\custom_koc_panels\\panel_23_khoanh_tay_truoc_nguc.jpg"
+  },
+  {
+    "panel_number": 24,
+    "row": 4,
+    "col": 6,
+    "vn_title": "Chạm tay lên kính",
+    "action_description": "Close-up of the hand delicately adjusting the thick-frame brown glasses.",
+    "file_name": "panel_24_cham_tay_len_kinh.jpg",
+    "file_path": "c:\\Users\\HAI\\OneDrive\\Tài liệu\\vmax\\affiliate_tiktok\\dataset_koc\\custom_koc_panels\\panel_24_cham_tay_len_kinh.jpg"
+  },
+  {
+    "panel_number": 25,
+    "row": 5,
+    "col": 1,
+    "vn_title": "Cận cảnh chất liệu",
+    "action_description": "Macro shot focusing heavily on the corduroy and knit sweater textures.",
+    "file_name": "panel_25_can_canh_chat_lieu.jpg",
+    "file_path": "c:\\Users\\HAI\\OneDrive\\Tài liệu\\vmax\\affiliate_tiktok\\dataset_koc\\custom_koc_panels\\panel_25_can_canh_chat_lieu.jpg"
+  },
+  {
+    "panel_number": 26,
+    "row": 5,
+    "col": 2,
+    "vn_title": "Bước đi tự nhiên",
+    "action_description": "Full body dynamic shot mid-stride, clothes swaying slightly.",
+    "file_name": "panel_26_buoc_di_tu_nhien.jpg",
+    "file_path": "c:\\Users\\HAI\\OneDrive\\Tài liệu\\vmax\\affiliate_tiktok\\dataset_koc\\custom_koc_panels\\panel_26_buoc_di_tu_nhien.jpg"
+  },
+  {
+    "panel_number": 27,
+    "row": 5,
+    "col": 3,
+    "vn_title": "Ngồi ghế đẩu",
+    "action_description": "Medium shot sitting on a minimalist studio stool, relaxed posture.",
+    "file_name": "panel_27_ngoi_ghe_dau.jpg",
+    "file_path": "c:\\Users\\HAI\\OneDrive\\Tài liệu\\vmax\\affiliate_tiktok\\dataset_koc\\custom_koc_panels\\panel_27_ngoi_ghe_dau.jpg"
+  },
+  {
+    "panel_number": 28,
+    "row": 5,
+    "col": 4,
+    "vn_title": "Dựa tường ảo",
+    "action_description": "Full body leaning back confidently as if leaning against a wall.",
+    "file_name": "panel_28_dua_tuong_ao.jpg",
+    "file_path": "c:\\Users\\HAI\\OneDrive\\Tài liệu\\vmax\\affiliate_tiktok\\dataset_koc\\custom_koc_panels\\panel_28_dua_tuong_ao.jpg"
+  },
+  {
+    "panel_number": 29,
+    "row": 5,
+    "col": 5,
+    "vn_title": "Ngước nhìn lên",
+    "action_description": "Close-up portrait looking diagonally up towards the studio light.",
+    "file_name": "panel_29_nguoc_nhin_len.jpg",
+    "file_path": "c:\\Users\\HAI\\OneDrive\\Tài liệu\\vmax\\affiliate_tiktok\\dataset_koc\\custom_koc_panels\\panel_29_nguoc_nhin_len.jpg"
+  },
+  {
+    "panel_number": 30,
+    "row": 5,
+    "col": 6,
+    "vn_title": "Cúi nhìn xuống",
+    "action_description": "Close-up portrait looking down, eyes slightly closed, contemplative mood.",
+    "file_name": "panel_30_cui_nhin_xuong.jpg",
+    "file_path": "c:\\Users\\HAI\\OneDrive\\Tài liệu\\vmax\\affiliate_tiktok\\dataset_koc\\custom_koc_panels\\panel_30_cui_nhin_xuong.jpg"
+  },
+  {
+    "panel_number": 31,
+    "row": 6,
+    "col": 1,
+    "vn_title": "Cận cảnh đôi mắt",
+    "action_description": "Extreme macro close-up of the eyes, eyelashes, and glasses frame.",
+    "file_name": "panel_31_can_canh_doi_mat.jpg",
+    "file_path": "c:\\Users\\HAI\\OneDrive\\Tài liệu\\vmax\\affiliate_tiktok\\dataset_koc\\custom_koc_panels\\panel_31_can_canh_doi_mat.jpg"
+  },
+  {
+    "panel_number": 32,
+    "row": 6,
+    "col": 2,
+    "vn_title": "Ánh sáng bóng đổ",
+    "action_description": "Medium shot with dramatic, sharp studio shadows falling on the backdrop.",
+    "file_name": "panel_32_anh_sang_bong_do.jpg",
+    "file_path": "c:\\Users\\HAI\\OneDrive\\Tài liệu\\vmax\\affiliate_tiktok\\dataset_koc\\custom_koc_panels\\panel_32_anh_sang_bong_do.jpg"
+  },
+  {
+    "panel_number": 33,
+    "row": 6,
+    "col": 3,
+    "vn_title": "Góc chụp nửa mặt",
+    "action_description": "Extreme close-up framed tightly showing only the right half of the face.",
+    "file_name": "panel_33_goc_chup_nua_mat.jpg",
+    "file_path": "c:\\Users\\HAI\\OneDrive\\Tài liệu\\vmax\\affiliate_tiktok\\dataset_koc\\custom_koc_panels\\panel_33_goc_chup_nua_mat.jpg"
+  },
+  {
+    "panel_number": 34,
+    "row": 6,
+    "col": 4,
+    "vn_title": "Cúi người về trước",
+    "action_description": "Medium shot leaning forward toward the camera, engaging and intimate.",
+    "file_name": "panel_34_cui_nguoi_ve_truoc.jpg",
+    "file_path": "c:\\Users\\HAI\\OneDrive\\Tài liệu\\vmax\\affiliate_tiktok\\dataset_koc\\custom_koc_panels\\panel_34_cui_nguoi_ve_truoc.jpg"
+  },
+  {
+    "panel_number": 35,
+    "row": 6,
+    "col": 5,
+    "vn_title": "Chỉnh tóc",
+    "action_description": "Close-up action shot of fingers tucking hair behind the ear.",
+    "file_name": "panel_35_chinh_toc.jpg",
+    "file_path": "c:\\Users\\HAI\\OneDrive\\Tài liệu\\vmax\\affiliate_tiktok\\dataset_koc\\custom_koc_panels\\panel_35_chinh_toc.jpg"
+  },
+  {
+    "panel_number": 36,
+    "row": 6,
+    "col": 6,
+    "vn_title": "Tạo dáng nghệ thuật",
+    "action_description": "A final creative editorial pose, full body, perfectly centered in the gray studio.",
+    "file_name": "panel_36_tao_dang_nghe_thuat.jpg",
+    "file_path": "c:\\Users\\HAI\\OneDrive\\Tài liệu\\vmax\\affiliate_tiktok\\dataset_koc\\custom_koc_panels\\panel_36_tao_dang_nghe_thuat.jpg"
+  }
+]

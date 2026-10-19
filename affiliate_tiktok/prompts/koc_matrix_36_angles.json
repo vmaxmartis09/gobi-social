@@ -1,0 +1,78 @@
+{
+  "image_generation_prompt": {
+    "composition": {
+      "type": "36-panel camera angle and pose reference storyboard",
+      "layout": "6x6 grid layout (36 equal panels), thin white borders",
+      "panel_format": "Numbered sequentially 1 to 36 in the top left corner. Short Vietnamese caption at the bottom of each panel describing the camera angle.",
+      "text_elements": "ALL text captions MUST be rendered strictly in Vietnamese."
+    },
+    "subject": {
+      "description": "Young East Asian woman posing in a minimalist photography studio",
+      "facial_extraction_details": {
+        "instructions": "Trích xuất từ ảnh upload: Hình dáng khuôn mặt, đặc điểm ngũ quan, màu mắt, kiểu tóc v.v. Extracted strictly from the uploaded input source image. Do not change the underlying face structure. Preserve exact facial features, identity, proportions, skin texture, age, and facial structure. Do not redesign, beautify, or stylize. The generated subject must be the exact same person as the reference across all 36 panels.",
+        "features": {
+          "face_shape": "Exact match to reference image",
+          "eyes": "Exact match to reference image, including exact eye color",
+          "nose": "Exact match to reference image",
+          "lips": "Exact match to reference image",
+          "skin": "Natural realistic texture with visible pores, no artificial smoothing",
+          "hair": "Exact same hairstyle, color and volume from reference"
+        }
+      },
+      "wardrobe": "Dark chocolate brown short-sleeve corduroy overshirt worn open over an off-white textured knit sweater. Taupe trousers. Round thick-frame brown glasses."
+    },
+    "panels_sequence": {
+      "panel_1": { "text": "Chính diện toàn thân", "action": "Eye-level full body shot, facing forward, arms naturally at sides." },
+      "panel_2": { "text": "Chính diện trung cảnh", "action": "Medium shot from the waist up, facing forward, relaxed expression." },
+      "panel_3": { "text": "Cận mặt chính diện", "action": "Close-up portrait focusing on the face, glasses, and subtle expression." },
+      "panel_4": { "text": "Góc 3/4 toàn thân", "action": "Full body shot turned 45 degrees, looking at the camera." },
+      "panel_5": { "text": "Góc 3/4 trung cảnh", "action": "Medium shot turned 45 degrees, hands resting in pockets." },
+      "panel_6": { "text": "Cận mặt 3/4", "action": "Close-up portrait at a 45-degree angle, soft lighting on the cheek." },
+      "panel_7": { "text": "Góc nghiêng toàn thân", "action": "Perfect 90-degree side profile, full body, looking straight ahead off-camera." },
+      "panel_8": { "text": "Cận mặt góc nghiêng", "action": "Close-up side profile focusing on the jawline, nose, and side of the glasses." },
+      "panel_9": { "text": "Góc chụp từ sau lưng", "action": "Full body shot from behind, showing the back of the corduroy shirt." },
+      "panel_10": { "text": "Nhìn lại qua vai", "action": "Medium shot from behind, head turned looking back over the shoulder at the lens." },
+      "panel_11": { "text": "Góc cao toàn thân", "action": "High angle shot looking down at the full body, emphasizing perspective." },
+      "panel_12": { "text": "Góc cao cận mặt", "action": "High angle close-up, looking up into the lens with large, curious eyes." },
+      "panel_13": { "text": "Góc thấp toàn thân", "action": "Low angle (worm's-eye view) full body shot, looking powerful and tall." },
+      "panel_14": { "text": "Góc thấp cận mặt", "action": "Low angle close-up focusing on the chin and looking down slightly at the camera." },
+      "panel_15": { "text": "Góc 90 độ từ trên xuống", "action": "TRUE 90-degree overhead shot. Camera mounted directly above, looking straight up." },
+      "panel_16": { "text": "Top-down trung cảnh", "action": "90-degree overhead medium shot, framing from the waist up as she looks up." },
+      "panel_17": { "text": "Top-down nằm ngửa", "action": "90-degree overhead shot, lying flat on the studio floor looking up at the camera." },
+      "panel_18": { "text": "Top-down ngồi bệt", "action": "90-degree overhead shot, sitting cross-legged on the floor looking up." },
+      "panel_19": { "text": "Góc rộng toàn cảnh", "action": "Ultra-wide 14mm lens shot showing the vast negative space of the gray studio." },
+      "panel_20": { "text": "Cận cảnh góc rộng", "action": "Wide-angle close-up with a slight natural fisheye effect, quirky and fun." },
+      "panel_21": { "text": "Góc nghiêng Hà Lan", "action": "Dutch angle shot (tilted camera) for a dynamic, editorial fashion vibe." },
+      "panel_22": { "text": "Góc ngang hông", "action": "Cowboy shot (mid-thigh up), arms crossed confidently." },
+      "panel_23": { "text": "Khoanh tay trước ngực", "action": "Medium close-up, arms crossed over the textured knit sweater." },
+      "panel_24": { "text": "Chạm tay lên kính", "action": "Close-up of the hand delicately adjusting the thick-frame brown glasses." },
+      "panel_25": { "text": "Cận cảnh chất liệu", "action": "Macro shot focusing heavily on the corduroy and knit sweater textures." },
+      "panel_26": { "text": "Bước đi tự nhiên", "action": "Full body dynamic shot mid-stride, clothes swaying slightly." },
+      "panel_27": { "text": "Ngồi ghế đẩu", "action": "Medium shot sitting on a minimalist studio stool, relaxed posture." },
+      "panel_28": { "text": "Dựa tường ảo", "action": "Full body leaning back confidently as if leaning against a wall." },
+      "panel_29": { "text": "Ngước nhìn lên", "action": "Close-up portrait looking diagonally up towards the studio light." },
+      "panel_30": { "text": "Cúi nhìn xuống", "action": "Close-up portrait looking down, eyes slightly closed, contemplative mood." },
+      "panel_31": { "text": "Cận cảnh đôi mắt", "action": "Extreme macro close-up of the eyes, eyelashes, and glasses frame." },
+      "panel_32": { "text": "Ánh sáng bóng đổ", "action": "Medium shot with dramatic, sharp studio shadows falling on the backdrop." },
+      "panel_33": { "text": "Góc chụp nửa mặt", "action": "Extreme close-up framed tightly showing only the right half of the face." },
+      "panel_34": { "text": "Cúi người về trước", "action": "Medium shot leaning forward toward the camera, engaging and intimate." },
+      "panel_35": { "text": "Chỉnh tóc", "action": "Close-up action shot of fingers tucking hair behind the ear." },
+      "panel_36": { "text": "Tạo dáng nghệ thuật", "action": "A final creative editorial pose, full body, perfectly centered in the gray studio." }
+    },
+    "environment": {
+      "settings": "Minimalist photography studio. Soft neutral gray seamless backdrop with a subtle radial gradient, darker toward the edges, isolating the subject."
+    },
+    "lighting_and_aesthetics": {
+      "lighting": "Large soft overhead diffusion lighting. Extremely even illumination with gentle shadows.",
+      "style": "Ultra-realistic studio photography, 36-angle reference sheet, contemporary editorial aesthetic, 8K resolution, f/2.0 depth of field."
+    },
+    "constraints": [
+      "Use uploaded reference image for exact facial identity.",
+      "Maintain 100% facial and wardrobe consistency across all 36 panels.",
+      "ALL captions MUST be strictly in Vietnamese.",
+      "Number every panel from 1 to 36 in the top-left corner.",
+      "Clearly depict the specific camera angle, framing, or pose described in each panel.",
+      "Keep the background consistently minimalist (gray studio) to focus entirely on the angles."
+    ]
+  }
+}

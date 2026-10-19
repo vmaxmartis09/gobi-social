@@ -1,0 +1,664 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Curriculum Vitae - Nguyen Thi Xuan Huong</title>
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <style>
+    :root {
+      --navy-deep: #0A192F;
+      --navy-primary: #0F2B48;
+      --navy-light: #1E3A8A;
+      --navy-slate: #1E293B;
+      --accent-gold: #C5A059;
+      --accent-gold-soft: #F9F5EB;
+      --accent-cyan: #0284C7;
+      --bg-canvas: #E2E8F0;
+      --text-main: #0F172A;
+      --text-muted: #475569;
+      --border-subtle: #E2E8F0;
+      --shadow-card: 0 12px 35px rgba(10, 25, 47, 0.12);
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    
+    body {
+      font-family: 'Plus Jakarta Sans', sans-serif;
+      background: var(--bg-canvas);
+      color: var(--text-main);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 40px 15px 60px;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* Floating Toolbar */
+    .action-bar {
+      position: fixed;
+      top: 20px;
+      right: 25px;
+      display: flex;
+      gap: 12px;
+      z-index: 1000;
+    }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 10px 18px;
+      border-radius: 30px;
+      font-size: 13px;
+      font-weight: 600;
+      cursor: pointer;
+      border: none;
+      transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+      box-shadow: 0 4px 14px rgba(0,0,0,0.15);
+      text-decoration: none;
+    }
+
+    .btn-upload {
+      background: #FFFFFF;
+      color: var(--navy-primary);
+      border: 1px solid #CBD5E1;
+    }
+    .btn-upload:hover {
+      background: #F8FAFC;
+      transform: translateY(-2px);
+      box-shadow: 0 6px 18px rgba(0,0,0,0.18);
+    }
+
+    .btn-print {
+      background: linear-gradient(135deg, var(--navy-light), var(--navy-deep));
+      color: #FFFFFF;
+    }
+    .btn-print:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 20px rgba(15, 43, 72, 0.35);
+    }
+
+    /* A4 Canvas */
+    .a4-page {
+      width: 210mm;
+      min-height: 297mm;
+      background: #FFFFFF;
+      box-shadow: var(--shadow-card);
+      display: grid;
+      grid-template-columns: 74mm 1fr;
+      overflow: hidden;
+      border-radius: 4px;
+      position: relative;
+    }
+
+    /* LEFT SIDEBAR */
+    .sidebar {
+      background: linear-gradient(180deg, var(--navy-deep) 0%, var(--navy-primary) 100%);
+      color: #F8FAFC;
+      padding: 40px 24px 35px;
+      display: flex;
+      flex-direction: column;
+      gap: 24px;
+    }
+
+    /* Portrait Image Container */
+    .photo-frame {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      position: relative;
+    }
+
+    .avatar-wrapper {
+      width: 140px;
+      height: 140px;
+      border-radius: 50%;
+      border: 3.5px solid var(--accent-gold);
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+      overflow: hidden;
+      background: #1E293B;
+      position: relative;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: transform 0.3s ease;
+    }
+
+    .avatar-wrapper:hover {
+      transform: scale(1.03);
+    }
+
+    .avatar-img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: none;
+    }
+
+    .avatar-placeholder {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
+      color: #94A3B8;
+      text-align: center;
+      padding: 10px;
+    }
+
+    .avatar-placeholder i {
+      font-size: 38px;
+      color: var(--accent-gold);
+    }
+
+    .avatar-placeholder span {
+      font-size: 11px;
+      font-weight: 500;
+      color: #CBD5E1;
+    }
+
+    .upload-overlay-hint {
+      margin-top: 10px;
+      font-size: 11px;
+      color: #94A3B8;
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      cursor: pointer;
+    }
+    .upload-overlay-hint:hover { color: var(--accent-gold); }
+
+    /* Hidden File Input */
+    #imageInput { display: none; }
+
+    /* Sidebar Section */
+    .side-block-title {
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 1.6px;
+      text-transform: uppercase;
+      color: var(--accent-gold);
+      padding-bottom: 6px;
+      border-bottom: 1px solid rgba(197, 160, 89, 0.35);
+      margin-bottom: 12px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .contact-list {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 11px;
+    }
+
+    .contact-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      font-size: 12px;
+      line-height: 1.4;
+      color: #CBD5E1;
+    }
+
+    .contact-item i {
+      color: var(--accent-gold);
+      font-size: 13px;
+      width: 14px;
+      margin-top: 2px;
+      text-align: center;
+    }
+
+    .contact-item a {
+      color: #CBD5E1;
+      text-decoration: none;
+      word-break: break-all;
+    }
+
+    .tag-container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+
+    .tag {
+      font-size: 11px;
+      padding: 4px 9px;
+      border-radius: 4px;
+      background: rgba(255, 255, 255, 0.08);
+      border: 1px solid rgba(255, 255, 255, 0.12);
+      color: #E2E8F0;
+      font-weight: 500;
+    }
+
+    .tag.primary {
+      background: rgba(197, 160, 89, 0.16);
+      border-color: rgba(197, 160, 89, 0.4);
+      color: #F8FAFC;
+      font-weight: 600;
+    }
+
+    .tag.ai {
+      background: rgba(2, 132, 199, 0.2);
+      border-color: rgba(2, 132, 199, 0.45);
+      color: #E0F2FE;
+      font-weight: 600;
+    }
+
+    /* RIGHT CONTENT */
+    .main-body {
+      padding: 40px 36px 35px 36px;
+      display: flex;
+      flex-direction: column;
+      gap: 22px;
+      background: #FFFFFF;
+    }
+
+    /* Header Profile */
+    .header-box {
+      border-bottom: 2px solid var(--border-subtle);
+      padding-bottom: 18px;
+    }
+
+    .full-name {
+      font-family: 'Cinzel', serif;
+      font-size: 26px;
+      font-weight: 700;
+      letter-spacing: 1px;
+      color: var(--navy-deep);
+      line-height: 1.2;
+    }
+
+    .professional-title {
+      font-size: 13px;
+      font-weight: 700;
+      color: var(--navy-light);
+      text-transform: uppercase;
+      letter-spacing: 1.4px;
+      margin-top: 6px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .professional-title::after {
+      content: "";
+      height: 1px;
+      flex: 1;
+      background: linear-gradient(90deg, #CBD5E1, transparent);
+    }
+
+    .badge-status {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: #ECFDF5;
+      color: #047857;
+      border: 1px solid #A7F3D0;
+      font-size: 11px;
+      font-weight: 600;
+      padding: 3px 9px;
+      border-radius: 12px;
+      margin-top: 8px;
+    }
+
+    .badge-status::before {
+      content: "";
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: #10B981;
+    }
+
+    /* Section Styling */
+    .main-section {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .section-title {
+      font-size: 13.5px;
+      font-weight: 800;
+      letter-spacing: 1.2px;
+      text-transform: uppercase;
+      color: var(--navy-deep);
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding-bottom: 5px;
+      border-bottom: 1.5px solid var(--navy-primary);
+    }
+
+    .section-title i {
+      color: var(--accent-gold);
+      font-size: 13px;
+    }
+
+    .summary-paragraph {
+      font-size: 12.5px;
+      line-height: 1.65;
+      color: var(--text-muted);
+      text-align: justify;
+    }
+
+    .summary-paragraph strong {
+      color: var(--navy-deep);
+      font-weight: 600;
+    }
+
+    /* Timeline / Experience Items */
+    .exp-entry {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+      margin-bottom: 6px;
+    }
+
+    .exp-row-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+    }
+
+    .exp-role {
+      font-size: 13.5px;
+      font-weight: 700;
+      color: var(--navy-deep);
+    }
+
+    .exp-period {
+      font-size: 11.5px;
+      font-weight: 600;
+      color: var(--navy-light);
+      background: #EEF2F6;
+      padding: 2px 7px;
+      border-radius: 4px;
+    }
+
+    .exp-firm {
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--text-muted);
+      margin-bottom: 4px;
+    }
+
+    .bullet-list {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 5px;
+      padding-left: 2px;
+    }
+
+    .bullet-list li {
+      font-size: 12px;
+      line-height: 1.55;
+      color: #334155;
+      position: relative;
+      padding-left: 14px;
+    }
+
+    .bullet-list li::before {
+      content: "▪";
+      position: absolute;
+      left: 0;
+      top: -1px;
+      color: var(--navy-light);
+      font-size: 11px;
+    }
+
+    .bullet-list li strong {
+      color: var(--navy-deep);
+      font-weight: 600;
+    }
+
+    /* Metrics & Value Box */
+    .value-prop-box {
+      background: #F8FAFC;
+      border-left: 3px solid var(--accent-gold);
+      padding: 10px 14px;
+      border-radius: 0 4px 4px 0;
+      margin-top: 3px;
+    }
+
+    .value-prop-box p {
+      font-size: 12px;
+      line-height: 1.5;
+      color: #334155;
+    }
+
+    /* Print Optimization */
+    @media print {
+      body {
+        background: #FFFFFF;
+        padding: 0;
+      }
+      .action-bar { display: none; }
+      .upload-overlay-hint { display: none; }
+      .a4-page {
+        width: 100%;
+        min-height: auto;
+        box-shadow: none;
+        border-radius: 0;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Top Action Bar -->
+  <div class="action-bar">
+    <button class="btn btn-upload" onclick="document.getElementById('imageInput').click()">
+      <i class="fa-solid fa-cloud-arrow-up"></i> Upload Your Photo
+    </button>
+    <button class="btn btn-print" onclick="window.print()">
+      <i class="fa-solid fa-file-pdf"></i> Save / Print PDF (A4)
+    </button>
+  </div>
+
+  <input type="file" id="imageInput" accept="image/*" onchange="previewImage(event)">
+
+  <div class="a4-page">
+    <!-- ==================== SIDEBAR ==================== -->
+    <aside class="sidebar">
+      
+      <!-- Profile Picture -->
+      <div class="photo-frame">
+        <div class="avatar-wrapper" onclick="document.getElementById('imageInput').click()" title="Click to upload portrait">
+          <img id="avatarImg" class="avatar-img" alt="Candidate Portrait">
+          <div id="avatarPlaceholder" class="avatar-placeholder">
+            <i class="fa-solid fa-camera"></i>
+            <span>Click to Upload<br>Portrait Photo</span>
+          </div>
+        </div>
+        <div class="upload-overlay-hint" onclick="document.getElementById('imageInput').click()">
+          <i class="fa-solid fa-arrow-up-from-bracket"></i> Select Photo
+        </div>
+      </div>
+
+      <!-- Contact Information -->
+      <div>
+        <h3 class="side-block-title"><i class="fa-solid fa-address-book"></i> Contact Details</h3>
+        <ul class="contact-list">
+          <li class="contact-item">
+            <i class="fa-solid fa-phone"></i>
+            <span>(+84) 0962 417 449</span>
+          </li>
+          <li class="contact-item">
+            <i class="fa-solid fa-envelope"></i>
+            <a href="mailto:nguyenthixuanhuong08072003@gmail.com">nguyenthixuanhuong08072003@gmail.com</a>
+          </li>
+          <li class="contact-item">
+            <i class="fa-solid fa-location-dot"></i>
+            <span>Quy Nhon City, Binh Dinh, Vietnam</span>
+          </li>
+          <li class="contact-item">
+            <i class="fa-solid fa-calendar-check"></i>
+            <span>Full-time Office Hours (Mon - Fri)</span>
+          </li>
+        </ul>
+      </div>
+
+      <!-- Languages -->
+      <div>
+        <h3 class="side-block-title"><i class="fa-solid fa-earth-americas"></i> Languages</h3>
+        <div class="tag-container">
+          <span class="tag primary">English (Professional / B.A.)</span>
+          <span class="tag primary">Vietnamese (Native)</span>
+          <span class="tag">Mandarin Chinese (Basic A1)</span>
+        </div>
+      </div>
+
+      <!-- AI & Technical Stack -->
+      <div>
+        <h3 class="side-block-title"><i class="fa-solid fa-robot"></i> AI Systems & Automation</h3>
+        <div class="tag-container">
+          <span class="tag ai">AI Agent Architectures & Workflows</span>
+          <span class="tag ai">Generative AI Tooling Integration</span>
+          <span class="tag ai">Prompt Engineering & Automation</span>
+          <span class="tag ai">AI-Powered Multimedia & Video Editing</span>
+          <span class="tag">Digital Content Analytics</span>
+          <span class="tag">Enterprise Productivity Suites</span>
+        </div>
+      </div>
+
+      <!-- Core Competencies & Persona -->
+      <div>
+        <h3 class="side-block-title"><i class="fa-solid fa-gem"></i> Professional Persona</h3>
+        <div class="tag-container">
+          <span class="tag">Polished & Articulate Presence</span>
+          <span class="tag">Empathetic Communication</span>
+          <span class="tag">Proactive Execution</span>
+          <span class="tag">High Integrity & Loyalty</span>
+          <span class="tag">Agile Problem Solving</span>
+        </div>
+      </div>
+
+    </aside>
+
+    <!-- ==================== MAIN BODY ==================== -->
+    <main class="main-body">
+
+      <!-- Candidate Header -->
+      <header class="header-box">
+        <h1 class="full-name">NGUYEN THI XUAN HUONG</h1>
+        <div class="professional-title">
+          B.A. in English Language | AI-Driven Content & Video Specialist
+        </div>
+        <div class="badge-status">
+          Open to New Opportunities in Quy Nhon (Daytime / Mon-Fri)
+        </div>
+      </header>
+
+      <!-- Executive Summary -->
+      <section class="main-section">
+        <h2 class="section-title"><i class="fa-solid fa-compass"></i> Executive Summary</h2>
+        <p class="summary-paragraph">
+          Dedicated <strong>English Language graduate (Class of 2025)</strong> with strong interpersonal skills and practical experience in <strong>AI tools, workflow automation, and digital media</strong>. Proven track record in retail consulting—helping achieve a <strong>30% revenue gain</strong> through attentive client care. Skilled at using AI utilities to streamline research, drafting, and video production efficiently. Seeking a full-time, long-term role in Quy Nhon during standard office hours to contribute bilingual fluency and a dependable work ethic.
+        </p>
+      </section>
+
+      <!-- Professional Experience -->
+      <section class="main-section">
+        <h2 class="section-title"><i class="fa-solid fa-briefcase"></i> Professional Experience</h2>
+
+        <!-- Role 1 -->
+        <article class="exp-entry">
+          <div class="exp-row-top">
+            <span class="exp-role">Content & Video Specialist (AI-Assisted)</span>
+            <span class="exp-period">2024 – Present</span>
+          </div>
+          <div class="exp-firm">Freelance & Project Work | Quy Nhon</div>
+          <ul class="bullet-list">
+            <li><strong>Research & Scripting:</strong> Monitored short-form video trends (TikTok, Reels); applied prompt workflows with conversational AI to outline engaging bilingual scripts.</li>
+            <li><strong>Video Editing & Subtitling:</strong> Utilized AI video tools to automate captions and visual assets, producing clear, high-retention short videos on schedule.</li>
+            <li><strong>Workflow Efficiency:</strong> Applied basic AI automation to speed up routine content tasks while maintaining consistent brand messaging.</li>
+          </ul>
+        </article>
+
+        <!-- Role 2 -->
+        <article class="exp-entry">
+          <div class="exp-row-top">
+            <span class="exp-role">Customer Consultant</span>
+            <span class="exp-period">2024 – 2025</span>
+          </div>
+          <div class="exp-firm">Medicare Quy Nhon | Retail & Healthcare</div>
+          <ul class="bullet-list">
+            <li><strong>Customer Service:</strong> Welcomed and advised <strong>100–200 customers daily</strong> with a polite, patient, and helpful attitude.</li>
+            <li><strong>Sales Contribution:</strong> Recommended suitable products effectively, contributing to a <strong>30% monthly sales increase</strong> for the store.</li>
+            <li><strong>Store Support:</strong> Handled product inquiries, maintained clean displays, and managed daily transactions reliably.</li>
+          </ul>
+        </article>
+      </section>
+
+      <!-- Key Value Proposition / Work Ethic -->
+      <section class="main-section">
+        <h2 class="section-title"><i class="fa-solid fa-shield-halved"></i> Work Ethic & Values</h2>
+        <div class="value-prop-box">
+          <p>
+            <strong>"Punctual, Honest, and Eager to Learn."</strong> Committed to high responsibility, steady teamwork, and constructive feedback. Gentle in communication, quick in execution, and dedicated to supporting team goals from day one.
+          </p>
+        </div>
+      </section>
+
+      <!-- Education & Credentials -->
+      <section class="main-section">
+        <h2 class="section-title"><i class="fa-solid fa-graduation-cap"></i> Education & Qualifications</h2>
+        <article class="exp-entry">
+          <div class="exp-row-top">
+            <span class="exp-role">Bachelor of Arts in English Language</span>
+            <span class="exp-period">2021 – 2025</span>
+          </div>
+          <div class="exp-firm">Quy Nhon University (QNU)</div>
+          <ul class="bullet-list">
+            <li>Comprehensive coursework in Professional Translation, Cross-Cultural Business Communication, and Linguistics.</li>
+            <li><strong>Certificate:</strong> National Basic Information Technology Application (Issued 2024).</li>
+          </ul>
+        </article>
+      </section>
+
+      <!-- Extracurricular Leadership -->
+      <section class="main-section">
+        <h2 class="section-title"><i class="fa-solid fa-hand-holding-heart"></i> Community Engagement</h2>
+        <article class="exp-entry">
+          <div class="exp-row-top">
+            <span class="exp-role">Active Volunteer – "Green Sunday" Environmental Initiative</span>
+            <span class="exp-period">2024 – 2025</span>
+          </div>
+          <p style="font-size: 11.5px; color: #475569; margin-top: 2px;">
+            Coordinated coastal cleanup operations in Quy Nhon beaches and participated in urban reforestation drives, demonstrating strong team solidarity and social responsibility.
+          </p>
+        </article>
+      </section>
+
+    </main>
+  </div>
+
+  <!-- JavaScript to Handle Photo Upload -->
+  <script>
+    function previewImage(event) {
+      const input = event.target;
+      if (input.files && input.files[0]) {
+        const reader = new FileReader();
+        reader.onload = function(e) {
+          const img = document.getElementById('avatarImg');
+          const placeholder = document.getElementById('avatarPlaceholder');
+          img.src = e.target.result;
+          img.style.display = 'block';
+          placeholder.style.display = 'none';
+        }
+        reader.readAsDataURL(input.files[0]);
+      }
+    }
+  </script>
+</body>
+</html>
