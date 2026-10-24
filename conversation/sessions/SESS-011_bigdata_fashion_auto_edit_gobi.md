@@ -22,30 +22,30 @@
    - `LSN-009`: Save Magnet Format (1 món phối 7 kiểu đạt kỷ lục 8.7k saves).
    - `LSN-010`: Tactile Verification (Cận cảnh sờ thớ vải cho thời trang giá rẻ 89k-149k).
 3. **Mở rộng Kịch bản Review KOC AI:**
-   - Đã thêm 2 kịch bản hoàn chỉnh cho sản phẩm đỉnh cao vào [`affiliate_tiktok/scripts/korean_fashion_review_scripts.py`](../../affiliate_tiktok/scripts/korean_fashion_review_scripts.py).
+   - Đã thêm 2 kịch bản hoàn chỉnh cho sản phẩm đỉnh cao vào [`scripts/tiktok/korean_fashion_review_scripts.py`](../../scripts/tiktok/korean_fashion_review_scripts.py).
 4. **Nâng cấp Bước 6 với Module AI Concat Auto-Editor:**
-   - Tạo file [`core/ai_concat_auto_editor.py`](../../core/ai_concat_auto_editor.py) hỗ trợ 4 Preset biên tập học từ video viral (`BODY_HACK_TROUSERS`, `CAPSULE_7_STYLES`, `FAST_CUT_BEAT_SYNC`, `KOREAN_AESTHETIC`), timeline 5 Tracks và Safe Zone.
+   - Tạo file [`src/gobi/services/media/ai_concat_auto_editor.py`](../../src/gobi/services/media/ai_concat_auto_editor.py) hỗ trợ 4 Preset biên tập học từ video viral (`BODY_HACK_TROUSERS`, `CAPSULE_7_STYLES`, `FAST_CUT_BEAT_SYNC`, `KOREAN_AESTHETIC`), timeline 5 Tracks và Safe Zone.
 5. **Sản xuất Video Gô Bi 9 Giây Gửi Anh Thoại:**
    - Tạo kịch bản, sinh giọng đọc AI tiếng Việt (`vi-VN-HoaiMyNeural`), đồng bộ Ken Burns motion và render ra file MP4 chuẩn TikTok 9:16.
 
 ---
 
 ## 3. BẰNG CHỨNG THỰC TẾ (PROOF-OF-WORK)
-- **Tệp Video hoàn chỉnh:** [`affiliate_tiktok/sample_video/output/gobi_greeting_anh_thoai_9s.mp4`](../../affiliate_tiktok/sample_video/output/gobi_greeting_anh_thoai_9s.mp4) (Dung lượng 3.1 MB, chuẩn 8.83s, 1080x1920, 30 FPS).
-- **Tệp Dự án Concat đã build:** [`affiliate_tiktok/sample_video/output/concat_gobi_project/concat.json`](../../affiliate_tiktok/sample_video/output/concat_gobi_project/concat.json).
+- **Tệp Video hoàn chỉnh:** [`assets/samples/sample_video/output/gobi_greeting_anh_thoai_9s.mp4`](../../assets/samples/sample_video/output/gobi_greeting_anh_thoai_9s.mp4) (Dung lượng 3.1 MB, chuẩn 8.83s, 1080x1920, 30 FPS).
+- **Tệp Dự án Concat đã build:** [`assets/samples/sample_video/output/concat_gobi_project/concat.json`](../../assets/samples/sample_video/output/concat_gobi_project/concat.json).
 - **Ảnh chụp bằng chứng video:** [`shots/gobi_greeting_proof.png`](../../shots/gobi_greeting_proof.png) (Hiển thị rõ nụ cười KOC Gô Bi và phụ đề Safe Zone chữ vàng không che mặt).
-- **File Audio giọng đọc AI:** [`affiliate_tiktok/sample_video/audio/gobi_greeting_9s.mp3`](../../affiliate_tiktok/sample_video/audio/gobi_greeting_9s.mp3).
+- **File Audio giọng đọc AI:** [`assets/samples/sample_video/audio/gobi_greeting_9s.mp3`](../../assets/samples/sample_video/audio/gobi_greeting_9s.mp3).
 
 ---
 
 ## 4. DANH SÁCH CÁC FILE CODE ĐÃ TẠO HOẶC CHỈNH SỬA
-1. `core/analyze_bigdata_harvest.py`: Script phân tích thống kê 104 video TikTok.
-2. `core/ai_concat_auto_editor.py`: Module AI tự động biên tập timeline Concat theo preset video triệu view.
-3. `create_gobi_greeting_video.py`: Pipeline tự động hóa từ TTS -> Ken Burns -> Subtitles Safe Zone -> Render MP4.
+1. `src/gobi/services/intelligence/analyze_bigdata_harvest.py`: Script phân tích thống kê 104 video TikTok.
+2. `src/gobi/services/media/ai_concat_auto_editor.py`: Module AI tự động biên tập timeline Concat theo preset video triệu view.
+3. `scripts/video/create_gobi_greeting_video.py`: Pipeline tự động hóa từ TTS -> Ken Burns -> Subtitles Safe Zone -> Render MP4.
 4. `configs/koc_fashion_bigdata_analytics.json`: Dữ liệu phân tích thống kê Big Data.
 5. `configs/koc_fashion_korean_products.json`: Cơ sở dữ liệu sản phẩm cập nhật 104 video.
 6. `configs/koc_learning_memory.json`: Cập nhật bài học LSN-008, LSN-009, LSN-010.
-7. `affiliate_tiktok/scripts/korean_fashion_review_scripts.py`: Bổ sung kịch bản Quần tây tuyết mưa 2.6M & Đầm hoa nhí 7 kiểu.
+7. `scripts/tiktok/korean_fashion_review_scripts.py`: Bổ sung kịch bản Quần tây tuyết mưa 2.6M & Đầm hoa nhí 7 kiểu.
 
 ---
 

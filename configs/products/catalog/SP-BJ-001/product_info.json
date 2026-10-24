@@ -1,0 +1,73 @@
+{
+  "product_code": "SP-BJ-001",
+  "product_name": "Áo Thun Giấy Tay Dài Cổ Henley Byjane Form Suông",
+  "category": "ao_thun",
+  "pricing": {
+    "price_vnd": 89000,
+    "original_price_vnd": 149000,
+    "commission_rate_percent": 22.0,
+    "commission_per_order_vnd": 19580
+  },
+  "specs": {
+    "material": "Thun giấy dệt xước (Slub Knit), mỏng nhẹ thoáng khí, sợi dệt đôi không nhăn",
+    "colors": [
+      "Trắng kem (Off-white)",
+      "Đen basic",
+      "Xám tiêu",
+      "Be sữa"
+    ],
+    "sizes": [
+      "Freesize (40kg - 58kg)"
+    ],
+    "origin_shop": "Byjane Official Store",
+    "usp_features": [
+      "Cổ henley cài cúc linh hoạt, mở nút khoe xương quai xanh thanh thoát",
+      "Form suông rủ tự nhiên che khuyết điểm bắp tay và eo",
+      "Chất thun giấy mỏng nhẹ xuyên thấu tinh tế, phối bra màu nude sang trọng"
+    ]
+  },
+  "production": {
+    "status": "da_dang_video",
+    "assigned_koc": "@gobiboutique",
+    "winning_format": "Tactile Proof & Save Magnet (1 Item 3 Outfits)",
+    "vmax_panels": [
+      "Panel 03 (Cận mặt)",
+      "Panel 14 (Cổ áo)",
+      "Panel 25 (Thớ vải)",
+      "Panel 26 (Bước đi)",
+      "Panel 36 (Xoay người)"
+    ],
+    "benchmark_video_url": "https://www.tiktok.com/@beenalth/video/7678960622423330066",
+    "benchmark_views": 378500,
+    "published_video_url": "https://www.tiktok.com/@gobiboutique/video/7678960622423330066",
+    "published_at": "2026-10-20 14:50:00"
+  },
+  "seo": {
+    "primary_keywords": [
+      "áo thun giấy tay dài",
+      "áo thun byjane",
+      "áo thun giấy form rộng"
+    ],
+    "secondary_keywords": [
+      "áo thun mỏng mùa thu",
+      "áo thun cổ henley",
+      "phối đồ áo thun giấy",
+      "áo thun mặc không lộ nội y"
+    ],
+    "search_intents": [
+      "cách phối áo thun giấy không lộ",
+      "review áo thun giấy tay dài byjane",
+      "áo thun giấy form rộng nữ"
+    ],
+    "hashtags": [
+      "#aothungiay",
+      "#aothunbyjane",
+      "#aothuntaydai",
+      "#phoidonangtho",
+      "#gobiboutique",
+      "#tiktokshopaffiliate"
+    ],
+    "caption_template": "Cách diện áo thun giấy tay dài Byjane vừa sang vừa hack dáng cho nàng thơ 🌷 Mấy bà thích Look 1 quần suông hay Look 2 chân váy hơn? Ghé góc trái giỏ hàng nha!"
+  },
+  "folder_path": "configs/products/catalog/SP-BJ-001"
+}

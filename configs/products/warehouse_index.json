@@ -1,0 +1,103 @@
+{
+  "system_name": "VMAX Gobi Product Warehouse",
+  "version": "1.0.0",
+  "last_updated": "2026-10-20 15:04:07",
+  "total_products": 7,
+  "status_summary": {
+    "chua_lam": 3,
+    "dang_lam": 2,
+    "da_dang_video": 2
+  },
+  "koc_assignments_summary": {
+    "@gobiboutique": 3,
+    "@gobi.aries": 1,
+    "@gobi.taurus": 1,
+    "@thienthoaireview": 2
+  },
+  "products": [
+    {
+      "product_code": "SP-BJ-001",
+      "product_name": "Áo Thun Giấy Tay Dài Cổ Henley Byjane Form Suông",
+      "category": "ao_thun",
+      "price_vnd": 89000,
+      "commission_rate_percent": 22.0,
+      "commission_per_order_vnd": 19580,
+      "status": "da_dang_video",
+      "assigned_koc": "@gobiboutique",
+      "published_video_url": "https://www.tiktok.com/@gobiboutique/video/7678960622423330066",
+      "folder_path": "configs/products/catalog/SP-BJ-001"
+    },
+    {
+      "product_code": "SP-CD-005",
+      "product_name": "Áo Khoác Cardigan Len Mỏng Dáng Rộng Nàng Thơ SuChang",
+      "category": "ao_khoac",
+      "price_vnd": 129000,
+      "commission_rate_percent": 20.0,
+      "commission_per_order_vnd": 25800,
+      "status": "dang_lam",
+      "assigned_koc": "@gobiboutique",
+      "published_video_url": null,
+      "folder_path": "configs/products/catalog/SP-CD-005"
+    },
+    {
+      "product_code": "SP-QJ-003",
+      "product_name": "Quần Jean Nữ Ống Rộng Cạp Cao Vintage Retro Hàn Quốc",
+      "category": "quan_jean",
+      "price_vnd": 159000,
+      "commission_rate_percent": 18.0,
+      "commission_per_order_vnd": 28620,
+      "status": "dang_lam",
+      "assigned_koc": "@gobi.aries",
+      "published_video_url": null,
+      "folder_path": "configs/products/catalog/SP-QJ-003"
+    },
+    {
+      "product_code": "SP-QS-004",
+      "product_name": "Quần Short Nắp Túi Cạp Trễ Tôn Dáng Y2K Năng Động",
+      "category": "quan_short",
+      "price_vnd": 99000,
+      "commission_rate_percent": 20.0,
+      "commission_per_order_vnd": 19800,
+      "status": "chua_lam",
+      "assigned_koc": "@gobi.taurus",
+      "published_video_url": null,
+      "folder_path": "configs/products/catalog/SP-QS-004"
+    },
+    {
+      "product_code": "SP-QT-002",
+      "product_name": "Quần Tây Ống Suông Lưng Cao Vải Tuyết Mưa Hack Dáng 1m7",
+      "category": "quan_tay",
+      "price_vnd": 139000,
+      "commission_rate_percent": 20.0,
+      "commission_per_order_vnd": 27800,
+      "status": "da_dang_video",
+      "assigned_koc": "@gobiboutique",
+      "published_video_url": "https://www.tiktok.com/@gobiboutique/video/7697472862633921812",
+      "folder_path": "configs/products/catalog/SP-QT-002"
+    },
+    {
+      "product_code": "SP-TX-007",
+      "product_name": "Túi Xách Nữ Kẹp Nách Da Mềm Đính Dây Xích Bạc MOLLIX",
+      "category": "tui_xach",
+      "price_vnd": 189000,
+      "commission_rate_percent": 20.0,
+      "commission_per_order_vnd": 37800,
+      "status": "chua_lam",
+      "assigned_koc": "@thienthoaireview",
+      "published_video_url": null,
+      "folder_path": "configs/products/catalog/SP-TX-007"
+    },
+    {
+      "product_code": "SP-VB-006",
+      "product_name": "Váy Body Tay Dài Cổ Vuông Tôn Dáng Phối Ren LAVENDER",
+      "category": "vay_dam",
+      "price_vnd": 249000,
+      "commission_rate_percent": 18.0,
+      "commission_per_order_vnd": 44820,
+      "status": "chua_lam",
+      "assigned_koc": "@thienthoaireview",
+      "published_video_url": null,
+      "folder_path": "configs/products/catalog/SP-VB-006"
+    }
+  ]
+}

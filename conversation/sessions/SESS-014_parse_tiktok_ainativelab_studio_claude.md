@@ -42,7 +42,7 @@
 ---
 
 ## 💻 4. DANH SÁCH CÁC FILE CODE ĐÃ TẠO HOẶC CHỈNH SỬA
-1. [`affiliate_tiktok/inspect_tiktok_target.py`](../../affiliate_tiktok/inspect_tiktok_target.py) (Tạo mới): Script tự động hóa trình duyệt Playwright, chặn bắt stream video m3u8/mp4, tải file video và xuất frame tự động.
+1. [`scratch/tiktok/inspect_tiktok_target.py`](../../scratch/tiktok/inspect_tiktok_target.py) (Tạo mới): Script tự động hóa trình duyệt Playwright, chặn bắt stream video m3u8/mp4, tải file video và xuất frame tự động.
 2. [`shots/video_full_transcript_and_analysis.md`](../../shots/video_full_transcript_and_analysis.md) (Tạo mới): File tài liệu lưu trữ toàn bộ bản phiên âm nguyên văn tiếng Việt và phân tích chuyên sâu.
 3. [`conversation/sessions/SESS-014_parse_tiktok_ainativelab_studio_claude.md`](../../conversation/sessions/SESS-014_parse_tiktok_ainativelab_studio_claude.md) (Tạo mới): Báo cáo chốt phiên chuẩn hóa hệ thống VMAX.
 4. [`conversation/SESSION_INDEX.md`](../../conversation/SESSION_INDEX.md) (Cập nhật): Cập nhật sổ cái theo dõi hội thoại hệ thống.

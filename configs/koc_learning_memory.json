@@ -87,7 +87,7 @@
       "date": "2026-10-18",
       "category": "Real Voice AI Cloning & TikTok Action Energy (Benchmark @benaithucchien & mau-voice.mp4)",
       "finding": "Video tutorial @benaithucchien chỉ rõ cách clone giọng thật 99.9% qua EverAI v1.6 (VieNeu-TTS v3 Turbo ONNX) cần sample 3-5s ngắn gọn không tạp âm. Đầu ra TTS thô thiếu độ nảy action do RMS thấp (0.10) so với âm thanh thương mại TikTok (0.26).",
-      "actionable_rule": "Tự động trích xuất slice chuẩn 4.2s rõ chữ nhất làm sound profile, chạy VieNeu-TTS v3 Turbo offline trên máy, áp dụng mastering đa tầng (acompressor, loudnorm -14 LUFS, presence EQ 3.2kHz, tempo 1.05x) qua tools/voice/koc_voice_cloner.py và clone_voice_from_video.py."
+      "actionable_rule": "Tự động trích xuất slice chuẩn 4.2s rõ chữ nhất làm sound profile, chạy VieNeu-TTS v3 Turbo offline trên máy, áp dụng mastering đa tầng (acompressor, loudnorm -14 LUFS, presence EQ 3.2kHz, tempo 1.05x) qua src/gobi/services/voice/koc_voice_cloner.py và scripts/voice/clone_voice_from_video.py."
     },
     {
       "lesson_id": "LSN-012",
@@ -109,6 +109,20 @@
       "category": "Dynamic Learning from GOBI-TROUSERS-FLOW-01",
       "finding": "Video 'Review Quần Tây Tuyết Mưa Hack Dáng' dat 2600000 views, 38 don hang voi hook: 'Ai bảo dưới 1 mét 6 mặc quần ống suông là bị nuốt dáng?'.",
       "actionable_rule": "Google Flow UI dùng div.ProseMirror, tự động hóa bằng keyboard.paste và submit click hoạt động 100%, render 2 biến thể hoàn tất trong 40 giây."
+    },
+    {
+      "lesson_id": "LSN-015",
+      "date": "2026-10-19",
+      "category": "Zero-Shot Voice Cloning Perfection with OmniVoice & Sentence Boundary Slicing",
+      "finding": "Cắt lát audio theo thời lượng cứng (e.g. đúng 4.5s hoặc 7.0s) dễ cắt trúng giữa từ hoặc giữa câu, khiến mô hình diffusion language model (OmniVoice/VieNeu) cố đọc bù từ còn thiếu dẫn đến sinh ra âm thanh lạ ở đầu câu ('Ê!', 'Ý,') hoặc nuốt âm.",
+      "actionable_rule": "Luôn cắt lát âm thanh tham chiếu theo ranh giới câu trọn vẹn (Full Sentence Boundary 3.5s - 6.0s) qua Whisper VAD timestamps + đảm bảo reference_transcript.txt khớp 100% từng từ. Đóng gói OmniVoice làm động cơ mặc định số 1 trên Apple Silicon MPS, lưu cache omnivoice_prompt.pt để tái sử dụng tức thì không cần encode lại."
+    },
+    {
+      "lesson_id": "LSN-016",
+      "date": "2026-10-20",
+      "category": "Autonomous 36-Angle KOC Profile Dataset & Account Scaling Protocol",
+      "finding": "Tạo bộ 36 góc tư thế KOC profile chuẩn mực (độ phân giải cao 1024x1536) cần neo chặt 3 ảnh tham chiếu: Master DNA + Beauty Skin Ref + Crop tư thế cũ. Khi tài khoản free bị dính rate limit sau 4-5 ảnh, dịch vụ alias tạm thời (Addy free) dễ bị khóa hoặc dính spam filter. Sử dụng Gmail Sub-addressing (dinhthienthoai+gobi<N>@gmail.com) đăng ký ChatGPT passwordless OTP nhận trực tiếp vào Gmail trong 1 giây, hoàn toàn miễn phí, không bao giờ bị chặn hay limit.",
+      "actionable_rule": "Khi cạn quota ChatGPT, tự động dùng CDP xóa cookie, đăng ký dinhthienthoai+gobi<N>@gmail.com, bắt 6 số OTP tự động từ tab Gmail và nhập onboarding trong 15s để tiếp tục chu kỳ sinh ảnh không gián đoạn."
     }
   ],
   "video_performance_logs": [

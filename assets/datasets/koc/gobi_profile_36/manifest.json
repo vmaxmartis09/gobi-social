@@ -1,0 +1,372 @@
+[
+  {
+    "id": 0,
+    "code": "00_MASTER_DNA_ANCHOR",
+    "title": "MASTER IDENTITY DNA ANCHOR",
+    "filename": "00_MASTER_DNA_ANCHOR.jpg",
+    "width": 768,
+    "height": 1376,
+    "size_kb": 570.9,
+    "status": "COMPLETED"
+  },
+  {
+    "id": 1,
+    "code": "gobi_angle_01_chinh_dien_toan_than",
+    "title": "Chính diện toàn thân",
+    "filename": "gobi_angle_01_front_beauty.jpg",
+    "width": 1024,
+    "height": 1536,
+    "size_kb": 2265.0,
+    "status": "COMPLETED"
+  },
+  {
+    "id": 2,
+    "code": "gobi_angle_02_chinh_dien_trung_canh",
+    "title": "Chính diện trung cảnh",
+    "filename": "gobi_angle_02_three_quarter.jpg",
+    "width": 1024,
+    "height": 1536,
+    "size_kb": 2129.4,
+    "status": "COMPLETED"
+  },
+  {
+    "id": 3,
+    "code": "gobi_angle_03_can_mat_chinh_dien",
+    "title": "Cận mặt chính diện",
+    "filename": "gobi_angle_03_profile_side.jpg",
+    "width": 1024,
+    "height": 1536,
+    "size_kb": 2216.6,
+    "status": "COMPLETED"
+  },
+  {
+    "id": 4,
+    "code": "gobi_angle_04_goc_3_4_toan_than",
+    "title": "Góc 3/4 toàn thân",
+    "filename": "gobi_angle_04_half_body_waist.jpg",
+    "width": 1024,
+    "height": 1536,
+    "size_kb": 2167.4,
+    "status": "COMPLETED"
+  },
+  {
+    "id": 5,
+    "code": "gobi_angle_05_goc_3_4_trung_canh",
+    "title": "Góc 3/4 trung cảnh",
+    "filename": "gobi_angle_05_holding_product.jpg",
+    "width": 1024,
+    "height": 1536,
+    "size_kb": 2054.8,
+    "status": "COMPLETED"
+  },
+  {
+    "id": 6,
+    "code": "gobi_angle_06_can_mat_3_4",
+    "title": "Cận mặt 3/4",
+    "filename": "gobi_angle_06_three_quarter_left.jpg",
+    "width": 1024,
+    "height": 1536,
+    "size_kb": 2184.4,
+    "status": "COMPLETED"
+  },
+  {
+    "id": 7,
+    "code": "gobi_angle_07_goc_nghieng_toan_than",
+    "title": "Góc nghiêng toàn thân",
+    "filename": "gobi_angle_07_full_body_standing.jpg",
+    "width": 1024,
+    "height": 1536,
+    "size_kb": 1735.3,
+    "status": "COMPLETED"
+  },
+  {
+    "id": 8,
+    "code": "gobi_angle_08_can_mat_goc_nghieng",
+    "title": "Cận mặt góc nghiêng",
+    "filename": "gobi_angle_08_close_macro_eyes_lips.jpg",
+    "width": 1024,
+    "height": 1536,
+    "size_kb": 2319.6,
+    "status": "COMPLETED"
+  },
+  {
+    "id": 9,
+    "code": "gobi_angle_09_goc_chup_sau_lung",
+    "title": "Góc chụp từ sau lưng",
+    "filename": "gobi_angle_09_seated_table.jpg",
+    "width": 1024,
+    "height": 1536,
+    "size_kb": 2195.7,
+    "status": "COMPLETED"
+  },
+  {
+    "id": 10,
+    "code": "gobi_angle_10_nhin_lai_qua_vai",
+    "title": "Nhìn lại qua vai",
+    "filename": "gobi_angle_10_low_angle_editorial.jpg",
+    "width": 1024,
+    "height": 1536,
+    "size_kb": 2231.6,
+    "status": "COMPLETED"
+  },
+  {
+    "id": 11,
+    "code": "gobi_angle_11_goc_cao_toan_than",
+    "title": "Góc cao toàn thân",
+    "filename": "gobi_angle_11_high_angle_soft.jpg",
+    "width": 1024,
+    "height": 1536,
+    "size_kb": 2230.2,
+    "status": "COMPLETED"
+  },
+  {
+    "id": 12,
+    "code": "gobi_angle_12_goc_cao_can_mat",
+    "title": "Góc cao cận mặt",
+    "filename": "gobi_angle_12_talking_gesture.jpg",
+    "width": 1024,
+    "height": 1536,
+    "size_kb": 2219.8,
+    "status": "COMPLETED"
+  },
+  {
+    "id": 13,
+    "code": "gobi_angle_13_goc_thap_toan_than",
+    "title": "Góc thấp toàn thân",
+    "filename": "gobi_angle_13_laughing_candid.jpg",
+    "width": 1024,
+    "height": 1536,
+    "size_kb": 2217.0,
+    "status": "COMPLETED"
+  },
+  {
+    "id": 14,
+    "code": "gobi_angle_14_goc_thap_can_mat",
+    "title": "Góc thấp cận mặt",
+    "filename": "gobi_angle_14_profile_left.jpg",
+    "width": 1024,
+    "height": 1536,
+    "size_kb": 2095.0,
+    "status": "COMPLETED"
+  },
+  {
+    "id": 15,
+    "code": "gobi_angle_15_goc_90_do_tren_xuong",
+    "title": "Góc 90 độ từ trên xuống",
+    "filename": "gobi_angle_15_goc_90_do_tren_xuong.jpg",
+    "width": 1024,
+    "height": 1536,
+    "size_kb": 2306.2,
+    "status": "COMPLETED"
+  },
+  {
+    "id": 16,
+    "code": "gobi_angle_16_top_down_trung_canh",
+    "title": "Top-down trung cảnh",
+    "filename": "gobi_angle_16_skincare_cheek_touch.jpg",
+    "width": 1024,
+    "height": 1536,
+    "size_kb": 2434.7,
+    "status": "COMPLETED"
+  },
+  {
+    "id": 17,
+    "code": "gobi_angle_17_top_down_nam_ngua",
+    "title": "Top-down nằm ngửa",
+    "filename": "gobi_angle_17_holding_smartphone.jpg",
+    "width": 1024,
+    "height": 1536,
+    "size_kb": 2349.4,
+    "status": "COMPLETED"
+  },
+  {
+    "id": 18,
+    "code": "gobi_angle_18_top_down_ngoi_bet",
+    "title": "Top-down ngồi bệt",
+    "filename": "gobi_angle_18_over_shoulder.jpg",
+    "width": 1024,
+    "height": 1536,
+    "size_kb": 2292.4,
+    "status": "COMPLETED"
+  },
+  {
+    "id": 19,
+    "code": "gobi_angle_19_goc_rong_toan_canh",
+    "title": "Góc rộng toàn cảnh",
+    "filename": "gobi_angle_19_unboxing_hands.jpg",
+    "width": 1024,
+    "height": 1536,
+    "size_kb": 2119.1,
+    "status": "COMPLETED"
+  },
+  {
+    "id": 20,
+    "code": "gobi_angle_20_can_canh_goc_rong",
+    "title": "Cận cảnh góc rộng",
+    "filename": "gobi_angle_20_leaning_forward_desk.jpg",
+    "width": 1024,
+    "height": 1536,
+    "size_kb": 2354.0,
+    "status": "COMPLETED"
+  },
+  {
+    "id": 21,
+    "code": "gobi_angle_21_goc_nghieng_ha_lan",
+    "title": "Góc nghiêng Hà Lan",
+    "filename": "gobi_angle_21_walking_motion.jpg",
+    "width": 937,
+    "height": 1679,
+    "size_kb": 1835.5,
+    "status": "COMPLETED"
+  },
+  {
+    "id": 22,
+    "code": "gobi_angle_22_goc_ngang_hong",
+    "title": "Góc ngang hông",
+    "filename": "gobi_angle_22_goc_ngang_hong.jpg",
+    "width": 1024,
+    "height": 1536,
+    "size_kb": 2095.6,
+    "status": "COMPLETED"
+  },
+  {
+    "id": 23,
+    "code": "gobi_angle_23_khoanh_tay_truoc_nguc",
+    "title": "Khoanh tay trước ngực",
+    "filename": "gobi_angle_23_khoanh_tay_truoc_nguc.jpg",
+    "width": 1024,
+    "height": 1536,
+    "size_kb": 2201.0,
+    "status": "COMPLETED"
+  },
+  {
+    "id": 24,
+    "code": "gobi_angle_24_cham_tay_len_co_ao",
+    "title": "Chạm tay lên cổ áo",
+    "filename": "gobi_angle_24_cham_tay_len_co_ao.jpg",
+    "width": 1024,
+    "height": 1536,
+    "size_kb": 2180.7,
+    "status": "COMPLETED"
+  },
+  {
+    "id": 25,
+    "code": "gobi_angle_25_can_canh_chat_lieu",
+    "title": "Cận cảnh chất liệu",
+    "filename": "gobi_angle_25_can_canh_chat_lieu.jpg",
+    "width": 1024,
+    "height": 1536,
+    "size_kb": 2227.6,
+    "status": "COMPLETED"
+  },
+  {
+    "id": 26,
+    "code": "gobi_angle_26_buoc_di_tu_nhien",
+    "title": "Bước đi tự nhiên",
+    "filename": "gobi_angle_26_buoc_di_tu_nhien.jpg",
+    "width": 1024,
+    "height": 1536,
+    "size_kb": 1792.2,
+    "status": "COMPLETED"
+  },
+  {
+    "id": 27,
+    "code": "gobi_angle_27_ngoi_ghe_dau",
+    "title": "Ngồi ghế đẩu",
+    "filename": "gobi_angle_27_ngoi_ghe_dau.jpg",
+    "width": 1024,
+    "height": 1536,
+    "size_kb": 1822.4,
+    "status": "COMPLETED"
+  },
+  {
+    "id": 28,
+    "code": "gobi_angle_28_dua_tuong_ao",
+    "title": "Dựa tường ảo",
+    "filename": "gobi_angle_28_dua_tuong_ao.jpg",
+    "width": 1024,
+    "height": 1536,
+    "size_kb": 2094.7,
+    "status": "COMPLETED"
+  },
+  {
+    "id": 29,
+    "code": "gobi_angle_29_nguoc_nhin_len",
+    "title": "Ngước nhìn lên",
+    "filename": "gobi_angle_29_nguoc_nhin_len.jpg",
+    "width": 1024,
+    "height": 1536,
+    "size_kb": 2096.9,
+    "status": "COMPLETED"
+  },
+  {
+    "id": 30,
+    "code": "gobi_angle_30_cui_nhin_xuong",
+    "title": "Cúi nhìn xuống",
+    "filename": "gobi_angle_30_cui_nhin_xuong.jpg",
+    "width": 1024,
+    "height": 1536,
+    "size_kb": 2302.1,
+    "status": "COMPLETED"
+  },
+  {
+    "id": 31,
+    "code": "gobi_angle_31_can_canh_doi_mat",
+    "title": "Cận cảnh đôi mắt",
+    "filename": "gobi_angle_31_can_canh_doi_mat.jpg",
+    "width": 1536,
+    "height": 1024,
+    "size_kb": 2684.8,
+    "status": "COMPLETED"
+  },
+  {
+    "id": 32,
+    "code": "gobi_angle_32_anh_sang_bong_do",
+    "title": "Ánh sáng bóng đổ",
+    "filename": "gobi_angle_32_anh_sang_bong_do.jpg",
+    "width": 1024,
+    "height": 1536,
+    "size_kb": 2253.3,
+    "status": "COMPLETED"
+  },
+  {
+    "id": 33,
+    "code": "gobi_angle_33_goc_chup_nua_mat",
+    "title": "Góc chụp nửa mặt",
+    "filename": "gobi_angle_33_goc_chup_nua_mat.jpg",
+    "width": 1024,
+    "height": 1536,
+    "size_kb": 2204.6,
+    "status": "COMPLETED"
+  },
+  {
+    "id": 34,
+    "code": "gobi_angle_34_cui_nguoi_ve_truoc",
+    "title": "Cúi người về trước",
+    "filename": "gobi_angle_34_cui_nguoi_ve_truoc.jpg",
+    "width": 1024,
+    "height": 1536,
+    "size_kb": 2170.4,
+    "status": "COMPLETED"
+  },
+  {
+    "id": 35,
+    "code": "gobi_angle_35_chinh_toc",
+    "title": "Chỉnh tóc",
+    "filename": "gobi_angle_35_chinh_toc.jpg",
+    "width": 1024,
+    "height": 1536,
+    "size_kb": 2194.3,
+    "status": "COMPLETED"
+  },
+  {
+    "id": 36,
+    "code": "gobi_angle_36_tao_dang_nghe_thuat",
+    "title": "Tạo dáng nghệ thuật",
+    "filename": "gobi_angle_36_tao_dang_nghe_thuat.jpg",
+    "width": 1024,
+    "height": 1536,
+    "size_kb": 2174.2,
+    "status": "COMPLETED"
+  }
+]

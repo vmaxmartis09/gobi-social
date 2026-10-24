@@ -21,4 +21,9 @@ description: Quy tắc bắt buộc MẶC ĐỊNH làm việc đến cùng, khô
    - Luôn kiểm chứng bằng chứng hoàn thành (ảnh chụp màn hình trong `shots/`, URL đích, trạng thái đăng nhập) trước khi kết thúc tác vụ.
 
 4. **Tự học, đúc kết kinh nghiệm & Tinh chỉnh liên tục:**
-   - Sau mỗi chu kỳ thực thi, toàn bộ tri thức, công thức viral, dữ liệu chính sách và bài học kinh nghiệm phải được cập nhật vào `configs/koc_ai_knowledge_hub.json` và `configs/koc_learning_memory.json` qua `core/continuous_learning_engine.py` để hệ thống tự tối ưu và không bao giờ lặp lại lỗi cũ.
+   - Sau mỗi chu kỳ thực thi, toàn bộ tri thức, công thức viral, dữ liệu chính sách và bài học kinh nghiệm phải được cập nhật vào `configs/koc_ai_knowledge_hub.json` và `configs/koc_learning_memory.json` qua `src/gobi/services/intelligence/continuous_learning_engine.py` để hệ thống tự tối ưu và không bao giờ lặp lại lỗi cũ.
+
+5. **Công cụ Dựng & Biên Tập Video Chính: HeyGen HyperFrames (Mặc định bắt buộc):**
+   - Từ nay về sau, **HeyGen HyperFrames** (`integrations/hyperframes/`, adapter: `src/gobi/adapters/integrations/hyperframes_adapter.py`, service: `src/gobi/services/media/hyperframes_engine.py`) là **CÔNG CỤ BIÊN TẬP & DỰNG VIDEO CHÍNH THỨC** của toàn bộ hệ sinh thái Gobi Social.
+   - Toàn bộ video KOC AI, affiliate review thời trang và social clips được biên tập bằng composition HTML5/CSS/GSAP HyperFrames tất định, hỗ trợ chuẩn Safe Zone TikTok 9:16, kinetic subtitles, và multi-track audio ducking.
+

@@ -1,0 +1,68 @@
+{
+  "product_code": "SP-TX-007",
+  "product_name": "Túi Xách Nữ Kẹp Nách Da Mềm Đính Dây Xích Bạc MOLLIX",
+  "category": "tui_xach",
+  "pricing": {
+    "price_vnd": 189000,
+    "original_price_vnd": 299000,
+    "commission_rate_percent": 20.0,
+    "commission_per_order_vnd": 37800
+  },
+  "specs": {
+    "material": "Da PU cao cấp chống xước, bề mặt lì mềm mịn, xích bạc mạ tĩnh điện chống gỉ",
+    "colors": [
+      "Đen sang trọng",
+      "Trắng kem",
+      "Bạc ánh kim metallic"
+    ],
+    "sizes": [
+      "24cm x 14cm x 7cm (vừa iPhone Pro Max + đồ skincare/son phấn)"
+    ],
+    "origin_shop": "MOLLIX Studio",
+    "usp_features": [
+      "Thiết kế 2 quai tháo rời: vừa kẹp nách sang chảnh vừa đeo chéo cá tính",
+      "Ngăn khóa zip an toàn bên trong kèm lót vải nhung êm ái",
+      "Phụ kiện xích bạc tạo điểm nhấn bắt mắt khi chụp ảnh dạo phố"
+    ]
+  },
+  "production": {
+    "status": "chua_lam",
+    "assigned_koc": "@thienthoaireview",
+    "winning_format": "Unboxing & What's In My Bag (Đựng cả thế giới)",
+    "vmax_panels": [
+      "Panel 22 (Cận tay cầm túi)",
+      "Panel 25 (Chất da & xích)",
+      "Panel 01 (Lên đồ dạo phố)"
+    ],
+    "benchmark_video_url": null,
+    "benchmark_views": null,
+    "published_video_url": null,
+    "published_at": null
+  },
+  "seo": {
+    "primary_keywords": [
+      "túi kẹp nách nữ",
+      "túi xách nữ da mềm",
+      "túi xách dây xích"
+    ],
+    "secondary_keywords": [
+      "túi xách nữ đi tiệc",
+      "túi kẹp nách sang chảnh",
+      "túi xách nữ giá học sinh"
+    ],
+    "search_intents": [
+      "túi kẹp nách nữ da mềm giá rẻ",
+      "túi xách nữ đựng vừa điện thoại",
+      "túi xách phối đồ nàng thơ"
+    ],
+    "hashtags": [
+      "#tuikepnach",
+      "#tuixachnu",
+      "#tuixachdamem",
+      "#phukienthoitrang",
+      "#thienthoaireview"
+    ],
+    "caption_template": "Chiếc túi giá chưa bằng 3 ly trà sữa mà đựng được cả thế giới của con gái! Da mềm êm ru, xích bạc sáng bóng. Rinh ngay tại giỏ hàng TikTok Shop nha!"
+  },
+  "folder_path": "configs/products/catalog/SP-TX-007"
+}

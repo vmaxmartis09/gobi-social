@@ -55,3 +55,30 @@ npm-debug.log*
 .DS_Store
 Thumbs.db
 desktop.ini
+scratch/restructure/*.tgz
+
+# Graphify cache
+graphify-out/cache/
+
+# --- Added for cross-machine push ---
+# Model weights (too large for GitHub; re-download per docs)
+models/
+*.onnx
+*.npz
+*.safetensors
+*.pth
+*.ckpt
+
+# Graphify big artifacts (rebuild with `graphify update .`)
+graphify-out/graph.json
+graphify-out/*/graph.json
+graphify-out/graph.html
+
+# External repos cloned into integrations/ (clone separately)
+integrations/OmniVoice/
+integrations/hyperframes/
+integrations/Wav2Lip/
+
+# Local-only config & build metadata
+.claude/settings.local.json
+*.egg-info/

@@ -1,0 +1,70 @@
+{
+  "product_code": "SP-QJ-003",
+  "product_name": "Quần Jean Nữ Ống Rộng Cạp Cao Vintage Retro Hàn Quốc",
+  "category": "quan_jean",
+  "pricing": {
+    "price_vnd": 159000,
+    "original_price_vnd": 250000,
+    "commission_rate_percent": 18.0,
+    "commission_per_order_vnd": 28620
+  },
+  "specs": {
+    "material": "Denim cotton 100% dày dặn 12oz, wash màu vintage không phai",
+    "colors": [
+      "Xanh retro nhạt",
+      "Xanh đậm vintage",
+      "Xám khói wash"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "origin_shop": "Hin Thanh Denim Studio",
+    "usp_features": [
+      "Form đứng tôn mông, không bị xệ đáy khi ngồi",
+      "Độ dài tiêu chuẩn che trọn giày sneaker/cao gót",
+      "Màu wash cổ điển dễ phối mọi kiểu áo thun, croptop"
+    ]
+  },
+  "production": {
+    "status": "dang_lam",
+    "assigned_koc": "@gobi.aries",
+    "winning_format": "Shocking Comparison (Quần thường vs Quần jean ống rộng)",
+    "vmax_panels": [
+      "Panel 01 (Toàn thân)",
+      "Panel 22 (Ngang hông)",
+      "Panel 36 (Xoay người)"
+    ],
+    "benchmark_video_url": "https://www.tiktok.com/@hinthanh806/video/7679350378198060296",
+    "benchmark_views": 1000000,
+    "published_video_url": null,
+    "published_at": null
+  },
+  "seo": {
+    "primary_keywords": [
+      "quần jean ống rộng",
+      "quần jean nữ cạp cao",
+      "quần bò ống suông"
+    ],
+    "secondary_keywords": [
+      "quần jean hack dáng",
+      "quần jean vintage hàn quốc",
+      "jean nữ gen z"
+    ],
+    "search_intents": [
+      "quần jean ống rộng nữ cạp cao",
+      "phối đồ với quần jean ống suông",
+      "quần jean nữ tôn dáng"
+    ],
+    "hashtags": [
+      "#quanjeanongrong",
+      "#jeancapcao",
+      "#jeanvintage",
+      "#streetstyle",
+      "#gobiaries"
+    ],
+    "caption_template": "1 chiếc quần jean cạp cao cứu cánh cho mọi cô nàng chân cong, đùi to! Mix với croptop là 10 điểm không có nhưng ✨ Săn deal tại giỏ hàng nhé!"
+  },
+  "folder_path": "configs/products/catalog/SP-QJ-003"
+}

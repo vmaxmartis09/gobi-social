@@ -31,47 +31,47 @@ Mọi thành phần cốt lõi của hệ thống được tổ chức hoàn to�
 | **Sổ cái Tự học** | [`configs/koc_learning_memory.json`](configs/koc_learning_memory.json) | Bộ nhớ lưu vết bài học từ các chiến dịch video, lịch sử tự động tinh chỉnh trọng số prompt (`auto_tuned_prompt_weights`). |
 | **Big Data 104 Video** | [`configs/koc_fashion_bigdata_analytics.json`](configs/koc_fashion_bigdata_analytics.json)<br>[`configs/koc_fashion_bigdata_harvest.json`](configs/koc_fashion_bigdata_harvest.json) | Bản phân tích 104 video thời trang triệu view (15M+ lượt xem): thời lượng hook, nhịp cắt cảnh 1.8s - 2.5s, vị trí nút CTA. |
 | **Danh mục Sản phẩm** | [`configs/koc_fashion_korean_products.json`](configs/koc_fashion_korean_products.json) | Cơ sở dữ liệu mẫu áo cardigan, set đồ thời trang kèm kịch bản review mẫu và góc quay tương ứng. |
-| **Neo Thị giác Master** | [`MASTER_GOBI_OFFICIAL.jpg`](MASTER_GOBI_OFFICIAL.jpg)<br>[`GOBI_36_PANELS_OFFICIAL.jpg`](GOBI_36_PANELS_OFFICIAL.jpg) | 2 tệp ảnh neo gốc dùng để khóa khuôn mặt và góc quay trong Veo, Midjourney, Flux. |
-| **Bộ ảnh 36 Panels** | [`affiliate_tiktok/dataset_koc/`](affiliate_tiktok/dataset_koc/) | 36 panel độc lập cắt từ ma trận gốc, kèm file `manifest.json` sẵn sàng cho huấn luyện Face-ID / LoRA. |
+| **Neo Thị giác Master** | [`assets/koc_dna/MASTER_GOBI_OFFICIAL.jpg`](assets/koc_dna/MASTER_GOBI_OFFICIAL.jpg)<br>[`assets/koc_dna/GOBI_36_PANELS_OFFICIAL.jpg`](assets/koc_dna/GOBI_36_PANELS_OFFICIAL.jpg) | 2 tệp ảnh neo gốc dùng để khóa khuôn mặt và góc quay trong Veo, Midjourney, Flux. |
+| **Bộ ảnh 36 Panels** | [`assets/datasets/koc/`](assets/datasets/koc/) | 36 panel độc lập cắt từ ma trận gốc, kèm file `manifest.json` sẵn sàng cho huấn luyện Face-ID / LoRA. |
 | **Lịch sử Phiên** | [`conversation/SESSION_INDEX.md`](conversation/SESSION_INDEX.md) | Bảng theo dõi 16 phiên làm việc đã hoàn thành (SESS-001 -> SESS-016). |
 
 ---
 
 ## ⚙️ 3. CÁC ĐỘNG CƠ CỐT LÕI & CÁCH CHẠY (CORE ENGINES)
 
-### 3.1. Động cơ Tự học & Tiến hóa (`core/continuous_learning_engine.py`)
+### 3.1. Động cơ Tự học & Tiến hóa (`src/gobi/services/intelligence/continuous_learning_engine.py`)
 * **Chức năng:** Nạp kết quả video thực tế (views, completion rate, click giỏ hàng), trích xuất bài học và tối ưu trọng số câu lệnh.
 * **Cách chạy:**
   ```bash
-  python core/continuous_learning_engine.py
+  python src/gobi/services/intelligence/continuous_learning_engine.py
   ```
 
-### 3.2. Trình sinh Kịch bản & Prompt 36 Góc (`core/koc_prompt_generator.py`)
+### 3.2. Trình sinh Kịch bản & Prompt 36 Góc (`src/gobi/services/prompt/koc_prompt_generator.py`)
 * **Chức năng:** Sinh prompt 4K điện ảnh kết hợp neo nhân vật Gô Bi và các góc máy trong ma trận.
 * **Cách chạy:**
   ```bash
-  python core/koc_prompt_generator.py
+  python src/gobi/services/prompt/koc_prompt_generator.py
   ```
 
-### 3.3. Bộ Quét Vi phạm Chính sách & Vùng An toàn (`tools/video/policy_compliance_checker.py`)
+### 3.3. Bộ Quét Vi phạm Chính sách & Vùng An toàn (`src/gobi/domain/policy_compliance_checker.py`)
 * **Chức năng:** Quét kịch bản, phụ đề trước khi render để loại bỏ từ khóa cấm của TikTok Shop.
 * **Cách chạy:**
   ```bash
-  python tools/video/policy_compliance_checker.py --script "Set áo cardigan này cực xinh, giá chỉ 139 cành ở giỏ hàng góc trái!"
+  python src/gobi/domain/policy_compliance_checker.py --script "Set áo cardigan này cực xinh, giá chỉ 139 cành ở giỏ hàng góc trái!"
   ```
 
-### 3.4. Bộ Dựng Video Ken Burns & Phụ đề Safe Zone (`core/render_gobi_boutique_v1.py`)
+### 3.4. Bộ Dựng Video Ken Burns & Phụ đề Safe Zone (`src/gobi/services/media/render_gobi_boutique_v1.py`)
 * **Chức năng:** Dựng video review 9:16 chuẩn 1080x1920, 30fps, Ken Burns motion, ducking âm thanh BGM thông minh.
 * **Cách chạy:**
   ```bash
-  python core/render_gobi_boutique_v1.py
+  python src/gobi/services/media/render_gobi_boutique_v1.py
   ```
 
-### 3.5. Pipeline Nhân bản Giọng nói Thật (`tools/voice/koc_voice_cloner.py`)
+### 3.5. Pipeline Nhân bản Giọng nói Thật (`src/gobi/services/voice/koc_voice_cloner.py`)
 * **Chức năng:** Tách giọng nói mẫu từ video/audio ngắn, lọc tạp âm và tạo profile giọng KOC.
 * **Cách chạy:**
   ```bash
-  python clone_voice_from_video.py --input path/to/sample.mp4 --name koc_gobi
+  python scripts/voice/clone_voice_from_video.py --input path/to/sample.mp4 --name koc_gobi
   ```
 
 ### 3.6. Giám sát Tự động hóa Trực quan (`live_viewer.html`)
@@ -96,9 +96,9 @@ Mọi thành phần cốt lõi của hệ thống được tổ chức hoàn to�
      - Áo croptop dệt kim cổ tim.
      - Quần ống suông cạp cao tôn dáng.
 2. **Cập nhật Vòng lặp Tự học (Continuous Learning):**
-   - Khi có thêm số liệu tương tác từ các kênh TikTok thực tế, chạy `core/continuous_learning_engine.py` để nạp các trường hợp video thành công / thất bại vào `configs/koc_learning_memory.json`.
+   - Khi có thêm số liệu tương tác từ các kênh TikTok thực tế, chạy `src/gobi/services/intelligence/continuous_learning_engine.py` để nạp các trường hợp video thành công / thất bại vào `configs/koc_learning_memory.json`.
 3. **Mở rộng Đa kênh qua Agent Reach:**
-   - Tận dụng phân hệ [`tools/reach/`](tools/reach/) để cào và phân tích thêm dữ liệu từ Facebook Reels, Tiểu Hồng Thư (XHS) và YouTube Shorts.
+   - Tận dụng phân hệ [`integrations/agent_reach/`](integrations/agent_reach/) để cào và phân tích thêm dữ liệu từ Facebook Reels, Tiểu Hồng Thư (XHS) và YouTube Shorts.
 
 ---
 

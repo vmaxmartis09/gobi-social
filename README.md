@@ -3,8 +3,8 @@
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![TikTok Safe Zone 9:16](https://img.shields.io/badge/SafeZone-9:16%20Compliant-green.svg)](configs/koc_ai_knowledge_hub.json)
-[![AIGC Policy Scanner](https://img.shields.io/badge/AIGC%20Policy-Verified-brightgreen.svg)](tools/video/policy_compliance_checker.py)
-[![Master Character DNA](https://img.shields.io/badge/Character%20DNA-Gobi%20Official-purple.svg)](MASTER_GOBI_OFFICIAL.jpg)
+[![AIGC Policy Scanner](https://img.shields.io/badge/AIGC%20Policy-Verified-brightgreen.svg)](src/gobi/domain/policy_compliance_checker.py)
+[![Master Character DNA](https://img.shields.io/badge/Character%20DNA-Gobi%20Official-purple.svg)](assets/koc_dna/MASTER_GOBI_OFFICIAL.jpg)
 
 ---
 
@@ -26,7 +26,7 @@
 **Gobi Social** là hệ thống toàn diện đóng gói toàn bộ tri thức, dữ liệu khai phá Big Data, công thức kịch bản viral, động cơ tự học tiến hóa liên tục và pipeline sản xuất video/voice tự động cho nhân vật **KOC AI Gô Bi (Gobi Thúi)**.
 
 Hệ thống giải quyết triệt để các bài toán lớn nhất của Video AI Social Commerce:
-* **Tính nhất quán khuôn mặt & thần thái (Character Consistency):** Khóa cứng DNA nhân vật qua bộ neo thị giác 36 góc quay (`MASTER_GOBI_OFFICIAL.jpg` & `GOBI_36_PANELS_OFFICIAL.jpg`).
+* **Tính nhất quán khuôn mặt & thần thái (Character Consistency):** Khóa cứng DNA nhân vật qua bộ neo thị giác 36 góc quay (`assets/koc_dna/MASTER_GOBI_OFFICIAL.jpg` & `assets/koc_dna/GOBI_36_PANELS_OFFICIAL.jpg`).
 * **Chuẩn hóa vùng an toàn TikTok (TikTok Safe Zone 9:16):** Tự động căn chỉnh padding, phụ đề, sticker giỏ hàng không bị thanh điều hướng và avatar che khuất.
 * **Tự động quét vi phạm chính sách (AIGC & Policy Compliance):** Bộ từ điển cấm thời gian thực ngăn chặn triệt để nguy cơ bị bóp tương tác hoặc cấm kênh.
 * **Tự học và tiến hóa liên tục (Continuous Learning):** Tự động phân tích chỉ số video thực tế (views, completion rate, GMV) để tối ưu trọng số câu lệnh và trích xuất bài học kinh nghiệm.
@@ -82,7 +82,7 @@ Hệ thống lưu trữ toàn bộ tri thức và dữ liệu khai phá tại th
 | **`configs/koc_fashion_bigdata_analytics.json`** | Bản phân tích chuyên sâu 104 video thời trang triệu view: Tỷ lệ giữ chân 3s đầu, nhịp điệu cắt cảnh (1.8s - 2.5s), công thức hook và vị trí đặt nút kêu gọi hành động (CTA). |
 | **`configs/koc_fashion_bigdata_harvest.json`** | Tập dữ liệu thô thu thập từ hơn 104 video thời trang thành công (hơn 15 triệu lượt xem) với đầy đủ metadata, chỉ số tương tác và hashtag. |
 | **`configs/koc_fashion_korean_products.json`** | Cơ sở dữ liệu sản phẩm thời trang phong cách Hàn Quốc: Thuộc tính chất liệu, form dáng, các góc quay review tối ưu cho từng mẫu váy áo. |
-| **`scenes_config.json`** | Cấu hình phân cảnh mẫu cho video review 45s (Hook -> Vấn đề -> Giải pháp -> Bằng chứng -> Kêu gọi hành động). |
+| **`configs/scenes_config.json`** | Cấu hình phân cảnh mẫu cho video review 45s (Hook -> Vấn đề -> Giải pháp -> Bằng chứng -> Kêu gọi hành động). |
 
 ---
 
@@ -90,9 +90,9 @@ Hệ thống lưu trữ toàn bộ tri thức và dữ liệu khai phá tại th
 
 Nhân vật **Gô Bi (Gobi Thúi)** được chuẩn hóa ngoại hình và phong cách biểu cảm qua hệ thống hình ảnh neo thị giác:
 
-* **`MASTER_GOBI_OFFICIAL.jpg`**: Ảnh chân dung chuẩn (Master Anchor), khóa chặt cấu trúc khuôn mặt, ánh mắt, nụ cười và tông trang điểm.
-* **`GOBI_36_PANELS_OFFICIAL.jpg`**: Bảng tổng hợp 36 góc quay thực nghiệm (từ cận cảnh biểu cảm, góc nghiêng 3/4, góc từ trên xuống top-down, góc bước đi tự nhiên, đến cận cảnh chất vải).
-* **`affiliate_tiktok/dataset_koc/`**: Thư mục chứa toàn bộ 36 panel độc lập độ phân giải cao và manifest chi tiết phục vụ huấn luyện LoRA / Face-ID.
+* **`assets/koc_dna/MASTER_GOBI_OFFICIAL.jpg`**: Ảnh chân dung chuẩn (Master Anchor), khóa chặt cấu trúc khuôn mặt, ánh mắt, nụ cười và tông trang điểm.
+* **`assets/koc_dna/GOBI_36_PANELS_OFFICIAL.jpg`**: Bảng tổng hợp 36 góc quay thực nghiệm (từ cận cảnh biểu cảm, góc nghiêng 3/4, góc từ trên xuống top-down, góc bước đi tự nhiên, đến cận cảnh chất vải).
+* **`assets/datasets/koc/`**: Thư mục chứa toàn bộ 36 panel độc lập độ phân giải cao và manifest chi tiết phục vụ huấn luyện LoRA / Face-ID.
 
 ---
 
@@ -100,36 +100,36 @@ Nhân vật **Gô Bi (Gobi Thúi)** được chuẩn hóa ngoại hình và phon
 
 Thư mục `core/` bao gồm các động cơ xử lý độc lập:
 
-1. **`core/continuous_learning_engine.py`**:
+1. **`src/gobi/services/intelligence/continuous_learning_engine.py`**:
    * Động cơ tự học và tối ưu hóa trọng số prompt theo phản hồi thực tế.
    * Tự động điều chỉnh các hệ số: `hook_strength`, `visual_clarity`, `audio_pacing`, `cta_urgency`.
    * Tự động bổ sung từ khóa vi phạm mới vào sổ cái tri thức.
 
-2. **`core/koc_prompt_generator.py`**:
+2. **`src/gobi/services/prompt/koc_prompt_generator.py`**:
    * Trình sinh câu lệnh Prompt chuẩn điện ảnh 4K cho Veo / Midjourney / Flux.
    * Tự động gắn thẻ neo DNA nhân vật, góc máy trong ma trận 36 góc, phong cách ánh sáng soft studio và thông số Safe Zone.
 
-3. **`core/ai_concat_auto_editor.py`**:
+3. **`src/gobi/services/media/ai_concat_auto_editor.py`**:
    * Tự động hóa quá trình dựng phim: Ghép các phân đoạn video ngắn theo nhịp nhạc, tạo hiệu ứng chuyển cảnh mềm mại (Ken Burns / Pan / Zoom).
    * Tự động chèn văn bản ghim trên (Header Hook) và phụ đề chuẩn Safe Zone.
 
-4. **`core/video_engine.py` & `core/render_gobi_boutique_v1.py`**:
+4. **`src/gobi/services/media/video_engine.py` & `src/gobi/services/media/render_gobi_boutique_v1.py`**:
    * Bộ render video độ phân giải dọc 1080x1920 (9:16), 30fps.
    * Hỗ trợ ducking âm thanh thông minh (tự động giảm âm lượng nhạc nền BGM khi có giọng thuyết minh).
 
-5. **`core/generate_gobi_voice.py` & `core/generate_gobi_trousers_voice.py`**:
+5. **`src/gobi/services/voice/generate_gobi_voice.py` & `src/gobi/services/voice/generate_gobi_trousers_voice.py`**:
    * Module tổng hợp giọng đọc tiếng Việt truyền cảm (Edge-TTS giọng Hoài My kết hợp xử lý cân bằng âm sắc EQ).
 
 ---
 
 ## 🛡️ CÔNG CỤ QUÉT CHÍNH SÁCH & VOICE CLONER (TOOLS & COMPLIANCE)
 
-* **`tools/video/policy_compliance_checker.py`**:
+* **`src/gobi/domain/policy_compliance_checker.py`**:
   * Quét tự động kịch bản và phụ đề trước khi render.
   * Đối soát với danh mục từ khóa cấm của TikTok Shop (cam kết tuyệt đối, từ ngữ y tế thổi phồng, từ ngữ so sánh nhất, điều hướng nền tảng ngoài...).
-* **`tools/voice/koc_voice_cloner.py`**:
+* **`src/gobi/services/voice/koc_voice_cloner.py`**:
   * Pipeline nhân bản giọng nói thật từ video ngắn: Tự động tách vocal, khử tạp âm, cắt mẫu 4s-15s tinh khiết và đồng bộ ngữ điệu.
-* **`tools/reach/`**:
+* **`integrations/agent_reach/`**:
   * Hệ thống Agent Reach tích hợp đa nền tảng (TikTok, YouTube, Facebook, Reddit, XHS) phục vụ nghiên cứu xu hướng và tự động tương tác.
 
 ---
@@ -148,7 +148,7 @@ Toàn bộ quá trình hình thành hệ sinh thái được ghi nhận minh b�
 | **SESS-006** | Xây dựng bảng điều khiển giám sát trực quan `live_viewer.html`. |
 | **SESS-007** | Khai phá Big Data thời trang & Hoàn thiện Động cơ tự học Continuous Learning. |
 | **SESS-008** | Chuẩn hóa quy chuẩn vận hành kiên trì tuyệt đối (`AGENTS.md` / `GEMINI.md`). |
-| **SESS-009** | Tích hợp hệ thống Job Search & Multi-Channel Reach (`tools/reach/`). |
+| **SESS-009** | Tích hợp hệ thống Job Search & Multi-Channel Reach (`integrations/agent_reach/`). |
 | **SESS-010** | Đồng nhất kiến trúc tài liệu và thư mục tri thức `conversation/`. |
 | **SESS-011** | Khai phá 104 video triệu view, tối ưu Auto-Editor & Render video Gô Bi 9s. |
 | **SESS-012** | Khóa DNA Master KOC, ma trận góc quay & Render video mẫu Gobi Thúi 9s. |
@@ -191,21 +191,45 @@ copy .env.example .env
 
 ### 3. Kiểm tra vi phạm chính sách kịch bản (Policy Compliance Check)
 ```bash
-python tools/video/policy_compliance_checker.py --script "Set đồ này mặc bao xinh, giá chỉ 139k mua ngay tại giỏ hàng!"
+python src/gobi/domain/policy_compliance_checker.py --script "Set đồ này mặc bao xinh, giá chỉ 139k mua ngay tại giỏ hàng!"
 ```
 
 ### 4. Sinh Prompt KOC chuẩn 36 góc quay
 ```bash
-python core/koc_prompt_generator.py
+python src/gobi/services/prompt/koc_prompt_generator.py
 ```
 
 ### 5. Render Video Review Gobi Boutique 9:16
 ```bash
-python core/render_gobi_boutique_v1.py
+python src/gobi/services/media/render_gobi_boutique_v1.py
 ```
 
 ### 6. Khởi chạy Giao diện Giám sát Tự động hóa Trực quan
 Mở trực tiếp tệp `live_viewer.html` trên trình duyệt để xem luồng chụp màn hình và trạng thái tự động hóa thời gian thực.
+
+### 7. Tải Source Video TikTok Không Logo (SnapTik Module)
+Tải source video MP4 sạch watermark, nhạc nền MP3, ảnh bìa và metadata vào project:
+```bash
+# Tải video sạch không logo vào output/videos/
+./gobi snaptik "https://www.tiktok.com/@user/video/..."
+
+# Tải kèm audio MP3 và ảnh bìa cover
+./gobi snaptik "https://www.tiktok.com/@user/video/..." -a -c
+
+# Xem thông số tương tác (views, likes, cmt, shares, duration) mà không tải
+./gobi snaptik "https://www.tiktok.com/@user/video/..." -i
+
+# Khởi chạy giao diện SnapTik Web UI trực quan (chuẩn phong cách snaptik.vn)
+./gobi snaptik --web
+```
+Hoặc dùng trực tiếp trong Python:
+```python
+from gobi.services.media.snaptik_service import SnaptikService
+
+service = SnaptikService()
+result = service.download("https://www.tiktok.com/@user/video/...", download_audio=True)
+print(f"Video đã lưu tại: {result.video_path}")
+```
 
 ---
 *Gobi Social - Được thiết kế và vận hành bởi đội ngũ AI Engineering & KOC Automation.*

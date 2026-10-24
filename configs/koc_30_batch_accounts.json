@@ -1,0 +1,380 @@
+{
+  "system": "Gobi 30 Batch Accounts Dispatcher",
+  "total_accounts": 30,
+  "total_angles": 42,
+  "destination_forwarding_inbox": "dinhthienthoai@gmail.com",
+  "accounts": [
+    {
+      "index": 1,
+      "account_id": "gobi_koc_worker_01",
+      "email": "koc.worker.01@gobikoc.anonaddy.com",
+      "status": "READY",
+      "assigned_angles": [
+        1,
+        31
+      ],
+      "completed_angles": [],
+      "quota_per_day": 2,
+      "notes": "Tài khoản worker 1 nhận OTP tự động qua catch-all"
+    },
+    {
+      "index": 2,
+      "account_id": "gobi_koc_worker_02",
+      "email": "koc.worker.02@gobikoc.anonaddy.com",
+      "status": "READY",
+      "assigned_angles": [
+        2,
+        32
+      ],
+      "completed_angles": [],
+      "quota_per_day": 2,
+      "notes": "Tài khoản worker 2 nhận OTP tự động qua catch-all"
+    },
+    {
+      "index": 3,
+      "account_id": "gobi_koc_worker_03",
+      "email": "koc.worker.03@gobikoc.anonaddy.com",
+      "status": "READY",
+      "assigned_angles": [
+        3,
+        33
+      ],
+      "completed_angles": [],
+      "quota_per_day": 2,
+      "notes": "Tài khoản worker 3 nhận OTP tự động qua catch-all"
+    },
+    {
+      "index": 4,
+      "account_id": "gobi_koc_worker_04",
+      "email": "koc.worker.04@gobikoc.anonaddy.com",
+      "status": "READY",
+      "assigned_angles": [
+        4,
+        34
+      ],
+      "completed_angles": [],
+      "quota_per_day": 2,
+      "notes": "Tài khoản worker 4 nhận OTP tự động qua catch-all"
+    },
+    {
+      "index": 5,
+      "account_id": "gobi_koc_worker_05",
+      "email": "koc.worker.05@gobikoc.anonaddy.com",
+      "status": "READY",
+      "assigned_angles": [
+        5,
+        35
+      ],
+      "completed_angles": [],
+      "quota_per_day": 2,
+      "notes": "Tài khoản worker 5 nhận OTP tự động qua catch-all"
+    },
+    {
+      "index": 6,
+      "account_id": "gobi_koc_worker_06",
+      "email": "koc.worker.06@gobikoc.anonaddy.com",
+      "status": "READY",
+      "assigned_angles": [
+        6,
+        36
+      ],
+      "completed_angles": [],
+      "quota_per_day": 2,
+      "notes": "Tài khoản worker 6 nhận OTP tự động qua catch-all"
+    },
+    {
+      "index": 7,
+      "account_id": "gobi_koc_worker_07",
+      "email": "koc.worker.07@gobikoc.anonaddy.com",
+      "status": "READY",
+      "assigned_angles": [
+        7,
+        37
+      ],
+      "completed_angles": [],
+      "quota_per_day": 2,
+      "notes": "Tài khoản worker 7 nhận OTP tự động qua catch-all"
+    },
+    {
+      "index": 8,
+      "account_id": "gobi_koc_worker_08",
+      "email": "koc.worker.08@gobikoc.anonaddy.com",
+      "status": "READY",
+      "assigned_angles": [
+        8,
+        38
+      ],
+      "completed_angles": [],
+      "quota_per_day": 2,
+      "notes": "Tài khoản worker 8 nhận OTP tự động qua catch-all"
+    },
+    {
+      "index": 9,
+      "account_id": "gobi_koc_worker_09",
+      "email": "koc.worker.09@gobikoc.anonaddy.com",
+      "status": "READY",
+      "assigned_angles": [
+        9,
+        39
+      ],
+      "completed_angles": [],
+      "quota_per_day": 2,
+      "notes": "Tài khoản worker 9 nhận OTP tự động qua catch-all"
+    },
+    {
+      "index": 10,
+      "account_id": "gobi_koc_worker_10",
+      "email": "koc.worker.10@gobikoc.anonaddy.com",
+      "status": "READY",
+      "assigned_angles": [
+        10,
+        40
+      ],
+      "completed_angles": [],
+      "quota_per_day": 2,
+      "notes": "Tài khoản worker 10 nhận OTP tự động qua catch-all"
+    },
+    {
+      "index": 11,
+      "account_id": "gobi_koc_worker_11",
+      "email": "koc.worker.11@gobikoc.anonaddy.com",
+      "status": "READY",
+      "assigned_angles": [
+        11,
+        41
+      ],
+      "completed_angles": [],
+      "quota_per_day": 2,
+      "notes": "Tài khoản worker 11 nhận OTP tự động qua catch-all"
+    },
+    {
+      "index": 12,
+      "account_id": "gobi_koc_worker_12",
+      "email": "koc.worker.12@gobikoc.anonaddy.com",
+      "status": "READY",
+      "assigned_angles": [
+        12,
+        42
+      ],
+      "completed_angles": [],
+      "quota_per_day": 2,
+      "notes": "Tài khoản worker 12 nhận OTP tự động qua catch-all"
+    },
+    {
+      "index": 13,
+      "account_id": "gobi_koc_worker_13",
+      "email": "koc.worker.13@gobikoc.anonaddy.com",
+      "status": "READY",
+      "assigned_angles": [
+        13
+      ],
+      "completed_angles": [],
+      "quota_per_day": 2,
+      "notes": "Tài khoản worker 13 nhận OTP tự động qua catch-all"
+    },
+    {
+      "index": 14,
+      "account_id": "gobi_koc_worker_14",
+      "email": "koc.worker.14@gobikoc.anonaddy.com",
+      "status": "READY",
+      "assigned_angles": [
+        14
+      ],
+      "completed_angles": [],
+      "quota_per_day": 2,
+      "notes": "Tài khoản worker 14 nhận OTP tự động qua catch-all"
+    },
+    {
+      "index": 15,
+      "account_id": "gobi_koc_worker_15",
+      "email": "koc.worker.15@gobikoc.anonaddy.com",
+      "status": "READY",
+      "assigned_angles": [
+        15
+      ],
+      "completed_angles": [],
+      "quota_per_day": 2,
+      "notes": "Tài khoản worker 15 nhận OTP tự động qua catch-all"
+    },
+    {
+      "index": 16,
+      "account_id": "gobi_koc_worker_16",
+      "email": "koc.worker.16@gobikoc.anonaddy.com",
+      "status": "READY",
+      "assigned_angles": [
+        16
+      ],
+      "completed_angles": [],
+      "quota_per_day": 2,
+      "notes": "Tài khoản worker 16 nhận OTP tự động qua catch-all"
+    },
+    {
+      "index": 17,
+      "account_id": "gobi_koc_worker_17",
+      "email": "koc.worker.17@gobikoc.anonaddy.com",
+      "status": "READY",
+      "assigned_angles": [
+        17
+      ],
+      "completed_angles": [],
+      "quota_per_day": 2,
+      "notes": "Tài khoản worker 17 nhận OTP tự động qua catch-all"
+    },
+    {
+      "index": 18,
+      "account_id": "gobi_koc_worker_18",
+      "email": "koc.worker.18@gobikoc.anonaddy.com",
+      "status": "READY",
+      "assigned_angles": [
+        18
+      ],
+      "completed_angles": [],
+      "quota_per_day": 2,
+      "notes": "Tài khoản worker 18 nhận OTP tự động qua catch-all"
+    },
+    {
+      "index": 19,
+      "account_id": "gobi_koc_worker_19",
+      "email": "koc.worker.19@gobikoc.anonaddy.com",
+      "status": "READY",
+      "assigned_angles": [
+        19
+      ],
+      "completed_angles": [],
+      "quota_per_day": 2,
+      "notes": "Tài khoản worker 19 nhận OTP tự động qua catch-all"
+    },
+    {
+      "index": 20,
+      "account_id": "gobi_koc_worker_20",
+      "email": "koc.worker.20@gobikoc.anonaddy.com",
+      "status": "READY",
+      "assigned_angles": [
+        20
+      ],
+      "completed_angles": [],
+      "quota_per_day": 2,
+      "notes": "Tài khoản worker 20 nhận OTP tự động qua catch-all"
+    },
+    {
+      "index": 21,
+      "account_id": "gobi_koc_worker_21",
+      "email": "koc.worker.21@gobikoc.anonaddy.com",
+      "status": "READY",
+      "assigned_angles": [
+        21
+      ],
+      "completed_angles": [],
+      "quota_per_day": 2,
+      "notes": "Tài khoản worker 21 nhận OTP tự động qua catch-all"
+    },
+    {
+      "index": 22,
+      "account_id": "gobi_koc_worker_22",
+      "email": "koc.worker.22@gobikoc.anonaddy.com",
+      "status": "READY",
+      "assigned_angles": [
+        22
+      ],
+      "completed_angles": [],
+      "quota_per_day": 2,
+      "notes": "Tài khoản worker 22 nhận OTP tự động qua catch-all"
+    },
+    {
+      "index": 23,
+      "account_id": "gobi_koc_worker_23",
+      "email": "koc.worker.23@gobikoc.anonaddy.com",
+      "status": "READY",
+      "assigned_angles": [
+        23
+      ],
+      "completed_angles": [],
+      "quota_per_day": 2,
+      "notes": "Tài khoản worker 23 nhận OTP tự động qua catch-all"
+    },
+    {
+      "index": 24,
+      "account_id": "gobi_koc_worker_24",
+      "email": "koc.worker.24@gobikoc.anonaddy.com",
+      "status": "READY",
+      "assigned_angles": [
+        24
+      ],
+      "completed_angles": [],
+      "quota_per_day": 2,
+      "notes": "Tài khoản worker 24 nhận OTP tự động qua catch-all"
+    },
+    {
+      "index": 25,
+      "account_id": "gobi_koc_worker_25",
+      "email": "koc.worker.25@gobikoc.anonaddy.com",
+      "status": "READY",
+      "assigned_angles": [
+        25
+      ],
+      "completed_angles": [],
+      "quota_per_day": 2,
+      "notes": "Tài khoản worker 25 nhận OTP tự động qua catch-all"
+    },
+    {
+      "index": 26,
+      "account_id": "gobi_koc_worker_26",
+      "email": "koc.worker.26@gobikoc.anonaddy.com",
+      "status": "READY",
+      "assigned_angles": [
+        26
+      ],
+      "completed_angles": [],
+      "quota_per_day": 2,
+      "notes": "Tài khoản worker 26 nhận OTP tự động qua catch-all"
+    },
+    {
+      "index": 27,
+      "account_id": "gobi_koc_worker_27",
+      "email": "koc.worker.27@gobikoc.anonaddy.com",
+      "status": "READY",
+      "assigned_angles": [
+        27
+      ],
+      "completed_angles": [],
+      "quota_per_day": 2,
+      "notes": "Tài khoản worker 27 nhận OTP tự động qua catch-all"
+    },
+    {
+      "index": 28,
+      "account_id": "gobi_koc_worker_28",
+      "email": "koc.worker.28@gobikoc.anonaddy.com",
+      "status": "READY",
+      "assigned_angles": [
+        28
+      ],
+      "completed_angles": [],
+      "quota_per_day": 2,
+      "notes": "Tài khoản worker 28 nhận OTP tự động qua catch-all"
+    },
+    {
+      "index": 29,
+      "account_id": "gobi_koc_worker_29",
+      "email": "koc.worker.29@gobikoc.anonaddy.com",
+      "status": "READY",
+      "assigned_angles": [
+        29
+      ],
+      "completed_angles": [],
+      "quota_per_day": 2,
+      "notes": "Tài khoản worker 29 nhận OTP tự động qua catch-all"
+    },
+    {
+      "index": 30,
+      "account_id": "gobi_koc_worker_30",
+      "email": "koc.worker.30@gobikoc.anonaddy.com",
+      "status": "READY",
+      "assigned_angles": [
+        30
+      ],
+      "completed_angles": [],
+      "quota_per_day": 2,
+      "notes": "Tài khoản worker 30 nhận OTP tự động qua catch-all"
+    }
+  ]
+}

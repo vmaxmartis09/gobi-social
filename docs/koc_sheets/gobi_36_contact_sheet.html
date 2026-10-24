@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Gobi KOC - 36-Pose Master Profile Visual Sheet</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background: #0f1117;
+            color: #e5e7eb;
+            margin: 0;
+            padding: 24px;
+        }
+        header {
+            margin-bottom: 24px;
+            padding-bottom: 16px;
+            border-bottom: 1px solid #374151;
+        }
+        h1 { margin: 0 0 8px 0; color: #f9fafb; font-size: 26px; }
+        .stats { color: #10b981; font-size: 16px; font-weight: 600; }
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 20px;
+        }
+        .card {
+            background: #1e222d;
+            border-radius: 12px;
+            overflow: hidden;
+            border: 1px solid #374151;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+        }
+        .card.anchor { border: 2px solid #ec4899; }
+        .card.completed { border: 1px solid #10b981; }
+        .card.pending { opacity: 0.5; border-style: dashed; }
+        .badge {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            padding: 4px 8px;
+            border-radius: 6px;
+            font-size: 11px;
+            font-weight: 700;
+            text-transform: uppercase;
+        }
+        .anchor-badge { background: #ec4899; color: white; }
+        .done-badge { background: #10b981; color: white; }
+        .pending-badge { background: #6b7280; color: white; }
+        img {
+            width: 100%;
+            height: 380px;
+            object-fit: cover;
+            background: #111827;
+        }
+        .placeholder {
+            width: 100%;
+            height: 380px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: #1f2937;
+            color: #9ca3af;
+            font-size: 14px;
+        }
+        .info {
+            padding: 14px;
+            flex: 1;
+        }
+        h3 { margin: 0 0 6px 0; font-size: 15px; color: #f3f4f6; }
+        p { margin: 0 0 4px 0; font-size: 12px; color: #9ca3af; }
+        .prompt-text { color: #d1d5db; font-size: 11px; line-height: 1.4; }
+        .tag { display: inline-block; padding: 2px 6px; background: #be185d; color: white; border-radius: 4px; font-weight: 600; font-size: 10px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>🌟 Gobi KOC Master Profile Dataset (36 Angles & Poses)</h1>
+        <div class="stats">Progress: 37 / 37 Profiles Captured (100%)</div>
+    </header>
+    <div class="grid">
+        
+        <div class="card anchor">
+            <div class="badge anchor-badge">MASTER ANCHOR (ID 00)</div>
+            <img src="file:///Volumes/Data/gobi-social/assets/datasets/koc/gobi_profile_36/00_MASTER_DNA_ANCHOR.jpg" alt="Master Anchor" loading="lazy">
+            <div class="info">
+                <h3>00. Master Identity DNA</h3>
+                <p><strong>Dims:</strong> 768x1376 (570.9 KB)</p>
+                <p class="tag">Primary Reference</p>
+            </div>
+        </div>
+        
+            <div class="card completed">
+                <div class="badge done-badge">Pose #01 - COMPLETED</div>
+                <img src="file:///Volumes/Data/gobi-social/assets/datasets/koc/gobi_profile_36/gobi_angle_01_front_beauty.jpg" alt="Chính diện toàn thân" loading="lazy">
+                <div class="info">
+                    <h3>#01. Chính diện toàn thân</h3>
+                    <p><strong>Dims:</strong> 1024x1536 (2.21 MB)</p>
+                    <p class="prompt-text"><em>"Full body front-facing shot of this exact woman standing in studio. She is stand..."</em></p>
+                </div>
+            </div>
+            
+            <div class="card completed">
+                <div class="badge done-badge">Pose #02 - COMPLETED</div>
+                <img src="file:///Volumes/Data/gobi-social/assets/datasets/koc/gobi_profile_36/gobi_angle_02_three_quarter.jpg" alt="Chính diện trung cảnh" loading="lazy">
+                <div class="info">
+                    <h3>#02. Chính diện trung cảnh</h3>
+                    <p><strong>Dims:</strong> 1024x1536 (2.08 MB)</p>
+                    <p class="prompt-text"><em>"Medium waist-up front-facing shot of this exact woman. Showing delicate collarbo..."</em></p>
+                </div>
+            </div>
+            
+            <div class="card completed">
+                <div class="badge done-badge">Pose #03 - COMPLETED</div>
+                <img src="file:///Volumes/Data/gobi-social/assets/datasets/koc/gobi_profile_36/gobi_angle_03_profile_side.jpg" alt="Cận mặt chính diện" loading="lazy">
+                <div class="info">
+                    <h3>#03. Cận mặt chính diện</h3>
+                    <p><strong>Dims:</strong> 1024x1536 (2.16 MB)</p>
+                    <p class="prompt-text"><em>"Front-facing beauty portrait of this exact Vietnamese woman. Crisp focus on faci..."</em></p>
+                </div>
+            </div>
+            
+            <div class="card completed">
+                <div class="badge done-badge">Pose #04 - COMPLETED</div>
+                <img src="file:///Volumes/Data/gobi-social/assets/datasets/koc/gobi_profile_36/gobi_angle_04_half_body_waist.jpg" alt="Góc 3/4 toàn thân" loading="lazy">
+                <div class="info">
+                    <h3>#04. Góc 3/4 toàn thân</h3>
+                    <p><strong>Dims:</strong> 1024x1536 (2.12 MB)</p>
+                    <p class="prompt-text"><em>"Full body 3/4 angle shot of this exact woman standing turned 30 degrees to the s..."</em></p>
+                </div>
+            </div>
+            
+            <div class="card completed">
+                <div class="badge done-badge">Pose #05 - COMPLETED</div>
+                <img src="file:///Volumes/Data/gobi-social/assets/datasets/koc/gobi_profile_36/gobi_angle_05_holding_product.jpg" alt="Góc 3/4 trung cảnh" loading="lazy">
+                <div class="info">
+                    <h3>#05. Góc 3/4 trung cảnh</h3>
+                    <p><strong>Dims:</strong> 1024x1536 (2.01 MB)</p>
+                    <p class="prompt-text"><em>"Medium waist-up portrait turned 3/4 angle. Draped beige knit cardigan over shoul..."</em></p>
+                </div>
+            </div>
+            
+            <div class="card completed">
+                <div class="badge done-badge">Pose #06 - COMPLETED</div>
+                <img src="file:///Volumes/Data/gobi-social/assets/datasets/koc/gobi_profile_36/gobi_angle_06_three_quarter_left.jpg" alt="Cận mặt 3/4" loading="lazy">
+                <div class="info">
+                    <h3>#06. Cận mặt 3/4</h3>
+                    <p><strong>Dims:</strong> 1024x1536 (2.13 MB)</p>
+                    <p class="prompt-text"><em>"Close-up 3/4 beauty portrait of this exact woman turned slightly. Soft cheek con..."</em></p>
+                </div>
+            </div>
+            
+            <div class="card completed">
+                <div class="badge done-badge">Pose #07 - COMPLETED</div>
+                <img src="file:///Volumes/Data/gobi-social/assets/datasets/koc/gobi_profile_36/gobi_angle_07_full_body_standing.jpg" alt="Góc nghiêng toàn thân" loading="lazy">
+                <div class="info">
+                    <h3>#07. Góc nghiêng toàn thân</h3>
+                    <p><strong>Dims:</strong> 1024x1536 (1.69 MB)</p>
+                    <p class="prompt-text"><em>"Full body side profile shot of this exact woman standing in full profile (turned..."</em></p>
+                </div>
+            </div>
+            
+            <div class="card completed">
+                <div class="badge done-badge">Pose #08 - COMPLETED</div>
+                <img src="file:///Volumes/Data/gobi-social/assets/datasets/koc/gobi_profile_36/gobi_angle_08_close_macro_eyes_lips.jpg" alt="Cận mặt góc nghiêng" loading="lazy">
+                <div class="info">
+                    <h3>#08. Cận mặt góc nghiêng</h3>
+                    <p><strong>Dims:</strong> 1024x1536 (2.27 MB)</p>
+                    <p class="prompt-text"><em>"Side profile close-up shot (90-degree lateral view) of this exact woman. Showcas..."</em></p>
+                </div>
+            </div>
+            
+            <div class="card completed">
+                <div class="badge done-badge">Pose #09 - COMPLETED</div>
+                <img src="file:///Volumes/Data/gobi-social/assets/datasets/koc/gobi_profile_36/gobi_angle_09_seated_table.jpg" alt="Góc chụp từ sau lưng" loading="lazy">
+                <div class="info">
+                    <h3>#09. Góc chụp từ sau lưng</h3>
+                    <p><strong>Dims:</strong> 1024x1536 (2.14 MB)</p>
+                    <p class="prompt-text"><em>"Full rear back view of this exact woman standing facing away from camera. Showin..."</em></p>
+                </div>
+            </div>
+            
+            <div class="card completed">
+                <div class="badge done-badge">Pose #10 - COMPLETED</div>
+                <img src="file:///Volumes/Data/gobi-social/assets/datasets/koc/gobi_profile_36/gobi_angle_10_low_angle_editorial.jpg" alt="Nhìn lại qua vai" loading="lazy">
+                <div class="info">
+                    <h3>#10. Nhìn lại qua vai</h3>
+                    <p><strong>Dims:</strong> 1024x1536 (2.18 MB)</p>
+                    <p class="prompt-text"><em>"Back-turned portrait with her head looking back over her shoulder directly into ..."</em></p>
+                </div>
+            </div>
+            
+            <div class="card completed">
+                <div class="badge done-badge">Pose #11 - COMPLETED</div>
+                <img src="file:///Volumes/Data/gobi-social/assets/datasets/koc/gobi_profile_36/gobi_angle_11_high_angle_soft.jpg" alt="Góc cao toàn thân" loading="lazy">
+                <div class="info">
+                    <h3>#11. Góc cao toàn thân</h3>
+                    <p><strong>Dims:</strong> 1024x1536 (2.18 MB)</p>
+                    <p class="prompt-text"><em>"High camera angle full body shot looking down from above at this exact woman sta..."</em></p>
+                </div>
+            </div>
+            
+            <div class="card completed">
+                <div class="badge done-badge">Pose #12 - COMPLETED</div>
+                <img src="file:///Volumes/Data/gobi-social/assets/datasets/koc/gobi_profile_36/gobi_angle_12_talking_gesture.jpg" alt="Góc cao cận mặt" loading="lazy">
+                <div class="info">
+                    <h3>#12. Góc cao cận mặt</h3>
+                    <p><strong>Dims:</strong> 1024x1536 (2.17 MB)</p>
+                    <p class="prompt-text"><em>"High angle close-up portrait looking down at her face. Sweet expressive upward g..."</em></p>
+                </div>
+            </div>
+            
+            <div class="card completed">
+                <div class="badge done-badge">Pose #13 - COMPLETED</div>
+                <img src="file:///Volumes/Data/gobi-social/assets/datasets/koc/gobi_profile_36/gobi_angle_13_laughing_candid.jpg" alt="Góc thấp toàn thân" loading="lazy">
+                <div class="info">
+                    <h3>#13. Góc thấp toàn thân</h3>
+                    <p><strong>Dims:</strong> 1024x1536 (2.17 MB)</p>
+                    <p class="prompt-text"><em>"Low camera angle full body shot looking up at this exact woman. Confident statue..."</em></p>
+                </div>
+            </div>
+            
+            <div class="card completed">
+                <div class="badge done-badge">Pose #14 - COMPLETED</div>
+                <img src="file:///Volumes/Data/gobi-social/assets/datasets/koc/gobi_profile_36/gobi_angle_14_profile_left.jpg" alt="Góc thấp cận mặt" loading="lazy">
+                <div class="info">
+                    <h3>#14. Góc thấp cận mặt</h3>
+                    <p><strong>Dims:</strong> 1024x1536 (2.05 MB)</p>
+                    <p class="prompt-text"><em>"Low angle close-up shot looking slightly up at her face. Sharp defined jawline, ..."</em></p>
+                </div>
+            </div>
+            
+            <div class="card completed">
+                <div class="badge done-badge">Pose #15 - COMPLETED</div>
+                <img src="file:///Volumes/Data/gobi-social/assets/datasets/koc/gobi_profile_36/gobi_angle_15_goc_90_do_tren_xuong.jpg" alt="Góc 90 độ từ trên xuống" loading="lazy">
+                <div class="info">
+                    <h3>#15. Góc 90 độ từ trên xuống</h3>
+                    <p><strong>Dims:</strong> 1024x1536 (2.25 MB)</p>
+                    <p class="prompt-text"><em>"Top-down 90-degree aerial bird's eye view of this exact woman lying gracefully o..."</em></p>
+                </div>
+            </div>
+            
+            <div class="card completed">
+                <div class="badge done-badge">Pose #16 - COMPLETED</div>
+                <img src="file:///Volumes/Data/gobi-social/assets/datasets/koc/gobi_profile_36/gobi_angle_16_skincare_cheek_touch.jpg" alt="Top-down trung cảnh" loading="lazy">
+                <div class="info">
+                    <h3>#16. Top-down trung cảnh</h3>
+                    <p><strong>Dims:</strong> 1024x1536 (2.38 MB)</p>
+                    <p class="prompt-text"><em>"Top-down medium shot looking down at her seated casually on studio floor, one kn..."</em></p>
+                </div>
+            </div>
+            
+            <div class="card completed">
+                <div class="badge done-badge">Pose #17 - COMPLETED</div>
+                <img src="file:///Volumes/Data/gobi-social/assets/datasets/koc/gobi_profile_36/gobi_angle_17_holding_smartphone.jpg" alt="Top-down nằm ngửa" loading="lazy">
+                <div class="info">
+                    <h3>#17. Top-down nằm ngửa</h3>
+                    <p><strong>Dims:</strong> 1024x1536 (2.29 MB)</p>
+                    <p class="prompt-text"><em>"Top-down shot of this exact woman lying comfortably on back, one arm raised abov..."</em></p>
+                </div>
+            </div>
+            
+            <div class="card completed">
+                <div class="badge done-badge">Pose #18 - COMPLETED</div>
+                <img src="file:///Volumes/Data/gobi-social/assets/datasets/koc/gobi_profile_36/gobi_angle_18_over_shoulder.jpg" alt="Top-down ngồi bệt" loading="lazy">
+                <div class="info">
+                    <h3>#18. Top-down ngồi bệt</h3>
+                    <p><strong>Dims:</strong> 1024x1536 (2.24 MB)</p>
+                    <p class="prompt-text"><em>"Overhead high angle of this exact woman sitting cross-legged on studio floor, ha..."</em></p>
+                </div>
+            </div>
+            
+            <div class="card completed">
+                <div class="badge done-badge">Pose #19 - COMPLETED</div>
+                <img src="file:///Volumes/Data/gobi-social/assets/datasets/koc/gobi_profile_36/gobi_angle_19_unboxing_hands.jpg" alt="Góc rộng toàn cảnh" loading="lazy">
+                <div class="info">
+                    <h3>#19. Góc rộng toàn cảnh</h3>
+                    <p><strong>Dims:</strong> 1024x1536 (2.07 MB)</p>
+                    <p class="prompt-text"><em>"Wide angle studio environment shot showing the full cyclorama studio, lighting g..."</em></p>
+                </div>
+            </div>
+            
+            <div class="card completed">
+                <div class="badge done-badge">Pose #20 - COMPLETED</div>
+                <img src="file:///Volumes/Data/gobi-social/assets/datasets/koc/gobi_profile_36/gobi_angle_20_leaning_forward_desk.jpg" alt="Cận cảnh góc rộng" loading="lazy">
+                <div class="info">
+                    <h3>#20. Cận cảnh góc rộng</h3>
+                    <p><strong>Dims:</strong> 1024x1536 (2.3 MB)</p>
+                    <p class="prompt-text"><em>"Wide-angle lens close-up portrait creating dynamic depth and intimacy, her face ..."</em></p>
+                </div>
+            </div>
+            
+            <div class="card completed">
+                <div class="badge done-badge">Pose #21 - COMPLETED</div>
+                <img src="file:///Volumes/Data/gobi-social/assets/datasets/koc/gobi_profile_36/gobi_angle_21_walking_motion.jpg" alt="Góc nghiêng Hà Lan" loading="lazy">
+                <div class="info">
+                    <h3>#21. Góc nghiêng Hà Lan</h3>
+                    <p><strong>Dims:</strong> 937x1679 (1.79 MB)</p>
+                    <p class="prompt-text"><em>"Dutch angle (slanted camera frame) medium shot of this exact woman with playful ..."</em></p>
+                </div>
+            </div>
+            
+            <div class="card completed">
+                <div class="badge done-badge">Pose #22 - COMPLETED</div>
+                <img src="file:///Volumes/Data/gobi-social/assets/datasets/koc/gobi_profile_36/gobi_angle_22_goc_ngang_hong.jpg" alt="Góc ngang hông" loading="lazy">
+                <div class="info">
+                    <h3>#22. Góc ngang hông</h3>
+                    <p><strong>Dims:</strong> 1024x1536 (2.05 MB)</p>
+                    <p class="prompt-text"><em>"Waist/hip-level shot of this exact woman standing with one hand resting naturall..."</em></p>
+                </div>
+            </div>
+            
+            <div class="card completed">
+                <div class="badge done-badge">Pose #23 - COMPLETED</div>
+                <img src="file:///Volumes/Data/gobi-social/assets/datasets/koc/gobi_profile_36/gobi_angle_23_khoanh_tay_truoc_nguc.jpg" alt="Khoanh tay trước ngực" loading="lazy">
+                <div class="info">
+                    <h3>#23. Khoanh tay trước ngực</h3>
+                    <p><strong>Dims:</strong> 1024x1536 (2.15 MB)</p>
+                    <p class="prompt-text"><em>"Medium portrait of this exact woman standing with arms folded softly across ches..."</em></p>
+                </div>
+            </div>
+            
+            <div class="card completed">
+                <div class="badge done-badge">Pose #24 - COMPLETED</div>
+                <img src="file:///Volumes/Data/gobi-social/assets/datasets/koc/gobi_profile_36/gobi_angle_24_cham_tay_len_co_ao.jpg" alt="Chạm tay lên cổ áo" loading="lazy">
+                <div class="info">
+                    <h3>#24. Chạm tay lên cổ áo</h3>
+                    <p><strong>Dims:</strong> 1024x1536 (2.13 MB)</p>
+                    <p class="prompt-text"><em>"Close-up beauty portrait with her hand delicately touching her collarbone or cam..."</em></p>
+                </div>
+            </div>
+            
+            <div class="card completed">
+                <div class="badge done-badge">Pose #25 - COMPLETED</div>
+                <img src="file:///Volumes/Data/gobi-social/assets/datasets/koc/gobi_profile_36/gobi_angle_25_can_canh_chat_lieu.jpg" alt="Cận cảnh chất liệu" loading="lazy">
+                <div class="info">
+                    <h3>#25. Cận cảnh chất liệu</h3>
+                    <p><strong>Dims:</strong> 1024x1536 (2.18 MB)</p>
+                    <p class="prompt-text"><em>"Macro detail shot focusing on the delicate cream silk camisole fabric texture, d..."</em></p>
+                </div>
+            </div>
+            
+            <div class="card completed">
+                <div class="badge done-badge">Pose #26 - COMPLETED</div>
+                <img src="file:///Volumes/Data/gobi-social/assets/datasets/koc/gobi_profile_36/gobi_angle_26_buoc_di_tu_nhien.jpg" alt="Bước đi tự nhiên" loading="lazy">
+                <div class="info">
+                    <h3>#26. Bước đi tự nhiên</h3>
+                    <p><strong>Dims:</strong> 1024x1536 (1.75 MB)</p>
+                    <p class="prompt-text"><em>"Full body fashion walk shot of this exact woman walking forward mid-stride towar..."</em></p>
+                </div>
+            </div>
+            
+            <div class="card completed">
+                <div class="badge done-badge">Pose #27 - COMPLETED</div>
+                <img src="file:///Volumes/Data/gobi-social/assets/datasets/koc/gobi_profile_36/gobi_angle_27_ngoi_ghe_dau.jpg" alt="Ngồi ghế đẩu" loading="lazy">
+                <div class="info">
+                    <h3>#27. Ngồi ghế đẩu</h3>
+                    <p><strong>Dims:</strong> 1024x1536 (1.78 MB)</p>
+                    <p class="prompt-text"><em>"Full body shot of this exact woman seated on a minimalist wooden studio tall sto..."</em></p>
+                </div>
+            </div>
+            
+            <div class="card completed">
+                <div class="badge done-badge">Pose #28 - COMPLETED</div>
+                <img src="file:///Volumes/Data/gobi-social/assets/datasets/koc/gobi_profile_36/gobi_angle_28_dua_tuong_ao.jpg" alt="Dựa tường ảo" loading="lazy">
+                <div class="info">
+                    <h3>#28. Dựa tường ảo</h3>
+                    <p><strong>Dims:</strong> 1024x1536 (2.05 MB)</p>
+                    <p class="prompt-text"><em>"Medium shot of this exact woman leaning back comfortably against studio wall, ha..."</em></p>
+                </div>
+            </div>
+            
+            <div class="card completed">
+                <div class="badge done-badge">Pose #29 - COMPLETED</div>
+                <img src="file:///Volumes/Data/gobi-social/assets/datasets/koc/gobi_profile_36/gobi_angle_29_nguoc_nhin_len.jpg" alt="Ngước nhìn lên" loading="lazy">
+                <div class="info">
+                    <h3>#29. Ngước nhìn lên</h3>
+                    <p><strong>Dims:</strong> 1024x1536 (2.05 MB)</p>
+                    <p class="prompt-text"><em>"Poetic beauty close-up of this exact woman looking upwards towards soft window l..."</em></p>
+                </div>
+            </div>
+            
+            <div class="card completed">
+                <div class="badge done-badge">Pose #30 - COMPLETED</div>
+                <img src="file:///Volumes/Data/gobi-social/assets/datasets/koc/gobi_profile_36/gobi_angle_30_cui_nhin_xuong.jpg" alt="Cúi nhìn xuống" loading="lazy">
+                <div class="info">
+                    <h3>#30. Cúi nhìn xuống</h3>
+                    <p><strong>Dims:</strong> 1024x1536 (2.25 MB)</p>
+                    <p class="prompt-text"><em>"Gentle beauty shot looking downwards, lowered eyelids showing delicate dark lash..."</em></p>
+                </div>
+            </div>
+            
+            <div class="card completed">
+                <div class="badge done-badge">Pose #31 - COMPLETED</div>
+                <img src="file:///Volumes/Data/gobi-social/assets/datasets/koc/gobi_profile_36/gobi_angle_31_can_canh_doi_mat.jpg" alt="Cận cảnh đôi mắt" loading="lazy">
+                <div class="info">
+                    <h3>#31. Cận cảnh đôi mắt</h3>
+                    <p><strong>Dims:</strong> 1536x1024 (2.62 MB)</p>
+                    <p class="prompt-text"><em>"Extreme macro beauty close-up of her eyes and eyebrow, showing authentic skin te..."</em></p>
+                </div>
+            </div>
+            
+            <div class="card completed">
+                <div class="badge done-badge">Pose #32 - COMPLETED</div>
+                <img src="file:///Volumes/Data/gobi-social/assets/datasets/koc/gobi_profile_36/gobi_angle_32_anh_sang_bong_do.jpg" alt="Ánh sáng bóng đổ" loading="lazy">
+                <div class="info">
+                    <h3>#32. Ánh sáng bóng đổ</h3>
+                    <p><strong>Dims:</strong> 1024x1536 (2.2 MB)</p>
+                    <p class="prompt-text"><em>"Cinematic beauty portrait with artistic shadow patterns (like soft window blinds..."</em></p>
+                </div>
+            </div>
+            
+            <div class="card completed">
+                <div class="badge done-badge">Pose #33 - COMPLETED</div>
+                <img src="file:///Volumes/Data/gobi-social/assets/datasets/koc/gobi_profile_36/gobi_angle_33_goc_chup_nua_mat.jpg" alt="Góc chụp nửa mặt" loading="lazy">
+                <div class="info">
+                    <h3>#33. Góc chụp nửa mặt</h3>
+                    <p><strong>Dims:</strong> 1024x1536 (2.15 MB)</p>
+                    <p class="prompt-text"><em>"Editorial half-face close-up framing, cropped to show one eye, cheekbone, and si..."</em></p>
+                </div>
+            </div>
+            
+            <div class="card completed">
+                <div class="badge done-badge">Pose #34 - COMPLETED</div>
+                <img src="file:///Volumes/Data/gobi-social/assets/datasets/koc/gobi_profile_36/gobi_angle_34_cui_nguoi_ve_truoc.jpg" alt="Cúi người về trước" loading="lazy">
+                <div class="info">
+                    <h3>#34. Cúi người về trước</h3>
+                    <p><strong>Dims:</strong> 1024x1536 (2.12 MB)</p>
+                    <p class="prompt-text"><em>"Engaging creator pose leaning forward towards the camera with friendly warm smil..."</em></p>
+                </div>
+            </div>
+            
+            <div class="card completed">
+                <div class="badge done-badge">Pose #35 - COMPLETED</div>
+                <img src="file:///Volumes/Data/gobi-social/assets/datasets/koc/gobi_profile_36/gobi_angle_35_chinh_toc.jpg" alt="Chỉnh tóc" loading="lazy">
+                <div class="info">
+                    <h3>#35. Chỉnh tóc</h3>
+                    <p><strong>Dims:</strong> 1024x1536 (2.14 MB)</p>
+                    <p class="prompt-text"><em>"Candid beauty portrait of this exact woman raising one hand to tuck or adjust a ..."</em></p>
+                </div>
+            </div>
+            
+            <div class="card completed">
+                <div class="badge done-badge">Pose #36 - COMPLETED</div>
+                <img src="file:///Volumes/Data/gobi-social/assets/datasets/koc/gobi_profile_36/gobi_angle_36_tao_dang_nghe_thuat.jpg" alt="Tạo dáng nghệ thuật" loading="lazy">
+                <div class="info">
+                    <h3>#36. Tạo dáng nghệ thuật</h3>
+                    <p><strong>Dims:</strong> 1024x1536 (2.12 MB)</p>
+                    <p class="prompt-text"><em>"Artistic high-fashion seated pose on floor, legs bent gracefully to the side, le..."</em></p>
+                </div>
+            </div>
+            
+    </div>
+</body>
+</html>

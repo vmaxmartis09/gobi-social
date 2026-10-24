@@ -3,9 +3,17 @@ imageio-ffmpeg>=0.4.9
 Pillow>=10.0.0
 numpy>=1.24.0
 
+# Face Swap (gobi mimic --engine local_faceswap, CoreML trên Apple Silicon)
+insightface>=0.7.3
+onnxruntime>=1.20.0
+opencv-python>=4.8.0
+
 # Voice Synthesis & Audio Processing
 edge-tts>=6.1.9
 gTTS>=2.5.0
+
+# Content Remix (gobi remix): viết kịch bản mới từ video tham khảo
+google-genai>=1.0.0
 
 # Browser Automation & Multi-Channel Scraping
 playwright>=1.40.0

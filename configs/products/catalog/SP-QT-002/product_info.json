@@ -1,0 +1,73 @@
+{
+  "product_code": "SP-QT-002",
+  "product_name": "Quần Tây Ống Suông Lưng Cao Vải Tuyết Mưa Hack Dáng 1m7",
+  "category": "quan_tay",
+  "pricing": {
+    "price_vnd": 139000,
+    "original_price_vnd": 219000,
+    "commission_rate_percent": 20.0,
+    "commission_per_order_vnd": 27800
+  },
+  "specs": {
+    "material": "Vải tuyết mưa Vitex loại 1, đanh mịn, không xù lông, không nhăn khi ngồi",
+    "colors": [
+      "Đen tuyền",
+      "Be kem Hàn Quốc",
+      "Nâu tây",
+      "Xám chì"
+    ],
+    "sizes": [
+      "S (40-46kg)",
+      "M (47-52kg)",
+      "L (53-58kg)",
+      "XL (59-64kg)"
+    ],
+    "origin_shop": "Linh Beauty Fashion",
+    "usp_features": [
+      "Cạp cao trên rốn siết phẳng bụng dưới tức thì",
+      "Ống suông thẳng đứng rủ chạm gót giày kéo dài tỷ lệ chân",
+      "Khóa kéo kim loại YKK trơn tru kèm 2 túi xéo sâu đựng điện thoại"
+    ]
+  },
+  "production": {
+    "status": "da_dang_video",
+    "assigned_koc": "@gobiboutique",
+    "winning_format": "Body Hack Visuals (Cạp cao giấu bụng + Kéo chân 1m7)",
+    "vmax_panels": [
+      "Panel 01 (Toàn thân)",
+      "Panel 14 (Trung cảnh eo)",
+      "Panel 26 (Bước đi hack dáng)"
+    ],
+    "benchmark_video_url": "https://www.tiktok.com/@nhat.linh.beauty/video/7589815833430330645",
+    "benchmark_views": 2600000,
+    "published_video_url": "https://www.tiktok.com/@gobiboutique/video/7697472862633921812",
+    "published_at": "2026-10-18 20:00:00"
+  },
+  "seo": {
+    "primary_keywords": [
+      "quần tây ống suông",
+      "quần tây cạp cao hack dáng",
+      "quần tây nữ đi học"
+    ],
+    "secondary_keywords": [
+      "quần vải tuyết mưa",
+      "quần ống suông che bụng dưới",
+      "quần tây công sở nữ"
+    ],
+    "search_intents": [
+      "quần tây ống suông hack chân",
+      "quần tây nữ lưng cao đi làm",
+      "quần tây vải tuyết mưa không nhăn"
+    ],
+    "hashtags": [
+      "#quantayongsuong",
+      "#quantaynu",
+      "#quantaycapcao",
+      "#phoidohackdang",
+      "#gobiboutique",
+      "#tiktokshopaffiliate"
+    ],
+    "caption_template": "Chân ngắn, đùi to né gấp chiếc quần tây ống suông này kẻo bị nghi kéo chân! Vải tuyết mưa phẳng lì không nhăn, deal hời ở góc trái nha các nàng!"
+  },
+  "folder_path": "configs/products/catalog/SP-QT-002"
+}

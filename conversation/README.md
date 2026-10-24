@@ -22,8 +22,8 @@ flowchart TD
     end
 
     subgraph S3["3. Video Rendering & Auto-Editor"]
-        C1["Core Video Engine<br/>(core/video_engine.py)"]
-        C2["AI Concat Editor<br/>(core/ai_concat_auto_editor.py)"]
+        C1["Core Video Engine<br/>(src/gobi/services/media/video_engine.py)"]
+        C2["AI Concat Editor<br/>(src/gobi/services/media/ai_concat_auto_editor.py)"]
         B2 --> C1
         B4 --> C1
         B3 --> C2
@@ -32,15 +32,15 @@ flowchart TD
 
     subgraph S4["4. Autonomous Browser & Social Publishing"]
         D1["Stealth Browser Agent<br/>(Playwright + CDP Port 9222)"]
-        D2["OAuth & Captcha Solver<br/>(affiliate_tiktok/handle_tiktok_captcha.py)"]
-        C3 --> D3["Auto Upload & Gắn giỏ hàng<br/>(upload_to_tiktok.py)"]
+        D2["OAuth & Captcha Solver<br/>(scripts/tiktok/handle_tiktok_captcha.py)"]
+        C3 --> D3["Auto Upload & Gắn giỏ hàng<br/>(scripts/tiktok/upload_to_tiktok.py)"]
         D1 --> D3
         D2 --> D3
     end
 
     subgraph S5["5. Extended Tools"]
-        E1["Job Search & Application Hunter<br/>(tools/job_search)"]
-        E2["Multi-Channel Agent Reach<br/>(tools/reach)"]
+        E1["Job Search & Application Hunter<br/>(integrations/job_search)"]
+        E2["Multi-Channel Agent Reach<br/>(integrations/agent_reach)"]
     end
 
     A4 -.-> B2
@@ -72,11 +72,11 @@ conversation/
 
 | Nhóm chức năng | Mục tiêu cốt lõi | File mã nguồn / Config chính | Trạng thái |
 | :--- | :--- | :--- | :--- |
-| **1. KOC AI & Voice** | Tạo nhân vật KOC nhất quán, clone giọng người thật offline | [`core/koc_ai_engine.py`](../core/koc_ai_engine.py)<br>[`core/koc_prompt_generator.py`](../core/koc_prompt_generator.py)<br>[`tools/voice/koc_voice_cloner.py`](../tools/voice/koc_voice_cloner.py)<br>[`clone_voice_from_video.py`](../clone_voice_from_video.py) | ✅ Đã khóa DNA, Ma trận 36 góc & Pipeline Voice Clone 48kHz (-14 LUFS) |
-| **2. Video Engine** | Ghép nối scene, chèn phụ đề, căn chỉnh Safe Zone TikTok | [`core/video_engine.py`](../core/video_engine.py)<br>[`core/ai_concat_auto_editor.py`](../core/ai_concat_auto_editor.py)<br>[`render_full_video.py`](../render_full_video.py) | ✅ Render 1080x1920 (4 Preset Concat triệu view, Safe Zone) |
-| **3. Browser Bot** | Điều khiển trình duyệt qua CDP, vượt Captcha, upload TikTok & Flow Studio | [`affiliate_tiktok/full_verified_login.py`](../affiliate_tiktok/full_verified_login.py)<br>[`affiliate_tiktok/handle_tiktok_captcha.py`](../affiliate_tiktok/handle_tiktok_captcha.py)<br>[`upload_to_tiktok.py`](../upload_to_tiktok.py)<br>[`launch_flow_studio.py`](../launch_flow_studio.py) | ✅ Profile kết nối trực tiếp, có Live Viewer, tích hợp Flow Studio |
-| **4. Tự học & Data** | Khai phá sản phẩm viral, tránh vi phạm chính sách | [`core/continuous_learning_engine.py`](../core/continuous_learning_engine.py)<br>[`configs/koc_ai_knowledge_hub.json`](../configs/koc_ai_knowledge_hub.json)<br>[`tools/video/policy_compliance_checker.py`](../tools/video/policy_compliance_checker.py) | ✅ Kiểm soát từ cấm & 11 bài học kinh nghiệm |
-| **5. Công cụ ngoài** | Tìm việc tự động & tiếp cận mạng xã hội | [`tools/job_search/`](../tools/job_search)<br>[`tools/reach/`](../tools/reach) | ✅ Sẵn sàng |
+| **1. KOC AI & Voice** | Tạo nhân vật KOC nhất quán, clone giọng người thật offline | [`src/gobi/services/prompt/koc_ai_engine.py`](../src/gobi/services/prompt/koc_ai_engine.py)<br>[`src/gobi/services/prompt/koc_prompt_generator.py`](../src/gobi/services/prompt/koc_prompt_generator.py)<br>[`src/gobi/services/voice/koc_voice_cloner.py`](../src/gobi/services/voice/koc_voice_cloner.py)<br>[`scripts/voice/clone_voice_from_video.py`](../scripts/voice/clone_voice_from_video.py) | ✅ Đã khóa DNA, Ma trận 36 góc & Pipeline Voice Clone 48kHz (-14 LUFS) |
+| **2. Video Engine** | Ghép nối scene, chèn phụ đề, căn chỉnh Safe Zone TikTok | [`src/gobi/services/media/video_engine.py`](../src/gobi/services/media/video_engine.py)<br>[`src/gobi/services/media/ai_concat_auto_editor.py`](../src/gobi/services/media/ai_concat_auto_editor.py)<br>[`scripts/video/render_full_video.py`](../scripts/video/render_full_video.py) | ✅ Render 1080x1920 (4 Preset Concat triệu view, Safe Zone) |
+| **3. Browser Bot** | Điều khiển trình duyệt qua CDP, vượt Captcha, upload TikTok & Flow Studio | [`scripts/tiktok/full_verified_login.py`](../scripts/tiktok/full_verified_login.py)<br>[`scripts/tiktok/handle_tiktok_captcha.py`](../scripts/tiktok/handle_tiktok_captcha.py)<br>[`scripts/tiktok/upload_to_tiktok.py`](../scripts/tiktok/upload_to_tiktok.py)<br>[`scripts/flow_ai/launch_flow_studio.py`](../scripts/flow_ai/launch_flow_studio.py) | ✅ Profile kết nối trực tiếp, có Live Viewer, tích hợp Flow Studio |
+| **4. Tự học & Data** | Khai phá sản phẩm viral, tránh vi phạm chính sách | [`src/gobi/services/intelligence/continuous_learning_engine.py`](../src/gobi/services/intelligence/continuous_learning_engine.py)<br>[`configs/koc_ai_knowledge_hub.json`](../configs/koc_ai_knowledge_hub.json)<br>[`src/gobi/domain/policy_compliance_checker.py`](../src/gobi/domain/policy_compliance_checker.py) | ✅ Kiểm soát từ cấm & 11 bài học kinh nghiệm |
+| **5. Công cụ ngoài** | Tìm việc tự động & tiếp cận mạng xã hội | [`integrations/job_search/`](../integrations/job_search)<br>[`integrations/agent_reach/`](../integrations/agent_reach) | ✅ Sẵn sàng |
 
 ---
 

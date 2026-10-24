@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "gobi-dashboard",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["--prefix", "tools/dashboard", "run", "dev"],
+      "port": 3000
+    },
+    {
+      "name": "hyperframes-studio",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["hyperframes", "preview", "output/hyperframes_projects/remix_1792511167_0ac17d", "--port=3000", "--no-open", "--foreground"],
+      "port": 3000
+    }
+  ]
+}

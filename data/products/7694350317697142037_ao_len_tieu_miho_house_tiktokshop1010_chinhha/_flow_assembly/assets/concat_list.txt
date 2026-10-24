@@ -1,0 +1,5 @@
+file '/Volumes/Data/gobi-social/data/products/7694350317697142037_ao_len_tieu_miho_house_tiktokshop1010_chinhha/_flow_assembly/voice_00.mp3'
+file '/Volumes/Data/gobi-social/data/products/7694350317697142037_ao_len_tieu_miho_house_tiktokshop1010_chinhha/_flow_assembly/voice_01.mp3'
+file '/Volumes/Data/gobi-social/data/products/7694350317697142037_ao_len_tieu_miho_house_tiktokshop1010_chinhha/_flow_assembly/voice_02.mp3'
+file '/Volumes/Data/gobi-social/data/products/7694350317697142037_ao_len_tieu_miho_house_tiktokshop1010_chinhha/_flow_assembly/voice_03.mp3'
+file '/Volumes/Data/gobi-social/data/products/7694350317697142037_ao_len_tieu_miho_house_tiktokshop1010_chinhha/_flow_assembly/voice_04.mp3'

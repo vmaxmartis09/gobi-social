@@ -81,11 +81,35 @@ Mỗi khi gặp lỗi bất ngờ:
 - **Tập trung hóa tri thức (Knowledge Consolidation):** Toàn bộ tri thức về sản xuất KOC AI, ma trận góc máy, quy chuẩn Safe Zone, chính sách AIGC và từ điển cấm được lưu trữ tập trung tại:
   - Cấu hình tri thức: `configs/koc_ai_knowledge_hub.json`
   - Sổ cái kinh nghiệm tự học: `configs/koc_learning_memory.json`
-  - Công cụ quét chính sách: `tools/video/policy_compliance_checker.py`
-  - Công cụ sinh kịch bản & prompt camera: `core/koc_prompt_generator.py`
-  - Động cơ tối ưu hóa kinh nghiệm: `core/continuous_learning_engine.py`
+  - Công cụ quét chính sách: `src/gobi/domain/policy_compliance_checker.py`
+  - Công cụ sinh kịch bản & prompt camera: `src/gobi/services/prompt/koc_prompt_generator.py`
+  - Động cơ tối ưu hóa kinh nghiệm: `src/gobi/services/intelligence/continuous_learning_engine.py`
 - **Vòng lặp tự học bắt buộc (Feedback-to-Evolution Loop):**
-  - Sau mỗi chiến dịch video hoặc thử nghiệm nội dung, Agent **BẮT BUỘC** ghi nhận chỉ số thực tế (Retention Rate, Completion %, Views, Lượt Click giỏ hàng, Đơn hàng Affiliate) qua `core/continuous_learning_engine.py`.
+  - Sau mỗi chiến dịch video hoặc thử nghiệm nội dung, Agent **BẮT BUỘC** ghi nhận chỉ số thực tế (Retention Rate, Completion %, Views, Lượt Click giỏ hàng, Đơn hàng Affiliate) qua `src/gobi/services/intelligence/continuous_learning_engine.py`.
   - Phân tích nguyên nhân video thắng (Viral/Ra đơn) hoặc video thua (Flop/Bị bóp view) để trích xuất bài học hành động mới (`historical_lessons`).
   - Tự động tinh chỉnh trọng số Prompt (`auto_tuned_prompt_weights`) và bổ sung từ khóa nhạy cảm vào từ điển cấm (`BLACKLIST_DICTIONARY`) mà không cần người dùng nhắc nhở.
   - **Hệ thống luôn tiến hóa:** Mỗi chu kỳ sản xuất tiếp theo luôn sử dụng bộ quy tắc và prompt đã được tối ưu từ bài học trước đó.
+
+---
+
+## 6. QUY CHUẨN KIẾN TRÚC & PHÒNG CHỐNG XẢ RÁC CODEBASE (SENIOR BE ARCHITECTURE GOVERNANCE)
+- **Chính sách Thư mục gốc không rác (Zero-Root-Pollution):** Tuyệt đối **CẤM** sinh thêm bất kỳ file `.py`, `.mjs`, `.txt`, `.json`, `.bat`, `.sh` hay file media tự do nào ở thư mục gốc. Thư mục gốc chỉ chứa các file meta của repository.
+- **Tuân thủ Bản đồ Thư mục tại [`ARCHITECTURE.md`](ARCHITECTURE.md):**
+  - Mọi logic nghiệp vụ mới: Bắt buộc viết trong package `src/gobi/` (`domain/`, `services/`, `adapters/`, `cli/`).
+  - Mọi script kiểm tra vi mô, inspect DOM, debug tạm thời: Bắt buộc tạo trong `scratch/` (ví dụ: `scratch/inspect_button.py`), không tạo ở root.
+  - Dữ liệu cào về (dumps JSON, TXT): Lưu vào `data/raw/` hoặc `data/analytics/`.
+  - Media gốc và DNA: Lưu vào `assets/`.
+  - Mọi repo ngoại vi bên thứ 3 nhúng vào hệ thống: Bắt buộc nằm trong `integrations/<repo_name>/` kèm theo một wrapper Adapter tại `src/gobi/adapters/integrations/`.
+
+---
+
+## 7. QUY CHUẨN CÔNG CỤ DỰNG & BIÊN TẬP VIDEO CHÍNH THỨC: HEYGEN HYPERFRAMES (MẶC ĐỊNH BẮT BUỘC)
+- **Công cụ mặc định duy nhất:** Từ nay về sau, **HeyGen HyperFrames** (`integrations/hyperframes/`, adapter: `src/gobi/adapters/integrations/hyperframes_adapter.py`, service: `src/gobi/services/media/hyperframes_engine.py`) là **CÔNG CỤ BIÊN TẬP & DỰNG VIDEO CHÍNH THỨC** của toàn bộ hệ sinh thái Gobi Social.
+- **Loại bỏ hạn chế cũ:** Không sử dụng script ghép video FFmpeg filtergraph thủ công cứng nhắc hoặc công cụ Concat binary cũ.
+- **Tiêu chuẩn dựng video với HyperFrames:**
+  1. *Cấu trúc HTML5 tất định (Deterministic):* Tận dụng HTML, CSS3, GSAP timelines seekable và các blocks từ HyperFrames Registry (`caption-pill-karaoke`, `cinematic-zoom`, `kenburns`, `badge-pop`).
+  2. *Chuẩn TikTok Safe Zone 9:16 (1080x1920):* Luôn giữ vùng an toàn cho top header và bottom cart/controls.
+  3. *Đồng bộ đa luồng âm thanh:* Voiceover Lyly/OmniVoice chuẩn nét kết hợp BGM ducking tự động.
+  4. *Lệnh thực thi chuẩn:* Chạy qua CLI `python -m gobi video render` hoặc gọi trực tiếp `HyperFramesEngine`.
+
+

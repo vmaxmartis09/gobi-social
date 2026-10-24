@@ -1,0 +1,45 @@
+{
+  "job_id": "7694350317697142037",
+  "product_name": "Áo len tiêu Miho House",
+  "character": "gobi_lyly",
+  "voice_profile_id": "voice-fm-lyly",
+  "generated_at": "2026-10-22T07:34:13.883663",
+  "output_video": "/Volumes/Data/gobi-social/data/products/7694350317697142037_ao_len_tieu_miho_house_tiktokshop1010_chinhha/generated_video.mp4",
+  "scenes": [
+    {
+      "scene_index": 0,
+      "voiceover_text": "Lười phối đồ mà vẫn muốn xinh? Em áo len tiêu này của Miho House cứu cả tủ đồ của Gô Bi luôn nè!",
+      "original_clip_source": "/Volumes/Data/gobi-social/data/products/7694350317697142037_ao_len_tieu_miho_house_tiktokshop1010_chinhha/_flow_clips/scene1_hook.mp4",
+      "identity_locked": true,
+      "duration_seconds": 6.96
+    },
+    {
+      "scene_index": 1,
+      "voiceover_text": "Chất liệu tiêu dệt mềm mịn, sờ vào là mê, không hề thô ráp hay ngứa như mấy em áo len rẻ tiền đâu nha.",
+      "original_clip_source": "/Volumes/Data/gobi-social/data/products/7694350317697142037_ao_len_tieu_miho_house_tiktokshop1010_chinhha/_flow_clips/scene2_fabric.mp4",
+      "identity_locked": true,
+      "duration_seconds": 7.41
+    },
+    {
+      "scene_index": 2,
+      "voiceover_text": "Form áo hơi rộng rãi, thoải mái mà mặc lên vẫn tôn dáng cực, không hề lộ khuyết điểm luôn.",
+      "original_clip_source": "/Volumes/Data/gobi-social/data/products/7694350317697142037_ao_len_tieu_miho_house_tiktokshop1010_chinhha/_flow_clips/scene3_form.mp4",
+      "identity_locked": true,
+      "duration_seconds": 6.66
+    },
+    {
+      "scene_index": 3,
+      "voiceover_text": "Chỉ cần quăng thêm cái chân váy hoặc quần short là xong một outfit đi chơi cực xinh, không cần nghĩ ngợi phối đồ gì nhiều.",
+      "original_clip_source": "/Volumes/Data/gobi-social/data/products/7694350317697142037_ao_len_tieu_miho_house_tiktokshop1010_chinhha/_flow_clips/scene4_styling.mp4",
+      "identity_locked": true,
+      "duration_seconds": 9.15
+    },
+    {
+      "scene_index": 4,
+      "voiceover_text": "Gô Bi đang mặc sẵn đây nè, chốt đơn áo len tiêu Miho House ngay dưới giỏ hàng nha, giá hời lắm đó!",
+      "original_clip_source": "/Volumes/Data/gobi-social/data/products/7694350317697142037_ao_len_tieu_miho_house_tiktokshop1010_chinhha/_flow_clips/scene5_cta.mp4",
+      "identity_locked": true,
+      "duration_seconds": 7.22
+    }
+  ]
+}

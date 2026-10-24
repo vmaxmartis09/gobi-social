@@ -1,0 +1,71 @@
+{
+  "product_code": "SP-QS-004",
+  "product_name": "Quần Short Nắp Túi Cạp Trễ Tôn Dáng Y2K Năng Động",
+  "category": "quan_short",
+  "pricing": {
+    "price_vnd": 99000,
+    "original_price_vnd": 160000,
+    "commission_rate_percent": 20.0,
+    "commission_per_order_vnd": 19800
+  },
+  "specs": {
+    "material": "Kaki mềm co giãn nhẹ, giữ form nắp túi hộp sắc sảo",
+    "colors": [
+      "Xanh nhạt pastel",
+      "Xám khói",
+      "Đen basic",
+      "Trắng kem"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "origin_shop": "Lumy Store Vietnam",
+    "usp_features": [
+      "Thiết kế 2 nắp túi hộp tạo điểm nhấn vòng hông quyến rũ",
+      "Gấu quần may cuốn mép tinh xảo, không sợ lộ khi vận động",
+      "Phong cách Y2K trẻ trung, năng động"
+    ]
+  },
+  "production": {
+    "status": "chua_lam",
+    "assigned_koc": "@gobi.taurus",
+    "winning_format": "Fast-Cut Beat Syncing (Cắt cảnh 1.5s theo nhịp nhạc)",
+    "vmax_panels": [
+      "Panel 01 (Toàn thân)",
+      "Panel 22 (Ngang hông)",
+      "Panel 36 (Xoay người)"
+    ],
+    "benchmark_video_url": "https://www.tiktok.com/@lumystore6/video/7690007359501978900",
+    "benchmark_views": 488900,
+    "published_video_url": null,
+    "published_at": null
+  },
+  "seo": {
+    "primary_keywords": [
+      "quần short nữ",
+      "quần short nắp túi",
+      "quần short y2k"
+    ],
+    "secondary_keywords": [
+      "short nữ cạp trễ",
+      "quần đùi nữ tôn dáng",
+      "short kaki nữ"
+    ],
+    "search_intents": [
+      "quần short túi hộp nữ",
+      "quần short hack chân dài",
+      "short y2k phối đồ"
+    ],
+    "hashtags": [
+      "#quanshortnu",
+      "#shorty2k",
+      "#shortnaptui",
+      "#outfitmuahe",
+      "#gobitaurus"
+    ],
+    "caption_template": "Chiếc quần short hack chân dài mà đùi to hay eo bánh mì diện vào cũng auto thon gọn! Mê style Y2K thì rinh ngay ở góc trái giỏ hàng nha!"
+  },
+  "folder_path": "configs/products/catalog/SP-QS-004"
+}

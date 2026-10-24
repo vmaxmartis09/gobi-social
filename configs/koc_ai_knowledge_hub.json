@@ -33,7 +33,7 @@
       "target_audience": "Nữ sinh viên, Gen Z 18 - 25 tuổi yêu thích thời trang mềm mại giá học sinh sinh viên"
     },
     "bio_standard": "🌷 Gobi | 1m62-48kg ✨ Gobi Boutique 👗 Phối đồ hack dáng 👇 Săn deal ở giỏ hàng!",
-    "avatar_panel": "affiliate_tiktok/sample_video/koc_matrix_panels/panel_03_can_mat_chinh_dien.jpg",
+    "avatar_panel": "assets/samples/sample_video/koc_matrix_panels/panel_03_can_mat_chinh_dien.jpg",
     "niche": "Thời trang nữ phong cách Hàn Quốc nhu mì & Bí kíp phối đồ hack dáng (TikTok Shop Affiliate)"
   },
   "ai_model_matrix": {
@@ -119,7 +119,8 @@
       "step": 4,
       "name": "Lồng tiếng & Khớp khẩu hình (Voice & Lip-Sync)",
       "tools": [
-        "Edge-TTS / W5G Voice",
+        "OmniVoice (MPS SOTA Zero-Shot Cloner)",
+        "VieNeu-TTS v3 Turbo",
         "Seedance"
       ],
       "action": "Sinh giọng đọc tiếng Việt truyền cảm và đồng bộ chuyển động môi"
@@ -161,7 +162,7 @@
   ],
   "master_video_growth_encyclopedia": {
     "version": "3.0.0",
-    "policy_checker_tool": "tools/video/policy_compliance_checker.py",
+    "policy_checker_tool": "src/gobi/domain/policy_compliance_checker.py",
     "safe_zone": {
       "resolution": "1080x1920",
       "sweet_spot": "Center-Middle 900x1400px",
@@ -186,8 +187,8 @@
     "version": "1.0.0",
     "core_architecture": "VieNeu-TTS v3 Turbo 48kHz ONNX CPU (pnnbao-ump)",
     "benchmark_reference": "TikTok @benaithucchien (EverAI v1.6 pipeline: 30-60s clean audio, denoise=True, Vlog/Personal use-case)",
-    "pipeline_tool": "tools/voice/koc_voice_cloner.py",
-    "cli_shortcut": "clone_voice_from_video.py",
+    "pipeline_tool": "src/gobi/services/voice/koc_voice_cloner.py",
+    "cli_shortcut": "scripts/voice/clone_voice_from_video.py",
     "audio_slicing_standards": {
       "target_reference_duration": "3.5 - 5.0 seconds (optimal: 4.2s)",
       "noise_reduction": "denoise=True, bandpass 80Hz-12kHz",

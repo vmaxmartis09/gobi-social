@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1080, height=1920" />
+    <title>Gobi Social - Flow Lookbook</title>
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+    <style>
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      html, body { width: 1080px; height: 1920px; overflow: hidden; background: #000; }
+      #root { width: 100%; height: 100%; position: relative; overflow: hidden; }
+      .scene-video {
+        position: absolute; top: 0; left: 0;
+        width: 1080px; height: 1920px; object-fit: cover;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root" data-composition-id="main" data-start="0" data-duration="37.406" data-width="1080" data-height="1920">
+      
+    <video id="vid-0" class="clip scene-video"
+           src="assets/clip00a.mp4"
+           playsinline muted
+           data-start="0.000"
+           data-duration="3.133"
+           data-track-index="1"></video>
+    <video id="vid-1" class="clip scene-video"
+           src="assets/clip00b.mp4"
+           playsinline muted
+           data-start="3.133"
+           data-duration="3.830"
+           data-track-index="1"></video>
+    <video id="vid-2" class="clip scene-video"
+           src="assets/clip01a.mp4"
+           playsinline muted
+           data-start="6.963"
+           data-duration="3.334"
+           data-track-index="1"></video>
+    <video id="vid-3" class="clip scene-video"
+           src="assets/clip01b.mp4"
+           playsinline muted
+           data-start="10.297"
+           data-duration="4.075"
+           data-track-index="1"></video>
+    <video id="vid-4" class="clip scene-video"
+           src="assets/clip02a.mp4"
+           playsinline muted
+           data-start="14.372"
+           data-duration="2.998"
+           data-track-index="1"></video>
+    <video id="vid-5" class="clip scene-video"
+           src="assets/clip02b.mp4"
+           playsinline muted
+           data-start="17.370"
+           data-duration="3.665"
+           data-track-index="1"></video>
+    <video id="vid-6" class="clip scene-video"
+           src="assets/clip03a.mp4"
+           playsinline muted
+           data-start="21.035"
+           data-duration="4.119"
+           data-track-index="1"></video>
+    <video id="vid-7" class="clip scene-video"
+           src="assets/clip03b.mp4"
+           playsinline muted
+           data-start="25.154"
+           data-duration="5.034"
+           data-track-index="1"></video>
+    <video id="vid-8" class="clip scene-video"
+           src="assets/clip04a.mp4"
+           playsinline muted
+           data-start="30.188"
+           data-duration="3.248"
+           data-track-index="1"></video>
+    <video id="vid-9" class="clip scene-video"
+           src="assets/clip04b.mp4"
+           playsinline muted
+           data-start="33.436"
+           data-duration="3.970"
+           data-track-index="1"></video>
+      <audio id="voiceover-audio"
+             src="assets/voiceover_full.mp3"
+             data-start="0"
+             data-duration="37.406"
+             data-volume="1.0"
+             data-track-index="4"></audio>
+    </div>
+    <script>
+      window.__timelines = window.__timelines || {};
+      const tl = gsap.timeline({ paused: true });
+      window.__timelines["main"] = tl;
+      tl.seek(0);
+    </script>
+  </body>
+</html>

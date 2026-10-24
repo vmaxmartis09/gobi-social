@@ -1,0 +1,259 @@
+{
+  "project": "Gobi Social KOC Multi-Account Matrix",
+  "system_version": "1.0.0",
+  "total_accounts": 12,
+  "accounts": [
+    {
+      "account_id": "gobi-aries",
+      "zodiac_name_vi": "Bạch Dương",
+      "zodiac_name_en": "Aries",
+      "symbol": "♈",
+      "handle": "@gobi.aries",
+      "email_prefix": "gobi-aries",
+      "niche_fashion": "Sporty Chic & Streetwear năng động cá tính",
+      "persona_vibe": "Tự tin, bùng nổ năng lượng, tiên phong thử thách outfit mới",
+      "content_theme": "Phối đồ thể thao dạo phố, croptop và sneaker tôn dáng",
+      "target_audience": "Gen Z năng động, thích vận động, mê xu hướng đường phố",
+      "status": "PLANNED",
+      "warmup_day": 0,
+      "proxy_assigned": null,
+      "assigned_email": "gobi-aries@gobikoc.anonaddy.com",
+      "metrics": {
+        "followers": 0,
+        "total_views": 0,
+        "videos_posted": 0
+      }
+    },
+    {
+      "account_id": "gobi-taurus",
+      "zodiac_name_vi": "Kim Ngưu",
+      "zodiac_name_en": "Taurus",
+      "symbol": "♉",
+      "handle": "@gobi.taurus",
+      "email_prefix": "gobi-taurus",
+      "niche_fashion": "Quiet Luxury & Old Money thanh lịch vượt thời gian",
+      "persona_vibe": "Điềm tĩnh, tinh tế, ưu tiên chất liệu cao cấp và sự thoải mái",
+      "content_theme": "Đánh giá chất vải, đồ len tăm cao cấp, blazer gam màu trung tính",
+      "target_audience": "Nữ 22-35 tuổi, thích sự chỉn chu, chi tiêu thông minh",
+      "status": "PLANNED",
+      "warmup_day": 0,
+      "proxy_assigned": null,
+      "assigned_email": "gobi-taurus@gobikoc.anonaddy.com",
+      "metrics": {
+        "followers": 0,
+        "total_views": 0,
+        "videos_posted": 0
+      }
+    },
+    {
+      "account_id": "gobi-gemini",
+      "zodiac_name_vi": "Song Tử",
+      "zodiac_name_en": "Gemini",
+      "symbol": "♊",
+      "handle": "@gobi.gemini",
+      "email_prefix": "gobi-gemini",
+      "niche_fashion": "Mix & Match biến hóa đa năng (1 đồ 5 phong cách)",
+      "persona_vibe": "Thông minh, vui tính, nói nhanh cuốn hút, biến hình bất ngờ",
+      "content_theme": "Hack dáng thông minh, 1 chiếc cardigan phối cho cả tuần",
+      "target_audience": "Học sinh, sinh viên, người thích thay đổi phong cách liên tục",
+      "status": "PLANNED",
+      "warmup_day": 0,
+      "proxy_assigned": null,
+      "assigned_email": "gobi-gemini@gobikoc.anonaddy.com",
+      "metrics": {
+        "followers": 0,
+        "total_views": 0,
+        "videos_posted": 0
+      }
+    },
+    {
+      "account_id": "gobi-cancer",
+      "zodiac_name_vi": "Cự Giải",
+      "zodiac_name_en": "Cancer",
+      "symbol": "♋",
+      "handle": "@gobi.cancer",
+      "email_prefix": "gobi-cancer",
+      "niche_fashion": "Vintage Cottagecore & Váy xòe nàng thơ dịu dàng",
+      "persona_vibe": "Ấm áp, đồng cảm, giọng nói ngọt ngào tựa chữa lành",
+      "content_theme": "Váy hoa nhí, cardigan dệt kim mềm mại, outfit đi hẹn hò lãng mạn",
+      "target_audience": "Nữ giới thích sự nữ tính, nhẹ nhàng, chụp ảnh cafe",
+      "status": "PLANNED",
+      "warmup_day": 0,
+      "proxy_assigned": null,
+      "assigned_email": "gobi-cancer@gobikoc.anonaddy.com",
+      "metrics": {
+        "followers": 0,
+        "total_views": 0,
+        "videos_posted": 0
+      }
+    },
+    {
+      "account_id": "gobi-leo",
+      "zodiac_name_vi": "Sư Tử",
+      "zodiac_name_en": "Leo",
+      "symbol": "♌",
+      "handle": "@gobi.leo",
+      "email_prefix": "gobi-leo",
+      "niche_fashion": "Glamour & Party Chic quyến rũ chiếm trọn spotlight",
+      "persona_vibe": "Sang chảnh, khí chất ngôi sao, thần thái cuốn hút",
+      "content_theme": "Đầm ôm body tôn đường cong, outfit dự tiệc và sự kiện lộng lẫy",
+      "target_audience": "Phụ nữ thích làm trung tâm bữa tiệc, nổi bật và tự tin",
+      "status": "PLANNED",
+      "warmup_day": 0,
+      "proxy_assigned": null,
+      "assigned_email": "gobi-leo@gobikoc.anonaddy.com",
+      "metrics": {
+        "followers": 0,
+        "total_views": 0,
+        "videos_posted": 0
+      }
+    },
+    {
+      "account_id": "gobi-virgo",
+      "zodiac_name_vi": "Xử Nữ",
+      "zodiac_name_en": "Virgo",
+      "symbol": "♍",
+      "handle": "@gobi.virgo",
+      "email_prefix": "gobi-virgo",
+      "niche_fashion": "Smart Casual & Clean Girl Aesthetic công sở chỉn chu",
+      "persona_vibe": "Cầu toàn, phân tích chi tiết từng đường kim mũi chỉ, đáng tin cậy",
+      "content_theme": "Review đồ công sở chuẩn form, sơ mi chống nhăn, quần ống suông tôn chiều cao",
+      "target_audience": "Dân văn phòng, người thích phong cách gọn gàng, tinh tươm",
+      "status": "PLANNED",
+      "warmup_day": 0,
+      "proxy_assigned": null,
+      "assigned_email": "gobi-virgo@gobikoc.anonaddy.com",
+      "metrics": {
+        "followers": 0,
+        "total_views": 0,
+        "videos_posted": 0
+      }
+    },
+    {
+      "account_id": "gobi-libra",
+      "zodiac_name_vi": "Thiên Bình",
+      "zodiac_name_en": "Libra",
+      "symbol": "♎",
+      "handle": "@gobi.libra",
+      "email_prefix": "gobi-libra",
+      "niche_fashion": "K-Style & Pastel Aesthetic thời thượng chuẩn Hàn",
+      "persona_vibe": "Thẩm mỹ cao, cân đối hài hòa, nhẹ nhàng sang chảnh",
+      "content_theme": "Cách bắt trend idol Hàn Quốc, phối màu pastel tôn da sáng",
+      "target_audience": "Fan văn hóa K-pop, Gen Z đam mê xu hướng làm đẹp xứ Hàn",
+      "status": "PLANNED",
+      "warmup_day": 0,
+      "proxy_assigned": null,
+      "assigned_email": "gobi-libra@gobikoc.anonaddy.com",
+      "metrics": {
+        "followers": 0,
+        "total_views": 0,
+        "videos_posted": 0
+      }
+    },
+    {
+      "account_id": "gobi-scorpio",
+      "zodiac_name_vi": "Bọ Cạp",
+      "zodiac_name_en": "Scorpio",
+      "symbol": "♏",
+      "handle": "@gobi.scorpio",
+      "email_prefix": "gobi-scorpio",
+      "niche_fashion": "Dark Feminine & Y2K Chic huyền bí sắc sảo",
+      "persona_vibe": "Bí ẩn, gợi cảm ngầm, quyết đoán và cá tính độc tôn",
+      "content_theme": "Outfit đen quyến rũ, áo corset thắt eo, boot da cổ cao cá tính",
+      "target_audience": "Nữ giới yêu thích phong cách ngầu, quyến rũ và phá cách",
+      "status": "PLANNED",
+      "warmup_day": 0,
+      "proxy_assigned": null,
+      "assigned_email": "gobi-scorpio@gobikoc.anonaddy.com",
+      "metrics": {
+        "followers": 0,
+        "total_views": 0,
+        "videos_posted": 0
+      }
+    },
+    {
+      "account_id": "gobi-sagittarius",
+      "zodiac_name_vi": "Nhân Mã",
+      "zodiac_name_en": "Sagittarius",
+      "symbol": "♐",
+      "handle": "@gobi.sagittarius",
+      "email_prefix": "gobi-sagittarius",
+      "niche_fashion": "Boho Chic & Resort Travel Wear phóng khoáng tự do",
+      "persona_vibe": "Lạc quan, mê du lịch, truyền cảm hứng sống rực rỡ",
+      "content_theme": "Đồ đi biển, outfit sống ảo du lịch, trang phục năng động di chuyển",
+      "target_audience": "Người mê xê dịch, du lịch, thích trang phục tự do thoải mái",
+      "status": "PLANNED",
+      "warmup_day": 0,
+      "proxy_assigned": null,
+      "assigned_email": "gobi-sagittarius@gobikoc.anonaddy.com",
+      "metrics": {
+        "followers": 0,
+        "total_views": 0,
+        "videos_posted": 0
+      }
+    },
+    {
+      "account_id": "gobi-capricorn",
+      "zodiac_name_vi": "Ma Kết",
+      "zodiac_name_en": "Capricorn",
+      "symbol": "♑",
+      "handle": "@gobi.capricorn",
+      "email_prefix": "gobi-capricorn",
+      "niche_fashion": "Boss Lady & Minimalist Classic phong thái quyền lực",
+      "persona_vibe": "Trưởng thành, kiên định, toát lên khí chất lãnh đạo độc lập",
+      "content_theme": "Suit may đo, áo măng tô dạ mùa đông, phong thái phụ nữ thành công",
+      "target_audience": "Nữ doanh nhân, quản lý trẻ, người hướng đến sự thành đạt",
+      "status": "PLANNED",
+      "warmup_day": 0,
+      "proxy_assigned": null,
+      "assigned_email": "gobi-capricorn@gobikoc.anonaddy.com",
+      "metrics": {
+        "followers": 0,
+        "total_views": 0,
+        "videos_posted": 0
+      }
+    },
+    {
+      "account_id": "gobi-aquarius",
+      "zodiac_name_vi": "Bảo Bình",
+      "zodiac_name_en": "Aquarius",
+      "symbol": "♒",
+      "handle": "@gobi.aquarius",
+      "email_prefix": "gobi-aquarius",
+      "niche_fashion": "Avant-Garde & Độc lạ phá vỡ mọi quy tắc",
+      "persona_vibe": "Lập dị đáng yêu, sáng tạo vô biên, không đụng hàng",
+      "content_theme": "Outfit bất đối xứng, phối đồ không tưởng nhưng cực chất",
+      "target_audience": "Dân thiết kế, nghệ thuật, người thích tạo sự khác biệt hoàn toàn",
+      "status": "PLANNED",
+      "warmup_day": 0,
+      "proxy_assigned": null,
+      "assigned_email": "gobi-aquarius@gobikoc.anonaddy.com",
+      "metrics": {
+        "followers": 0,
+        "total_views": 0,
+        "videos_posted": 0
+      }
+    },
+    {
+      "account_id": "gobi-pisces",
+      "zodiac_name_vi": "Song Ngư",
+      "zodiac_name_en": "Pisces",
+      "symbol": "♓",
+      "handle": "@gobi.pisces",
+      "email_prefix": "gobi-pisces",
+      "niche_fashion": "Coquette Aesthetic & Balletcore mộng mơ tiểu thư",
+      "persona_vibe": "Mơ mộng, giàu cảm xúc, ngọt ngào dễ thương tựa kẹo bông",
+      "content_theme": "Váy ren nơ, tone màu hồng phấn baby, phong cách tiểu thư đài các",
+      "target_audience": "Nữ sinh, các bạn gái mê hoạt hình, búp bê và thời trang Coquette",
+      "status": "PLANNED",
+      "warmup_day": 0,
+      "proxy_assigned": null,
+      "assigned_email": "gobi-pisces@gobikoc.anonaddy.com",
+      "metrics": {
+        "followers": 0,
+        "total_views": 0,
+        "videos_posted": 0
+      }
+    }
+  ]
+}

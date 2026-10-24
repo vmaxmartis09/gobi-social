@@ -1,0 +1,6 @@
+{
+  "/page": "app/page.js",
+  "/api/jobs/brief/route": "app/api/jobs/brief/route.js",
+  "/api/media/[...path]/route": "app/api/media/[...path]/route.js",
+  "/api/jobs/stream/route": "app/api/jobs/stream/route.js"
+}

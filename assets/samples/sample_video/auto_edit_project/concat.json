@@ -1,0 +1,533 @@
+{
+  "concat": "0.2.7",
+  "name": "AI_AutoEdit_BODY_HACK_TROUSERS",
+  "video": {
+    "width": 1080,
+    "height": 1920,
+    "rateNum": 30,
+    "rateDen": 1,
+    "rate_num": 30,
+    "rate_den": 1
+  },
+  "tracks": [
+    {
+      "id": "T1",
+      "name": "Visual_Scenes",
+      "visible": true,
+      "muted": false
+    },
+    {
+      "id": "T2",
+      "name": "Voiceover_Audio",
+      "visible": true,
+      "muted": false
+    },
+    {
+      "id": "T3",
+      "name": "BGM_Commercial",
+      "visible": true,
+      "muted": false
+    },
+    {
+      "id": "T4",
+      "name": "Subtitles_SafeZone",
+      "visible": true,
+      "muted": false
+    },
+    {
+      "id": "T5",
+      "name": "Top_Banner_Hook",
+      "visible": true,
+      "muted": false
+    }
+  ],
+  "clips": [
+    {
+      "id": "c1",
+      "trackId": "T2",
+      "mediaId": "m1",
+      "name": "cardigan_voiceover.mp3",
+      "kind": "audio",
+      "start": 0.0,
+      "duration": 19.63,
+      "sourceStart": 0.0,
+      "volume": 1.0,
+      "fadeIn": 0.1,
+      "fadeOut": 0.3
+    },
+    {
+      "id": "c2",
+      "trackId": "T5",
+      "mediaId": "",
+      "name": "TOP_HOOK_BANNER",
+      "kind": "text",
+      "start": 0.0,
+      "duration": 3.5,
+      "sourceStart": 0.0,
+      "scale": 1.0,
+      "offsetX": 0.0,
+      "offsetY": -0.3,
+      "text": {
+        "content": "HACK CHÂN DÀI 1M1 CHUẨN GU HÀN 🍂",
+        "fontFamily": "\"Cabinet Grotesk\"",
+        "fontSize": 0.065,
+        "fontWeight": 900.0,
+        "color": "#FFFC00",
+        "strokeWidth": 0.015,
+        "strokeColor": "#000000",
+        "background": "#D91632EE",
+        "backgroundRadius": 0.03,
+        "backgroundPaddingX": 0.05,
+        "backgroundPaddingY": 0.02
+      }
+    },
+    {
+      "id": "c3",
+      "trackId": "T1",
+      "mediaId": "m2",
+      "name": "01_hook_model_cafe.jpg",
+      "kind": "image",
+      "start": 0.0,
+      "duration": 4.13,
+      "sourceStart": 0.0,
+      "scale": 1.05,
+      "speed": 1.0,
+      "volume": 1.0
+    },
+    {
+      "id": "c4",
+      "trackId": "T4",
+      "mediaId": "",
+      "name": "Mấy bà tìm đồ tôn ...",
+      "kind": "text",
+      "start": 0.0,
+      "duration": 4.13,
+      "sourceStart": 0.0,
+      "scale": 1.0,
+      "offsetX": 0.0,
+      "offsetY": 0.3,
+      "text": {
+        "content": "Mấy bà tìm đồ tôn dáng đi học đi làm xem ngay nha!",
+        "fontFamily": "\"Cabinet Grotesk\"",
+        "fontSize": 0.056,
+        "fontWeight": 800.0,
+        "color": "#FFF500",
+        "strokeWidth": 0.012,
+        "strokeColor": "#000000",
+        "background": "#000000B0",
+        "backgroundRadius": 0.02,
+        "backgroundPaddingX": 0.04,
+        "backgroundPaddingY": 0.02,
+        "maxWidth": 0.85
+      }
+    },
+    {
+      "id": "c5",
+      "trackId": "T1",
+      "mediaId": "m3",
+      "name": "02_texture_fabric_buttons.jpg",
+      "kind": "image",
+      "start": 4.13,
+      "duration": 3.72,
+      "sourceStart": 0.0,
+      "scale": 1.05,
+      "speed": 1.0,
+      "volume": 1.0
+    },
+    {
+      "id": "c6",
+      "trackId": "T4",
+      "mediaId": "",
+      "name": "Chất len dệt kim m...",
+      "kind": "text",
+      "start": 4.13,
+      "duration": 3.72,
+      "sourceStart": 0.0,
+      "scale": 1.0,
+      "offsetX": 0.0,
+      "offsetY": 0.3,
+      "text": {
+        "content": "Chất len dệt kim mỏng nhẹ mềm mướt không dặm ngứa.",
+        "fontFamily": "\"Cabinet Grotesk\"",
+        "fontSize": 0.056,
+        "fontWeight": 800.0,
+        "color": "#FFFFFF",
+        "strokeWidth": 0.012,
+        "strokeColor": "#000000",
+        "background": "#000000B0",
+        "backgroundRadius": 0.02,
+        "backgroundPaddingX": 0.04,
+        "backgroundPaddingY": 0.02,
+        "maxWidth": 0.85
+      }
+    },
+    {
+      "id": "c7",
+      "trackId": "T1",
+      "mediaId": "m4",
+      "name": "03_fullbody_korean_ootd.jpg",
+      "kind": "image",
+      "start": 7.85,
+      "duration": 4.55,
+      "sourceStart": 0.0,
+      "scale": 1.05,
+      "speed": 1.0,
+      "volume": 1.0
+    },
+    {
+      "id": "c8",
+      "trackId": "T4",
+      "mediaId": "",
+      "name": "Form rộng chuẩn Hà...",
+      "kind": "text",
+      "start": 7.85,
+      "duration": 4.55,
+      "sourceStart": 0.0,
+      "scale": 1.0,
+      "offsetX": 0.0,
+      "offsetY": 0.3,
+      "text": {
+        "content": "Form rộng chuẩn Hàn Quốc hack chân dài cực đỉnh.",
+        "fontFamily": "\"Cabinet Grotesk\"",
+        "fontSize": 0.056,
+        "fontWeight": 800.0,
+        "color": "#FFF500",
+        "strokeWidth": 0.012,
+        "strokeColor": "#000000",
+        "background": "#000000B0",
+        "backgroundRadius": 0.02,
+        "backgroundPaddingX": 0.04,
+        "backgroundPaddingY": 0.02,
+        "maxWidth": 0.85
+      }
+    },
+    {
+      "id": "c9",
+      "trackId": "T1",
+      "mediaId": "m5",
+      "name": "04_cta_pointing_cart.jpg",
+      "kind": "image",
+      "start": 12.4,
+      "duration": 7.23,
+      "sourceStart": 0.0,
+      "scale": 1.05,
+      "speed": 1.0,
+      "volume": 1.0
+    },
+    {
+      "id": "c10",
+      "trackId": "T4",
+      "mediaId": "",
+      "name": "Đang sale sập sàn ...",
+      "kind": "text",
+      "start": 12.4,
+      "duration": 7.23,
+      "sourceStart": 0.0,
+      "scale": 1.0,
+      "offsetX": 0.0,
+      "offsetY": 0.3,
+      "text": {
+        "content": "Đang sale sập sàn góc trái giỏ hàng, chốt liền tay nha!",
+        "fontFamily": "\"Cabinet Grotesk\"",
+        "fontSize": 0.056,
+        "fontWeight": 800.0,
+        "color": "#FFFFFF",
+        "strokeWidth": 0.012,
+        "strokeColor": "#000000",
+        "background": "#000000B0",
+        "backgroundRadius": 0.02,
+        "backgroundPaddingX": 0.04,
+        "backgroundPaddingY": 0.02,
+        "maxWidth": 0.85
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "m1",
+      "path": "./assets/samples/sample_video/audio/cardigan_voiceover.mp3",
+      "name": "cardigan_voiceover.mp3",
+      "kind": "audio",
+      "hasAudio": true,
+      "duration": 19.63
+    },
+    {
+      "id": "m2",
+      "path": "./assets/samples/sample_video/images/01_hook_model_cafe.jpg",
+      "name": "01_hook_model_cafe.jpg",
+      "kind": "image",
+      "hasAudio": false
+    },
+    {
+      "id": "m3",
+      "path": "./assets/samples/sample_video/images/02_texture_fabric_buttons.jpg",
+      "name": "02_texture_fabric_buttons.jpg",
+      "kind": "image",
+      "hasAudio": false
+    },
+    {
+      "id": "m4",
+      "path": "./assets/samples/sample_video/images/03_fullbody_korean_ootd.jpg",
+      "name": "03_fullbody_korean_ootd.jpg",
+      "kind": "image",
+      "hasAudio": false
+    },
+    {
+      "id": "m5",
+      "path": "./assets/samples/sample_video/images/04_cta_pointing_cart.jpg",
+      "name": "04_cta_pointing_cart.jpg",
+      "kind": "image",
+      "hasAudio": false
+    }
+  ],
+  "fonts": [],
+  "timelines": [
+    {
+      "id": "TL1",
+      "name": "AI_AutoEdit_BODY_HACK_TROUSERS",
+      "video": {
+        "width": 1080,
+        "height": 1920,
+        "rateNum": 30,
+        "rateDen": 1,
+        "rate_num": 30,
+        "rate_den": 1
+      },
+      "tracks": [
+        {
+          "id": "T1",
+          "name": "Visual_Scenes",
+          "visible": true,
+          "muted": false
+        },
+        {
+          "id": "T2",
+          "name": "Voiceover_Audio",
+          "visible": true,
+          "muted": false
+        },
+        {
+          "id": "T3",
+          "name": "BGM_Commercial",
+          "visible": true,
+          "muted": false
+        },
+        {
+          "id": "T4",
+          "name": "Subtitles_SafeZone",
+          "visible": true,
+          "muted": false
+        },
+        {
+          "id": "T5",
+          "name": "Top_Banner_Hook",
+          "visible": true,
+          "muted": false
+        }
+      ],
+      "clips": [
+        {
+          "id": "c1",
+          "trackId": "T2",
+          "mediaId": "m1",
+          "name": "cardigan_voiceover.mp3",
+          "kind": "audio",
+          "start": 0.0,
+          "duration": 19.63,
+          "sourceStart": 0.0,
+          "volume": 1.0,
+          "fadeIn": 0.1,
+          "fadeOut": 0.3
+        },
+        {
+          "id": "c2",
+          "trackId": "T5",
+          "mediaId": "",
+          "name": "TOP_HOOK_BANNER",
+          "kind": "text",
+          "start": 0.0,
+          "duration": 3.5,
+          "sourceStart": 0.0,
+          "scale": 1.0,
+          "offsetX": 0.0,
+          "offsetY": -0.3,
+          "text": {
+            "content": "HACK CHÂN DÀI 1M1 CHUẨN GU HÀN 🍂",
+            "fontFamily": "\"Cabinet Grotesk\"",
+            "fontSize": 0.065,
+            "fontWeight": 900.0,
+            "color": "#FFFC00",
+            "strokeWidth": 0.015,
+            "strokeColor": "#000000",
+            "background": "#D91632EE",
+            "backgroundRadius": 0.03,
+            "backgroundPaddingX": 0.05,
+            "backgroundPaddingY": 0.02
+          }
+        },
+        {
+          "id": "c3",
+          "trackId": "T1",
+          "mediaId": "m2",
+          "name": "01_hook_model_cafe.jpg",
+          "kind": "image",
+          "start": 0.0,
+          "duration": 4.13,
+          "sourceStart": 0.0,
+          "scale": 1.05,
+          "speed": 1.0,
+          "volume": 1.0
+        },
+        {
+          "id": "c4",
+          "trackId": "T4",
+          "mediaId": "",
+          "name": "Mấy bà tìm đồ tôn ...",
+          "kind": "text",
+          "start": 0.0,
+          "duration": 4.13,
+          "sourceStart": 0.0,
+          "scale": 1.0,
+          "offsetX": 0.0,
+          "offsetY": 0.3,
+          "text": {
+            "content": "Mấy bà tìm đồ tôn dáng đi học đi làm xem ngay nha!",
+            "fontFamily": "\"Cabinet Grotesk\"",
+            "fontSize": 0.056,
+            "fontWeight": 800.0,
+            "color": "#FFF500",
+            "strokeWidth": 0.012,
+            "strokeColor": "#000000",
+            "background": "#000000B0",
+            "backgroundRadius": 0.02,
+            "backgroundPaddingX": 0.04,
+            "backgroundPaddingY": 0.02,
+            "maxWidth": 0.85
+          }
+        },
+        {
+          "id": "c5",
+          "trackId": "T1",
+          "mediaId": "m3",
+          "name": "02_texture_fabric_buttons.jpg",
+          "kind": "image",
+          "start": 4.13,
+          "duration": 3.72,
+          "sourceStart": 0.0,
+          "scale": 1.05,
+          "speed": 1.0,
+          "volume": 1.0
+        },
+        {
+          "id": "c6",
+          "trackId": "T4",
+          "mediaId": "",
+          "name": "Chất len dệt kim m...",
+          "kind": "text",
+          "start": 4.13,
+          "duration": 3.72,
+          "sourceStart": 0.0,
+          "scale": 1.0,
+          "offsetX": 0.0,
+          "offsetY": 0.3,
+          "text": {
+            "content": "Chất len dệt kim mỏng nhẹ mềm mướt không dặm ngứa.",
+            "fontFamily": "\"Cabinet Grotesk\"",
+            "fontSize": 0.056,
+            "fontWeight": 800.0,
+            "color": "#FFFFFF",
+            "strokeWidth": 0.012,
+            "strokeColor": "#000000",
+            "background": "#000000B0",
+            "backgroundRadius": 0.02,
+            "backgroundPaddingX": 0.04,
+            "backgroundPaddingY": 0.02,
+            "maxWidth": 0.85
+          }
+        },
+        {
+          "id": "c7",
+          "trackId": "T1",
+          "mediaId": "m4",
+          "name": "03_fullbody_korean_ootd.jpg",
+          "kind": "image",
+          "start": 7.85,
+          "duration": 4.55,
+          "sourceStart": 0.0,
+          "scale": 1.05,
+          "speed": 1.0,
+          "volume": 1.0
+        },
+        {
+          "id": "c8",
+          "trackId": "T4",
+          "mediaId": "",
+          "name": "Form rộng chuẩn Hà...",
+          "kind": "text",
+          "start": 7.85,
+          "duration": 4.55,
+          "sourceStart": 0.0,
+          "scale": 1.0,
+          "offsetX": 0.0,
+          "offsetY": 0.3,
+          "text": {
+            "content": "Form rộng chuẩn Hàn Quốc hack chân dài cực đỉnh.",
+            "fontFamily": "\"Cabinet Grotesk\"",
+            "fontSize": 0.056,
+            "fontWeight": 800.0,
+            "color": "#FFF500",
+            "strokeWidth": 0.012,
+            "strokeColor": "#000000",
+            "background": "#000000B0",
+            "backgroundRadius": 0.02,
+            "backgroundPaddingX": 0.04,
+            "backgroundPaddingY": 0.02,
+            "maxWidth": 0.85
+          }
+        },
+        {
+          "id": "c9",
+          "trackId": "T1",
+          "mediaId": "m5",
+          "name": "04_cta_pointing_cart.jpg",
+          "kind": "image",
+          "start": 12.4,
+          "duration": 7.23,
+          "sourceStart": 0.0,
+          "scale": 1.05,
+          "speed": 1.0,
+          "volume": 1.0
+        },
+        {
+          "id": "c10",
+          "trackId": "T4",
+          "mediaId": "",
+          "name": "Đang sale sập sàn ...",
+          "kind": "text",
+          "start": 12.4,
+          "duration": 7.23,
+          "sourceStart": 0.0,
+          "scale": 1.0,
+          "offsetX": 0.0,
+          "offsetY": 0.3,
+          "text": {
+            "content": "Đang sale sập sàn góc trái giỏ hàng, chốt liền tay nha!",
+            "fontFamily": "\"Cabinet Grotesk\"",
+            "fontSize": 0.056,
+            "fontWeight": 800.0,
+            "color": "#FFFFFF",
+            "strokeWidth": 0.012,
+            "strokeColor": "#000000",
+            "background": "#000000B0",
+            "backgroundRadius": 0.02,
+            "backgroundPaddingX": 0.04,
+            "backgroundPaddingY": 0.02,
+            "maxWidth": 0.85
+          }
+        }
+      ]
+    }
+  ],
+  "activeTimelineId": "TL1",
+  "active_timeline_id": "TL1"
+}

@@ -1,0 +1,43 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gobi-social"
+version = "1.0.0"
+description = "Gobi Social: Autonomous AI KOC & Multi-Channel Video Production and Intelligence System"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "Proprietary" }
+authors = [
+    { name = "Gobi Social Engineering Team" }
+]
+dependencies = [
+    "imageio-ffmpeg>=0.4.9",
+    "Pillow>=10.0.0",
+    "numpy>=1.24.0",
+    "edge-tts>=6.1.9",
+    "gTTS>=2.5.0",
+    "playwright>=1.40.0",
+    "requests>=2.31.0",
+    "yt-dlp>=2024.0.0",
+    "python-dotenv>=1.0.0",
+    "pydantic>=2.0.0",
+    "insightface>=0.7.3",
+    "onnxruntime>=1.20.0",
+    "opencv-python>=4.8.0",
+    "google-genai>=1.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0.0",
+    "black>=24.0.0",
+    "flake8>=7.0.0",
+]
+
+[project.scripts]
+gobi = "gobi.cli.main:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,81 @@
+{
+  "workflow_id": "gobi_motion_mimic_v1",
+  "workflow_name": "Gobi Video Motion Mimic Workflow",
+  "description": "Độc lập nạp 1 video bất kỳ (TikTok/Reels/User clip) để AI KOC (Gobi/Lyly/Neau) bắt chước chuyển động, biểu cảm và cử chỉ, dựng qua HeyGen HyperFrames.",
+  "version": "1.0.0",
+  "created_at": "2026-10-20",
+  "default_settings": {
+    "target_resolution": {
+      "width": 1080,
+      "height": 1920,
+      "aspect_ratio": "9:16",
+      "fps": 30
+    },
+    "safe_zone": {
+      "top_margin_px": 140,
+      "bottom_margin_px": 380,
+      "left_margin_px": 60,
+      "right_margin_px": 140
+    },
+    "default_engine": "local_faceswap",
+    "fallback_engine": "kling_motion",
+    "default_layout": "solo",
+    "default_audio_strategy": "keep_original"
+  },
+  "engine_adapters": {
+    "local_faceswap": {
+      "type": "local_ai",
+      "enabled": true,
+      "description": "InsightFace (buffalo_l) + inswapper_128.onnx, swap mặt theo chuyển động gốc, chạy qua CoreMLExecutionProvider trên Apple Silicon (fallback CPU)",
+      "python_binary": ".venv/bin/python",
+      "providers": ["CoreMLExecutionProvider", "CPUExecutionProvider"],
+      "model_path": "models/weights/inswapper_128.onnx"
+    },
+    "kling_motion": {
+      "type": "cloud_api",
+      "enabled": true,
+      "description": "Kling AI Motion Control API (Cloud Video-to-Video transfer) — trả phí, chỉ dùng khi cần chất lượng cao hơn local",
+      "api_base": "https://api.klingai.com/v1",
+      "mode": "standard"
+    },
+    "mock": {
+      "type": "passthrough",
+      "enabled": true,
+      "description": "Không swap gì cả, chỉ re-encode video gốc — dùng để test nhanh pipeline không tốn GPU"
+    }
+  },
+  "character_dna_presets": {
+    "gobi_lyly": {
+      "name": "LyLy - Nữ chính Gobi",
+      "avatar_path": "assets/characters/lyly_master_portrait.png",
+      "voice_id": "voice-fm-lyly",
+      "style": "GenZ Thời Trang, nụ cười sáng, biểu cảm tự nhiên"
+    },
+    "gobi_neau": {
+      "name": "Neau - Nàng thơ Lookbook",
+      "avatar_path": "assets/characters/neau_master_portrait.png",
+      "voice_id": "voice-fm-lyly",
+      "voice_id_note": "CHƯA có profile giọng Neau thật trong assets/voice_vault — tạm fallback dùng giọng voice-fm-lyly cho tới khi thu mẫu giọng Neau riêng.",
+      "style": "Thanh lịch, sang chảnh, phong thái người mẫu"
+    }
+  },
+  "hyperframes_layouts": {
+    "solo": {
+      "description": "100% Khung hình dọc 9:16 là nhân vật AI bắt chước cử động",
+      "css_classes": "layout-solo-fullscreen",
+      "badge_position": "top-center"
+    },
+    "split_3_tier": {
+      "description": "Chuẩn What's up AI 3 tầng: Top (Slide/Proof) | Mid (AI KOC) | Bot (Người quay thật)",
+      "top_tier_height_pct": 33.33,
+      "mid_tier_height_pct": 33.33,
+      "bot_tier_height_pct": 33.34
+    },
+    "side_by_side": {
+      "description": "Chia đôi màn hình: Bên trái video mẫu gốc, bên phải video AI KOC bắt chước",
+      "split_orientation": "vertical",
+      "left_label": "VIDEO MẪU (GỐC)",
+      "right_label": "GOBI AI KOC"
+    }
+  }
+}

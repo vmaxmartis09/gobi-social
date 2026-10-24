@@ -9,7 +9,7 @@
 ## 🎯 1. BỐI CẢNH & YÊU CẦU CỦA NGƯỜI DÙNG
 * **Yêu cầu trực tiếp:** "Đã có mẫu rồi, có giọng rồi, hãy làm lại video từ profile nhân vật tôi cung cấp sao cho video mở miệng nói tiếng việt khoảng 45s review áo cadigan".
 * **Các thách thức kỹ thuật cốt lõi cần giải quyết:**
-  1. **Khóa nhận diện Master KOC (100% Identity Lock):** Sử dụng đúng nhân vật chuẩn đã duyệt trong [`affiliate_tiktok/dataset_koc/MASTER_KOC_DNA.jpg`](../../affiliate_tiktok/dataset_koc/MASTER_KOC_DNA.jpg) và bộ 36 panels [`affiliate_tiktok/dataset_koc/ethereal_koc_panels_v3/`](../../affiliate_tiktok/dataset_koc/ethereal_koc_panels_v3) (KOC phong thái Trương Bá Chi x Lưu Diệc Phi, outfit cardigan dệt kim phong cách Hàn Quốc).
+  1. **Khóa nhận diện Master KOC (100% Identity Lock):** Sử dụng đúng nhân vật chuẩn đã duyệt trong [`assets/datasets/koc/MASTER_KOC_DNA.jpg`](../../assets/datasets/koc/MASTER_KOC_DNA.jpg) và bộ 36 panels [`assets/datasets/koc/ethereal_koc_panels_v3/`](../../assets/datasets/koc/ethereal_koc_panels_v3) (KOC phong thái Trương Bá Chi x Lưu Diệc Phi, outfit cardigan dệt kim phong cách Hàn Quốc).
   2. **Động cơ mở miệng nói tiếng Việt (Speech-Driven Lip-Sync Engine):** Khắc phục nhược điểm của ảnh tĩnh chuyển động thông thường (Ken Burns tĩnh môi). Xây dựng thuật toán biến dạng môi sub-pixel (Diffeomorphic Lip-Sync Viseme) điều khiển bằng biên độ năng lượng âm thanh (audio envelope RMS) của câu thoại tiếng Việt: khi có tiếng nói, khẩu hình môi mở tự nhiên, hé lộ răng ngọc trai và khoang miệng; khi ngắt câu, môi tự động khép lại mỉm cười tự nhiên.
   3. **Chớp mắt sinh học (Biological Eye Blinking):** Tự động mô phỏng nháy mắt tự nhiên chu kỳ 3.2s, 6.8s, 14.5s... tránh cảm giác đơ cứng của AI.
   4. **Kịch bản review Cardigan chuẩn 48.38s:** Kịch bản 5 giai đoạn chuyển đổi cao (Hook tò mò -> Soi thớ len dệt kim không nhăn xù -> Lên form giấu bắp tay và eo -> Bảng màu pastel tôn da -> CTA săn deal dưới 100k ở giỏ hàng góc trái).
@@ -28,7 +28,7 @@
    * Trích xuất 1451 frames audio RMS (30 FPS, độ phân giải 33.3ms/frame) từ raw PCM 16kHz.
    * Lọc đường bao tín hiệu (attack 35%, release 25%) để tạo biên độ mở miệng $open\_amount \in [0.0, 1.0]$.
 4. **Xây dựng Engine Render Video Dọc 9:16:**
-   * Viết file [`affiliate_tiktok/render_talking_cardigan_video.py`](../../affiliate_tiktok/render_talking_cardigan_video.py).
+   * Viết file [`scripts/video/render_talking_cardigan_video.py`](../../scripts/video/render_talking_cardigan_video.py).
    * Kiến trúc 5 phân cảnh điện ảnh:
      * *Scene 1 (0.0s - 8.2s):* Hook Talking Head - KOC mở miệng nói câu chào và tạo tò mò, camera push-in.
      * *Scene 2 (8.2s - 18.0s):* B-Roll Macro Texture (Panel 25) - Cận cảnh thớ len dệt kim dày dặn, sờ vải không nhăn.
@@ -41,11 +41,11 @@
 
 ## 🏆 3. KẾT QUẢ ĐẠT ĐƯỢC & BẰNG CHỨNG (PROOF-OF-WORK)
 * 🎬 **File Video Thành Phẩm:**
-  * Đường dẫn: [`affiliate_tiktok/sample_video/output/koc_cardigan_talking_review_45s.mp4`](../../affiliate_tiktok/sample_video/output/koc_cardigan_talking_review_45s.mp4)
+  * Đường dẫn: [`assets/samples/sample_video/output/koc_cardigan_talking_review_45s.mp4`](../../assets/samples/sample_video/output/koc_cardigan_talking_review_45s.mp4)
   * Thời lượng: 48.38 giây (khớp chuẩn yêu cầu "khoảng 45s").
   * Độ phân giải: 1080 x 1920 (Chuẩn dọc TikTok 9:16, 30 FPS).
 * 🔊 **File Âm Thanh Mastered:**
-  * Đường dẫn: [`affiliate_tiktok/sample_video/audio/cardigan_45s_mastered.mp3`](../../affiliate_tiktok/sample_video/audio/cardigan_45s_mastered.mp3) (Mastered -14 LUFS, ducking BGM -18dB).
+  * Đường dẫn: [`assets/samples/sample_video/audio/cardigan_45s_mastered.mp3`](../../assets/samples/sample_video/audio/cardigan_45s_mastered.mp3) (Mastered -14 LUFS, ducking BGM -18dB).
 * 📸 **Bộ Ảnh Minh Chứng Khẩu Hình Nói & Safe Zone:**
   * Cảnh 1 (Hook Talking Head): [`shots/cardigan_talking_proof/proof_frame_1s.jpg`](../../shots/cardigan_talking_proof/proof_frame_1s.jpg)
   * Cảnh 1 (Mở miệng nói chữ "Hàn Quốc"): [`shots/cardigan_talking_proof/proof_frame_5s.jpg`](../../shots/cardigan_talking_proof/proof_frame_5s.jpg)

@@ -27,7 +27,7 @@
   * Tự động chuyển ngữ cảnh về lại tab TikTok chính sau khi popup hoàn tất.
 
 ### 2.3. Giải Captcha & Theo dõi trực quan qua Live Viewer
-* **Xử lý Captcha:** [`affiliate_tiktok/handle_tiktok_captcha.py`](../../affiliate_tiktok/handle_tiktok_captcha.py).
+* **Xử lý Captcha:** [`scripts/tiktok/handle_tiktok_captcha.py`](../../scripts/tiktok/handle_tiktok_captcha.py).
   * Chụp ảnh toàn cảnh và ảnh mảnh ghép puzzle.
   * Tự động tính toán khoảng cách offset x để kéo thanh trượt mô phỏng gia tốc tay người thật (human-like mouse drag).
 * **Giao diện giám sát Live Viewer:**
@@ -38,7 +38,7 @@
 ---
 
 ## 3. CÁC FILE LIÊN QUAN CHÍNH
-* [`upload_to_tiktok.py`](../../upload_to_tiktok.py) & [`publish_tiktok.py`](../../publish_tiktok.py)
-* [`affiliate_tiktok/full_verified_login.py`](../../affiliate_tiktok/full_verified_login.py)
-* [`affiliate_tiktok/execute_tiktok_flow.py`](../../affiliate_tiktok/execute_tiktok_flow.py)
-* [`core/stealth_monitor.py`](../../core/stealth_monitor.py)
+* [`scripts/tiktok/upload_to_tiktok.py`](../../scripts/tiktok/upload_to_tiktok.py) & [`scripts/tiktok/publish_tiktok.py`](../../scripts/tiktok/publish_tiktok.py)
+* [`scripts/tiktok/full_verified_login.py`](../../scripts/tiktok/full_verified_login.py)
+* [`scripts/tiktok/execute_tiktok_flow.py`](../../scripts/tiktok/execute_tiktok_flow.py)
+* [`src/gobi/adapters/browser/stealth_monitor.py`](../../src/gobi/adapters/browser/stealth_monitor.py)

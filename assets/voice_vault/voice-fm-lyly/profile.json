@@ -1,0 +1,20 @@
+{
+  "profile_id": "voice-fm-lyly",
+  "speaker_name": "Giọng nữ LyLy Studio Mới (Tâm sự, truyền cảm, ngọt ngào)",
+  "dialect": "south (Miền Nam ngọt ngào chuẩn Studio)",
+  "gender": "female",
+  "style": "emotional_storytelling_podcast",
+  "description": "Giọng nữ ca sĩ/KOC LyLy bản thu Studio chuẩn, trong trẻo, phương ngữ miền Nam ngọt ngào, ấm áp, sâu lắng, phù hợp podcast, tâm sự, review phong cách sống.",
+  "source_media": "/Volumes/Data/gobi-social/assets/voice_vault/voice-fm-lyly/source_studio_lyly.mp3",
+  "source_preview_mp3": "/Volumes/Data/gobi-social/assets/voice_vault/voice-fm-lyly/source_original_preview.mp3",
+  "cloned_default_mp3": "/Volumes/Data/gobi-social/assets/voice_vault/voice-fm-lyly/cloned_default_sample.mp3",
+  "default_greeting": "Hello gô bi thúi của em , em là Gô bi của anh đây nè !",
+  "ref_slice_wav": "/Volumes/Data/gobi-social/assets/voice_vault/voice-fm-lyly/reference_clean_slice.wav",
+  "full_wav": "/Volumes/Data/gobi-social/assets/voice_vault/voice-fm-lyly/raw_extracted_clean.wav",
+  "speaker_emb_npy": "/Volumes/Data/gobi-social/assets/voice_vault/voice-fm-lyly/speaker_emb.npy",
+  "duration": 5.25,
+  "rms": 0.046195775270462036,
+  "transcript": "Ly không biết là mọi người nhận ra mình trưởng thành từ lúc nào.",
+  "updated_at": "2026-10-19",
+  "engine": "omnivoice"
+}

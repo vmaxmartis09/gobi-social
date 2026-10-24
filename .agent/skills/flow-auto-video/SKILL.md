@@ -127,7 +127,7 @@ Animate this frame into an [8]-second cinematic clip. CRITICAL: preserve EXACTLY
 
 ### BƯỚC 6 — TỰ ĐỘNG HÓA TRÊN GOOGLE FLOW
 
-Sử dụng **Ego Lite** (`ego-browser` CLI, Node script `tools/ego/flow_automation.mjs`) hoặc trình duyệt tự động hóa:
+Sử dụng **Ego Lite** (`ego-browser` CLI, Node script `src/gobi/adapters/platforms/flow_ai/ego/flow_automation.mjs`) hoặc trình duyệt tự động hóa:
 
 1. **Khởi tạo:**
    - Mở `https://labs.google/flow` (hoặc `labs.google/fx/tools/flow`).
@@ -177,4 +177,4 @@ Sử dụng **Ego Lite** (`ego-browser` CLI, Node script `tools/ego/flow_automat
 - Checklist thao tác tay trên Flow: `templates/flow_auto_video/templates/04-flow-manual-checklist.md`
 - Mẫu brief đầu vào: `templates/flow_auto_video/inputs/idea-brief.md`
 - Ví dụ chạy hoàn chỉnh: `templates/flow_auto_video/example/mot-buoi-sang-o-tiem-pho.md`
-- Script điều khiển Ego Lite: `tools/ego/open_ai_flow.mjs` & `tools/ego/flow_automation.mjs`
+- Script điều khiển Ego Lite: `src/gobi/adapters/platforms/flow_ai/ego/open_ai_flow.mjs` & `src/gobi/adapters/platforms/flow_ai/ego/flow_automation.mjs`

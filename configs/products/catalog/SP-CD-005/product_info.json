@@ -1,0 +1,70 @@
+{
+  "product_code": "SP-CD-005",
+  "product_name": "Áo Khoác Cardigan Len Mỏng Dáng Rộng Nàng Thơ SuChang",
+  "category": "ao_khoac",
+  "pricing": {
+    "price_vnd": 129000,
+    "original_price_vnd": 199000,
+    "commission_rate_percent": 20.0,
+    "commission_per_order_vnd": 25800
+  },
+  "specs": {
+    "material": "Len dệt kim mỏng nhẹ, mềm mại như mây, sợi bông tự nhiên không xơ cứng",
+    "colors": [
+      "Be sữa",
+      "Nâu nhạt",
+      "Hồng pastel",
+      "Xanh bơ"
+    ],
+    "sizes": [
+      "Freesize (dưới 60kg)"
+    ],
+    "origin_shop": "SuChang Studio",
+    "usp_features": [
+      "Dệt lỏng tay tạo độ bay bổng nhu mì",
+      "Cúc áo vỏ sò ánh xà cừ cổ điển",
+      "Đa năng: khoác ngoài váy 2 dây hoặc cài cúc mặc đơn"
+    ]
+  },
+  "production": {
+    "status": "dang_lam",
+    "assigned_koc": "@gobiboutique",
+    "winning_format": "Daily Vlog KOC & ASMR Fabric (Âm thanh sột soạt, chạm thớ len)",
+    "vmax_panels": [
+      "Panel 03 (Cận mặt)",
+      "Panel 25 (Thớ len)",
+      "Panel 26 (Toàn thân)",
+      "Panel 02 (Chỉ giỏ hàng)"
+    ],
+    "benchmark_video_url": "https://www.tiktok.com/@suchangvn/video/7680123456789012345",
+    "benchmark_views": 368674,
+    "published_video_url": null,
+    "published_at": null
+  },
+  "seo": {
+    "primary_keywords": [
+      "áo cardigan len mỏng",
+      "áo khoác len nàng thơ",
+      "cardigan dáng rộng"
+    ],
+    "secondary_keywords": [
+      "áo khoác đi học nhẹ nhàng",
+      "cardigan hàn quốc",
+      "phối cardigan với váy 2 dây"
+    ],
+    "search_intents": [
+      "áo cardigan len mỏng mặc mùa thu",
+      "áo cardigan phong cách nàng thơ",
+      "cardigan hàn quốc giá học sinh"
+    ],
+    "hashtags": [
+      "#cardigannangtho",
+      "#aokhoaclen",
+      "#cardiganhanquoc",
+      "#gobiboutique",
+      "#thoitrangnangtho"
+    ],
+    "caption_template": "Gợi ý chiếc cardigan len mỏng chuẩn vibe nàng thơ đi cafe cuối tuần 🌷 Tone be sữa nhẹ tênh, chất len êm ru không ngứa. Nhấp giỏ hàng săn deal nhé!"
+  },
+  "folder_path": "configs/products/catalog/SP-CD-005"
+}

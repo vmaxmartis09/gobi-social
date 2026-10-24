@@ -20,7 +20,7 @@
 * **Lệnh terminal hoặc script đã thực thi:**
   ```powershell
   # Ví dụ:
-  .\.venv\Scripts\python.exe core/video_engine.py --preview
+  .\.venv\Scripts\python.exe src/gobi/services/media/video_engine.py --preview
   ```
 * **Các chiến lược dự phòng đã áp dụng (nếu gặp lỗi):**
   * *Chiến lược 1:* ...

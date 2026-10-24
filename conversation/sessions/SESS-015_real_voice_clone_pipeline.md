@@ -27,17 +27,17 @@
   * Xác định lõi công nghệ của EverAI v1.6 chính là kiến trúc **VieNeu-TTS v3 Turbo 48kHz ONNX** (tác giả Phan Nguyễn Nhật Bảo) kết hợp thuật toán khử nhiễu `denoise=True`.
   * Tích hợp và chạy trực tiếp mô hình này offline trên máy (CPU ONNX torch-free), không phụ thuộc credit, Google login hay reCAPTCHA web.
 * **Các file code đã tạo hoặc chỉnh sửa:**
-  * [`tools/voice/koc_voice_cloner.py`](../../tools/voice/koc_voice_cloner.py): Module lõi xử lý trích xuất âm thanh, lọc slice chuẩn 4.2s, tạo sound profile, suy luận TTS và chuỗi TikTok Audio Mastering.
-  * [`clone_voice_from_video.py`](../../clone_voice_from_video.py): Công cụ dòng lệnh One-Click cho phép người dùng nạp bất kỳ video và kịch bản nào để sinh file âm thanh và render video tự động.
+  * [`src/gobi/services/voice/koc_voice_cloner.py`](../../src/gobi/services/voice/koc_voice_cloner.py): Module lõi xử lý trích xuất âm thanh, lọc slice chuẩn 4.2s, tạo sound profile, suy luận TTS và chuỗi TikTok Audio Mastering.
+  * [`scripts/voice/clone_voice_from_video.py`](../../scripts/voice/clone_voice_from_video.py): Công cụ dòng lệnh One-Click cho phép người dùng nạp bất kỳ video và kịch bản nào để sinh file âm thanh và render video tự động.
   * [`configs/koc_ai_knowledge_hub.json`](../../configs/koc_ai_knowledge_hub.json): Bổ sung quy chuẩn kỹ thuật phân hệ `koc_voice_engine`.
   * [`configs/koc_learning_memory.json`](../../configs/koc_learning_memory.json): Bổ sung bài học kinh nghiệm `LSN-011` về Voice Cloning & TikTok Action Energy.
 * **Lệnh terminal và script đã thực thi:**
   ```powershell
   # Chạy pipeline nhân bản và render demo video
-  python tools/voice/koc_voice_cloner.py
+  python src/gobi/services/voice/koc_voice_cloner.py
 
   # Cú pháp One-Click cho bất kỳ kịch bản mới nào
-  python clone_voice_from_video.py --profile koc_neil_girl --script "Kịch bản review..." --output output/voice.mp3 --render-video
+  python scripts/voice/clone_voice_from_video.py --profile koc_neil_girl --script "Kịch bản review..." --output output/voice.mp3 --render-video
   ```
 
 ---
@@ -64,6 +64,6 @@
 ---
 
 ## ⏭️ 5. BƯỚC TIẾP THEO (NEXT ACTIONS)
-- [ ] Tích hợp `KOCVoiceCloner` vào quy trình sản xuất video tự động hàng loạt `core/video_engine.py` để sinh đồng thời hình ảnh KOC và giọng đọc.
+- [ ] Tích hợp `KOCVoiceCloner` vào quy trình sản xuất video tự động hàng loạt `src/gobi/services/media/video_engine.py` để sinh đồng thời hình ảnh KOC và giọng đọc.
 - [ ] Mở rộng thư viện Sound Profiles thêm các giọng KOC Nam và KOC Miền Nam / Miền Tây để đa dạng hóa phong cách kênh Affiliate.
 - [ ] Thử nghiệm kết hợp công nghệ Lip-sync nâng cao (SadTalker / LivePortrait) khi cần khớp khẩu hình khuôn mặt chi tiết cho các shot quay tĩnh cận cảnh.

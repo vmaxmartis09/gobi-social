@@ -25,4 +25,14 @@
 
 5. **Giao thức Tự học & Rút kinh nghiệm liên tục (Continuous Learning & Self-Evolution):**
    - Định kỳ nạp, tập trung và sàng lọc tri thức làm KOC AI, quy chuẩn bản quyền, thuật toán TikTok Shop và từ điển cấm vào `configs/koc_ai_knowledge_hub.json` và `configs/koc_learning_memory.json`.
-   - Mọi thử nghiệm video và kịch bản đều phải ghi nhận kết quả và tự động tối ưu hóa trọng số prompt qua `core/continuous_learning_engine.py` để chu kỳ sau luôn vượt trội hơn chu kỳ trước.
+   - Mọi thử nghiệm video và kịch bản đều phải ghi nhận kết quả và tự động tối ưu hóa trọng số prompt qua `src/gobi/services/intelligence/continuous_learning_engine.py` để chu kỳ sau luôn vượt trội hơn chu kỳ trước.
+
+6. **Tuân thủ Kiến trúc & Chống xả rác Codebase (Architecture Governance):**
+   - Mọi file mới bắt buộc đặt đúng vị trí theo [`ARCHITECTURE.md`](ARCHITECTURE.md).
+   - **CẤM** tạo file rải rác ở root (`/`). Mã logic mới viết vào `src/gobi/`, file nháp/debug tạm thời đặt vào `scratch/`, repo ngoại vi đưa vào `integrations/<repo_name>/`.
+
+7. **Công cụ Dựng & Biên Tập Video Chính: HeyGen HyperFrames (Mặc định bắt buộc):**
+   - Từ nay về sau, **HeyGen HyperFrames** (`integrations/hyperframes/`, adapter: `src/gobi/adapters/integrations/hyperframes_adapter.py`, service: `src/gobi/services/media/hyperframes_engine.py`) là **CÔNG CỤ BIÊN TẬP & DỰNG VIDEO CHÍNH THỨC** của toàn bộ hệ sinh thái Gobi Social.
+   - Toàn bộ video KOC AI, review thời trang affiliate và social clips được biên tập bằng HTML5/CSS/GSAP HyperFrames tất định, hỗ trợ Safe Zone 9:16, kinetic subtitles, và multi-track audio ducking.
+
+
