@@ -82,3 +82,9 @@ integrations/Wav2Lip/
 # Local-only config & build metadata
 .claude/settings.local.json
 *.egg-info/
+
+# --- Data Source (data/): chỉ giữ khung thư mục + README, mọi nội dung thật bị ignore ---
+/data/**
+!/data/**/
+!/data/**/README.md
+!/data/projects/_template/project.json
