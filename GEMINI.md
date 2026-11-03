@@ -36,3 +36,6 @@
    - Toàn bộ video KOC AI, review thời trang affiliate và social clips được biên tập bằng HTML5/CSS/GSAP HyperFrames tất định, hỗ trợ Safe Zone 9:16, kinetic subtitles, và multi-track audio ducking.
 
 
+
+## Skills & Agents Registry
+Đọc [`docs/AI_CAPABILITIES.md`](docs/AI_CAPABILITIES.md) để biết đang có skill/rule/workflow/CLI nào (nguồn: `.agents/`, regenerate bằng `python scripts/agent/build_capability_registry.py`). Dùng skill = mở `.agents/skills/<tên>/SKILL.md` và làm theo; video bắt đầu từ skill `hyperframes`.

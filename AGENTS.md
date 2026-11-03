@@ -1,6 +1,10 @@
 # VMAX AGENT OPERATING MANIFESTO: RELENTLESS EXECUTION BY DEFAULT
 # (QUY TẮC HOẠT ĐỘNG BẮT BUỘC: MẶC ĐỊNH LÀM VIỆC ĐẾN CÙNG - KHÔNG CẦN GÕ /GOAL)
 
+> [!IMPORTANT]
+> **SKILL / AGENT / WORKFLOW REGISTRY (cho mọi AI tool):** danh mục đầy đủ nằm ở [`docs/AI_CAPABILITIES.md`](docs/AI_CAPABILITIES.md) (máy đọc: `.agents/registry.json`). Nguồn duy nhất là `.agents/` (`.agent/` và `.claude/skills` là symlink). Khi thêm/sửa skill, rule hay lệnh CLI, chạy `python scripts/agent/build_capability_registry.py` để cập nhật registry. Tool không có cơ chế skill native: đọc thẳng `.agents/skills/<tên>/SKILL.md`; video luôn bắt đầu từ skill `hyperframes`.
+
+
 > [!CRITICAL]
 > **ĐIỀU KHOẢN TỐI CAO: CHẾ ĐỘ "GOAL-DRIVEN" LÀ MẶC ĐỊNH TRONG MỌI TÌNH HUỐNG**
 > - Người dùng **KHÔNG CẦN** và **KHÔNG BAO GIỜ PHẢI GÕ `/goal`**.

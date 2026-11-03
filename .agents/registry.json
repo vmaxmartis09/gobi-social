@@ -1,0 +1,242 @@
+{
+  "skills": [
+    {
+      "name": "embedded-captions",
+      "path": ".agents/skills/embedded-captions/SKILL.md",
+      "description": "Add captions or subtitles to an existing single-subject talking-head video without editing the footage. Use for plain verbatim captions, cinematic captions embedded behind the subject, VFX captions, “炸/特效/酷炫字幕,” or a named identity from the 35-style catalog. Route by visual identity, not by backend engine. The quiet `anchor` rail is the default; embed every word only when the user explicitly wants a fully cinematic treatment. The workflow runs locally end to end, including transcription and subject matting; split multi-shot footage before applying it.",
+      "manual_only": false
+    },
+    {
+      "name": "faceless-explainer",
+      "path": ".agents/skills/faceless-explainer/SKILL.md",
+      "description": "Turn arbitrary text — an article, notes, a topic, a brief — into a faceless explainer video: there is no site or footage to capture, so the visuals are invented per scene (typography, abstract graphics, diagrams, data-viz). Use for topic explainers, concept breakdowns, how-tos, listicles. Not a video built from a website (/product-launch-video — promo or tour). Unclear → /hyperframes.",
+      "manual_only": false
+    },
+    {
+      "name": "figma",
+      "path": ".agents/skills/figma/SKILL.md",
+      "description": "Import Figma content into a HyperFrames composition — rendered assets, brand tokens, components, storyboard sections → reconstructed motion (frames read as states, not slides) (REST/CLI), connector-assisted motion when available, and shaders from a connector or native export. Use when the user pastes a figma.com link or asks to bring a Figma design, frame, logo, brand, or animation into a video/composition.",
+      "manual_only": false
+    },
+    {
+      "name": "flow-auto-video",
+      "path": ".agents/skills/flow-auto-video/SKILL.md",
+      "description": "Biến một ý tưởng kịch bản ngắn thành video hoàn chỉnh trên Google Flow: tự viết kịch bản phân cảnh, Character Bible nhất quán, sinh 3 lớp prompt (Character ref sheet, Storyboard frame, Video prompt có neo style), và tự động hóa thao tác trình duyệt qua Ego Lite hoặc Chrome để tạo nhân vật, storyboard, và render video từng cảnh trên labs.google/flow. Dùng khi user đưa ý tưởng + lưu ý và muốn 'tạo video tự động qua Google Flow'. KHÔNG ghép/edit video cuối — đó là bước CapCut của user.",
+      "manual_only": true
+    },
+    {
+      "name": "general-video",
+      "path": ".agents/skills/general-video/SKILL.md",
+      "description": "Author or edit a custom HyperFrames composition when no specialized workflow fits, or when BRIEF.md sets flow: companion. Use for longer or multi-scene pieces, brand and sizzle reels, montages, static loops, static title cards, footage remixes, and freeform builds. Use motion-graphics instead for a short unnarrated motion-first unit, including an animated title. Route fresh creation through hyperframes before using this skill.",
+      "manual_only": false
+    },
+    {
+      "name": "hyperframes",
+      "path": ".agents/skills/hyperframes/SKILL.md",
+      "description": "Mandatory entry point: read this first for any request to make, create, edit, animate, or render a video, animation, or motion graphic, including a promo, explainer, captioned clip, title card, overlay, slideshow or interactive deck, Remotion port, or any HyperFrames HTML composition. Also use it to inspect, diagnose, validate, preview, publish, or batch-render an existing HyperFrames project. Inputs may be a website URL, GitHub PR, Figma design or URL, text or brief, existing footage, or music. It resumes project state, captures intent when applicable, selects and installs the owning workflow, and routes domain capabilities. HyperFrames is the default output framework unless the user explicitly chooses another framework for the deliverable or asks only to record a browser session.",
+      "manual_only": false
+    },
+    {
+      "name": "hyperframes-animation",
+      "path": ".agents/skills/hyperframes-animation/SKILL.md",
+      "description": "All animation knowledge for HyperFrames — atomic motion rules, multi-phase scene blueprints, scene transitions, broader motion-design techniques, AND the seven runtime adapters (GSAP default, plus Lottie, Three.js, Anime.js, CSS keyframes, Web Animations API, TypeGPU). Use for any motion or animation task: pick 2-4 rules and compose, or load a blueprint, or look up runtime-specific API (e.g. GSAP eases / Lottie player / Three.js mixer). Also covers auditing an existing composition's choreography (animation map) and 24 named text-animation effects. HyperFrames-native: single paused timeline, seek-safe, deterministic.",
+      "manual_only": false
+    },
+    {
+      "name": "hyperframes-audio",
+      "path": ".agents/skills/hyperframes-audio/SKILL.md",
+      "description": "Use when audio already placed in a HyperFrames composition needs to be mixed: fade-in/fade-out, crossfade, track gain or volume, volume automation, ducking, a music bed that fights a voiceover (voiceover carve), effects on a track (EQ, compressor, limiter, gate, saturation, delay, reverb, chorus, phaser, bitcrush), automation envelopes drawn on a track's volume or any effect parameter, or one submix bus carrying a chain, a fader and an automation clock for several tracks at once (`<hf-audio-group>`). Don't use for sourcing or generating audio — finding BGM, SFX, or making a voiceover is `/media-use`. Don't use for clip timing or track layout, which is `/hyperframes-core`.",
+      "manual_only": false
+    },
+    {
+      "name": "hyperframes-cli",
+      "path": ".agents/skills/hyperframes-cli/SKILL.md",
+      "description": "Use the HyperFrames CLI development loop: init, add, catalog, capture, lint, check, snapshot, compare, grade-compare, preview, play, present, beats, keyframes, single or batch render, publish, cloud, cloudrun, feedback, lambda, doctor, browser, info, upgrade, skills, compositions, timeline, history, clean, docs, benchmark, telemetry, transcribe, auth, tts, and remove-background. Also use when diagnosing build or render failures. validate, inspect, and layout are deprecated aliases; use check. Covers local, HeyGen-hosted cloud, AWS Lambda, and Google Cloud Run rendering.",
+      "manual_only": false
+    },
+    {
+      "name": "hyperframes-core",
+      "path": ".agents/skills/hyperframes-core/SKILL.md",
+      "description": "The HyperFrames composition contract — build one renderable project. Use for composition structure, the `data-*` timing attributes, `class=\"clip\"`, tracks, sub-compositions, variables, framework-owned media playback, deterministic-render rules, and validation. Read before writing composition HTML.",
+      "manual_only": false
+    },
+    {
+      "name": "hyperframes-creative",
+      "path": ".agents/skills/hyperframes-creative/SKILL.md",
+      "description": "Non-animation creative direction for HyperFrames videos. Use for design spec (frame.md / design.md) handling, palettes, typography, narration, beat planning, audio-reactive visuals, composition patterns, and brand / style decisions. For atomic motion patterns and scene blueprints, use `hyperframes-animation`.",
+      "manual_only": false
+    },
+    {
+      "name": "hyperframes-keyframes",
+      "path": ".agents/skills/hyperframes-keyframes/SKILL.md",
+      "description": "Use when a HyperFrames composition needs a punch-in, punch-out, zoom, reframe, Ken Burns treatment, camera move, visual match/whip handoff, or other seek-safe 2D/3D keyframes; also for GSAP, CSS keyframes, Anime.js, WAAPI, FLIP, paths, masks, SVG morph/draw, text trails, 3D depth, or `hyperframes keyframes` diagnostics. Don't use for broad scene strategy, brand design, media sourcing, captions, or general video planning.",
+      "manual_only": false
+    },
+    {
+      "name": "hyperframes-registry",
+      "path": ".agents/skills/hyperframes-registry/SKILL.md",
+      "description": "Search, install, and wire registry blocks and components into HyperFrames compositions. Use BEFORE hand-building any named visual — whenever a brief, a user, or a storyboard names a look, effect, treatment, or transition such as CRT scanlines, glitch, chromatic aberration, film grain, a shimmer sweep, a chart, a code or terminal window, a map, or a confetti burst — because roughly 400 hosted items already cover many of them and the search ranks all of them with nothing installed, no project, and no account. Also use when running hyperframes add or hyperframes catalog, installing one item or every block matching a tag, wiring an installed item into index.html, or working with hyperframes.json. Covers discovery, install locations, block sub-composition wiring, component snippet merging, and authoring a new block or component to contribute upstream (idea → scaffold → validate → PR).",
+      "manual_only": false
+    },
+    {
+      "name": "hyperframes-studio",
+      "path": ".agents/skills/hyperframes-studio/SKILL.md",
+      "description": "Use when working with a person on a HyperFrames project in Studio: first, whether their message asks for a change at all (questions, loose ideas and \"don't change anything\" get an answer and a plan, not an edit); for a new film, the plan, storyboard and build order that the HyperFrames launch films follow; and how the timeline should be laid out so it reads well (one caption track, one element kind per track, every scene a sub-composition) and where captions and key content may sit (safe zones). Don't use for how to perform an individual edit (split, trim, retime, volume, copy, swap): that is `creator-editing-recipes.md` in `/hyperframes-core`.",
+      "manual_only": false
+    },
+    {
+      "name": "media-use",
+      "path": ".agents/skills/media-use/SKILL.md",
+      "description": "Agent Media OS for a HyperFrames project. Resolve BGM, SFX, image, icon, brand logo, voice, color grade, or LUT into a frozen local file or paste-ready block + ledger record (one verb, `resolve`); generate via TTS / music / image models when the catalog misses; produce voiceover, transcription, captions, and background removal through one shared audio engine; operate on media (cut / reframe / transform); and reuse assets across projects. Also use for vague feedback that real footage looks dark, flat, boring, should feel retro/camcorder/print/ASCII, needs privacy, or needs a media reveal. When the host app provides its own music or sound-effect tools, use those for music and sound effects; `resolve --type bgm` needs the heygen CLI, while `--type sfx` needs no account (Openverse, then a bundled library). When `HEYGEN_API_BASE` is set, HeyGen calls go through that host with no CLI sign-in.",
+      "manual_only": false
+    },
+    {
+      "name": "motion-graphics",
+      "path": ".agents/skills/motion-graphics/SKILL.md",
+      "description": "Use when creating a short, design-led motion graphic where motion is the message — kinetic typography, stat count-up, chart/data-viz hit, logo sting / brand lockup, lower-third / callout / social overlay, animated map (highlight regions, connect places, zoom to a location), animated tweet / news-article / headline, webpage / UI animation (scroll, cursor, callouts), or fusing a real image's geometry into a chart. Usually under 10s (up to ~30s), no narration or live-action subject; renders to MP4 or transparent overlay. Longer / narrated / multi-scene → /general-video. Unclear → /hyperframes.",
+      "manual_only": false
+    },
+    {
+      "name": "motion-mimic",
+      "path": ".agents/skills/motion-mimic/SKILL.md",
+      "description": "Quy trình độc lập cho phép AI KOC Gobi (LyLy, Neau) bắt chước 100% chuyển động, nhép môi, cử chỉ từ một video bất kỳ (TikTok/Reels/Video nạp vào) và dựng xuất bản video 9:16 qua HeyGen HyperFrames.",
+      "manual_only": false
+    },
+    {
+      "name": "music-to-video",
+      "path": ".agents/skills/music-to-video/SKILL.md",
+      "description": "Turn a music track (an audio file, a video to pull audio from, or a track generated from a mood brief) into a beat-synced video — lyric video, slideshow, or kinetic promo. The music drives all pacing; any user-supplied images/videos are cut onto the same beat grid, and a complete video needs zero assets. Narrated pieces → the input-matched workflow (see /hyperframes). Unclear → /hyperframes.",
+      "manual_only": false
+    },
+    {
+      "name": "pr-to-video",
+      "path": ".agents/skills/pr-to-video/SKILL.md",
+      "description": "Turn a GitHub pull request (a PR URL, owner/repo#N, or 'this PR' in a checked-out repo) into a code-change explainer video — changelog, feature reveal, fix, or refactor walkthrough built from the diff, commits, and files: the input is a code change, not a website. Not a product promo (/product-launch-video) or a no-PR topic explainer (/faceless-explainer). Unclear → /hyperframes.",
+      "manual_only": false
+    },
+    {
+      "name": "product-launch-video",
+      "path": ".agents/skills/product-launch-video/SKILL.md",
+      "description": "Turn a product or marketing URL, pasted script, or brief into a product launch / promo video — SaaS promos, feature reveals, product demos, app and company launches. Use when the user wants to market, launch, promote, or reveal a product; the default for any commercial URL. Site tours / showcases of a website route here too — the brief carries the show-it-as-is intent. Unclear → /hyperframes.",
+      "manual_only": false
+    },
+    {
+      "name": "remotion-to-hyperframes",
+      "path": ".agents/skills/remotion-to-hyperframes/SKILL.md",
+      "description": "Port an existing Remotion (React) composition's source to HyperFrames HTML. Use ONLY on an explicit ask to port/convert/migrate/translate a Remotion source — one-way, Remotion-only. A passing Remotion mention, reference-only code, or \"make something like my Remotion video\" is a fresh build (/general-video). Unclear → /hyperframes.",
+      "manual_only": false
+    },
+    {
+      "name": "slideshow",
+      "path": ".agents/skills/slideshow/SKILL.md",
+      "description": "Author a HyperFrames slideshow — a presentation, pitch deck, or interactive deck with discrete slides, fragment reveals, branching, hotspot navigation, and built-in presenter mode with speaker notes; also converts an existing page into a deck. Output is a navigable deck, not a rendered MP4. If the user didn't explicitly ask for a slideshow, confirm before authoring. Unclear → /hyperframes.",
+      "manual_only": false
+    },
+    {
+      "name": "talking-head-recut",
+      "path": ".agents/skills/talking-head-recut/SKILL.md",
+      "description": "Package an existing talking-head / interview / podcast video with timed, designed GRAPHIC OVERLAY cards — kinetic titles, lower-thirds, data callouts, quotes, side panels, picture-in-picture — synced to the transcript, on a 16:9 / 9:16 / 4:5 canvas of your choice; the clip plays untouched underneath. Trigger on \"graphic overlays\", \"on-screen graphics\", \"package / dress up my video\". Not plain subtitles (/embedded-captions). Unclear → /hyperframes.",
+      "manual_only": false
+    },
+    {
+      "name": "unlimited-email-routing",
+      "path": ".agents/skills/unlimited-email-routing/SKILL.md",
+      "description": "Tự động tạo và quản lý không giới hạn địa chỉ email miễn phí (Catch-all Email Routing) qua Addy.io hoặc Cloudflare để nhận mã OTP xác thực đăng ký hàng loạt tài khoản mạng xã hội (TikTok, Facebook, Instagram, Google). Dùng khi user yêu cầu: 'tạo mail mới', 'tạo nhiều email', 'sinh email nuôi nick', 'cấu hình email routing', hoặc 'quản lý email chòm sao'.",
+      "manual_only": false
+    },
+    {
+      "name": "vietnamese-voice-clone",
+      "path": ".agents/skills/vietnamese-voice-clone/SKILL.md",
+      "description": "Nhân bản bất kỳ giọng nói nào từ Video hoặc MP3 sang Tiếng Việt thuần Việt chuẩn ngữ điệu bằng OmniVoice SOTA, và dùng các giọng đã lưu trong kho (Voice Vault) để đọc kịch bản, content, văn bản review KOC TikTok/Reels. Dùng ngay khi user yêu cầu: 'sử dụng <voice-id> đọc đoạn văn / đọc content...', 'clone file này...', hoặc 'nạp giọng vào kho giọng'.",
+      "manual_only": false
+    }
+  ],
+  "rules": [
+    {
+      "name": "architecture-governance",
+      "path": ".agents/rules/architecture-governance.md",
+      "always_on": false,
+      "summary": "SENIOR BACKEND ARCHITECTURE & REPOSITORY GOVERNANCE STANDARDS"
+    },
+    {
+      "name": "graphify",
+      "path": ".agents/rules/graphify.md",
+      "always_on": true,
+      "summary": "Consult the graphify knowledge graph at graphify-out/ for codebase and architecture questions."
+    },
+    {
+      "name": "hyperframes-post-production",
+      "path": ".agents/rules/hyperframes-post-production.md",
+      "always_on": false,
+      "summary": "MANDATORY VIDEO POST-PRODUCTION DIRECTIVE: HEYGEN HYPERFRAMES"
+    },
+    {
+      "name": "relentless-execution",
+      "path": ".agents/rules/relentless-execution.md",
+      "always_on": true,
+      "summary": "Quy tắc bắt buộc MẶC ĐỊNH làm việc đến cùng, không bỏ cuộc, không cần gõ /goal"
+    }
+  ],
+  "workflows": [
+    {
+      "name": "graphify",
+      "path": ".agents/workflows/graphify.md",
+      "always_on": false,
+      "summary": "Turn any folder of files into a navigable knowledge graph"
+    }
+  ],
+  "cli": [
+    {
+      "command": "python -m gobi account",
+      "help": "Quản lý ma trận 12 tài khoản KOC 12 Chòm Sao"
+    },
+    {
+      "command": "python -m gobi brief",
+      "help": "Phân tích video tham khảo + sản phẩm, in ra JSON kịch bản (không render video)"
+    },
+    {
+      "command": "python -m gobi learn",
+      "help": "Chạy chu trình tự học và tối ưu trọng số prompt"
+    },
+    {
+      "command": "python -m gobi mimic",
+      "help": "Chạy quy trình AI KOC bắt chước một video nạp vào và dựng qua HyperFrames"
+    },
+    {
+      "command": "python -m gobi policy",
+      "help": "Quét vi phạm chính sách & Safe Zone TikTok Shop"
+    },
+    {
+      "command": "python -m gobi product",
+      "help": "Quản trị kho sản phẩm KOC AI & tiến độ video"
+    },
+    {
+      "command": "python -m gobi prompt",
+      "help": "Sinh prompt ma trận 36 góc quay camera"
+    },
+    {
+      "command": "python -m gobi remix",
+      "help": "Dựa vào nội dung 1 video tham khảo, viết kịch bản mới (Gemini) và dựng video Gô Bi review sản phẩm (không swap mặt)"
+    },
+    {
+      "command": "python -m gobi snaptik",
+      "help": "Tải source video TikTok không logo (SnapTik) vào project"
+    },
+    {
+      "command": "python -m gobi tiktok",
+      "help": "Công cụ TikTok (Lấy link sản phẩm TikTok Shop từ video)"
+    },
+    {
+      "command": "python -m gobi video",
+      "help": "Render video hoặc xem trước timeline tự động với HyperFrames"
+    },
+    {
+      "command": "python -m gobi voice",
+      "help": "Tổng hợp giọng nói KOC tiếng Việt chuẩn"
+    },
+    {
+      "command": "python -m gobi warehouse",
+      "help": "Quản trị kho sản phẩm KOC AI (Mã SP, Status, Assigned KOC)"
+    }
+  ]
+}
