@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **DÀNH CHO AI AGENT HOẶC KỸ SƯ MỚI TIẾP QUẢN TRÊN MÁY KHÁC:**
-> Đọc kỹ tài liệu này trước khi thực hiện bất kỳ thay đổi nào. Dự án này tuân thủ **Quy chế Vận hành Kiên trì Tuyệt đối (Relentless Execution Protocol)** tại [`AGENTS.md`](AGENTS.md):
+> Đọc kỹ tài liệu này trước khi thực hiện bất kỳ thay đổi nào. Dự án này tuân thủ **Quy chế Vận hành Kiên trì Tuyệt đối (Relentless Execution Protocol)** tại [`AGENTS.md`](../AGENTS.md):
 > - **Mặc định hành động đến cùng:** Không cần gõ `/goal`. Luôn kiên trì thử 3-5 giải pháp trước khi dừng.
 > - **Khóa cứng tính nhất quán:** Nhân vật KOC AI "Gô Bi (Gobi Thúi)" đã được khóa cấu trúc DNA thị giác và giọng nói.
 > - **Hệ thống tự học liên tục:** Mọi kết quả sản xuất mới phải được nạp ngược lại vào bộ nhớ tri thức.

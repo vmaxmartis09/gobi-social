@@ -1,7 +1,7 @@
 """Quét skill / rule / workflow / CLI của Gobi Social và sinh registry cho mọi AI tool.
 
-Nguồn sự thật duy nhất: `.agents/` (`.agent/` và `.claude/skills` là symlink tới đây).
-Output: `docs/AI_CAPABILITIES.md` + `.agents/registry.json`.
+Nguồn sự thật duy nhất: `ai/` (`.agents`, `.agent`, `.claude/skills` là symlink tới đây).
+Output: `ai/CAPABILITIES.md` + `ai/registry.json`.
 
 Usage: python scripts/agent/build_capability_registry.py [--check]
 """
@@ -11,7 +11,7 @@ import re
 import sys
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", ".."))
-AGENTS = os.path.join(ROOT, ".agents")
+AGENTS = os.path.join(ROOT, "ai")
 CLI_DIR = os.path.join(ROOT, "src", "gobi", "cli")
 
 
@@ -49,7 +49,7 @@ def scan_skills():
             fm, _ = frontmatter(p)
             out.append({
                 "name": fm.get("name", name),
-                "path": os.path.relpath(p, ROOT),
+                "path": os.path.relpath(p, AGENTS),
                 "description": fm.get("description", ""),
                 "manual_only": fm.get("disable-model-invocation") == "true",
             })
@@ -68,7 +68,7 @@ def scan_docs(sub):
             title = next((l.lstrip("# ").strip() for l in text.splitlines() if l.startswith("#")), fn)
             out.append({
                 "name": fn[:-3],
-                "path": os.path.relpath(p, ROOT),
+                "path": os.path.relpath(p, AGENTS),
                 "always_on": fm.get("trigger") == "always_on",
                 "summary": fm.get("description") or title,
             })
@@ -92,15 +92,15 @@ def render(reg):
     L = ["# AI CAPABILITIES — Skill, Rule, Workflow & CLI của Gobi Social",
          "",
          "> **Auto-generated** bởi `python scripts/agent/build_capability_registry.py` — KHÔNG sửa tay. "
-         "Máy đọc: [`.agents/registry.json`](../.agents/registry.json).",
+         "Máy đọc: [`registry.json`](registry.json).",
          "",
          "## Quy ước chung cho MỌI AI tool (Claude Code, Cursor, Gemini, Codex, Antigravity...)",
          "- **Nguồn sự thật duy nhất:** thư mục [`.agents/`](../.agents). `.agent/` và `.claude/skills` là symlink trỏ về đây — "
          "thêm/sửa skill CHỈ ở `.agents/skills/<tên>/SKILL.md`, rồi chạy lại script này.",
-         "- **Cách dùng 1 skill:** mở `.agents/skills/<tên>/SKILL.md`, đọc đầy đủ rồi làm theo. Tool không có cơ chế skill native "
+         "- **Cách dùng 1 skill:** mở `ai/skills/<tên>/SKILL.md`, đọc đầy đủ rồi làm theo. Tool không có cơ chế skill native "
          "vẫn dùng được bằng cách đọc file đó trực tiếp.",
          "- **Video:** bắt đầu từ skill `hyperframes` (entry point bắt buộc), sau đó skill con phù hợp.",
-         "- Luật dự án: [`AGENTS.md`](../AGENTS.md) · kiến trúc: [`ARCHITECTURE.md`](../ARCHITECTURE.md) · tiếp quản: [`CONTINUITY.md`](../CONTINUITY.md).",
+         "- Luật dự án: [`AGENTS.md`](AGENTS.md) · kiến trúc: [`ARCHITECTURE.md`](../ARCHITECTURE.md) · tiếp quản: [`CONTINUITY.md`](memory/CONTINUITY.md).",
          "",
          f"## 1. Skills ({len(reg['skills'])})",
          "",
@@ -109,13 +109,13 @@ def render(reg):
         d = s["description"].replace("|", "\\|")
         d = d if len(d) <= 220 else d[:217] + "..."
         note = "chỉ gọi thủ công" if s["manual_only"] else ""
-        L.append(f"| [`{s['name']}`](../{s['path']}) | {d} | {note} |")
+        L.append(f"| [`{s['name']}`]({s['path']}) | {d} | {note} |")
     L += ["", f"## 2. Rules ({len(reg['rules'])})", "", "| Rule | Always-on | Tóm tắt |", "|---|---|---|"]
     for r in reg["rules"]:
-        L.append(f"| [`{r['name']}`](../{r['path']}) | {'yes' if r['always_on'] else ''} | {r['summary'][:140].replace('|', '/')} |")
+        L.append(f"| [`{r['name']}`]({r['path']}) | {'yes' if r['always_on'] else ''} | {r['summary'][:140].replace('|', '/')} |")
     L += ["", f"## 3. Workflows ({len(reg['workflows'])})", "", "| Workflow | Tóm tắt |", "|---|---|"]
     for w in reg["workflows"]:
-        L.append(f"| [`{w['name']}`](../{w['path']}) | {w['summary']} |")
+        L.append(f"| [`{w['name']}`]({w['path']}) | {w['summary']} |")
     L += ["", f"## 4. Gobi CLI ({len(reg['cli'])})", "", "| Lệnh | Chức năng |", "|---|---|"]
     for c in reg["cli"]:
         L.append(f"| `{c['command']}` | {c['help']} |")
@@ -130,7 +130,7 @@ def render(reg):
 def main():
     reg = {"skills": scan_skills(), "rules": scan_docs("rules"), "workflows": scan_docs("workflows"), "cli": scan_cli()}
     md, js = render(reg), json.dumps(reg, ensure_ascii=False, indent=2) + "\n"
-    targets = {os.path.join(ROOT, "docs", "AI_CAPABILITIES.md"): md, os.path.join(AGENTS, "registry.json"): js}
+    targets = {os.path.join(AGENTS, "CAPABILITIES.md"): md, os.path.join(AGENTS, "registry.json"): js}
     if "--check" in sys.argv:
         stale = [p for p, c in targets.items() if not os.path.isfile(p) or open(p, encoding="utf-8").read() != c]
         print("STALE: " + ", ".join(os.path.relpath(p, ROOT) for p in stale) if stale else "OK")
