@@ -1,0 +1,16434 @@
+# Graph Report - gobi-social  (2026-11-03)
+
+## Corpus Check
+- 1283 files · ~7,447,717 words
+- Verdict: corpus is large enough that graph structure adds value.
+- Unclassified: 98 file(s) not represented in the graph (top: .woff2 57, (none) 14, .bat 9)
+
+## Summary
+- 119521 nodes · 307260 edges · 3673 communities (3206 shown, 467 thin omitted)
+- Extraction: 94% EXTRACTED · 6% INFERRED · 0% AMBIGUOUS · INFERRED: 18932 edges (avg confidence: 0.86)
+- Token cost: 0 input · 0 output
+
+## Graph Freshness
+- Built from commit: `3618b37f`
+- Run `git rev-parse HEAD` and compare to check if the graph is stale.
+- Run `graphify update .` after code changes (no API cost).
+
+## Community Hubs (Navigation)
+- os
+- manualEditsDom.ts
+- playerStore.ts
+- DomEditSelection
+- channels/__init__.py
+- changelog.mdx
+- studio/src/index.ts
+- domEditing.ts
+- runtime/colorGrading.ts
+- runtime/types.ts
+- frost.js
+- ProbeResult
+- player/index.ts
+- checkPipeline.ts
+- studioApiFetch
+- producer/src/index.ts
+- media-use/lib/manifest.mjs
+- For AI Agents
+- runtime/init.test.ts
+- timelineMoveAdapter.test.ts
+- cli.py
+- services/htmlCompiler.ts
+- XueqiuChannel
+- ref_react
+- renderOrchestrator.ts
+- RedditChannel
+- .agent/skills/remotion-to-hyperframes/scripts/lint_source.py
+- hyperframeLinter.ts
+- captureHdrStage.ts
+- orbit-card/assets/three.module.min.js
+- engine/src/services/chunkEncoder.ts
+- transcribe.py
+- describeProject.ts
+- utils.ts
+- cuboid-carousel/assets/three.module.min.js
+- V2EXChannel
+- parsers/src/compositionContract.ts
+- di
+- commands/init.ts
+- omnivoice.py
+- projectHistory.ts
+- hyperframes-slideshow.ts
+- test_auth_guidance_policy.py
+- skills.ts
+- handler.ts
+- pr
+- failCommand
+- commands/render.ts
+- trackStudioEvent
+- marble/lib/shaders.iife.js
+- catalog-payload-assets.ts
+- mesh-gradient/lib/shaders.iife.js
+- plasma/lib/shaders.iife.js
+- sun-burst/lib/shaders.iife.js
+- light-edge/lib/shaders.iife.js
+- format_xhs_result
+- constructor
+- ref_puppeteer_core
+- readAttr
+- draft-changelog.ts
+- ConcatProjectBuilder
+- zh
+- BeatStrip.tsx
+- ai/skills/media-use/audio/scripts/audio.mjs
+- spiral/lib/shaders.iife.js
+- Et
+- waveform/lib/shaders.iife.js
+- context.ts
+- clipToolAttrs.ts
+- AIConcatAutoEditor
+- fractal-noise/lib/shaders.iife.js
+- lens-flare/lib/shaders.iife.js
+- color-wheel/lib/shaders.iife.js
+- jy
+- PersistAdapter
+- engine/src/utils/urlDownloader.ts
+- flowing-gradient/lib/shaders.iife.js
+- holographic/lib/shaders.iife.js
+- stripes/lib/shaders.iife.js
+- core.types.ts
+- ai/skills/pr-to-video/SKILL.md
+- desktopApp.ts
+- blob/lib/shaders.iife.js
+- frost/lib/shaders.iife.js
+- KOCVoiceCloner
+- constructor
+- sequences.mjs
+- heatmap/lib/shaders.iife.js
+- gif.ts
+- sine-wave/lib/shaders.iife.js
+- voiceover-carve.mdx
+- constructor
+- gabor-noise/lib/shaders.iife.js
+- ZodiacAccountManager
+- rules/composition.ts
+- strands/lib/shaders.iife.js
+- jy
+- worley-noise/lib/shaders.iife.js
+- qt
+- FakeCtx
+- aurora/lib/shaders.iife.js
+- godrays/lib/shaders.iife.js
+- hologram/lib/shaders.iife.js
+- liquid-metal/lib/shaders.iife.js
+- plastic/lib/shaders.iife.js
+- useTrackDesignInput
+- prism/lib/shaders.iife.js
+- Re
+- ripples/lib/shaders.iife.js
+- swirl/lib/shaders.iife.js
+- propertyPanelHelpers.ts
+- Rt
+- create
+- voronoi/lib/shaders.iife.js
+- report.mjs
+- water/lib/shaders.iife.js
+- videoFrameExtractor.ts
+- ai/skills/remotion-to-hyperframes/SKILL.md
+- unwrap
+- ii
+- ti
+- fc
+- yE
+- Creator Editing Recipes
+- falling-lines/lib/shaders.iife.js
+- unwrap
+- chrome-orb/lib/shaders.iife.js
+- ai/skills/hyperframes-animation/SKILL.md
+- fc
+- nebula/lib/shaders.iife.js
+- planValidation.ts
+- goo/lib/shaders.iife.js
+- test_boss_channel.py
+- obsidian/lib/shaders.iife.js
+- thin-film/lib/shaders.iife.js
+- propertyPanelColorCurveGraph.tsx
+- htmlDocument.ts
+- unwrap
+- qr
+- _gen/client.ts
+- cn
+- commands/history.ts
+- jr
+- pathlib
+- README_ko.md
+- get
+- test.sh
+- engine/src/index.ts
+- @hyperframes/player
+- README_ja.md
+- helpers/loudness.ts
+- constructor
+- engine/src/services/frameCapture.ts
+- propertyPanelColorSecondary.tsx
+- write
+- files.ts
+- login.ts
+- se
+- jP
+- hr
+- timelineElementHelpers.ts
+- gradientValue.ts
+- fromBase
+- ref_node_util
+- sdk/src/index.ts
+- unwrap
+- fromBase
+- fade
+- 🌟 GOBI SOCIAL: Autonomous AI KOC & Social Media Intelligence System
+- fromBase
+- transcribe_xiaoyuzhou.sh
+- 🌷 TIKTOK SHOP AFFILIATE MASTER PROFILE - GOBI BOUTIQUE (KOC AI GOBI)
+- Blocks
+- CAPABILITIES.md
+- ai/skills/hyperframes/SKILL.md
+- Media elements
+- fromBase
+- propertyPanelFlatMediaSection.tsx
+- grade-compare.ts
+- ref_fs
+- Rt
+- build-hyperframes-runtime-artifact.ts
+- probeStage.ts
+- heygen-cli.mjs
+- inspect_spaces.js
+- ParentMediaManager
+- Unlimited Email Routing & Multi-Account Email Matrix Skill
+- write
+- fs
+- measure
+- download_gobi_video.mjs
+- download_gobi_video_2.mjs
+- download_true_dna_videos.mjs
+- extract_channel_info.py
+- open_ai_flow.mjs
+- open_flow_check.js
+- 社交媒体 & 社区
+- sync-upstream.sh
+- useRenderQueue.ts
+- studio/src/telemetry/canary.ts
+- .clone
+- videoState.ts
+- unwrap
+- Story design — PR → narrative
+- find_prompt_input.js
+- flow_inspect_controls.js
+- inspect_cards.js
+- test_batch2.js
+- test_input_prosemirror.js
+- write
+- motionShot.ts
+- Composition contract
+- projectHistory.test.ts
+- unwrap
+- release-prepare.ts
+- .agent/skills/hyperframes-creative/references/design-spec.md
+- add_gobi_to_prompt.mjs
+- check_render_status.mjs
+- delete_old_gobi.mjs
+- find_videos.mjs
+- generate_new_gobi.mjs
+- open_flow_check.mjs
+- open_video.mjs
+- research_linh_dinh.mjs
+- flow_create_project.js
+- render_scene1.js
+- aws-lambda/src/sdk/getRenderProgress.ts
+- unwrap
+- agent-reach
+- gobi-social
+- writeCoordinator.ts
+- TimelineToolbar.tsx
+- main.py
+- unwrap
+- cn
+- 2. QUY TRÌNH THỰC THI 7 BƯỚC
+- unwrap
+- Wi
+- B6
+- Part 1 — the move vocabulary
+- unwrap
+- .agent/skills/media-use/audio/scripts/audio.mjs
+- Story design — faceless explainer video
+- Biennale Yellow — Frame (video / frame layer)
+- Context-Sensitive Cursor
+- Flow Auto Video
+- skill/SKILL.md
+- Contributing to Agent Reach
+- For AI Agents
+- constructor
+- xg
+- unwrap
+- glass-main.js
+- BlockFrame — Frame (video / frame layer)
+- unwrap
+- orbit-card/assets/three.core.min.js
+- ai/skills/embedded-captions/SKILL.md
+- ai/skills/hyperframes-animation/scripts/animation-map.mjs
+- music-to-video — one music-grounded, beat-synced video workflow
+- .agent/skills/hyperframes/references/plugin-installation.md
+- Vietnamese Voice Clone & Voice Vault Suite (OmniVoice Packaged)
+- analyze.ts
+- hyper-shader.ts
+- constructor
+- pruneHistories.ts
+- iframe.ts
+- hyperframes/skills/media-use/audio/scripts/audio.mjs
+- media-use/resolve.mjs
+- ai/skills/embedded-captions/scripts/make-theme.cjs
+- projectLock.ts
+- Rt
+- Exa Search 配置指南
+- Security Policy
+- mutate.ts
+- e
+- .object
+- unwrap
+- check-edit-accuracy-filter.test.mjs
+- Checklist — thao tác Google Flow bằng tay
+- qt
+- packages/cli.mdx
+- hyperframes-player.ts
+- Composition craft — EMBED track only
+- .agent/skills/hyperframes-creative/scripts/package-loader.mjs
+- 小红书配置指南
+- .agent/skills/hyperframes-animation/SKILL.md
+- qt
+- timelineZoomInput.ts
+- ai/skills/hyperframes-creative/scripts/package-loader.mjs
+- sync-demo-variables.ts
+- ClipperLib
+- Reddit 配置指南
+- OmniVoice 🌍
+- hyperframes/skills/hyperframes-creative/scripts/package-loader.mjs
+- svg-sanitize.mjs
+- generate-catalog-payloads.ts
+- cuboid-carousel/assets/three.core.min.js
+- update
+- getSlice
+- parsers/src/index.ts
+- useStudioTestHooks.ts
+- hyperframes-player.test.ts
+- publishProject.ts
+- Groq Whisper 配置指南
+- Daisy Days — Frame (video / frame layer)
+- Flow
+- Editorial Forest — Frame (video / frame layer)
+- audioAnalysis.ts
+- qt
+- .agent/skills/hyperframes-animation/scripts/animation-map.mjs
+- gsapMutationCapabilities.ts
+- Cookie Export Guide — For Server Users
+- Dependency Locking Guide
+- get
+- esc
+- Story design — product launch video
+- PlayerAPI
+- Ví dụ — "Một buổi sáng ở tiệm phở" chạy hết 5 lớp text
+- Template — Kịch bản theo cảnh
+- Template — 3 lớp prompt cho Google Flow
+- assetDownloader.ts
+- Slideshow authoring contract
+- ai/skills/embedded-captions/scripts/make-composition.cjs
+- ref_vitest
+- qr
+- Idea brief — 2 thứ cần chuẩn bị trước khi đưa cho Claude
+- Template — Character Bible
+- Training
+- Claude × Google Flow — Starter Kit
+- .agent/rules/relentless-execution.md
+- fromBase
+- jr
+- inspect_comments.mjs
+- inspect_han_han.mjs
+- inspect_reel.mjs
+- zh
+- esc
+- ai/skills/pr-to-video/scripts/assemble-index.mjs
+- Cut catalog — within-frame seams (worker-built)
+- ai/skills/pr-to-video/scripts/build-frame.mjs
+- providers/api.ts
+- qt
+- src/capture.ts
+- qt
+- qt
+- selectorIdTokens.ts
+- mediaLink.ts
+- gsapParser.ts
+- .agent/skills/product-launch-video/scripts/build-frame.mjs
+- OmniVoice/README.md
+- qt
+- hyperframes/skills/product-launch-video/scripts/build-frame.mjs
+- src/gsapWriterAcorn.ts
+- gcp-cloud-run/src/server.ts
+- generate
+- Supported Attributes
+- runtime/media.ts
+- Python API
+- se
+- Generation Parameters
+- Voice Design
+- Part 1 — the move vocabulary
+- qt
+- engine/src/services/audioMixer.ts
+- run_eval.sh
+- Command-Line Tools
+- .agent/skills/product-launch-video/scripts/assemble-index.mjs
+- core/src/index.ts
+- catalog-detail.test.ts
+- qt
+- Contributing to OmniVoice
+- commands/preview.ts
+- run_emilia.sh
+- run_finetune.sh
+- run_finetune_lora.sh
+- Part 1 — the move vocabulary
+- omnivoice
+- runtime/init.ts
+- composition-probe.ts
+- ai/skills/product-launch-video/scripts/build-frame.mjs
+- ai/skills/hyperframes-creative/references/house-style.md
+- Web Audio FX stack — session handoff
+- check_cookies.mjs
+- check_koc03_code.mjs
+- check_p1_p2.mjs
+- CLIMAX entrances
+- test_kling_multi_upload.mjs
+- fetch_and_enter_gobi04_otp.mjs
+- Story design — PR → narrative
+- register_fresh_worker03.mjs
+- register_gobi_worker.mjs
+- ai/skills/pr-to-video/scripts/ingest.mjs
+- textures.ts
+- ai/skills/product-launch-video/scripts/assemble-index.mjs
+- cn
+- qt
+- ai/skills/music-to-video/references/motion-primitives/assets/gsap.min.js
+- fromBase
+- ai/skills/talking-head-recut/assets/vendor/gsap.min.js
+- HTML-in-Canvas Patterns
+- ai/skills/faceless-explainer/scripts/assemble-index.mjs
+- gsapLiveRetime.ts
+- qt
+- qt
+- i7
+- ai/skills/motion-graphics/grounding/locate.mjs
+- artifactTransaction.ts
+- ai/skills/faceless-explainer/scripts/build-frame.mjs
+- inspect_about_you.mjs
+- Captions
+- inspect_chats.mjs
+- inspect_gmail.mjs
+- .agent/skills/embedded-captions/SKILL.md
+- inspect_login_inputs.mjs
+- inspect_modal_buttons.mjs
+- inspect_row1.mjs
+- inspect_verification_page.mjs
+- Transforms and Performance
+- nbi
+- Media treatment recipes
+- Anti-Patterns
+- component.ts
+- propertyPanelFont.tsx
+- search_code_564632.mjs
+- useTimelineEditing.test.tsx
+- fromBase
+- .command
+- submit_otp_worker02.mjs
+- Composition craft — EMBED track only
+- Direction specs
+- write
+- fromBase
+- fromBase
+- test_login_worker01.mjs
+- fromBase
+- test_signup_koc03.mjs
+- verify-catalog-payloads.ts
+- surfaceComposition
+- surfaceTween
+- hyperframes/skills/hyperframes-animation/SKILL.md
+- mn
+- se
+- se
+- hyperframes/skills/product-launch-video/scripts/assemble-index.mjs
+- ref_node_fs
+- qt
+- se
+- lf
+- .copy
+- inspect_both_platforms.mjs
+- ego/inspect_google_flow.mjs
+- scratch/inspect_google_flow.mjs
+- inspect_other_projects.mjs
+- test_fast_extract.mjs
+- download_flow_video.mjs
+- flow_click_start_creating.mjs
+- flow_create_project.mjs
+- flow_open_official_gobi.mjs
+- flow_setup_canvas.mjs
+- inspect_kling_controls.mjs
+- kling_step1_inspect_ui.mjs
+- inspect_beenalth.mjs
+- inspect_char_editor_buttons.mjs
+- inspect_flow_video_result.mjs
+- inspect_gobi_koc_character.mjs
+- inspect_project_detail.mjs
+- inspect_slot_images.mjs
+- update_gobi_dna_flow.mjs
+- se
+- se
+- se
+- se
+- se
+- se
+- Rt
+- check-skill-mirror.mjs
+- src/hfIds.ts
+- auth/client.ts
+- fromBase
+- hyperframes/skills/media-use/scripts/lib/manifest.mjs
+- se
+- se
+- SESSION_INDEX.md
+- test_xiaoyuzhou_install.py
+- va
+- Presets, jobs and one-knob profiles
+- va
+- Composition
+- runtime/vfx.ts
+- se
+- se
+- se
+- se
+- se
+- se
+- Failure Modes — learned the hard way
+- clone
+- jy
+- analysis/format.ts
+- .lint
+- constructor
+- gsapUndoRestore.ts
+- se
+- se
+- figma.mdx
+- main.ts
+- cg
+- hyperframes/skills/pr-to-video/SKILL.md
+- Cobalt Grid — Frame (video / frame layer)
+- resolve
+- resolve
+- reveal
+- se
+- se
+- se
+- cs
+- se
+- constructor
+- _s
+- Rt
+- Es
+- GSAP animation
+- write
+- .repeat
+- se
+- headline
+- e
+- generate-catalog-pages.ts
+- frost-sequence-camera-orbit/assets/gsap-3.14.2.min.js
+- se
+- webmcp-edit-loop.mjs
+- s
+- logo.ts
+- orbit-card/assets/gsap-3.14.2.min.js
+- AnimationCard.tsx
+- measure
+- resolve
+- cuboid-carousel/assets/gsap-3.14.2.min.js
+- Remotion → HyperFrames API Map
+- ts
+- resolve
+- ai
+- se
+- src/gsapParserAcorn.ts
+- drawElementImage
+- status.ts
+- ai
+- unwrap
+- ai/skills/faceless-explainer/scripts/captions.mjs
+- s
+- resolve
+- video
+- se
+- ref_remotion
+- colorGradingContract.ts
+- constructor
+- marker
+- .agent/skills/music-to-video/references/motion-primitives/assets/gsap.min.js
+- cli-telemetry-e2e.mjs
+- fromBase
+- unwrap
+- Story design — PR → narrative
+- SlideshowPanel.tsx
+- cn
+- nd
+- se
+- se
+- se
+- se
+- se
+- resolve
+- get
+- get
+- Es
+- s
+- s
+- resolve
+- s
+- resolve
+- s
+- nd
+- HyperframesPlayer
+- s
+- qi
+- .agent/skills/remotion-to-hyperframes/SKILL.md
+- write
+- resolve
+- resolve
+- hyperframes/skills/remotion-to-hyperframes/SKILL.md
+- hyperframes/skills/talking-head-recut/assets/vendor/gsap.min.js
+- numpy
+- s
+- check-comment-citations.mjs
+- unwrap
+- eo
+- s
+- unwrap
+- Ft
+- resolve
+- resolve
+- resolve
+- measure
+- edit-accuracy/run.mjs
+- resolve
+- resolve
+- resolve
+- Ns
+- resolve
+- resolve
+- resolve
+- resolve
+- resolve
+- resolve
+- resolve
+- oauth.ts
+- resolve
+- resolve
+- resolve
+- resolve
+- resolve
+- resolve
+- resolve
+- cube-build.mjs
+- ai/skills/hyperframes-creative/references/design-spec.md
+- write
+- cli-options.ts
+- unwrap
+- weekly-updates.mdx
+- applyMatrix4
+- resolve
+- music-to-video — one music-grounded, beat-synced video workflow
+- test_opencode_skill.py
+- fc
+- get
+- get
+- clean
+- BlockFrame — Frame (video / frame layer)
+- s
+- Blue Professional — Frame (video / frame layer)
+- Scene Types — picking the right template
+- get
+- get
+- get
+- Bt
+- get
+- get
+- get
+- s
+- get
+- get
+- get
+- unwrap
+- .agent/skills/media-use/audio/scripts/wait-bgm.mjs
+- get
+- unwrap
+- Broadside — Frame (video / frame layer)
+- unwrap
+- get
+- Es
+- measure
+- deterministicFonts.ts
+- TypeGPU / WebGPU for HyperFrames
+- .push
+- Creative Mode — Frame (video / frame layer)
+- Editorial Forest — Frame (video / frame layer)
+- get
+- ar
+- jr
+- Document, CSS and scripts
+- get
+- get
+- resolve
+- Bold Poster — Frame (video / frame layer)
+- HyperframesSlideshow
+- Workflow
+- resolve
+- resolve
+- get
+- textContent
+- $i
+- gsapInline.ts
+- unwrap
+- read
+- s
+- s
+- Part 1 — the move vocabulary
+- normalizeFamilyName
+- unwrap
+- unwrap
+- s
+- s
+- s
+- get
+- inlineTextStyleRange.ts
+- Story design — faceless explainer video
+- get
+- get
+- get
+- isHtmlElement
+- hyperframes/skills/embedded-captions/scripts/make-composition.cjs
+- _i
+- _i
+- unwrap
+- producer/src/server.ts
+- 05-drift.ts
+- write
+- Visual Techniques Reference
+- get
+- get
+- unwrap
+- get
+- warn
+- get
+- catalog-payload-assets.file-race.test.ts
+- Re
+- World.ts
+- Re
+- warn
+- Rt
+- write
+- Resolve — command, flags, reuse, adopt, inventory
+- Re
+- Re
+- Re
+- Re
+- Es
+- Rt
+- Rt
+- cloud — HeyGen-hosted rendering (zero-infra)
+- Es
+- shader
+- 06-parity.ts
+- Re
+- unwrap
+- warn
+- Bold Poster — Frame (video / frame layer)
+- Blue Professional — Frame (video / frame layer)
+- Xr
+- Biennale Yellow — Frame (video / frame layer)
+- Bold Poster — Frame (video / frame layer)
+- perf/server.ts
+- Cobalt Grid — Frame (video / frame layer)
+- ref_react_dom
+- Code editorial — Frame (video / frame layer)
+- rules/gsap.ts
+- r
+- Bt
+- Es
+- s
+- get
+- Scene Types — picking the right template
+- get
+- Coral — Frame (video / frame layer)
+- Es
+- get
+- Rt
+- music-to-video — one music-grounded, beat-synced video workflow
+- fc
+- eu
+- constructor
+- Daisy Days — Frame (video / frame layer)
+- ai/skills/media-use/scripts/lib/manifest.mjs
+- constructor
+- undo-socket-pool.mjs
+- THEME mode — composed visual constitutions
+- getTimelineElementIdentity
+- write
+- cn
+- audioSections.ts
+- editor.ts
+- Rt
+- get
+- get
+- get
+- Or
+- Part 1 — the move vocabulary
+- Powder.ts
+- Part 1 — the move vocabulary
+- Story design — product launch video
+- get
+- .agent/skills/media-use/scripts/dither.mjs
+- hyperframes/skills/hyperframes-animation/scripts/animation-map.mjs
+- Biennale Yellow — Frame (video / frame layer)
+- .agent/skills/media-use/scripts/lib/manifest.mjs
+- qt
+- runtime/timeline.ts
+- hyperframes/skills/media-use/scripts/lib/recipe-store.mjs
+- warn
+- s
+- shard-compile-probe.ts
+- engineModePageComposite.ts
+- .push
+- Cuboid Carousel
+- Es
+- authoredGoogleFonts.ts
+- glass-main.mjs
+- Rt
+- Es
+- Es
+- Rt
+- k4
+- Es
+- write
+- Rt
+- r
+- keyframes.ts
+- Es
+- Es
+- Composition craft — EMBED track only
+- verify-packed-manifests.mjs
+- Layout Heuristics
+- k4
+- ti
+- esc
+- clipper.cjs
+- qt
+- ai/skills/faceless-explainer/scripts/lib/storyboard.mjs
+- get
+- Capsule — Frame (video / frame layer)
+- audioRhythm.ts
+- jy
+- ai/skills/media-use/scripts/lib/recipe-store.mjs
+- gcp-cloud-run/package.json
+- Rt
+- Es
+- Es
+- eu
+- Es
+- cli/package.json
+- ai/skills/pr-to-video/scripts/lib/storyboard.mjs
+- ai/skills/product-launch-video/scripts/lib/storyboard.mjs
+- s
+- pr
+- s
+- kt
+- Es
+- changelog-weekly.ts
+- hyperframes/skills/hyperframes/references/plugin-installation.md
+- contrast.ts
+- hyperframeRuntimeLoader.ts
+- agent_reach/README.md
+- perf/index.ts
+- Rt
+- 02-fps.ts
+- _allocateTargets
+- mediaProxy.ts
+- Anime.js for HyperFrames
+- The 18 rules
+- Re
+- qt
+- cn
+- Rt
+- ai/skills/media-use/scripts/lib/prefs-store.mjs
+- qt
+- ai/skills/product-launch-video/scripts/captions.mjs
+- catalog.ts
+- fc
+- publish-catalog.mjs
+- Text To Speech
+- qt
+- Rt
+- CSS Animations for HyperFrames
+- hyperframes/skills/media-use/scripts/lib/prefs-store.mjs
+- setup
+- Rt
+- .agent/skills/media-use/scripts/lib/recipe-store.mjs
+- Re
+- Media operations: agent guidance
+- hyperframes/skills/product-launch-video/scripts/captions.mjs
+- harnessUsage.ts
+- studio/package.json
+- Re
+- qt
+- inspector/package.json
+- case.mjs
+- .agent/skills/faceless-explainer/scripts/captions.mjs
+- unwrap
+- cn
+- write
+- cn
+- fromBase
+- figma/index.ts
+- ./server
+- qt
+- constructor
+- Motion blur — shutter smear on any animated element
+- unwrap
+- Commands
+- Per-Beat Direction
+- .agent/skills/pr-to-video/scripts/captions.mjs
+- Cut catalog — within-frame seams (worker-built)
+- webmcpTestUtils.ts
+- lut-preset-provider.mjs
+- ai/skills/faceless-explainer/scripts/transitions.mjs
+- scripts
+- lint/package.json
+- mp4Stitch.ts
+- label
+- s
+- s
+- lint-skills.ts
+- hyperframes/package.json
+- Presets, jobs and one-knob profiles
+- Tween
+- Cut catalog — within-frame seams (worker-built)
+- grid.mjs
+- ai/skills/pr-to-video/scripts/captions.mjs
+- Visual Techniques Reference
+- Typed edit methods
+- write
+- data
+- check-test-reachability.mjs
+- id
+- ai/skills/pr-to-video/scripts/transitions.mjs
+- Cut catalog — within-frame seams (worker-built)
+- .copy
+- mediaGradeAnalyzer.ts
+- Tween
+- ar
+- motionContextToDocs.ts
+- constructor
+- DNA registry — pick a visual language, not a preset
+- constructor
+- @hyperframes/producer
+- cn
+- write
+- fromBase
+- slot
+- .agent/skills/embedded-captions/scripts/make-theme.cjs
+- constructor
+- shader-options.ts
+- parseStoryboard.ts
+- classCandidates.ts
+- Re
+- media-use/lib/cutlist.mjs
+- Rt
+- constructor
+- unwrap
+- hyperframes/skills/embedded-captions/scripts/make-theme.cjs
+- DNA registry — pick a visual language, not a preset
+- auth/store.ts
+- hyperframes/skills/faceless-explainer/scripts/captions.mjs
+- hyperframes/skills/pr-to-video/scripts/captions.mjs
+- compositions.mdx
+- createPickerModule
+- SlideshowController
+- hyperframes/skills/hyperframes-creative/references/house-style.md
+- CLIMAX entrances
+- page.tsx
+- logo-provider.mjs
+- ai/skills/music-to-video/scripts/assemble-index.mjs
+- Re
+- .agent/skills/media-use/scripts/lib/telemetry.mjs
+- jr
+- 3D Page Scroll
+- Blocks
+- service.ts
+- lib/types.ts
+- Config
+- qt
+- Es
+- focus
+- catalog-script-inlining.ts
+- .agents/skills/motion-doctrine/scripts/seam-gate.mjs
+- write
+- layout-audit.browser.test.ts
+- init.swapScenes.test.ts
+- Node
+- fromBase
+- Rt
+- s
+- parseCssRoot
+- media-use/lib/prefs-store.mjs
+- fontDiagnostics.ts
+- probe-beginframe.ts
+- write
+- write
+- Lambda rendering on AWS
+- hyperframes/README.md
+- perf/perf-gate.ts
+- check-docs-catalog.mjs
+- routes/preview.ts
+- Re
+- Component source inspection (opt-in)
+- compositionLoader.ts
+- teleport.mjs
+- parsers/package.json
+- FakeFile
+- .agent/skills/media-use/scripts/lib/cutlist.mjs
+- Anti-Patterns
+- Embedded Captions
+- _aws-isolation.sh
+- write
+- hf-early-stub.ts
+- handles.ts
+- Audio treatment presets — research and proposed catalog
+- unwrap
+- Re
+- defaults.ts
+- shaderTransitions.ts
+- authoredState.ts
+- webmcp/types.ts
+- Coral — Frame (video / frame layer)
+- 04-scrub.ts
+- constructor
+- .agent/skills/remotion-to-hyperframes/assets/test-corpus/tier-3-data-driven/remotion-src/src/Stargazed.tsx
+- cn
+- Daisy Days — Frame (video / frame layer)
+- exports
+- .agent/skills/product-launch-video/scripts/lib/storyboard.mjs
+- qt
+- code-slice-hero/assets/gsap-3.14.2.min.js
+- transformTools.ts
+- hyperframes/skills/embedded-captions/SKILL.md
+- Scene Transitions
+- .agent/skills/pr-to-video/scripts/assemble-index.mjs
+- .agent/skills/pr-to-video/scripts/build-frame.mjs
+- Du
+- Coral — Frame (video / frame layer)
+- systemFontLocator.ts
+- player/package.json
+- timeline-virtualization.mjs
+- cn
+- Rt
+- cn
+- Re
+- When presets are wrong
+- Re
+- Typographic moves — a palette, not a cage
+- cn
+- scripts
+- Rt
+- Rt
+- regression-harness.ts
+- .agent/skills/remotion-to-hyperframes/assets/test-corpus/tier-4-escape-hatch/cases/08-mixed.tsx
+- hyperframes/skills/pr-to-video/scripts/assemble-index.mjs
+- hyperframes/skills/pr-to-video/scripts/build-frame.mjs
+- .agent/skills/faceless-explainer/scripts/build-frame.mjs
+- Anime.js for HyperFrames
+- Lottie for HyperFrames
+- .agent/skills/faceless-explainer/scripts/audio.mjs
+- .agent/skills/pr-to-video/scripts/ingest.mjs
+- .agent/skills/pr-to-video/scripts/audio.mjs
+- ai/skills/faceless-explainer/scripts/audio.mjs
+- docs.json
+- HyperFrames Schema
+- constructor
+- Re
+- cn
+- Rt
+- Blocks
+- hyperframes/skills/pr-to-video/scripts/ingest.mjs
+- constructor
+- Claude Design + HyperFrames (Template-First)
+- ai/skills/media-use/scripts/lib/telemetry.mjs
+- parse
+- src/project.ts
+- structure.ts
+- Media translation: Audio, Video, Img, IFrame, staticFile
+- css
+- generate-font-data.ts
+- constructor
+- .agent/skills/talking-head-recut/assets/vendor/gsap.min.js
+- ai/skills/pr-to-video/scripts/audio.mjs
+- layout-audit.browser.js
+- asset.ts
+- prompting/color-grading.mdx
+- get
+- hyperframes/skills/music-to-video/references/motion-primitives/assets/gsap.min.js
+- constructor
+- .agent/skills/faceless-explainer/scripts/assemble-index.mjs
+- inline-text-caret.mjs
+- Hyperframes
+- browser/manager.ts
+- $o
+- nodeToHtml.ts
+- dependencies
+- hyper-shader.preview.test.ts
+- beatDetection.test.ts
+- unwrap
+- Xr
+- WebChannel
+- end
+- hyperframes/skills/faceless-explainer/scripts/assemble-index.mjs
+- FileTreeNodes.tsx
+- mediaIndex.test.ts
+- constructor
+- bnModPow
+- constructor
+- constructor
+- login.test.ts
+- figma/types.ts
+- frost.ts
+- build-zip.ts
+- hyperframes/skills/media-use/scripts/lib/telemetry.mjs
+- Re
+- Re
+- check-artifact-coverage.ts
+- Captions
+- Media treatment recipes
+- .agent/skills/pr-to-video/scripts/lib/frame-packets-core.mjs
+- .agent/skills/product-launch-video/scripts/transitions.mjs
+- The 10 moves
+- motion-signature.browser.js
+- package-subpaths.mjs
+- HTML-in-Canvas Patterns
+- timeline-bulk-actions.mjs
+- Re
+- Broadside — Frame (video / frame layer)
+- ios26-liquid-glass/lib/liquid-glass.iife.js
+- liquid-glass-notification/lib/liquid-glass.iife.js
+- liquid-glass-widgets/lib/liquid-glass.iife.js
+- hyperframes/skills/faceless-explainer/scripts/build-frame.mjs
+- Captions
+- hyperframes/skills/pr-to-video/scripts/lib/frame-packets-core.mjs
+- ai/skills/media-use/audio/scripts/wait-bgm.mjs
+- Problem setup
+- set-version.ts
+- plan-parity-contract.ts
+- Creative Mode — Frame (video / frame layer)
+- ai/skills/music-to-video/scripts/lib/storyboard.mjs
+- ai/skills/product-launch-video/scripts/audio.mjs
+- code-terminal-run
+- r
+- scripts
+- shader-transitions/package.json
+- Cartesian — Frame (video / frame layer)
+- hyperframes/skills/product-launch-video/scripts/lib/storyboard.mjs
+- resolve.test.mjs
+- ai/skills/product-launch-video/scripts/transitions.mjs
+- lintStreaks.ts
+- innerText
+- add
+- VMaxVideoEngine
+- surfaceCssKeyframes
+- Tween
+- check-registry-set-delta.mjs
+- constructor
+- Part 1 — the move vocabulary
+- host-registry-assets.ts
+- constructor
+- Tween
+- MediaReachTool
+- Lambda rendering on AWS
+- Cartesian — Frame (video / frame layer)
+- .agent/skills/embedded-captions/scripts/make-composition.cjs
+- BlockFrame — Frame (video / frame layer)
+- add
+- constructor
+- uniqueSelectorFor
+- ai/skills/media-use/scripts/lib/cutlist.mjs
+- GSAP Tweens
+- Media treatment recipes
+- Anti-Patterns
+- bindings.ts
+- dependencies
+- HyperFrames Schema
+- perf-ratchet.mjs
+- Ii
+- Cut catalog — within-frame seams (worker-built)
+- Failure Modes — learned the hard way
+- devDependencies
+- ew
+- Tween
+- ew
+- Cut catalog — within-frame seams (worker-built)
+- plan-parity-harness.ts
+- effects
+- HyperFrame Schema Compliance Review
+- producer/package.json
+- adopt.mjs
+- write
+- ew
+- unwrap
+- ew
+- Embedded Captions
+- Rt
+- ai/skills/faceless-explainer/scripts/lib/frame-packets-core.mjs
+- Tween
+- cn
+- Workflow
+- ai/skills/remotion-to-hyperframes/assets/test-corpus/tier-3-data-driven/remotion-src/src/Stargazed.tsx
+- dockTabFill.ts
+- ai/skills/general-video/scripts/lib/frame-packets-core.mjs
+- motionBlurShutter.browser.test.ts
+- Transforms and Performance
+- HyperFrames Animation
+- write
+- Media translation: Audio, Video, Img, IFrame, staticFile
+- write
+- Tween
+- Typewriter
+- k4
+- Caption Template — Anatomy (the shared engine)
+- .render
+- k4
+- Multi-Phase Camera
+- dashboard/package.json
+- HyperFrames Design System & Style Guide
+- useStudioAgentTools.polyfill.test.tsx
+- argparse
+- hyperframes/skills/media-use/scripts/dither.mjs
+- media-use/lib/recipe-store.mjs
+- hyperframes/skills/product-launch-video/scripts/transitions.mjs
+- yf
+- sdk-playground/package.json
+- dependencies
+- Re
+- cn
+- useStudioAgentTools.ts
+- r
+- red
+- hyperframes/skills/remotion-to-hyperframes/assets/test-corpus/tier-3-data-driven/remotion-src/src/Stargazed.tsx
+- k4
+- registry.mjs
+- Capsule — Frame (video / frame layer)
+- Creative Mode — Frame (video / frame layer)
+- write
+- .agent/skills/hyperframes-audio/scripts/carve.mjs
+- Caption Grouping
+- Card Morph Anchor
+- HyperFrames Animation
+- plan-parity-analysis.ts
+- Media operations: agent guidance
+- ai/skills/music-to-video/scripts/validate-plan.mjs
+- ai/skills/product-launch-video/scripts/lib/frame-packets-core.mjs
+- ai/skills/remotion-to-hyperframes/assets/test-corpus/tier-3-data-driven/remotion-src/src/scenes/StatsScene.tsx
+- ai/skills/remotion-to-hyperframes/assets/test-corpus/tier-3-data-driven/remotion-src/package.json
+- reference/audio-effects.mdx
+- Contributing to Hyperframes
+- guides/troubleshooting.mdx
+- media-use/lib/openverse.mjs
+- (GOBI SOCIAL OFFICIAL POST-PRODUCTION & VIDEO EDITING STANDARD)
+- contrast-audit.browser.js
+- Dynamic Content Sequencing
+- compilerOptions
+- constructor
+- write
+- constructor
+- cn
+- Audio-Reactive Animation
+- ke
+- Cartesian — Frame (video / frame layer)
+- Rt
+- k4
+- hyperframes/skills/hyperframes-creative/references/design-spec.md
+- Rt
+- Code editorial — Frame (video / frame layer)
+- Editorial Forest — Frame (video / frame layer)
+- resolveBindings.ts
+- timelineAssetId.ts
+- ew
+- devDependencies
+- motion-signature.browser.test.ts
+- CLIMAX entrances
+- check-dockerfile-workspaces.mjs
+- scaffold-example-manifests.ts
+- exports
+- Media operations: agent guidance
+- check-pr-captures.mjs
+- Broadside — Frame (video / frame layer)
+- Capsule — Frame (video / frame layer)
+- Cobalt Grid — Frame (video / frame layer)
+- Code editorial — Frame (video / frame layer)
+- ⚙️ 3. CÁC ĐỘNG CƠ CỐT LÕI & CÁCH CHẠY (CORE ENGINES)
+- Layout Heuristics
+- Motion-Graphics Builder
+- .agent/skills/faceless-explainer/scripts/lib/storyboard.mjs
+- .agent/skills/pr-to-video/scripts/lib/storyboard.mjs
+- Direction specs
+- .agent/skills/media-use/scripts/audio-duck.mjs
+- aws-lambda/package.json
+- compilerOptions
+- ai/skills/embedded-captions/scripts/safe-zones.cjs
+- Layout Heuristics
+- .agent/skills/media-use/scripts/lib/prefs-store.mjs
+- hyperframes/skills/faceless-explainer/scripts/lib/storyboard.mjs
+- hyperframes/skills/pr-to-video/scripts/lib/storyboard.mjs
+- The 18 rules
+- .agent/skills/faceless-explainer/scripts/transitions.mjs
+- .agent/skills/general-video/scripts/lib/frame-packets-core.mjs
+- Three.js for HyperFrames
+- Recipes
+- ai/skills/media-use/scripts/audio-duck.mjs
+- ai/skills/media-use/scripts/transcript-cut.mjs
+- .agent/skills/product-launch-video/scripts/captions.mjs
+- ai/skills/remotion-to-hyperframes/assets/test-corpus/tier-1-title-card/remotion-src/package.json
+- The 18 rules
+- hyperframes/skills/general-video/scripts/lib/frame-packets-core.mjs
+- .agent/skills/media-use/scripts/transcript-cut.mjs
+- ai/skills/remotion-to-hyperframes/assets/test-corpus/tier-2-multi-scene/remotion-src/package.json
+- V—Take Visual Design Library
+- @hyperframes/shader-transitions
+- Direction specs
+- Part 1 — the move vocabulary
+- webgl.ts
+- .agent/skills/pr-to-video/scripts/transitions.mjs
+- KeyframeNavigation.tsx
+- hyperframes/skills/media-use/scripts/audio-duck.mjs
+- hyperframes/skills/media-use/scripts/transcript-cut.mjs
+- 2. Processing
+- (QUY TẮC HOẠT ĐỘNG BẮT BUỘC: MẶC ĐỊNH LÀM VIỆC ĐẾN CÙNG - KHÔNG CẦN GÕ /GOAL)
+- ai/skills/figma/scripts/verify-motion.mjs
+- Remotion → HyperFrames API Map
+- Scene Transitions
+- Sub-Compositions
+- add
+- Visual Style Library
+- cta-close
+- ancestorBackgroundPaintsText
+- fontLocalize.ts
+- workspaceBuildCheck.ts
+- sanitizeSvg.ts
+- particle-image-reveal
+- engine/package.json
+- runner.ts
+- compilerOptions
+- HyperFrame Schema Compliance Review
+- yE
+- rotation
+- Documentation Guidelines
+- ai/skills/hyperframes/scripts/lib/frame-packets-core.mjs
+- soft-blob-touch
+- ./sdk
+- 📑 3. HỒ SƠ CHI TIẾT TỪNG SẢN PHẨM TRONG KHO (PRODUCT DATA SHEETS)
+- cn
+- media-use/lib/telemetry.mjs
+- core/src/editing/affordances.ts
+- ai/skills/media-use/scripts/eval.mjs
+- studio-runtime-smoke.mjs
+- Cut catalog — within-frame seams (worker-built)
+- auth/loopback.ts
+- hyperframes/skills/faceless-explainer/scripts/lib/frame-packets-core.mjs
+- hyperframes/skills/faceless-explainer/scripts/transitions.mjs
+- Creator Editing Recipes
+- ce
+- Cut catalog — within-frame seams (worker-built)
+- ai/skills/pr-to-video/scripts/lib/frame-packets-core.mjs
+- hyperframes/skills/pr-to-video/scripts/transitions.mjs
+- Cut catalog — within-frame seams (worker-built)
+- printComposition
+- .agent/skills/music-to-video/scripts/assemble-index.mjs
+- ce
+- Unlimited Email Routing & Multi-Account Email Matrix Skill
+- Cut the Curve — GSAP code templates
+- Cut the Curve — GSAP code templates
+- Coordinate Target Zoom
+- occludedTextIssue
+- cn
+- Building the picker
+- compilerOptions
+- measure
+- transform3dProjection.ts
+- hyperframes/skills/media-use/scripts/lib/cutlist.mjs
+- cn
+- cn
+- ce
+- Standalone HyperFrames Slideshow Harness
+- jy
+- compilationRunner.ts
+- htmlCompiler.mediaType.test.ts
+- jy
+- Es
+- propertyPanelFlatStyleSections.test.tsx
+- Rt
+- devDependencies
+- Motion-Graphics Builder
+- hyperframes/skills/music-to-video/scripts/assemble-index.mjs
+- measure
+- catalog-fetch-mirror.ts
+- plan-parity-fixture.ts
+- Recipes
+- Scene Types — picking the right template
+- The eight rules
+- trust-strip
+- 2. QUY TRÌNH THỰC THI 7 BƯỚC
+- studio-server/package.json
+- Anime.js for HyperFrames
+- hyperframes/skills/faceless-explainer/scripts/audio.mjs
+- write
+- The 10 moves
+- 3D Camera Flight
+- .agent/skills/music-to-video/scripts/lib/storyboard.mjs
+- Lottie for HyperFrames
+- TypeGPU / WebGPU for HyperFrames
+- Lambda rendering on AWS
+- Component quality bar
+- .cursor-plugin/plugin.json
+- ai/skills/pr-to-video/scripts/fetch-pr.mjs
+- renovate.json
+- Chart Scrub Readout
+- dependencies
+- .agent/skills/product-launch-video/scripts/audio.mjs
+- bundled-sfx-provider.mjs
+- grade-analyzer.mjs
+- WebAudioTransport
+- compilerOptions
+- apple-money-count/registry-item.json
+- compilerOptions
+- driver.js
+- north-korea-locked-down/registry-item.json
+- nyc-paris-flight/registry-item.json
+- vpn-youtube-spot/registry-item.json
+- The 10 moves
+- r
+- hyperframes/skills/music-to-video/scripts/lib/storyboard.mjs
+- Embedded Captions
+- .agent/skills/figma/scripts/verify-motion.mjs
+- .agent/skills/remotion-to-hyperframes/assets/test-corpus/tier-3-data-driven/remotion-src/package.json
+- Standalone HyperFrames Slideshow Harness
+- Control-Target Sync
+- compilerOptions
+- sdk.mdx
+- Recipes
+- write
+- write
+- Counting with Dynamic Scale
+- writeFloat32
+- design-panel.mjs
+- touch-indicator.mdx
+- ce
+- ai-chat-reveal/registry-item.json
+- .agent/skills/pr-to-video/SKILL.md
+- blue-sweater-intro-video/registry-item.json
+- BufferGeometryUtils.js
+- message-thread-reveal/registry-item.json
+- notes-reveal/registry-item.json
+- notification-cascade/registry-item.json
+- share-sheet-carousel/registry-item.json
+- vfx-liquid-background/registry-item.json
+- vfx-liquid-glass/registry-item.json
+- vfx-magnetic/registry-item.json
+- vfx-portal/registry-item.json
+- validate-release-channel.mjs
+- hyperframes/skills/figma/scripts/verify-motion.mjs
+- hyperframes/skills/remotion-to-hyperframes/assets/test-corpus/tier-3-data-driven/remotion-src/package.json
+- Theme Crossfade Morph
+- .agent/skills/faceless-explainer/scripts/lib/frame-packets-core.mjs
+- ASR Keyword Glow
+- Hacker Flip 3D Reveal
+- Typewriter
+- visibility
+- Background music (BGM)
+- .agent/skills/music-to-video/scripts/validate-plan.mjs
+- writeFloat32
+- generate-catalog-previews.ts
+- asset-fusion — category module (search-driven · the net-new IP)
+- Per-Beat Direction
+- Part 1 — The Seam Law
+- Part 1 — The Seam Law
+- compilerOptions
+- debug-timeline.ts
+- compilerOptions
+- freeze.test.ts
+- shaderDomains.ts
+- devDependencies
+- scripts
+- measure
+- Lottie translation: @remotion/lottie → HF lottie adapter
+- chatgpt-exchange/registry-item.json
+- claude-exchange/registry-item.json
+- data-chart/registry-item.json
+- measure
+- measure
+- Rules Index
+- heygen-avatar-promo-card/registry-item.json
+- ios26-liquid-glass/registry-item.json
+- liquid-glass-notification/registry-item.json
+- liquid-glass-widgets/registry-item.json
+- logo-outro/registry-item.json
+- macos-tahoe-liquid-glass/registry-item.json
+- oscilloscope-trace/registry-item.json
+- Building the picker
+- slack-notification-ad/registry-item.json
+- snow/registry-item.json
+- starfield/registry-item.json
+- Sequencing translation: Sequence, Series, Composition root
+- vfx-iphone-device/registry-item.json
+- vfx-shatter/registry-item.json
+- vfx-text-cursor/registry-item.json
+- DNA registry — pick a visual language, not a preset
+- caret-swap/registry-item.json
+- kinetic-center-build/registry-item.json
+- page-side-compositing-smoke/run.mjs
+- .present
+- Typewriter
+- ce
+- CSS Animations for HyperFrames
+- hyperframes/skills/music-to-video/scripts/validate-plan.mjs
+- Scene Transitions
+- studio-open-counts.mjs
+- Three.js for HyperFrames
+- constructor
+- .agent/skills/remotion-to-hyperframes/assets/test-corpus/tier-1-title-card/remotion-src/package.json
+- .agent/skills/remotion-to-hyperframes/assets/test-corpus/tier-2-multi-scene/remotion-src/package.json
+- Web Animations API for HyperFrames
+- Motion blur — shutter smear on any animated element
+- Building the picker
+- Background Removal
+- 🎭 Gobi Video Motion Mimic Workflow (Quy Trình AI KOC Bắt Chước Video Nạp Vào)
+- Cut the Curve — the technique catalog
+- Cut the Curve — the technique catalog
+- sync-agent-dirs.ts
+- ai/skills/music-to-video/scripts/stage-assets.mjs
+- ai/skills/pr-to-video/scripts/fetch-people-avatars.mjs
+- write
+- devDependencies
+- compilerOptions
+- exports
+- compilerOptions
+- HyperFrames Design Review
+- Step 0: demo-failure reproduction (baseline, pre-fix)
+- app-showcase/registry-item.json
+- aurora/registry-item.json
+- blob/registry-item.json
+- camcorder-hud/registry-item.json
+- canopy-part-title/registry-item.json
+- chromatic-radial-split/registry-item.json
+- chrome-orb/registry-item.json
+- cinematic-zoom/registry-item.json
+- code-3d-extrude/registry-item.json
+- code-diff/registry-item.json
+- code-highlight/registry-item.json
+- code-morph/registry-item.json
+- code-particle-assemble/registry-item.json
+- code-scroll/registry-item.json
+- code-shader-dissolve/registry-item.json
+- code-slice-hero/registry-item.json
+- code-snippet-apple-terminal-pro/registry-item.json
+- code-typing/registry-item.json
+- color-wheel/registry-item.json
+- cosmic-orb/registry-item.json
+- cross-warp-morph/registry-item.json
+- cuboid-carousel/registry-item.json
+- domain-warp-dissolve/registry-item.json
+- editorial-flash-overlay/registry-item.json
+- falling-lines/registry-item.json
+- flash-through-white/registry-item.json
+- flowchart/registry-item.json
+- flowchart-vertical/registry-item.json
+- flowing-gradient/registry-item.json
+- fractal-noise/registry-item.json
+- freeze-frame-dressing/registry-item.json
+- frost/registry-item.json
+- frost-sequence-camera-orbit/registry-item.json
+- repository
+- gabor-noise/registry-item.json
+- gallery-tunnel/registry-item.json
+- glass-shard-title/registry-item.json
+- glitch/registry-item.json
+- godrays/registry-item.json
+- goo/registry-item.json
+- gravitational-lens/registry-item.json
+- halftone-field/registry-item.json
+- heatmap/registry-item.json
+- hologram/registry-item.json
+- holographic/registry-item.json
+- instagram-follow/registry-item.json
+- lens-flare/registry-item.json
+- light-edge/registry-item.json
+- light-leak/registry-item.json
+- liquid-metal/registry-item.json
+- lt-neon-border/registry-item.json
+- macos-notification/registry-item.json
+- marble/registry-item.json
+- mesh-gradient/registry-item.json
+- nebula/registry-item.json
+- obsidian/registry-item.json
+- orbit-card/registry-item.json
+- organic-light-leak-overlay/registry-item.json
+- plasma/registry-item.json
+- plastic/registry-item.json
+- prism/registry-item.json
+- rack-focus/registry-item.json
+- reddit-post/registry-item.json
+- ridged-burn/registry-item.json
+- ripple-waves/registry-item.json
+- ripples/registry-item.json
+- sdf-iris/registry-item.json
+- sine-wave/registry-item.json
+- spain-map/registry-item.json
+- spiral-galaxy/registry-item.json
+- spiral/registry-item.json
+- spotify-card/registry-item.json
+- strands/registry-item.json
+- stripes/registry-item.json
+- sun-burst/registry-item.json
+- swirl/registry-item.json
+- swirl-vortex/registry-item.json
+- thermal-distortion/registry-item.json
+- thin-film/registry-item.json
+- tiktok-follow/registry-item.json
+- transitions-3d/registry-item.json
+- transitions-blur/registry-item.json
+- transitions-cover/registry-item.json
+- transitions-destruction/registry-item.json
+- transitions-dissolve/registry-item.json
+- transitions-distortion/registry-item.json
+- transitions-grid/registry-item.json
+- transitions-light/registry-item.json
+- transitions-mechanical/registry-item.json
+- transitions-other/registry-item.json
+- transitions-push/registry-item.json
+- transitions-radial/registry-item.json
+- transitions-scale/registry-item.json
+- ui-3d-reveal/registry-item.json
+- us-map-bubble/registry-item.json
+- us-map-flow/registry-item.json
+- us-map-hex/registry-item.json
+- us-map/registry-item.json
+- vfx-anamorphic-flare/registry-item.json
+- voronoi/registry-item.json
+- water/registry-item.json
+- waveform/registry-item.json
+- whip-pan/registry-item.json
+- wireframe-portal-title/registry-item.json
+- world-map/registry-item.json
+- worley-noise/registry-item.json
+- x-post/registry-item.json
+- yt-lower-third/registry-item.json
+- check-pr-captures.test.mjs
+- Patterns that work with caveats
+- File-Specific Reviews
+- Three.js for HyperFrames
+- hyperframes/skills/pr-to-video/scripts/audio.mjs
+- hyperframes/skills/remotion-to-hyperframes/assets/test-corpus/tier-1-title-card/remotion-src/package.json
+- hyperframes/skills/remotion-to-hyperframes/assets/test-corpus/tier-2-multi-scene/remotion-src/package.json
+- op_or
+- Sub-Compositions
+- Visual Style Library
+- .agent/skills/hyperframes/scripts/lib/frame-packets-core.mjs
+- .agent/skills/media-use/scripts/eval.mjs
+- hyperframes/skills/product-launch-video/scripts/lib/frame-packets-core.mjs
+- creator-editing-recipes.test.mjs
+- Remotion → HyperFrames API Map
+- Sequencing translation: Sequence, Series, Composition root
+- Eval: how to validate a translation end-to-end
+- Typographic moves — a palette, not a cage
+- items
+- media-and-audio.mdx
+- Easing, Stagger, and Function-Based Values
+- Viewport Change (Virtual Camera)
+- compositionCensus.ts
+- Composition Patterns
+- core/package.json
+- exports
+- lint-runtime-preview-guards.ts
+- compilerOptions
+- compilerOptions
+- gen.mjs
+- compilerOptions
+- test-classification.mjs
+- test-hyperframe-runtime-parity.ts
+- PR to HyperFrames
+- sdk/package.json
+- exports
+- compilerOptions
+- compilerOptions
+- OpenInDesktopButton.dom.test.tsx
+- compilerOptions
+- unwrap
+- ai-answer-rank/registry-item.json
+- bar-chart-race/registry-item.json
+- carousel-circle-1/registry-item.json
+- carousel-circle-2/registry-item.json
+- carousel-circle-3/registry-item.json
+- carousel-circle-4/registry-item.json
+- carousel-circle-5/registry-item.json
+- carousel-orbit-1/registry-item.json
+- carousel-orbit-2/registry-item.json
+- carousel-orbit-3/registry-item.json
+- carousel-orbit-4/registry-item.json
+- carousel-orbit-5/registry-item.json
+- carousel-path-1/registry-item.json
+- carousel-path-2/registry-item.json
+- carousel-path-3/registry-item.json
+- carousel-path-4/registry-item.json
+- carousel-path-5/registry-item.json
+- carousel-text-circle-1/registry-item.json
+- carousel-text-circle-2/registry-item.json
+- carousel-text-circle-3/registry-item.json
+- carousel-text-circle-4/registry-item.json
+- carousel-text-circle-5/registry-item.json
+- carousel-vision-1/registry-item.json
+- carousel-vision-2/registry-item.json
+- carousel-vision-3/registry-item.json
+- carousel-vision-4/registry-item.json
+- carousel-vision-5/registry-item.json
+- AuthenticationTests
+- mix
+- lottie-character-walk/registry-item.json
+- engineModePageComposite.test.ts
+- Parameter translation: Zod schemas, defaultProps, calculateMetadata
+- declareStyleFontFamilies
+- week-in-merges/registry-item.json
+- weight-wave/registry-item.json
+- ascii-render-pass/registry-item.json
+- ascii-trail-reveal/registry-item.json
+- avatar-cloud/registry-item.json
+- beat-accent/registry-item.json
+- before-after-wipe/registry-item.json
+- camera-scan-gate/registry-item.json
+- char-slam-explode/registry-item.json
+- chart-story/registry-item.json
+- code-terminal-run/registry-item.json
+- comparison-split/registry-item.json
+- constellation-hub/registry-item.json
+- count-up/registry-item.json
+- cta-close/registry-item.json
+- cta-lockup/registry-item.json
+- cursor-glyph-trail/registry-item.json
+- cut-the-curve/registry-item.json
+- echo-trail/registry-item.json
+- facet-morph/registry-item.json
+- focus-swap/registry-item.json
+- gesture-tap/registry-item.json
+- gloss-sweep/registry-item.json
+- grid-card-assemble/registry-item.json
+- halftone-dissolve/registry-item.json
+- headline-slam/registry-item.json
+- icon-morph-beat/registry-item.json
+- ink-bleed-reveal/registry-item.json
+- iris-reveal/registry-item.json
+- kinetic-type-swap/registry-item.json
+- light-sweep-pass/registry-item.json
+- line-swap/registry-item.json
+- logo-brand-close/registry-item.json
+- logo-sting/registry-item.json
+- marker-highlight/registry-item.json
+- match-cut/registry-item.json
+- modal-morph/registry-item.json
+- morph-swap/registry-item.json
+- native-notification-pop/registry-item.json
+- notification-stack/registry-item.json
+- offset-path-traveler/registry-item.json
+- ordered-dither-pass/registry-item.json
+- outline-draw/registry-item.json
+- particle-image-reveal/registry-item.json
+- particle-text-dissolve/registry-item.json
+- per-word-rise/registry-item.json
+- press-ripple/registry-item.json
+- pull-to-refresh/registry-item.json
+- radial-surround/registry-item.json
+- rubber-band-bumper/registry-item.json
+- scramble-reveal/registry-item.json
+- scroll-camera-story/registry-item.json
+- segmentation-flood/registry-item.json
+- slit-scan-reveal/registry-item.json
+- soft-blob-touch/registry-item.json
+- split-tilt-cards/registry-item.json
+- spring-pop/registry-item.json
+- spring-stack-shuffle/registry-item.json
+- star-rating-fill/registry-item.json
+- state-chip-rail/registry-item.json
+- stitched-text-draw/registry-item.json
+- stop-motion-cadence/registry-item.json
+- store-badge-lockup/registry-item.json
+- svg-stroke-trace/registry-item.json
+- telemetry-hud/registry-item.json
+- testimonial-card/registry-item.json
+- testimonial-proof-card/registry-item.json
+- text-match-cut/registry-item.json
+- titlecard-lockup/registry-item.json
+- trust-strip/registry-item.json
+- type-match-cut/registry-item.json
+- typed-prompt/registry-item.json
+- ui-focus-zoom/registry-item.json
+- variable-font-flex/registry-item.json
+- velocity-throw-snap/registry-item.json
+- vox-annotate/registry-item.json
+- whip-pan-cut/registry-item.json
+- whiteboard-ink/registry-item.json
+- wordmark-tiles/registry-item.json
+- clawhub-sync.mjs
+- Timing translation: interpolate, spring, easing
+- compilerOptions
+- Sub-Compositions
+- Visual Style Library
+- hyperframes/skills/hyperframes/scripts/lib/frame-packets-core.mjs
+- 🎬 TOPIC 02: VIDEO PRODUCTION & AUTO-EDITOR PIPELINE
+- hyperframes/skills/media-use/scripts/eval.mjs
+- write
+- Caption Template — Anatomy (the shared engine)
+- Component quality bar
+- .agent/skills/pr-to-video/scripts/fetch-pr.mjs
+- compilerOptions
+- compilerOptions
+- compilerOptions
+- Remotion to HyperFrames
+- Ambient Glow Bloom
+- ASR Keyword Glow
+- hyperframes/skills/product-launch-video/scripts/audio.mjs
+- Card Morph Anchor
+- Coordinate Target Zoom
+- Dynamic Content Sequencing
+- Multi-Phase Camera
+- Visualization Registry
+- .agents/skills/changelog-video/scripts/align-captions.mjs
+- Pipeline
+- .claude/skills/changelog-video/scripts/align-captions.mjs
+- Pipeline
+- rendering.mdx
+- hyperframes/skills/hyperframes/SKILL.md
+- 3D Camera Flight
+- Split Tilt Cards
+- bnAndNot
+- compilerOptions
+- 3D Text Depth Layers
+- HyperFrames Design Review
+- HyperFrames Design Review
+- HyperFrames Design Review
+- HyperFrames Design Review
+- compilerOptions
+- beat-freeze-cut/registry-item.json
+- camera-dolly-zoom/registry-item.json
+- hw-write-title/registry-item.json
+- .agent/skills/hyperframes-creative/references/house-style.md
+- lower-third-bild/registry-item.json
+- bnXor
+- split-flap-board/registry-item.json
+- agent-cursor/registry-item.json
+- aurora-drift/registry-item.json
+- beat-pulse-background/registry-item.json
+- beat-timeline/registry-item.json
+- browser-device-stage/registry-item.json
+- conic-progress-ring/registry-item.json
+- cursor-annotate/registry-item.json
+- cursor-context-menu/registry-item.json
+- cursor-drag-drop/registry-item.json
+- cursor-marquee-select/registry-item.json
+- cursor-text-select/registry-item.json
+- cursor-zoom-follow/registry-item.json
+- dart-cursor/registry-item.json
+- decline-chart/registry-item.json
+- device-frame-stage/registry-item.json
+- drift-hold/registry-item.json
+- focus-rack/registry-item.json
+- grain-field/registry-item.json
+- locked-nucleus-orbit/registry-item.json
+- logo-wall/registry-item.json
+- magnetic-cursor/registry-item.json
+- multi-device-splay/registry-item.json
+- multiplayer-cursors/registry-item.json
+- notification-pileup/registry-item.json
+- oversized-cursor/registry-item.json
+- overwhelm-surround/registry-item.json
+- pan-stations/registry-item.json
+- parallax-device-dive/registry-item.json
+- physical-exit/registry-item.json
+- pull-back-reveal/registry-item.json
+- push-in/registry-item.json
+- scan-band/registry-item.json
+- screen-flow-carousel/registry-item.json
+- scroll-feed/registry-item.json
+- stagger-cascade/registry-item.json
+- sticky-mock-swap/registry-item.json
+- svg-mask-reveal/registry-item.json
+- swipe-rail/registry-item.json
+- text-shimmer/registry-item.json
+- ticker-takeover/registry-item.json
+- titlecard-calm/registry-item.json
+- toggle-flip/registry-item.json
+- touch-indicator/registry-item.json
+- tracing-beam/registry-item.json
+- variable-axis-type/registry-item.json
+- vector-editor-rig/registry-item.json
+- Stat Bars & Fills
+- yE
+- AI Tracking Box
+- Component quality bar
+- Avatar Cloud Network
+- Part 1 — the move vocabulary
+- hyperframes/skills/pr-to-video/scripts/fetch-pr.mjs
+- compilerOptions
+- compilerOptions
+- compilerOptions
+- Per-Beat Direction
+- .agent/skills/motion-graphics/grounding/locate.mjs
+- ai/skills/media-use/scripts/lib/index-gen.mjs
+- Audio-Reactive Animation
+- export-and-share.mdx
+- .agent/skills/product-launch-video/scripts/lib/frame-packets-core.mjs
+- ce
+- Lottie for HyperFrames
+- dependencies
+- ffprobeArgvContract.test.ts
+- .agent/skills/hyperframes/SKILL.md
+- HyperFrames Design Review
+- HyperFrames Design Review
+- HyperFrames Design Review
+- HyperFrames Design Review
+- HyperFrames Design Review
+- HyperFrames Design Review
+- HyperFrames Design Review
+- HyperFrames Design Review
+- HyperFrames Design Review
+- HyperFrames Design Review
+- HyperFrames Design Review
+- Features
+- HyperFrames Handoff — for Open Design
+- The casual author's view of the FX rack
+- hyperframes/plugin.json
+- cn
+- cinemagraph/registry-item.json
+- code-snippet-dark-2026/registry-item.json
+- code-snippet-dark-modern/registry-item.json
+- exploded-stack/registry-item.json
+- extruded-logo/registry-item.json
+- Web Animations API for HyperFrames
+- Kinetic Beat Slam
+- glass-hero/registry-item.json
+- gooey-split/registry-item.json
+- Orbit with 3D Entry
+- hw-frame/registry-item.json
+- hw-path-text/registry-item.json
+- hw-pipeline/registry-item.json
+- hw-scribble-transition/registry-item.json
+- hw-text-cloud/registry-item.json
+- hw-title/registry-item.json
+- hyperframes/skills/remotion-to-hyperframes/assets/test-corpus/tier-2-multi-scene/remotion-src/src/MultiScene.tsx
+- lt-accent-underline/registry-item.json
+- lt-bold-block/registry-item.json
+- lt-clean-bar/registry-item.json
+- lt-color-block/registry-item.json
+- lt-dark-card/registry-item.json
+- lt-kicker-name/registry-item.json
+- lt-mask-reveal/registry-item.json
+- lt-side-rule/registry-item.json
+- lt-soft-pill/registry-item.json
+- lt-stack-bars/registry-item.json
+- mk-background/registry-item.json
+- mk-callout-highlight/registry-item.json
+- mk-clone-wall-transition/registry-item.json
+- mk-line-graph/registry-item.json
+- mk-placeholder-grid/registry-item.json
+- mk-progress-stat/registry-item.json
+- mk-specs-list/registry-item.json
+- news-ticker/registry-item.json
+- product-turntable/registry-item.json
+- thread-message-stack/registry-item.json
+- write
+- yt-comment-card/registry-item.json
+- yt-lcd-background/registry-item.json
+- yt-logo-intro/registry-item.json
+- yt-prism-title/registry-item.json
+- yt-vertical-fill/registry-item.json
+- caption-texture/registry-item.json
+- filmed-screen/registry-item.json
+- check-docs-snippet-motion.mjs
+- Steps
+- Template: champion
+- generate-catalog-pages.test.ts
+- AuthenticationTests
+- Rail track — standard lower-third subtitle
+- Motion-Blur Streak
+- Background Removal
+- Resolve — command, flags, reuse, adopt, inventory
+- .agent/skills/music-to-video/scripts/stage-assets.mjs
+- .agent/skills/pr-to-video/scripts/fetch-people-avatars.mjs
+- Center-Outward Expansion
+- V—Take Visual Design Library
+- t
+- parsers.mdx
+- seamTransitionLoop.test.ts
+- gsapAnimationCallbacks.ts
+- HyperFrames v0.7.59
+- catalog.mdx
+- What HyperFrames can make
+- de
+- Physics Press Reaction (Cursor + Element Synced)
+- editing-existing-videos.mdx
+- animation.mdx
+- Tracks and Clips
+- Media treatments
+- parsePx
+- media-use/lib/error-diffusion.mjs
+- studioEditLifecycle
+- maps — category module
+- compilerOptions
+- compilerOptions
+- Tier 3 — stargazed-data-driven
+- HyperFrame Schema Compliance Review
+- HyperFrame Schema Compliance Review
+- Compliance Checklist
+- HyperFrames Design Review
+- HyperFrame Schema Compliance Review
+- HyperFrame Schema Compliance Review
+- HyperFrame Schema Compliance Review
+- exports
+- exports
+- Agent Reach — 互联网能力路由器
+- stats.mjs
+- avatar-group-hover/registry-item.json
+- badge-pop/registry-item.json
+- blur-in/registry-item.json
+- blur-out-up/registry-item.json
+- bottom-up-letters/registry-item.json
+- caption-clip-wipe/registry-item.json
+- caption-editorial-emphasis/registry-item.json
+- caption-emoji-pop/registry-item.json
+- caption-glitch-rgb/registry-item.json
+- caption-gradient-fill/registry-item.json
+- caption-highlight/registry-item.json
+- caption-kinetic-slam/registry-item.json
+- caption-matrix-decode/registry-item.json
+- caption-neon-accent/registry-item.json
+- caption-neon-glow/registry-item.json
+- caption-parallax-layers/registry-item.json
+- caption-particle-burst/registry-item.json
+- caption-pill-karaoke/registry-item.json
+- caption-weight-shift/registry-item.json
+- card-resize/registry-item.json
+- chromatic-aberration-wipe/registry-item.json
+- directional-wipe/registry-item.json
+- dynamic-grid/registry-item.json
+- fade-through/registry-item.json
+- focus-blur-resolve/registry-item.json
+- icon-swap/registry-item.json
+- inline-highlight/registry-item.json
+- input-feedback/registry-item.json
+- line-by-line-slide/registry-item.json
+- matrix-decode/registry-item.json
+- menu-morph/registry-item.json
+- micro-transitions/registry-item.json
+- number-pop-in/registry-item.json
+- number-wheel/registry-item.json
+- page-slide/registry-item.json
+- panel-reveal/registry-item.json
+- pendulum-swing/registry-item.json
+- per-word-crossfade/registry-item.json
+- perspective-marquee/registry-item.json
+- rgb-glitch-text/registry-item.json
+- separator/registry-item.json
+- shared-axis-y/registry-item.json
+- shared-axis-z/registry-item.json
+- skeleton-reveal/registry-item.json
+- slot-machine-roll/registry-item.json
+- soft-blur-in/registry-item.json
+- staggered-fade-up/registry-item.json
+- strikethrough-replace/registry-item.json
+- success-check/registry-item.json
+- tabs-slide-indicator/registry-item.json
+- text-stagger/registry-item.json
+- text-state-swap/registry-item.json
+- texture-mask-text/registry-item.json
+- tilt-card/registry-item.json
+- top-down-letters/registry-item.json
+- tracking-in/registry-item.json
+- typewriter/registry-item.json
+- zoom-through-transition/registry-item.json
+- decision-tree/registry-item.json
+- kinetic-type/registry-item.json
+- nyt-graph/registry-item.json
+- play-mode/registry-item.json
+- product-promo/registry-item.json
+- swiss-grid/registry-item.json
+- vignelli/registry-item.json
+- warm-grain/registry-item.json
+- check-package-cycles.mjs
+- attemptDownload
+- check-workspace-contracts.mjs
+- Agent Reach — internet capability router
+- 🎭 Gobi Video Motion Mimic Workflow (Quy Trình AI KOC Bắt Chước Video Nạp Vào)
+- Web Animations API for HyperFrames
+- Motion-Blur Streak
+- 视频/播客
+- Background Removal
+- Resolve — command, flags, reuse, adopt, inventory
+- hyperframes/skills/motion-graphics/grounding/locate.mjs
+- hyperframes/skills/music-to-video/scripts/stage-assets.mjs
+- hyperframes/skills/pr-to-video/scripts/fetch-people-avatars.mjs
+- Viewport Change (Virtual Camera)
+- Composition Patterns
+- browser-device-stage
+- ui-focus-zoom
+- HyperFrames GSAP
+- HyperFrames documentation rules
+- directional-wipe.mdx
+- AuthenticationTests
+- concepts/index.mdx
+- Font translation
+- On-device meaning search
+- skills.mdx
+- help.mdx
+- 📝 BÁO CÁO PHIÊN LÀM VIỆC: SESS-014 - PHÂN TÍCH VIDEO TIKTOK AI NATIVE LAB & ĐỀ XUẤT ỨNG DỤNG STUDIO VÀO VMAX
+- studio-app/troubleshooting.mdx
+- timeline.mdx
+- studio/troubleshooting.mdx
+- 2. CÁC THÀNH PHẦN KỸ THUẬT CỐT LÕI
+- 2. KIẾN TRÚC TỰ ĐỘNG HÓA TRÌNH DUYỆT (BROWSER ARCHITECTURE)
+- frameDirCache.test.ts
+- 2. CƠ CHẾ HOẠT ĐỘNG
+- Timelines and Labels
+- ClampedParam
+- Patterns that work with caveats
+- ./distributed
+- Easing, Stagger, and Function-Based Values
+- File-by-File Analysis
+- Compliance Checklist
+- File Reviews
+- File Analysis
+- 3D Camera Flight
+- animated-bar-chart/registry-item.json
+- arc-motion-path/registry-item.json
+- camera-rig-depth-stack/registry-item.json
+- chat-message/registry-item.json
+- chat-thread/registry-item.json
+- confetti/registry-item.json
+- grain-overlay/registry-item.json
+- grid-pixelate-wipe/registry-item.json
+- keyframe-scrub-stack/registry-item.json
+- marker-checklist-card/registry-item.json
+- mesh-gradient-bg/registry-item.json
+- morph-text/registry-item.json
+- motion-blur/registry-item.json
+- notes-typing/registry-item.json
+- onboarding-stepper-flow/registry-item.json
+- parallax-unzoom/registry-item.json
+- parallax-zoom/registry-item.json
+- settings-toggle-flow/registry-item.json
+- sheet-spring-up/registry-item.json
+- shimmer-sweep/registry-item.json
+- shutter-slam/registry-item.json
+- signup-flow/registry-item.json
+- social-proof-card/registry-item.json
+- spotlight-card/registry-item.json
+- stagger-lattice/registry-item.json
+- streaming-text/registry-item.json
+- svg-line-draw-loader/registry-item.json
+- terminal-simulator/registry-item.json
+- three-orbiting-cards/registry-item.json
+- typing-indicator/registry-item.json
+- vignette/registry-item.json
+- x-follow-card/registry-item.json
+- HyperFrames v0.7.96
+- main
+- k4
+- title
+- Viewport Change (Virtual Camera)
+- Composition Patterns
+- Easing, Stagger, and Function-Based Values
+- Split Tilt Cards
+- Remotion to HyperFrames
+- 3D Page Scroll
+- Steps
+- 3D Text Depth Layers
+- AI Tracking Box
+- Anchored Layout Expand
+- Patterns that work with caveats
+- Avatar Cloud Network
+- Stat Bars & Fills
+- whiteboard-ink
+- Two-Phase Camera Cursor Tracking
+- Chart Scrub Readout
+- Chromatic Glitch
+- developers/overview.mdx
+- gsap-animation.mdx
+- mcp.mdx
+- remove-background.mdx
+- parseSlideshow.ts
+- July 2026
+- capstone.mdx
+- design-systems.mdx
+- studio/audio-effects.mdx
+- audio-groups.mdx
+- canvas.mdx
+- gcp-cloud-run/scripts/smoke.sh
+- compilerOptions
+- collectSolidTextBlocks
+- overlapIssue
+- matteOcclusionIssue
+- test-hyperframe-runtime-security.ts
+- Context-Sensitive Cursor
+- compilerOptions
+- escape-hatch-fatal-fallback — field-signal reproducer
+- Compliance Checklist
+- Compliance Checklist
+- Compliance Checklist
+- Background music (BGM)
+- Control-Target Sync
+- Vertical Spring Ticker (Slot Machine)
+- compilerOptions
+- Counting with Dynamic Scale
+- CSS Patterns for Marker Highlighting
+- wordPx
+- createOrbitScene
+- camera-shake/registry-item.json
+- caption-camera-follow/registry-item.json
+- curtain-reveal/registry-item.json
+- grade-split-reveal/registry-item.json
+- hw-arrow/registry-item.json
+- hw-boil/registry-item.json
+- hw-box-label/registry-item.json
+- hw-callout-circle/registry-item.json
+- paper-collage-reveal/registry-item.json
+- torn-paper-rip/registry-item.json
+- HyperFrames v0.7.4
+- HyperFrames v0.7.61
+- HyperFrames v0.8.144
+- evaluate
+- 3D Text Depth Layers
+- Multi-Phase Camera
+- Reactive Displacement
+- Chromatic Glitch
+- Linear / Push
+- preview, play, render, publish
+- The three audio attributes
+- Steps
+- Cursor Drag
+- demo/hyperframes.json
+- scripts
+- write
+- Setup and providers — install, auth, RAM ladders, forcing a provider
+- Anchored Layout Expand
+- CSS Patterns for Marker Highlighting
+- Gradient Text Sweep
+- media-use usage dashboard
+- Depth Scatter ↔ Assemble
+- la
+- Kinetic Beat Slam
+- Depth-of-Field Blur (Selective Focus / Rack Focus)
+- Caption Template — Anatomy (the shared engine)
+- Particle Burst
+- Depth Scatter ↔ Assemble
+- Transition Catalog
+- Timelines and Labels
+- HyperFrames Tailwind
+- Composition Patterns
+- Narration & Script
+- Steps
+- .agent/skills/media-use/audio/scripts/lib/host-audio.test.mjs
+- locate — find "X" in an image (no detector API assumed)
+- Multi-Cursor Choreography
+- Discrete Text Sequence
+- Gradient Text Sweep
+- Hacker Flip 3D Reveal
+- Kinetic Beat Slam
+- Multi-Cursor Choreography
+- Orbit with 3D Entry
+- Particle Burst
+- Spring-Pop Entrance
+- SVG Icon Enrichment
+- Theme Crossfade Morph
+- Vertical Spring Ticker (Slot Machine)
+- Transition Catalog
+- Split Tilt Cards
+- Cursor Drag
+- na
+- Transition Registry — machine source of truth
+- Transition Registry — machine source of truth
+- Discrete Text Sequence
+- .agent/skills/remotion-to-hyperframes/assets/test-corpus/tier-2-multi-scene/remotion-src/src/MultiScene.tsx
+- hyperframes/skills/media-use/audio/scripts/lib/host-audio.test.mjs
+- HyperFrames Tailwind
+- AI Tracking Box
+- Composition Patterns
+- Narration & Script
+- Two-Phase Camera Cursor Tracking
+- Steps
+- ai/skills/media-use/audio/scripts/lib/host-audio.test.mjs
+- locate — find "X" in an image (no detector API assumed)
+- na
+- ai/skills/remotion-to-hyperframes/assets/test-corpus/tier-2-multi-scene/remotion-src/src/MultiScene.tsx
+- ai/skills/remotion-to-hyperframes/assets/test-corpus/tier-4-escape-hatch/cases/07-custom-hook.tsx
+- Avatar Cloud Network
+- na
+- audio-automation.mdx
+- BoundaryParam
+- Oversized Cursor — the eye-carrier
+- Oversized Cursor — the eye-carrier
+- testing-local-changes.mdx
+- cloud.mdx
+- deploy/overview.mdx
+- authentication.mdx
+- deploy.mdx
+- Preview loads during the shell's first layout
+- prompting/audio-effects.mdx
+- code-blocks.mdx
+- rendering-and-output.mdx
+- runtimes-and-3d.mdx
+- storyboards.mdx
+- edit-with-the-agent.mdx
+- studio/index.mdx
+- source.mdx
+- Google Cloud Run example
+- na
+- connectorShafts
+- HyperFrames Composition Project
+- HyperFrames Composition Project
+- Interactive Compositions
+- Cursor Drag
+- Depth-of-Field Blur (Selective Focus / Rack Focus)
+- light-sweep-pass
+- tsconfig.runtime.json
+- dependencies
+- @hyperframes/engine
+- Discrete Text Sequence
+- devDependencies
+- Compliance Checklist
+- Compliance Checklist
+- tsconfig.check.json
+- @hyperframes/studio
+- dependencies
+- scripts
+- velocityEaseFitter.ts
+- caption-blend-difference/registry-item.json
+- colorama-wipe/registry-item.json
+- extended-keyframe/registry-item.json
+- hw-underline/registry-item.json
+- mk-emphasis-type/registry-item.json
+- mk-usage-arc/registry-item.json
+- yt-camera-move/registry-item.json
+- yt-circle-pointer/registry-item.json
+- yt-feather-highlight/registry-item.json
+- yt-screen-warp/registry-item.json
+- HyperFrames v0.6.101
+- HyperFrames v0.6.74
+- HyperFrames v0.6.85
+- HyperFrames v0.6.99
+- HyperFrames v0.7.106
+- HyperFrames v0.7.108
+- HyperFrames v0.7.20
+- HyperFrames v0.7.43
+- HyperFrames v0.7.46
+- HyperFrames v0.7.57
+- HyperFrames v0.7.77
+- HyperFrames v0.7.78
+- HyperFrames v0.7.85
+- HyperFrames v0.8.115
+- HyperFrames v0.8.151
+- HyperFrames v0.8.152
+- HyperFrames v0.8.34
+- HyperFrames v0.8.45
+- HyperFrames v0.8.51
+- HyperFrames v0.8.63
+- HyperFrames v0.8.7
+- HyperFrames v0.8.76
+- HyperFrames v0.8.79
+- HyperFrames v0.8.80
+- HyperFrames v0.8.82
+- HyperFrames v0.8.87
+- uncomparable
+- duplicateCaptureProblems
+- When to bow out: the runtime interop pattern
+- 📝 TÓM TẮT PHIÊN LÀM VIỆC - SESS-011: CHUẨN HÓA KOC MASTER DNA & SẢN XUẤT VIDEO MẪU GOBI THÚI 9S
+- test-skills-fresh.sh
+- Timelines and Labels
+- Cursor Click Ripple
+- 📝 TÓM TẮT PHIÊN LÀM VIỆC - SESS-012: CHUẨN HÓA KOC MASTER DNA & SẢN XUẤT VIDEO MẪU GOBI THÚI 9S
+- cursor-glyph-trail
+- 📝 TÓM TẮT PHIÊN LÀM VIỆC - SESS-013: RÀ SOÁT CÁC NGÁCH VIDEO AI KIẾM TIỀN TỪ VIEW & KẾ HOẠCH HỆ SINH THÁI ĐA KÊNH
+- 📝 TÓM TẮT CUỘC HỘI THOẠI - SESS-018
+- na
+- 📝 TÓM TẮT CUỘC HỘI THOẠI - SESS-019
+- Orbit with 3D Entry
+- CSS Patterns for Marker Highlighting
+- Template: champion
+- Anchored Layout Expand
+- Particle Burst
+- Template: memory-wall
+- ASR Keyword Glow
+- Hacker Flip 3D Reveal
+- Center-Outward Expansion
+- Multi-Cursor Choreography
+- Cursor Click Ripple
+- Physics Press Reaction (Cursor + Element Synced)
+- Spring-Pop Entrance
+- SVG Icon Enrichment
+- Transition Catalog
+- Press-Release Spring Chain
+- HyperFrames Tailwind
+- Composition Patterns
+- SVG Path Draw
+- Narration & Script
+- Steps
+- Background music (BGM)
+- Sound effects (SFX)
+- locate — find "X" in an image (no detector API assumed)
+- na
+- Media treatments
+- news — category module (search-driven)
+- modal-morph
+- Template: memory-wall
+- text module · motion vocabulary (primitive → GSAP)
+- Sound effects (SFX)
+- dependencies
+- news — category module (search-driven)
+- text module · motion vocabulary (primitive → GSAP)
+- .agent/skills/remotion-to-hyperframes/assets/test-corpus/run.sh
+- ai/skills/remotion-to-hyperframes/assets/test-corpus/run.sh
+- lint.mdx
+- audioAutomation.ts
+- shader-transitions.mdx
+- createPreviewAdapter
+- createPost
+- screen-flow-carousel
+- equals
+- k4
+- k4
+- Build Spec — square 1080 changelog master
+- Script + Voice: the two-layer contract
+- Build Spec — square 1080 changelog master
+- Script + Voice: the two-layer contract
+- texture-mask-text.mdx
+- 4k-rendering.mdx
+- design-tools.mdx
+- feedback.mdx
+- hyperframes-vs-remotion.mdx
+- media.mdx
+- media-effects.mdx
+- guides/motion-graphics.mdx
+- performance.mdx
+- slideshow.mdx
+- video-components.mdx
+- voice-and-audio.mdx
+- IE
+- captions-and-talking-heads.mdx
+- captions-catalog.mdx
+- overlays-and-lower-thirds.mdx
+- remotion-migration.mdx
+- shortcuts.mdx
+- eval.sh
+- .oxlintrc.json
+- k4
+- Troubleshooting
+- k4
+- k4
+- ink-bleed-reveal
+- k4
+- runtime-message-handler.ts
+- SVG Path Draw
+- InMemoryBroadcastChannel
+- Ambient Glow Bloom
+- frontend/package.json
+- paths
+- paths
+- paths
+- paths
+- paths
+- paths
+- helpers.sh
+- circle
+- 3D Page Scroll
+- k4
+- k4
+- ClipperLib
+- Hyperframe Runtime Engine
+- sync-schemas.ts
+- k4
+- ErosionField
+- wordPx
+- Reactive Displacement
+- Scale-Swap Transition
+- Orbit Card
+- la
+- k4
+- k4
+- Press-Release Spring Chain
+- Two-Phase Camera Cursor Tracking
+- shadows.js
+- Counting with Dynamic Scale
+- .background
+- ascii-render-pass
+- press-ripple
+- Coordinate Target Zoom
+- registry.json
+- HyperFrames v0.6.102
+- HyperFrames v0.6.108
+- HyperFrames v0.6.114
+- HyperFrames v0.6.115
+- HyperFrames v0.6.70
+- HyperFrames v0.6.82
+- HyperFrames v0.7.100
+- HyperFrames v0.7.110
+- HyperFrames v0.7.19
+- HyperFrames v0.7.26
+- HyperFrames v0.7.29
+- HyperFrames v0.7.38
+- HyperFrames v0.7.47
+- HyperFrames v0.7.50
+- HyperFrames v0.7.54
+- HyperFrames v0.7.55
+- HyperFrames v0.7.60
+- HyperFrames v0.7.62
+- HyperFrames v0.7.65
+- HyperFrames v0.7.72
+- HyperFrames v0.7.79
+- HyperFrames v0.7.8
+- HyperFrames v0.7.83
+- HyperFrames v0.7.87
+- HyperFrames v0.7.90
+- HyperFrames v0.7.93
+- HyperFrames v0.7.95
+- HyperFrames v0.8.106
+- HyperFrames v0.8.112
+- HyperFrames v0.8.12
+- HyperFrames v0.8.128
+- HyperFrames v0.8.135
+- HyperFrames v0.8.139
+- HyperFrames v0.8.143
+- HyperFrames v0.8.146
+- HyperFrames v0.8.168
+- HyperFrames v0.8.170
+- HyperFrames v0.8.174
+- HyperFrames v0.8.178
+- HyperFrames v0.8.179
+- HyperFrames v0.8.21
+- HyperFrames v0.8.28
+- HyperFrames v0.8.32
+- HyperFrames v0.8.48
+- HyperFrames v0.8.52
+- HyperFrames v0.8.58
+- HyperFrames v0.8.59
+- HyperFrames v0.8.61
+- HyperFrames v0.8.74
+- HyperFrames v0.8.75
+- HyperFrames v0.8.81
+- HyperFrames v0.8.83
+- HyperFrames v0.8.91
+- HyperFrames v0.8.98
+- Template: memory-wall
+- Depth-of-Field Blur (Selective Focus / Rack Focus)
+- Spring-Pop Entrance
+- 📝 BÁO CÁO PHIÊN LÀM VIỆC: SESS-016 - SẢN XUẤT VIDEO KOC REVIEW ÁO CARDIGAN 45S (MỞ MIỆNG NÓI TIẾNG VIỆT & TIKTOK SAFE ZONE)
+- 📝 TÓM TẮT CUỘC HỘI THOẠI - SESS-018
+- Depth Scatter ↔ Assemble
+- Gradient Text Sweep
+- Sound effects (SFX)
+- 📝 [MẪU] TÓM TẮT CUỘC HỘI THOẠI - SESS-XXX
+- news — category module (search-driven)
+- text module · motion vocabulary (primitive → GSAP)
+- hyperframes/skills/remotion-to-hyperframes/assets/test-corpus/run.sh
+- Distortion
+- Template: portrait-header
+- Transition Registry — machine source of truth
+- Frame worker — general-video delta
+- Linear / Push
+- kinetic-type-beats — Kinetic-Type Beats
+- Cover
+- Prompt Expansion
+- The demo.html Convention
+- Ownership matrix, usage stats, telemetry, privacy
+- Builder contract — composition rules (detail behind agents/builder.md)
+- parseFrontmatter
+- Tier 2 — title-image-outro
+- Chromatic Glitch
+- 🛠️ TOPIC 05: EXTENDED TOOLS (JOB SEARCH & MULTI-CHANNEL REACH)
+- Light
+- Template: portrait-header
+- devDependencies
+- ViewportObserver
+- Radial / Shape
+- wordPx
+- Frame worker — general-video delta
+- Reactive Displacement
+- Scale-Swap Transition
+- Sine Wave Loop (subtle jitter / bounded ambient)
+- Dissolve
+- Distortion
+- SVG Icon Enrichment
+- determinism.mdx
+- contributing.mdx
+- canary-rollouts.mdx
+- developers/cli.mdx
+- avatar-presenter.mdx
+- captions-and-recuts.mdx
+- choose-creation-path.mdx
+- faceless-explainer.mdx
+- general-video.mdx
+- hdr.mdx
+- music-to-video.mdx
+- pr-to-video.mdx
+- product-launch-video.mdx
+- code-and-prs.mdx
+- data-and-maps.mdx
+- explainers.mdx
+- prompting/motion-graphics.mdx
+- product-launch.mdx
+- recreating-references.mdx
+- visual-specs.mdx
+- docs/quickstart.mdx
+- studio-app/export.mdx
+- studio/export.mdx
+- slideshows.mdx
+- pull_request_template.md
+- Linear / Push
+- motion-sample.browser.js
+- Data Attributes
+- Templates
+- Rendering
+- User memory — preferences and recipes
+- cdp-headless-experimental.d.ts
+- SVG Path Draw
+- scripts
+- devDependencies
+- fb
+- he
+- Za
+- BrowserCanvasStub
+- paths
+- paths
+- paths
+- paths
+- AI Answer Rank editing contract
+- AI Chat Reveal editing contract
+- ChatGPT Exchange editing contract
+- Claude Exchange editing contract
+- surface.js
+- LogoRig
+- Message Thread Reveal editing contract
+- Notes Reveal editing contract
+- Notification Cascade editing contract
+- Share-Sheet Carousel editing contract
+- Slack Notification Ad editing contract
+- Rd
+- Prompt Expansion
+- The demo.html Convention
+- slit-scan-reveal
+- HyperFrames v0.6.100
+- HyperFrames v0.6.107
+- HyperFrames v0.6.111
+- HyperFrames v0.6.113
+- HyperFrames v0.6.71
+- HyperFrames v0.6.76
+- HyperFrames v0.6.81
+- HyperFrames v0.6.89
+- HyperFrames v0.6.91
+- HyperFrames v0.7.101
+- HyperFrames v0.7.103
+- HyperFrames v0.7.105
+- HyperFrames v0.7.11
+- HyperFrames v0.7.111
+- HyperFrames v0.7.16
+- HyperFrames v0.7.18
+- HyperFrames v0.7.21
+- Ownership matrix, usage stats, telemetry, privacy
+- HyperFrames v0.7.23
+- HyperFrames v0.7.3
+- HyperFrames v0.7.37
+- HyperFrames v0.7.40
+- HyperFrames v0.7.44
+- HyperFrames v0.7.49
+- HyperFrames v0.7.58
+- HyperFrames v0.7.67
+- HyperFrames v0.7.68
+- HyperFrames v0.7.7
+- HyperFrames v0.7.71
+- HyperFrames v0.7.73
+- HyperFrames v0.7.80
+- HyperFrames v0.8.105
+- HyperFrames v0.8.107
+- HyperFrames v0.8.114
+- HyperFrames v0.8.116
+- HyperFrames v0.8.117
+- HyperFrames v0.8.118
+- HyperFrames v0.8.127
+- HyperFrames v0.8.129
+- HyperFrames v0.8.13
+- HyperFrames v0.8.138
+- HyperFrames v0.8.158
+- HyperFrames v0.8.159
+- HyperFrames v0.8.163
+- HyperFrames v0.8.167
+- HyperFrames v0.8.173
+- HyperFrames v0.8.175
+- HyperFrames v0.8.177
+- HyperFrames v0.8.180
+- HyperFrames v0.8.23
+- HyperFrames v0.8.24
+- HyperFrames v0.8.31
+- HyperFrames v0.8.35
+- HyperFrames v0.8.4
+- HyperFrames v0.8.47
+- HyperFrames v0.8.49
+- HyperFrames v0.8.5
+- HyperFrames v0.8.50
+- HyperFrames v0.8.57
+- HyperFrames v0.8.65
+- HyperFrames v0.8.66
+- HyperFrames v0.8.70
+- HyperFrames v0.8.73
+- HyperFrames v0.8.78
+- HyperFrames v0.8.8
+- HyperFrames v0.8.9
+- check-no-main-deletions.mjs
+- exports
+- Template: portrait-header
+- media-use usage dashboard
+- Frame worker — general-video delta
+- Builder contract — composition rules (detail behind agents/builder.md)
+- V2EX (公开 API)
+- Compare and batch rendering
+- Prompt Expansion
+- The demo.html Convention
+- Ownership matrix, usage stats, telemetry, privacy
+- Builder contract — composition rules (detail behind agents/builder.md)
+- YouTube (yt-dlp)
+- parseFrontmatter
+- Tier 2 — title-image-outro
+- la
+- .agent/skills/embedded-captions/scripts/render-and-composite.sh
+- parseFrontmatter
+- Storyboard recipe — plan a video as stills the person approves
+- Keyframe Mechanism Reference
+- .agent/skills/media-use/audio/assets/sfx/manifest.json
+- Motion-Graphics Director
+- Tier 2 — title-image-outro
+- Director → catalog block map (reuse-first)
+- kinetic-type — category module
+- logo-reveal — category module
+- lower-thirds — category module
+- tweet — category module (search-driven)
+- webpage — category module (search-driven)
+- source phase — asset sourcing (asset-first)
+- Using `text-spectral-rays` — it OWNS its wordmark
+- Tier 1 — title-card-fade
+- Tier 4 — escape-hatch
+- la
+- sheet-spring-up.mdx
+- godrays/source/build.mjs
+- overrides
+- (MẶC ĐỊNH LÀM ĐẾN CÙNG - KHÔNG CẦN GÕ /GOAL)
+- resolutions
+- facet-morph
+- logo-brand-close
+- scroll-camera-story
+- 🌌 VMAX SYSTEM - BẢN ĐỒ TỔNG THỂ & ĐỒNG NHẤT HỆ THỐNG
+- attachComposedAncestors
+- 📝 TÓM TẮT CUỘC HỘI THOẠI - SESS-022
+- Cursor Click Ripple
+- ai/skills/embedded-captions/scripts/render-and-composite.sh
+- kinetic-type-beats — Kinetic-Type Beats
+- Cover
+- Light
+- Radial / Shape
+- Storyboard recipe — plan a video as stills the person approves
+- Keyframe Mechanism Reference
+- ai/skills/media-use/audio/assets/sfx/manifest.json
+- User memory — preferences and recipes
+- Director → catalog block map (reuse-first)
+- kinetic-type — category module
+- logo-reveal — category module
+- lower-thirds — category module
+- tweet — category module (search-driven)
+- Seam Craft — render prerequisites for scene-to-scene transitions
+- Seam Craft — render prerequisites for scene-to-scene transitions
+- Credits
+- lt-neon-border.mdx
+- motion-blur.mdx
+- webpage — category module (search-driven)
+- data-attributes.mdx
+- source phase — asset sourcing (asset-first)
+- developers/index.mdx
+- fb
+- introduction.mdx
+- generated-artwork.mdx
+- connect-your-agent.mdx
+- first-video.mdx
+- studio-app/index.mdx
+- assets-and-blocks.mdx
+- captions.mdx
+- thirty-days.mdx
+- he
+- GSAP Animation
+- ./atomic-file
+- ./audio-analysis
+- ./audio-automation
+- ./audio-carve
+- ./audio-fade
+- ./audio-fx
+- ./audio-fx-copy
+- ./audio-fx-eq
+- ./audio-fx-jobs
+- ./audio-fx-presets
+- ./audio-fx-profiles
+- ./audio-fx-runtime
+- ./audio-fx-tail
+- ./audio-gain
+- ./audio-groups
+- ./audio-leveller
+- ./canary-registry
+- ./clip-facts
+- ./color-grading
+- ./color-luts
+- ./compiler
+- ./compiler/html-document
+- ./composition-contract
+- ./composition-readiness
+- ./editing
+- ./editing/draft-markers
+- ./figma
+- ./fonts/aliases
+- ./fonts/embed
+- ./fonts/embedded-data
+- ./fonts/system-locator
+- ./generators
+- ./gsap-cdn
+- ./gsap-constants
+- ./gsap-parser
+- ./gsap-parser-acorn
+- ./gsap-writer-acorn
+- ./hf-ids
+- ./html-attr-safety
+- ./keyframe-defaults
+- ./lint
+- ./media-grade-analyzer
+- ./media-link
+- ./media-timing
+- ./media-volume-envelope
+- ./projects
+- ./registry
+- ./rich-text-sanitize
+- ./runtime/clip-window
+- ./runtime/clipTree
+- ./runtime/composition-length
+- ./runtime/custom-ease
+- ./runtime/dom-realm
+- ./runtime/levelTap
+- ./runtime/lottie-readiness
+- ./runtime/position-edits-render
+- ./runtime/protocol
+- ./runtime/stacking-context
+- ./runtime/start-expression
+- ./runtime/start-resolver
+- ./runtime/web-audio-route
+- ./slideshow
+- ./speed-ramp
+- ./spring-ease
+- ./storyboard
+- ./studio-api
+- ./studio-api/draft-markers
+- ./studio-api/finite-mutation
+- ./studio-api/manual-edits-render-script
+- ./studio-api/screenshot-clip
+- ./studio-api/studio-motion-render-script
+- ./studio-preview-mark
+- ./text
+- ./timeline-asset-id
+- ./variables
+- ./wiggle-ease
+- devDependencies
+- Za
+- Rd
+- qt
+- Using `text-spectral-rays` — it OWNS its wordmark
+- Canopy Part Title
+- Tier 1 — title-card-fade
+- ai/skills/remotion-to-hyperframes/assets/test-corpus/tier-1-title-card/remotion-src/src/Root.tsx
+- Center-Outward Expansion
+- Press-Release Spring Chain
+- Physics Press Reaction (Cursor + Element Synced)
+- kinetic-type-beats — Kinetic-Type Beats
+- k4
+- Cover
+- scripts
+- verify_fixed_dashboard.mjs
+- fb
+- Light
+- @hyperframes/core
+- Radial / Shape
+- k4
+- qt
+- HDR Regression Suite
+- many-cuts/src/script.js
+- devDependencies
+- ./encoder-options
+- ./finite-mutation
+- ./history
+- ./loudness
+- ./manual-edits-render-script
+- ./media-proxy-preview
+- ./proxy-transcoder
+- ./safe-path
+- ./screenshot-clip
+- ./source-mutation
+- ./studio-motion-render-script
+- he
+- Za
+- RoomEnvironment.js
+- Avatar Promo Card editing contract
+- norm
+- logo-assemble-lockup — Logo Assemble → Lockup
+- Nudge Curve
+- la
+- Rd
+- HyperFrames v0.6.112
+- HyperFrames v0.6.73
+- HyperFrames v0.6.90
+- HyperFrames v0.7.107
+- HyperFrames v0.7.109
+- HyperFrames v0.7.12
+- HyperFrames v0.7.15
+- HyperFrames v0.7.2
+- HyperFrames v0.7.25
+- HyperFrames v0.7.27
+- HyperFrames v0.7.30
+- HyperFrames v0.7.39
+- HyperFrames v0.7.41
+- HyperFrames v0.7.42
+- HyperFrames v0.7.51
+- HyperFrames v0.7.52
+- HyperFrames v0.7.53
+- HyperFrames v0.7.56
+- HyperFrames v0.7.64
+- HyperFrames v0.7.66
+- HyperFrames v0.7.69
+- HyperFrames v0.7.74
+- HyperFrames v0.7.75
+- HyperFrames v0.7.84
+- HyperFrames v0.7.88
+- HyperFrames v0.8.0
+- HyperFrames v0.8.1
+- HyperFrames v0.8.100
+- HyperFrames v0.8.101
+- HyperFrames v0.8.102
+- HyperFrames v0.8.108
+- HyperFrames v0.8.109
+- HyperFrames v0.8.11
+- HyperFrames v0.8.110
+- HyperFrames v0.8.113
+- HyperFrames v0.8.120
+- HyperFrames v0.8.121
+- HyperFrames v0.8.122
+- HyperFrames v0.8.123
+- HyperFrames v0.8.124
+- HyperFrames v0.8.125
+- HyperFrames v0.8.126
+- HyperFrames v0.8.134
+- HyperFrames v0.8.14
+- HyperFrames v0.8.142
+- HyperFrames v0.8.145
+- HyperFrames v0.8.15
+- HyperFrames v0.8.155
+- HyperFrames v0.8.157
+- HyperFrames v0.8.16
+- HyperFrames v0.8.160
+- HyperFrames v0.8.161
+- HyperFrames v0.8.169
+- HyperFrames v0.8.17
+- HyperFrames v0.8.171
+- HyperFrames v0.8.176
+- HyperFrames v0.8.181
+- HyperFrames v0.8.2
+- HyperFrames v0.8.25
+- HyperFrames v0.8.27
+- HyperFrames v0.8.3
+- HyperFrames v0.8.30
+- HyperFrames v0.8.37
+- HyperFrames v0.8.38
+- HyperFrames v0.8.41
+- HyperFrames v0.8.42
+- HyperFrames v0.8.43
+- HyperFrames v0.8.44
+- HyperFrames v0.8.53
+- HyperFrames v0.8.56
+- HyperFrames v0.8.62
+- HyperFrames v0.8.68
+- HyperFrames v0.8.69
+- HyperFrames v0.8.72
+- HyperFrames v0.8.77
+- HyperFrames v0.8.84
+- HyperFrames v0.8.85
+- HyperFrames v0.8.86
+- HyperFrames v0.8.89
+- HyperFrames v0.8.90
+- HyperFrames v0.8.94
+- HyperFrames v0.8.95
+- HyperFrames v0.8.97
+- HyperFrames v0.8.99
+- check-large-files.sh
+- hyperframes/skills/embedded-captions/scripts/render-and-composite.sh
+- init, capture, skills
+- Storyboard recipe — plan a video as stills the person approves
+- Keyframe Mechanism Reference
+- hyperframes/skills/media-use/audio/assets/sfx/manifest.json
+- Motion-Graphics Director
+- Finalize / repair subagent
+- Director → catalog block map (reuse-first)
+- Waterfall Entry
+- kinetic-type — category module
+- logo-reveal — category module
+- lower-thirds — category module
+- stitched-text-draw
+- tweet — category module (search-driven)
+- webpage — category module (search-driven)
+- source phase — asset sourcing (asset-first)
+- Blur
+- Mechanical
+- frame-adapters.mdx
+- smoothness.test.mjs
+- Using `text-spectral-rays` — it OWNS its wordmark
+- Tier 1 — title-card-fade
+- Tier 4 — escape-hatch
+- Theme token contract
+- Qv
+- SFX Credits
+- click
+- click-soft
+- error
+- glitch-1
+- glitch-2
+- glitch-3
+- impact-bass-1
+- impact-bass-2
+- key-press
+- notification
+- ping
+- pop
+- riser
+- sparkle
+- typing
+- whoosh
+- whoosh-cinematic
+- whoosh-short
+- Requirements & Caches
+- Es
+- line-swap
+- oversized-cursor
+- per-word-rise
+- state-chip-rail
+- stop-motion-cadence
+- Text Effects — Reference
+- norm
+- logo-assemble-lockup — Logo Assemble → Lockup
+- Nudge Curve
+- Waterfall Entry
+- Blur
+- Mechanical
+- Other
+- Scale / Zoom
+- Full-Screen Motion Pattern
+- SFX Credits
+- click
+- click-soft
+- error
+- glitch-1
+- [ MỞ BÁN - PREMIUM ] Áo Thun Nữ Chất Thun Giấy PREMIUM Vân Tuyết Hoa Mềm Mịn Tay Dài Cổ Khuy Cúc QC Phong Cách Hàn Quốc Thư Thái, Thanh Lịch, Thoải Mái  BYJANE - 702
+- seam-stamp.mjs + seam-gate.mjs — usage + ledger schema
+- seam-stamp.mjs + seam-gate.mjs — usage + ledger schema
+- ai-answer-rank.mdx
+- ai-chat-reveal.mdx
+- beat-freeze-cut.mdx
+- logo-outro.mdx
+- lower-third-bild.mdx
+- message-thread-reveal.mdx
+- notes-reveal.mdx
+- notification-cascade.mdx
+- share-sheet-carousel.mdx
+- snow.mdx
+- starfield.mdx
+- vfx-liquid-glass.mdx
+- vfx-magnetic.mdx
+- vfx-portal.mdx
+- avatar-group-hover.mdx
+- blur-in.mdx
+- blur-out-up.mdx
+- camera-scan-gate.mdx
+- camera-shake.mdx
+- caption-camera-follow.mdx
+- caption-texture.mdx
+- card-resize.mdx
+- caret-swap.mdx
+- chat-thread.mdx
+- chromatic-aberration-wipe.mdx
+- cursor-drag-drop.mdx
+- cursor-marquee-select.mdx
+- cursor-zoom-follow.mdx
+- dart-cursor.mdx
+- device-frame-stage.mdx
+- drift-hold.mdx
+- focus-blur-resolve.mdx
+- gesture-tap.mdx
+- gloss-sweep.mdx
+- icon-morph-beat.mdx
+- line-by-line-slide.mdx
+- magnetic-cursor.mdx
+- match-cut.mdx
+- matrix-decode.mdx
+- menu-morph.mdx
+- multi-device-splay.mdx
+- multiplayer-cursors.mdx
+- notification-pileup.mdx
+- offset-path-traveler.mdx
+- glitch-2
+- pan-stations.mdx
+- parallax-device-dive.mdx
+- per-word-crossfade.mdx
+- pull-to-refresh.mdx
+- rgb-glitch-text.mdx
+- rubber-band-bumper.mdx
+- scan-band.mdx
+- shared-axis-y.mdx
+- shared-axis-z.mdx
+- slot-machine-roll.mdx
+- glitch-3
+- streaming-text.mdx
+- success-check.mdx
+- swipe-rail.mdx
+- tabs-slide-indicator.mdx
+- text-shimmer.mdx
+- text-stagger.mdx
+- text-state-swap.mdx
+- toggle-flip.mdx
+- top-down-letters.mdx
+- torn-paper-rip.mdx
+- tracing-beam.mdx
+- type-match-cut.mdx
+- variable-axis-type.mdx
+- vector-editor-rig.mdx
+- velocity-throw-snap.mdx
+- zoom-through-transition.mdx
+- anatomy.mdx
+- iterating.mdx
+- impact-bass-1
+- reference/color-grading.mdx
+- impact-bass-2
+- key-press
+- ./chrome-host-ceiling
+- ./shader-transitions
+- publishConfig
+- repository
+- scripts
+- repository
+- ./adapters/headless
+- ./adapters/memory
+- dependencies
+- publishConfig
+- repository
+- repository
+- notification
+- amix-nesting-spike.sh
+- ping
+- pop
+- Source for assets/frost.js and assets/motion.js
+- Scale-Swap Transition
+- riser
+- Catalog artifact
+- HyperFrames v0.6.103
+- HyperFrames v0.6.105
+- HyperFrames v0.6.109
+- HyperFrames v0.6.110
+- HyperFrames v0.6.116
+- HyperFrames v0.6.117
+- HyperFrames v0.6.119
+- HyperFrames v0.6.120
+- HyperFrames v0.6.121
+- HyperFrames v0.6.52
+- HyperFrames v0.6.72
+- HyperFrames v0.6.77
+- HyperFrames v0.6.78
+- HyperFrames v0.6.79
+- HyperFrames v0.6.83
+- HyperFrames v0.6.84
+- HyperFrames v0.6.86
+- HyperFrames v0.6.88
+- HyperFrames v0.7.10
+- HyperFrames v0.7.102
+- HyperFrames v0.7.104
+- HyperFrames v0.7.13
+- HyperFrames v0.7.14
+- HyperFrames v0.7.24
+- HyperFrames v0.7.28
+- HyperFrames v0.7.31
+- HyperFrames v0.7.32
+- HyperFrames v0.7.33
+- HyperFrames v0.7.34
+- HyperFrames v0.7.35
+- HyperFrames v0.7.36
+- HyperFrames v0.7.48
+- HyperFrames v0.7.5
+- HyperFrames v0.7.63
+- HyperFrames v0.7.70
+- HyperFrames v0.7.76
+- HyperFrames v0.7.81
+- HyperFrames v0.7.82
+- HyperFrames v0.7.89
+- HyperFrames v0.7.9
+- HyperFrames v0.7.94
+- HyperFrames v0.7.97
+- HyperFrames v0.7.98
+- HyperFrames v0.7.99
+- HyperFrames v0.8.10
+- HyperFrames v0.8.103
+- HyperFrames v0.8.104
+- HyperFrames v0.8.111
+- HyperFrames v0.8.119
+- HyperFrames v0.8.130
+- HyperFrames v0.8.131
+- HyperFrames v0.8.132
+- HyperFrames v0.8.133
+- HyperFrames v0.8.136
+- HyperFrames v0.8.137
+- HyperFrames v0.8.140
+- HyperFrames v0.8.141
+- HyperFrames v0.8.147
+- HyperFrames v0.8.148
+- HyperFrames v0.8.153
+- HyperFrames v0.8.154
+- HyperFrames v0.8.162
+- HyperFrames v0.8.164
+- HyperFrames v0.8.165
+- HyperFrames v0.8.166
+- HyperFrames v0.8.172
+- HyperFrames v0.8.18
+- HyperFrames v0.8.19
+- HyperFrames v0.8.20
+- HyperFrames v0.8.22
+- HyperFrames v0.8.26
+- HyperFrames v0.8.29
+- HyperFrames v0.8.39
+- HyperFrames v0.8.40
+- HyperFrames v0.8.46
+- HyperFrames v0.8.54
+- HyperFrames v0.8.55
+- HyperFrames v0.8.6
+- HyperFrames v0.8.64
+- HyperFrames v0.8.67
+- HyperFrames v0.8.71
+- HyperFrames v0.8.88
+- HyperFrames v0.8.92
+- HyperFrames v0.8.93
+- HyperFrames v0.8.96
+- sparkle
+- SFX Credits
+- click
+- click-soft
+- error
+- glitch-1
+- glitch-2
+- glitch-3
+- impact-bass-1
+- impact-bass-2
+- key-press
+- notification
+- ping
+- pop
+- riser
+- sparkle
+- typing
+- whoosh
+- whoosh-cinematic
+- whoosh-short
+- Requirements & Caches
+- typing
+- whoosh
+- whoosh-cinematic
+- Dissolve
+- Distortion
+- NAVIE - Quần short kaki ORINA cạp thấp viền ren thời trang nữ
+- Project-local Codex CLI skills
+- Project-local Claude Code skills
+- app-showcase.mdx
+- apple-money-count.mdx
+- blue-sweater-intro-video.mdx
+- whoosh-short
+- canopy-part-title.mdx
+- chatgpt-exchange.mdx
+- claude-exchange.mdx
+- editorial-flash-overlay.mdx
+- exploded-stack.mdx
+- extruded-logo.mdx
+- flowchart.mdx
+- flowchart-vertical.mdx
+- freeze-frame-dressing.mdx
+- frost.mdx
+- frost-sequence-camera-orbit.mdx
+- glass-hero.mdx
+- glass-shard-title.mdx
+- goo.mdx
+- gooey-split.mdx
+- heygen-avatar-promo-card.mdx
+- holographic.mdx
+- hw-frame.mdx
+- hw-path-text.mdx
+- hw-pipeline.mdx
+- hw-scribble-transition.mdx
+- hw-text-cloud.mdx
+- hw-title.mdx
+- hw-write-title.mdx
+- instagram-follow.mdx
+- ios26-liquid-glass.mdx
+- liquid-glass-notification.mdx
+- liquid-glass-widgets.mdx
+- lt-accent-underline.mdx
+- lt-bold-block.mdx
+- lt-clean-bar.mdx
+- lt-color-block.mdx
+- lt-dark-card.mdx
+- lt-kicker-name.mdx
+- lt-mask-reveal.mdx
+- lt-side-rule.mdx
+- lt-soft-pill.mdx
+- lt-stack-bars.mdx
+- macos-notification.mdx
+- macos-tahoe-liquid-glass.mdx
+- mk-callout-highlight.mdx
+- mk-clone-wall-transition.mdx
+- mk-line-graph.mdx
+- mk-progress-stat.mdx
+- mk-specs-list.mdx
+- news-ticker.mdx
+- north-korea-locked-down.mdx
+- nyc-paris-flight.mdx
+- orbit-card.mdx
+- organic-light-leak-overlay.mdx
+- product-turntable.mdx
+- reddit-post.mdx
+- slack-notification-ad.mdx
+- spotify-card.mdx
+- thread-message-stack.mdx
+- tiktok-follow.mdx
+- transitions-3d.mdx
+- transitions-blur.mdx
+- transitions-cover.mdx
+- transitions-destruction.mdx
+- transitions-distortion.mdx
+- transitions-grid.mdx
+- transitions-light.mdx
+- transitions-mechanical.mdx
+- transitions-other.mdx
+- transitions-push.mdx
+- transitions-radial.mdx
+- transitions-scale.mdx
+- vfx-iphone-device.mdx
+- vfx-shatter.mdx
+- vpn-youtube-spot.mdx
+- water.mdx
+- waveform.mdx
+- wireframe-portal-title.mdx
+- x-post.mdx
+- yt-comment-card.mdx
+- yt-logo-intro.mdx
+- yt-lower-third.mdx
+- yt-prism-title.mdx
+- arc-motion-path.mdx
+- camera-rig-depth-stack.mdx
+- caption-editorial-emphasis.mdx
+- caption-emoji-pop.mdx
+- caption-gradient-fill.mdx
+- caption-highlight.mdx
+- caption-kinetic-slam.mdx
+- caption-matrix-decode.mdx
+- caption-neon-accent.mdx
+- caption-neon-glow.mdx
+- caption-parallax-layers.mdx
+- caption-pill-karaoke.mdx
+- caption-weight-shift.mdx
+- confetti.mdx
+- extended-keyframe.mdx
+- grain-overlay.mdx
+- grid-pixelate-wipe.mdx
+- hw-arrow.mdx
+- hw-boil.mdx
+- hw-box-label.mdx
+- hw-callout-circle.mdx
+- hw-underline.mdx
+- keyframe-scrub-stack.mdx
+- mesh-gradient-bg.mdx
+- mk-emphasis-type.mdx
+- mk-usage-arc.mdx
+- morph-text.mdx
+- onboarding-stepper-flow.mdx
+- parallax-zoom.mdx
+- settings-toggle-flow.mdx
+- shimmer-sweep.mdx
+- shutter-slam.mdx
+- spotlight-card.mdx
+- stagger-lattice.mdx
+- svg-line-draw-loader.mdx
+- terminal-simulator.mdx
+- three-orbiting-cards.mdx
+- vignette.mdx
+- x-follow-card.mdx
+- yt-camera-move.mdx
+- yt-circle-pointer.mdx
+- yt-feather-highlight.mdx
+- yt-screen-warp.mdx
+- adopters.mdx
+- go-further.mdx
+- prompting/examples.mdx
+- CatalogGallery
+- 🎬 INTEGRATION NOTE: HYPERFRAMES (HeyGen)
+- ai/skills/remotion-to-hyperframes/scripts/tests/fixtures/clean.tsx
+- HyperFrames Core Changelog
+- de-gatecheck.sh
+- Producer Parity Fixtures
+- Source attribution
+- TimelineDropInsertionLine.tsx
+- tailwind-preset.ts
+- composition-reliability/package.json
+- design-panel-qa/package.json
+- halftone-dissolve.mdx
+- line-swap.mdx
+- Source for lib/shaders.iife.js
+- HyperFrames v0.6.87
+- v0.8.33
+- edit-accuracy-shard.sh
+- logo-brand-close.mdx
+- MockResizeObserver
+- .agent/skills/embedded-captions/modes/cinematic/cinematic-cream/spec.md
+- .agent/skills/embedded-captions/scripts/prepare.sh
+- .agent/skills/embedded-captions/scripts/render-theme.sh
+- .agent/skills/hyperframes-cli/references/beats.md
+- .agent/skills/hyperframes-core/references/minimal-composition.md
+- .agent/skills/hyperframes-creative/references/design-adherence.md
+- .agent/skills/media-use/references/audio.md
+- .agent/skills/remotion-to-hyperframes/assets/test-corpus/tier-2-multi-scene/setup.sh
+- .agent/skills/remotion-to-hyperframes/assets/test-corpus/tier-4-escape-hatch/validate.sh
+- .agent/skills/remotion-to-hyperframes/scripts/frame_strip.sh
+- .agent/skills/remotion-to-hyperframes/scripts/render_diff.sh
+- .agent/skills/remotion-to-hyperframes/scripts/tests/smoke.sh
+- .agent/skills/talking-head-recut/NOTICE.md
+- physical-exit.mdx
+- stitched-text-draw.mdx
+- telemetry-hud.mdx
+- variable-font-flex.mdx
+- srcdoc
+- fontCssFor
+- ransomChipCss
+- LUT library (authoring)
+- ai/skills/embedded-captions/modes/cinematic/cinematic-cream/spec.md
+- ai/skills/embedded-captions/scripts/prepare.sh
+- ai/skills/embedded-captions/scripts/render-theme.sh
+- ai/skills/hyperframes-cli/references/beats.md
+- ai/skills/hyperframes-core/references/minimal-composition.md
+- catalog/index.mdx
+- workflows.mdx
+- manifest.d.mts
+- complex.serialized.js
+- de-canary-suite.sh
+- dogs-captions/src/script.js
+- hdr-regression/NOTICE.md
+- hyperframes-player.d.ts
+- composition-reliability/README.md
+- ghost-lane/hyperframes.json
+- studio-open/README.md
+- webmcp-edit-loop/README.md
+- cut-the-curve
+- Other
+- cuboid-motion.js
+- optics.ts
+- releases/README.md
+- base-file.sh
+- install-workspace-dependencies.sh
+- broken-citation.md
+- test-reachability.md
+- upload-docs-images.sh
+- hyperframes/skills/embedded-captions/modes/cinematic/cinematic-cream/spec.md
+- hyperframes/skills/embedded-captions/scripts/prepare.sh
+- hyperframes/skills/embedded-captions/scripts/render-theme.sh
+- hyperframes/skills/hyperframes-cli/references/beats.md
+- hyperframes/skills/hyperframes-core/references/minimal-composition.md
+- hyperframes/skills/hyperframes-creative/references/design-adherence.md
+- hyperframes/skills/media-use/references/audio.md
+- hyperframes/skills/remotion-to-hyperframes/assets/test-corpus/tier-2-multi-scene/setup.sh
+- hyperframes/skills/remotion-to-hyperframes/assets/test-corpus/tier-4-escape-hatch/validate.sh
+- hyperframes/skills/remotion-to-hyperframes/scripts/frame_strip.sh
+- hyperframes/skills/remotion-to-hyperframes/scripts/render_diff.sh
+- hyperframes/skills/remotion-to-hyperframes/scripts/tests/smoke.sh
+- hyperframes/skills/talking-head-recut/NOTICE.md
+- updates/README.md
+- la
+- Scale / Zoom
+- ai/skills/hyperframes-creative/references/design-adherence.md
+- Full-Screen Motion Pattern
+- repository
+- ai/skills/media-use/references/audio.md
+- fb
+- he
+- Za
+- Rd
+- ai/skills/motion-graphics/references/shot-plan-ir.md
+- ai/skills/remotion-to-hyperframes/assets/test-corpus/tier-2-multi-scene/setup.sh
+- ai/skills/remotion-to-hyperframes/assets/test-corpus/tier-4-escape-hatch/validate.sh
+- .agent/skills/remotion-to-hyperframes/scripts/tests/fixtures/clean.tsx
+- test_new_ingestion_ui.mjs
+- ai/skills/remotion-to-hyperframes/scripts/frame_strip.sh
+- ai/skills/remotion-to-hyperframes/scripts/render_diff.sh
+- ai/skills/remotion-to-hyperframes/scripts/tests/smoke.sh
+- hyperframes/skills/remotion-to-hyperframes/scripts/tests/fixtures/clean.tsx
+- camcorder-hud.mdx
+- inspect_dashboard_ego.mjs
+- Dissolve
+- la
+- fb
+- he
+- Za
+- Rd
+- Boss直聘
+- Exa AI 搜索
+- 小红书 / XiaoHongShu（多后端）
+- 网页阅读
+- KỊCH BẢN KOC AI: Áo Thun Giấy Tay Dài Cổ Henley Byjane Form Suông (SP-BJ-001)
+- KỊCH BẢN KOC AI: Áo Khoác Cardigan Len Mỏng Dáng Rộng Nàng Thơ SuChang (SP-CD-005)
+- KỊCH BẢN KOC AI: Quần Jean Nữ Ống Rộng Cạp Cao Vintage Retro Hàn Quốc (SP-QJ-003)
+- KỊCH BẢN KOC AI: Quần Short Nắp Túi Cạp Trễ Tôn Dáng Y2K Năng Động (SP-QS-004)
+- KỊCH BẢN KOC AI: Quần Tây Ống Suông Lưng Cao Vải Tuyết Mưa Hack Dáng 1m7 (SP-QT-002)
+- KỊCH BẢN KOC AI: Túi Xách Nữ Kẹp Nách Da Mềm Đính Dây Xích Bạc MOLLIX (SP-TX-007)
+- KỊCH BẢN KOC AI: Váy Body Tay Dài Cổ Vuông Tôn Dáng Phối Ren LAVENDER (SP-VB-006)
+- MockResizeObserver
+- Za
+- groupTraces
+- unresolvedFields
+- Visual Techniques Reference
+- fb
+- he
+- Za
+- Rd
+- 金融行情
+- tweenSpan
+- norm
+- Oc
+- Mechanical
+- Xb
+- Yb
+- Scale / Zoom
+- hyperframes/skills/remotion-to-hyperframes/assets/test-corpus/tier-4-escape-hatch/cases/03-async-metadata.tsx
+- fontCssFor
+- ransomChipCss
+- .agent/skills/hyperframes-animation/transitions/css-3d.md
+- inspect_dashboard.mjs
+- .agent/skills/hyperframes-animation/transitions/css-destruction.md
+- .agent/skills/hyperframes-animation/transitions/css-grid.md
+- LUT library (authoring)
+- .agent/skills/remotion-to-hyperframes/assets/test-corpus/tier-4-escape-hatch/cases/07-custom-hook.tsx
+- fontCssFor
+- ransomChipCss
+- hyperframes/skills/remotion-to-hyperframes/assets/test-corpus/tier-4-escape-hatch/cases/07-custom-hook.tsx
+- .agent/skills/media-use/references/grading.md
+- .agent/skills/motion-graphics/references/shot-plan-ir.md
+- dreamina_submit.mjs
+
+## God Nodes (most connected - your core abstractions)
+1. `usePlayerStore` - 383 edges
+2. `TimelineElement` - 378 edges
+3. `DomEditSelection` - 327 edges
+4. `Ns()` - 291 edges
+5. `Ft()` - 260 edges
+6. `Or()` - 224 edges
+7. `push()` - 207 edges
+8. `initSandboxRuntimeModular()` - 190 edges
+9. `ke()` - 183 edges
+10. `GsapAnimation` - 163 edges
+
+## Surprising Connections (you probably didn't know these)
+- `7. QUY CHUẨN CÔNG CỤ DỰNG & BIÊN TẬP VIDEO CHÍNH THỨC: HEYGEN HYPERFRAMES (MẶC ĐỊNH BẮT BUỘC)` --references--> `HyperFramesEngine`  [INFERRED]
+  AGENTS.md → src/gobi/services/media/hyperframes_engine.py
+- `7. QUY CHUẨN CÔNG CỤ DỰNG & BIÊN TẬP VIDEO CHÍNH THỨC: HEYGEN HYPERFRAMES (MẶC ĐỊNH BẮT BUỘC)` --references--> `HyperFramesEngine`  [INFERRED]
+  ai/AGENTS.md → src/gobi/services/media/hyperframes_engine.py
+- `5. Agent runtime trong code` --references--> `AgentOS`  [INFERRED]
+  ai/CAPABILITIES.md → src/gobi/services/os_kernel.py
+- `Step 0: Setup` --references--> `capture()`  [INFERRED]
+  ai/skills/faceless-explainer/SKILL.md → scripts/tiktok/capture_ber_video.py
+- `Step 0: Setup` --references--> `capture()`  [INFERRED]
+  ai/skills/product-launch-video/SKILL.md → scripts/tiktok/capture_ber_video.py
+
+## Import Cycles
+- None detected.
+
+## Communities (3673 total, 467 thin omitted)
+
+### Community 0 - "os"
+Cohesion: 0.01
+Nodes (141): authenticate(), generate_bgm(), main(), parse_args(), authenticate(), generate_bgm(), main(), parse_args() (+133 more)
+
+### Community 1 - "manualEditsDom.ts"
+Cohesion: 0.01
+Nodes (307): STUDIO_HEIGHT_PROP, STUDIO_MANUAL_EDIT_GESTURE_ATTR, STUDIO_OFFSET_X_PROP, STUDIO_OFFSET_Y_PROP, STUDIO_WIDTH_PROP, compositions/captions.html, CommitPatch, DraftPayload (+299 more)
+
+### Community 2 - "playerStore.ts"
+Cohesion: 0.00
+Nodes (1094): MusicBeatAnalysis, CaptionTimeline, clamp(), clampToNeighbors(), KEYFRAME_DRAG_THRESHOLD_PX, KeyframeDragResult, previewClipPct(), resolveKeyframeDrag() (+1086 more)
+
+### Community 3 - "DomEditSelection"
+Cohesion: 0.01
+Nodes (905): Features, COLOR_GRADING_SOURCE_HIDDEN_ATTR, KEYFRAME_PROPERTY_DEFAULTS, document(), classifyPropertyGroup(), classifyTweenPropertyGroup(), GSAP_DEFAULT_DURATION, isTweenConfigKey() (+897 more)
+
+### Community 4 - "channels/__init__.py"
+Cohesion: 0.02
+Nodes (71): Channel, BilibiliChannel, _search_api_ok(), ExaSearchChannel, FacebookChannel, GitHubChannel, get_channel(), InstagramChannel (+63 more)
+
+### Community 5 - "changelog.mdx"
+Cohesion: 0.00
+Nodes (865): Breaking, Breaking Changes, Catalog, Catalog, Catalog, Catalog, Catalog, Catalog (+857 more)
+
+### Community 6 - "studio/src/index.ts"
+Cohesion: 0.01
+Nodes (473): Hooks and utilities, locked(), AskAgentModal(), AskAgentModalProps, getAgentModalPositionStyle(), authored, buildHarness(), CommitCall (+465 more)
+
+### Community 7 - "domEditing.ts"
+Cohesion: 0.01
+Nodes (264): formatClipLine(), HyperframePickerElementInfo, AgentPromptElementInfo, buildAgentContextPreview(), buildElementAgentPrompt(), buildElementDetailLines(), buildElementInfoLines(), buildPickerAgentContextPreview() (+256 more)
+
+### Community 9 - "runtime/colorGrading.ts"
+Cohesion: 0.02
+Nodes (183): clampUnit(), CubeLut3D, CubeLutParseError, CubeLutVec3, DEFAULT_DOMAIN_MAX, DEFAULT_DOMAIN_MIN, DEFAULT_MAX_CUBE_LUT_SIZE, isNumericDataLine() (+175 more)
+
+### Community 10 - "runtime/types.ts"
+Cohesion: 0.02
+Nodes (126): Call, createPlayer(), createTimeline(), testGsapAdapterFallsBackToSeek(), testGsapAdapterPreservesTotalTime(), testSeekUsesDeterministicGsapPath(), target(), SvgSelectorAliases (+118 more)
+
+### Community 11 - "frost.js"
+Cohesion: 0.00
+Nodes (287): gf(), a1(), addMaterial(), addToneMapping(), addType(), Ae(), af(), age() (+279 more)
+
+### Community 13 - "ProbeResult"
+Cohesion: 0.04
+Nodes (62): _extension_installed_on_disk(), _fetch_daemon_status(), opencli_status(), opencli_summary(), OpenCLIStatus, _unpacked_extension_files_present(), _has_js_runtime_config(), YouTubeChannel (+54 more)
+
+### Community 14 - "player/index.ts"
+Cohesion: 0.01
+Nodes (552): tagName(), applyAuthoredTiming(), AttributeValueFor, dataProperty(), fanOutAttributeInSource(), isSelected(), keyOf(), linkedPartnerTargets() (+544 more)
+
+### Community 15 - "checkPipeline.ts"
+Cohesion: 0.01
+Nodes (623): openBrowser(), OpenBrowserResult, printManualInstructions(), setPlatform(), resolveLocalBrowserGpuMode(), BrowserCleanupError, browsers, closeBrowser() (+615 more)
+
+### Community 16 - "studioApiFetch"
+Cohesion: 0.01
+Nodes (373): event(), y(), normalizeTimelineCompositionSource(), pending, PendingProbe, probeSourceElement(), ProbeTarget, sendBatch() (+365 more)
+
+### Community 17 - "producer/src/index.ts"
+Cohesion: 0.02
+Nodes (319): Architecture, Deploying, Package Exports, Related topics, Using the SDK, When to Use, RenderPlan, disabled() (+311 more)
+
+### Community 18 - "media-use/lib/manifest.mjs"
+Cohesion: 0.14
+Nodes (42): cacheEntryDir(), cacheGet(), cacheGetByEntity(), cachePut(), contentHash(), findGlobalBySha(), importFromCache(), isComplete() (+34 more)
+
+### Community 19 - "For AI Agents"
+Cohesion: 0.09
+Nodes (21): Agent Reach — Installation Guide, ⚠️ Boundaries, 📁 Directory Rules, For AI Agents, For Humans, Goal, Quick Reference, Step 1: Install the basics (+13 more)
+
+### Community 21 - "runtime/init.test.ts"
+Cohesion: 0.03
+Nodes (110): AFTER_FONTS_SCRIPTS, assetUrl(), installAuthoredOpacityCapture(), recordStartupError(), parseThenLoad(), bootstrapHyperframeRuntime(), HyperframeWindow, startAfterCompositionScripts() (+102 more)
+
+### Community 22 - "timelineMoveAdapter.test.ts"
+Cohesion: 0.38
+Nodes (5): persistTimelineMoveEditsAtomically(), element(), MoveArgs, runMove(), twoLaneEdits()
+
+### Community 23 - "cli.py"
+Cohesion: 0.01
+Nodes (170): _explicit_github_credentials(), _gh_hosts_path(), GitHubConfigError, _saved_github_host_configured(), _parse_ytdlp_version(), _classify_github_response_error(), _classify_update_error(), _cmd_check_update() (+162 more)
+
+### Community 24 - "services/htmlCompiler.ts"
+Cohesion: 0.01
+Nodes (279): AssemblyAttributed, AssemblyQueryable, CompositionAssemblyInput, CompositionAssemblyPlan, countPageRoot(), enumerateNestedCompositionHosts(), executableScripts(), extractedCompositionAssets() (+271 more)
+
+### Community 25 - "XueqiuChannel"
+Cohesion: 0.03
+Nodes (44): _ensure_cookies(), _get_json(), _inject_cookie_string(), _load_cookies_from_config(), _strip_html(), XueqiuChannel, [1.0.0] - 2025-02-24, [1.1.0] - 2025-02-25 (+36 more)
+
+### Community 26 - "ref_react"
+Cohesion: 0.01
+Nodes (415): BLOCK_CATEGORIES, BlockCategory, BlockParam, resolveBlockCategory(), STUDIO_PREVIEW_ERRORS, getTimelineSelectionSet(), StudioApp(), StudioAppProps (+407 more)
+
+### Community 27 - "renderOrchestrator.ts"
+Cohesion: 0.01
+Nodes (479): fullObservability, fullPerf, opts, trackRenderComplete, trackRenderError, renderFailureDiagnostic(), renderMachineDiagnostic(), capture() (+471 more)
+
+### Community 28 - "RedditChannel"
+Cohesion: 0.11
+Nodes (20): RedditChannel, TestRedditChannel, _opencli(), test_can_handle_matches_reddit_hosts(), test_can_handle_rejects_non_reddit(), test_check_all_errors_returns_error_and_no_active_backend(), test_check_no_backend_installed_is_off(), test_check_opencli_bridge_ready_is_unverified() (+12 more)
+
+### Community 29 - ".agent/skills/remotion-to-hyperframes/scripts/lint_source.py"
+Cohesion: 0.04
+Nodes (25): _find_matching_paren(), Finding, lint_file(), main(), _regex_matcher(), Rule, _use_effect_with_deps(), _find_matching_paren() (+17 more)
+
+### Community 30 - "hyperframeLinter.ts"
+Cohesion: 0.05
+Nodes (50): Features, `lint`, Browser usage, `lint`, componentsDir, invalidDemoMedia(), invalidInstallableMedia(), RegistryManifest (+42 more)
+
+### Community 32 - "captureHdrStage.ts"
+Cohesion: 0.03
+Nodes (118): applyDomLayerMask(), captureAlphaPng(), initTransparentBackground(), removeDomLayerMask(), createFrameReorderBuffer(), StreamingEncoder, isVideoHiddenBeforeStreamStart(), TimelineExtractionWindow (+110 more)
+
+### Community 33 - "orbit-card/assets/three.module.min.js"
+Cohesion: 0.01
+Nodes (39): dp, up(), ba, bi, Bn, Br(), er(), fa (+31 more)
+
+### Community 34 - "engine/src/services/chunkEncoder.ts"
+Cohesion: 0.02
+Nodes (216): Build a render service, Cancel a render, Choose an output, HLS, Related topics, fpsToFfmpegArg(), fpsToNumber(), ABSOLUTE_PATH (+208 more)
+
+### Community 36 - "transcribe.py"
+Cohesion: 0.03
+Nodes (45): _cmd_transcribe(), _assert_safe_public_url(), chunk_audio(), compress_audio(), download_audio(), _is_private_ip(), _literal_ip(), MissingDependency (+37 more)
+
+### Community 38 - "describeProject.ts"
+Cohesion: 0.01
+Nodes (314): AudioTarget, fileTime(), FilmQuery, filmTargets(), matches(), placementOf(), soundingRows(), targetOf() (+306 more)
+
+### Community 39 - "utils.ts"
+Cohesion: 0.05
+Nodes (58): attrs(), hasComputedTimelineRegistration(), addUnescapedDigitIds(), coreRules, cssIdSelector(), describeRootDimensionsDrift(), describeSizeMismatch(), digitIdsTargetedBySelectors() (+50 more)
+
+### Community 41 - "cuboid-carousel/assets/three.module.min.js"
+Cohesion: 0.01
+Nodes (46): up(), n(), A(), B(), F(), j(), L(), U() (+38 more)
+
+### Community 42 - "V2EXChannel"
+Cohesion: 0.03
+Nodes (48): _get_json(), _get_json_with_curl(), _get_json_with_urllib(), _is_unexpected_tls_eof(), _v2ex_url(), V2EXChannel, _validate_api_url(), create_server() (+40 more)
+
+### Community 43 - "parsers/src/compositionContract.ts"
+Cohesion: 0.08
+Nodes (38): CANONICAL_AUTHORED_TIMING_ATTRIBUTES, ClipAttributeReader, ClipAttributeWriter, ClipTiming, ClipTimingDiagnostic, ClipTimingDiagnosticCode, ClipTimingUpdate, ClipTimingWriteError (+30 more)
+
+### Community 44 - "di"
+Cohesion: 0.03
+Nodes (11): Cr, di, fi(), jn, rd, ud, vr, t() (+3 more)
+
+### Community 45 - "commands/init.ts"
+Cohesion: 0.01
+Nodes (417): Paste it into your composition, Related topics, Variables, Catalog, Features, The terminal and the desktop app stay in step, removeBackground(), RemoveBackgroundDevice (+409 more)
+
+### Community 46 - "omnivoice.py"
+Cohesion: 0.01
+Nodes (87): Adapter Inference, Adapter Merging, Checkpoint Structure, Configuration, Installation, Launching Training, LoRA Finetuning, Resuming Training (+79 more)
+
+### Community 47 - "projectHistory.ts"
+Cohesion: 0.04
+Nodes (56): BlobStore, FolderIdentity, applyEntry(), applyRecord(), baselineRecord(), foldOldest(), HistoryEntry, HistoryFileChange (+48 more)
+
+### Community 49 - "hyperframes-slideshow.ts"
+Cohesion: 0.04
+Nodes (37): AutoplayPollState, childrenMayStillArrive(), dropInvalidSlides(), escHtml(), Hotspot, injectKeyframesOnce(), isPlayerElement(), isSlideshowMediaElement() (+29 more)
+
+### Community 50 - "test_auth_guidance_policy.py"
+Cohesion: 0.10
+Nodes (10): _policy_documents(), test_localized_readmes_do_not_advertise_retired_channels(), test_localized_readmes_keep_current_bilibili_and_xhs_routes(), test_public_guidance_never_installs_the_unrelated_pypi_package(), test_public_guidance_never_puts_secrets_in_process_arguments(), test_skill_explains_unverified_backend_state(), test_twitter_operational_docs_explain_the_environment_boundary(), test_video_reference_has_content_level_youtube_fallbacks() (+2 more)
+
+### Community 51 - "skills.ts"
+Cohesion: 0.03
+Nodes (115): driftLine(), fresh, hashOf(), here, isCheck, outPath, repoRoot, reportDrift() (+107 more)
+
+### Community 52 - "handler.ts"
+Cohesion: 0.02
+Nodes (211): Path 1 — `hyperframes lambda` CLI (recommended), Pre-staging a project with `sites create`, Upgrading from a version before shared content storage, Architecture, Building the Handler ZIP, Package Exports, Related topics, Using the CDK Construct (+203 more)
+
+### Community 53 - "pr"
+Cohesion: 0.03
+Nodes (16): ah, bi(), dp, Ei(), ga, hh, hp, nh (+8 more)
+
+### Community 54 - "failCommand"
+Cohesion: 0.01
+Nodes (578): Paste it into your composition, Related topics, Variables, Paste it into your composition, Related topics, Variables, decodeAudio(), DecodeWindow (+570 more)
+
+### Community 56 - "commands/render.ts"
+Cohesion: 0.01
+Nodes (519): due, H264EncoderMode, BrowserInstallFacts, isMacosOldChromeCrashError(), macosOldChromeCrashRemediation(), isWindowsChromeCrashError(), windowsChromeCrashRemediation(), dirs (+511 more)
+
+### Community 57 - "trackStudioEvent"
+Cohesion: 0.02
+Nodes (222): cleanup(), DesignPanelPromoteProvider(), PersistDeps, env, FALSY_ENV_VALUES, resolveStudioBooleanEnvFlag(), STUDIO_API_SAME_ORIGIN_CREDENTIALS, STUDIO_FLAT_INSPECTOR_ENABLED (+214 more)
+
+### Community 58 - "marble/lib/shaders.iife.js"
+Cohesion: 0.01
+Nodes (151): 4(), 5(), B8(), beginOcclusionQuery(), bh(), bR(), bv(), C5() (+143 more)
+
+### Community 59 - "catalog-payload-assets.ts"
+Cohesion: 0.07
+Nodes (53): applyOutcome(), AssetContext, AssetResult, AssetTarget, cacheAsset(), CandidateOutcome, capturedRefs(), chargeRead() (+45 more)
+
+### Community 60 - "mesh-gradient/lib/shaders.iife.js"
+Cohesion: 0.01
+Nodes (149): 4(), 5(), A8(), B8(), beginOcclusionQuery(), bh(), bR(), bv() (+141 more)
+
+### Community 61 - "plasma/lib/shaders.iife.js"
+Cohesion: 0.01
+Nodes (169): ok(), 4(), 5(), A8(), B8(), beginOcclusionQuery(), bh(), bR() (+161 more)
+
+### Community 62 - "sun-burst/lib/shaders.iife.js"
+Cohesion: 0.01
+Nodes (149): 4(), 5(), A8(), B8(), beginOcclusionQuery(), bh(), bR(), bv() (+141 more)
+
+### Community 63 - "light-edge/lib/shaders.iife.js"
+Cohesion: 0.01
+Nodes (161): R8(), 4(), 5(), ad(), aW(), b0(), B8(), beginOcclusionQuery() (+153 more)
+
+### Community 65 - "format_xhs_result"
+Cohesion: 0.16
+Nodes (3): format_xhs_result(), _cmd_format(), TestFormatXhsResult
+
+### Community 66 - "constructor"
+Cohesion: 0.07
+Nodes (37): ax(), az(), b6(), cG(), constructor(), createBindGroup(), createBuffer(), createMutable() (+29 more)
+
+### Community 67 - "ref_puppeteer_core"
+Cohesion: 0.03
+Nodes (118): `browser`, main(), parseExecutablePath(), `browser`, resolveCaptureBrowserGpuMode(), resolveLocalWebGpu(), probe, launchCompositionBrowser() (+110 more)
+
+### Community 68 - "readAttr"
+Cohesion: 0.08
+Nodes (54): lintDuplicateAudioTracks(), lintProjectAudioFiles(), elementSelector(), isCaptionCue(), isCompositionRootOrMount(), missingTimelineFinding(), mountsSource(), negativeZIndexFinding() (+46 more)
+
+### Community 69 - "draft-changelog.ts"
+Cohesion: 0.07
+Nodes (57): renderMdxWeeklyBullet(), commit(), validateCliVersion(), assertNoSkippedTags(), BOOLEAN_OPTIONS, BooleanOptionKey, capitalize(), categorizeCommit() (+49 more)
+
+### Community 70 - "ConcatProjectBuilder"
+Cohesion: 0.11
+Nodes (4): run(), ConcatEngine, ConcatProjectBuilder, create_affiliate_tiktok_concat_project()
+
+### Community 71 - "zh"
+Cohesion: 0.03
+Nodes (15): ah, ch, dh, hh, ih, jh, Ji, mh (+7 more)
+
+### Community 72 - "BeatStrip.tsx"
+Cohesion: 0.06
+Nodes (62): strengthAtTime(), audioRelPathForSrc(), beatFilePathForSrc(), parseBeats(), analysisCache, cacheAnalysis(), loadBeatAnalysis(), MusicAnalysis (+54 more)
+
+### Community 73 - "ai/skills/media-use/audio/scripts/audio.mjs"
+Cohesion: 0.02
+Nodes (124): Mood inference (the generate prompt), anomalies, argv, audioMeta, bgmFields, bgmModeOverride, HERE, hyperframesDir (+116 more)
+
+### Community 74 - "spiral/lib/shaders.iife.js"
+Cohesion: 0.01
+Nodes (155): 4(), 5(), A8(), ad(), B8(), beginOcclusionQuery(), bh(), bR() (+147 more)
+
+### Community 75 - "Et"
+Cohesion: 0.02
+Nodes (154): addEventListener(), aG(), _allocateTarget(), _applyGGXFilter(), _applyPMREM(), begin(), Bh(), _bundleNeedsUpdate() (+146 more)
+
+### Community 76 - "waveform/lib/shaders.iife.js"
+Cohesion: 0.01
+Nodes (149): 4(), 5(), A8(), B8(), beginOcclusionQuery(), bh(), bR(), bv() (+141 more)
+
+### Community 77 - "context.ts"
+Cohesion: 0.08
+Nodes (36): buildLintContext(), LintContext, HtmlSource, isAuthoredScript(), linkedScripts(), lintProjectShaderScripts(), localScript(), adapterRules (+28 more)
+
+### Community 78 - "clipToolAttrs.ts"
+Cohesion: 0.03
+Nodes (114): activeAudioFxPresetIds(), ParsedInsetClipPathSides, committedClipPath(), CropPresetBarState, CropPresetBarTarget, isCropBarTarget(), useCropPresetBarStore, Box (+106 more)
+
+### Community 80 - "fractal-noise/lib/shaders.iife.js"
+Cohesion: 0.01
+Nodes (155): 4(), 5(), A8(), ad(), B8(), beginOcclusionQuery(), bh(), bR() (+147 more)
+
+### Community 81 - "lens-flare/lib/shaders.iife.js"
+Cohesion: 0.01
+Nodes (161): Of(), 4(), 5(), ad(), aW(), b0(), B8(), beginOcclusionQuery() (+153 more)
+
+### Community 82 - "color-wheel/lib/shaders.iife.js"
+Cohesion: 0.01
+Nodes (161): 4(), 5(), ad(), B8(), beginOcclusionQuery(), bh(), bR(), bv() (+153 more)
+
+### Community 83 - "jy"
+Cohesion: 0.06
+Nodes (64): aM(), arrayBuffer(), az(), Bs(), By(), C1(), compileWriter(), createBindGroup() (+56 more)
+
+### Community 84 - "PersistAdapter"
+Cohesion: 0.02
+Nodes (79): `createFsAdapter(opts)` — Node.js local dev, `createMemoryAdapter()` — tests and demos, Flushing pending writes, Handling write failures, Implementing a custom adapter, Options, Shipped adapters, Contract summary (+71 more)
+
+### Community 85 - "engine/src/utils/urlDownloader.ts"
+Cohesion: 0.05
+Nodes (78): AnimatedGifMetadata, acquireCachePathLock(), assertAllowedDownloadUrl(), assertPublicHttpsUrl(), CacheLockObservation, cancelResponseBody(), checksumMismatchError(), classifyDownloadFailure() (+70 more)
+
+### Community 86 - "flowing-gradient/lib/shaders.iife.js"
+Cohesion: 0.01
+Nodes (150): 4(), 5(), A8(), ad(), B8(), beginOcclusionQuery(), bh(), bR() (+142 more)
+
+### Community 87 - "holographic/lib/shaders.iife.js"
+Cohesion: 0.01
+Nodes (155): 4(), 5(), A8(), ad(), B8(), beginOcclusionQuery(), bh(), bR() (+147 more)
+
+### Community 88 - "stripes/lib/shaders.iife.js"
+Cohesion: 0.01
+Nodes (175): 4(), 5(), A8(), ad(), B8(), beginOcclusionQuery(), bh(), bR() (+167 more)
+
+### Community 89 - "core.types.ts"
+Cohesion: 0.03
+Nodes (115): What's inside, ExecutionMode, Orientation, calculateZoomTransform(), cssString(), cssValue(), elementSelector(), escapeHtmlAttributeValue() (+107 more)
+
+### Community 90 - "ai/skills/pr-to-video/SKILL.md"
+Cohesion: 0.02
+Nodes (96): Before you finish — checklist, Caption-band keep-out (plan side), Inventing the visual — diagrams, type, data-viz, Layout — named inline per Scene, Palette & type — from `frame.md`, never invented, Pick the shape — instantiate a blueprint, Portrait & square (non-16:9 canvases), The unit is a time-coded shot sequence (+88 more)
+
+### Community 91 - "desktopApp.ts"
+Cohesion: 0.05
+Nodes (78): Studio as parts, not one app, AGENTS, examples, oneLine(), printNews(), printNotHandedOver(), printTurn(), run() (+70 more)
+
+### Community 92 - "blob/lib/shaders.iife.js"
+Cohesion: 0.01
+Nodes (155): 4(), 5(), A8(), ad(), B8(), beginOcclusionQuery(), bh(), bR() (+147 more)
+
+### Community 95 - "frost/lib/shaders.iife.js"
+Cohesion: 0.01
+Nodes (155): 4(), 5(), A8(), ad(), B8(), beginOcclusionQuery(), bh(), bR() (+147 more)
+
+### Community 96 - "KOCVoiceCloner"
+Cohesion: 0.12
+Nodes (8): 🎯 1. BỐI CẢNH & MỤC TIÊU CUỘC HỘI THOẠI, ⚙️ 2. CÁC HÀNH ĐỘNG KỸ THUẬT ĐÃ TRIỂN KHAI, 🏆 3. KẾT QUẢ ĐẠT ĐƯỢC & BẰNG CHỨNG (PROOF-OF-WORK), 🧠 4. BÀI HỌC KINH NGHIỆM ĐÚC KẾT ĐƯỢC (LSN-011), ⏭️ 5. BƯỚC TIẾP THEO (NEXT ACTIONS), 📝 TÓM TẮT CUỘC HỘI THOẠI - SESS-015, main(), KOCVoiceCloner
+
+### Community 97 - "constructor"
+Cohesion: 0.04
+Nodes (59): Ak(), as(), bk(), $c(), compileWriter(), constructor(), createMutable(), createSampler() (+51 more)
+
+### Community 98 - "sequences.mjs"
+Cohesion: 0.09
+Nodes (57): blurPreview(), chord(), controlDrag(), measure(), measureCase(), measureControl(), nextFrame(), nudgeGesture() (+49 more)
+
+### Community 99 - "heatmap/lib/shaders.iife.js"
+Cohesion: 0.01
+Nodes (175): 4(), 5(), A8(), ad(), B8(), beginOcclusionQuery(), bh(), bR() (+167 more)
+
+### Community 100 - "gif.ts"
+Cohesion: 0.22
+Nodes (17): clearGifFramesBeforeNext(), colorTableByteLength(), disposalOf(), frameLayouts(), gifClearsAfterLeavingFrameInPlace(), GifFrameLayout, normalizeDelayCentiseconds(), parseAnimatedGifMetadata() (+9 more)
+
+### Community 101 - "sine-wave/lib/shaders.iife.js"
+Cohesion: 0.01
+Nodes (155): 4(), 5(), A8(), ad(), B8(), beginOcclusionQuery(), bh(), bR() (+147 more)
+
+### Community 102 - "voiceover-carve.mdx"
+Cohesion: 0.22
+Nodes (8): Carve a bed, Common problems, Point it at a group, not at clips, Related topics, Set the strength, What it writes, What should happen, When to use it
+
+### Community 103 - "constructor"
+Cohesion: 0.10
+Nodes (21): compileWriter(), constructor(), createMutable(), createSampler(), Fk(), GU(), H5(), j5() (+13 more)
+
+### Community 104 - "gabor-noise/lib/shaders.iife.js"
+Cohesion: 0.01
+Nodes (161): H2(), 4(), 5(), ad(), aW(), b0(), B8(), beginOcclusionQuery() (+153 more)
+
+### Community 105 - "ZodiacAccountManager"
+Cohesion: 0.14
+Nodes (4): handle_account_command(), AccountStatus, ZodiacAccount, ZodiacAccountManager
+
+### Community 106 - "rules/composition.ts"
+Cohesion: 0.08
+Nodes (35): CanvasZoomHit, canvasZoomHits(), canvasZoomInRule(), classTokens(), CLIP_MEDIA_TAGS, collectAllDeclaredVariableIds(), collectDeclaredVariableIds(), collectHeavyOverlayHooks() (+27 more)
+
+### Community 107 - "strands/lib/shaders.iife.js"
+Cohesion: 0.01
+Nodes (155): 4(), 5(), A8(), ad(), B8(), beginOcclusionQuery(), bh(), bR() (+147 more)
+
+### Community 108 - "jy"
+Cohesion: 0.06
+Nodes (64): aM(), arrayBuffer(), az(), Bs(), By(), C1(), compileWriter(), createBindGroup() (+56 more)
+
+### Community 109 - "worley-noise/lib/shaders.iife.js"
+Cohesion: 0.01
+Nodes (169): 4(), 5(), ad(), B8(), beginOcclusionQuery(), bh(), bR(), bv() (+161 more)
+
+### Community 110 - "qt"
+Cohesion: 0.06
+Nodes (41): beginComputePass(), bx(), Df(), dR(), ep(), eR(), g(), gR() (+33 more)
+
+### Community 111 - "FakeCtx"
+Cohesion: 0.16
+Nodes (3): FakeCtx, FakeNode, FakeWorkletNode
+
+### Community 112 - "aurora/lib/shaders.iife.js"
+Cohesion: 0.01
+Nodes (172): 4(), 5(), A8(), B8(), beginOcclusionQuery(), bh(), bR(), bv() (+164 more)
+
+### Community 113 - "godrays/lib/shaders.iife.js"
+Cohesion: 0.01
+Nodes (146): 4(), 5(), A8(), ad(), aG(), al(), B8(), beginOcclusionQuery() (+138 more)
+
+### Community 114 - "hologram/lib/shaders.iife.js"
+Cohesion: 0.01
+Nodes (155): 4(), 5(), A8(), ad(), B8(), beginOcclusionQuery(), bh(), bR() (+147 more)
+
+### Community 115 - "liquid-metal/lib/shaders.iife.js"
+Cohesion: 0.01
+Nodes (159): 4(), 5(), ad(), B8(), beginComputePass(), beginOcclusionQuery(), bh(), bR() (+151 more)
+
+### Community 116 - "plastic/lib/shaders.iife.js"
+Cohesion: 0.01
+Nodes (149): 4(), 5(), A8(), B8(), beginOcclusionQuery(), bh(), bR(), bv() (+141 more)
+
+### Community 117 - "useTrackDesignInput"
+Cohesion: 0.02
+Nodes (179): HfColorGradingAdjustKey, HfColorGradingDetailKey, HfColorGradingEffectKey, MainShader, audioFxSummary(), isTextEditableSelection(), GsapAddAnimationControl(), GsapAnimationList() (+171 more)
+
+### Community 118 - "prism/lib/shaders.iife.js"
+Cohesion: 0.01
+Nodes (153): rM(), 4(), 5(), ad(), B8(), beginOcclusionQuery(), bh(), bR() (+145 more)
+
+### Community 119 - "Re"
+Cohesion: 0.08
+Nodes (42): asString(), bw(), completeStruct(), createComputePipeline(), createGuardedComputePipeline(), createRenderPipeline(), $d(), D4() (+34 more)
+
+### Community 120 - "ripples/lib/shaders.iife.js"
+Cohesion: 0.01
+Nodes (169): 4(), 5(), ad(), B8(), beginOcclusionQuery(), bh(), bR(), bv() (+161 more)
+
+### Community 121 - "swirl/lib/shaders.iife.js"
+Cohesion: 0.01
+Nodes (155): 4(), 5(), A8(), ad(), B8(), beginOcclusionQuery(), bh(), bR() (+147 more)
+
+### Community 122 - "propertyPanelHelpers.ts"
+Cohesion: 0.04
+Nodes (121): ArcPathControls, BorderRadiusEditor(), BorderRadiusEditorProps, buildRoundedRectPath(), clampRadius(), Corner, scaleRadius(), buildClipPathValue() (+113 more)
+
+### Community 123 - "Rt"
+Cohesion: 0.08
+Nodes (37): Ak(), as(), aT(), bk(), bx(), cG(), Df(), dy() (+29 more)
+
+### Community 124 - "create"
+Cohesion: 0.09
+Nodes (30): Paste it into your composition, Related topics, durationOf(), create(), applyOptions(), applyTune(), configure(), dispose() (+22 more)
+
+### Community 125 - "voronoi/lib/shaders.iife.js"
+Cohesion: 0.01
+Nodes (155): 4(), 5(), A8(), ad(), B8(), beginOcclusionQuery(), bh(), bR() (+147 more)
+
+### Community 126 - "report.mjs"
+Cohesion: 0.09
+Nodes (39): From the command line, accurate(), bankable(), comment(), flipped(), gate(), GATED_PX, gridOf() (+31 more)
+
+### Community 127 - "water/lib/shaders.iife.js"
+Cohesion: 0.01
+Nodes (155): 4(), 5(), A8(), ad(), B8(), beginOcclusionQuery(), bh(), bR() (+147 more)
+
+### Community 128 - "videoFrameExtractor.ts"
+Cohesion: 0.01
+Nodes (269): Arc paths, setArcPath, updateArcSegment, config(), measureWithFfprobe(), signal(), FpsInput, toFps() (+261 more)
+
+### Community 129 - "ai/skills/remotion-to-hyperframes/SKILL.md"
+Cohesion: 0.02
+Nodes (89): The lint output already includes recommendations, The recommendation message, What the interop pattern actually does, When NOT to bow out: warnings only, When the source has BOTH blockers AND warnings, When to bow out: the runtime interop pattern, When to recommend interop, CI integration (+81 more)
+
+### Community 130 - "unwrap"
+Cohesion: 0.04
+Nodes (69): appendToTrace(), areEqual(), beginComputePass(), Bf(), $c(), constructor(), createMutable(), createSampler() (+61 more)
+
+### Community 131 - "ii"
+Cohesion: 0.05
+Nodes (6): Gi, hd, hi(), ii(), Yi, zi
+
+### Community 134 - "fc"
+Cohesion: 0.08
+Nodes (8): bc, dc, fc, gc, mc, pc, wc, yc
+
+### Community 135 - "yE"
+Cohesion: 0.04
+Nodes (77): 8(), aT(), az(), Bs(), By(), c8(), configureContext(), createBindGroup() (+69 more)
+
+### Community 136 - "Creator Editing Recipes"
+Cohesion: 0.02
+Nodes (89): Dependencies, ffprobe(), Add media (image, video, audio), Align a sound to an on-screen event, Audio alignment, Clip-path wipe / reveal / mask / split-screen, Constant speed / slow motion, Copy a group of clips to another time (+81 more)
+
+### Community 137 - "falling-lines/lib/shaders.iife.js"
+Cohesion: 0.01
+Nodes (167): 4(), 5(), A8(), ad(), B8(), beginComputePass(), beginOcclusionQuery(), bh() (+159 more)
+
+### Community 138 - "unwrap"
+Cohesion: 0.05
+Nodes (56): appendToTrace(), areEqual(), ax(), beginComputePass(), beginRenderPass(), Bf(), $c(), createView() (+48 more)
+
+### Community 139 - "chrome-orb/lib/shaders.iife.js"
+Cohesion: 0.01
+Nodes (160): 4(), 5(), A8(), B8(), beginOcclusionQuery(), bh(), bR(), bv() (+152 more)
+
+### Community 140 - "ai/skills/hyperframes-animation/SKILL.md"
+Cohesion: 0.04
+Nodes (25): agent-progress-theater — Agent Progress Theater, comparison-split — Comparison Split-Cards, constellation-hub — Constellation / Hub + Satellites, cta-morph-press — CTA Morph & Press, cursor-ui-demo — Cursor-Driven UI Demo, dataviz-countup — Data-Viz / Count-Up, device-surface-showcase — Device / Surface Showcase, fixed-anchor-cycle — Fixed Anchor, Cycling World (+17 more)
+
+### Community 141 - "fc"
+Cohesion: 0.18
+Nodes (13): fc(), K5(), kG(), Nf(), ny(), qa(), qz(), setIndexBuffer() (+5 more)
+
+### Community 142 - "nebula/lib/shaders.iife.js"
+Cohesion: 0.01
+Nodes (155): 4(), 5(), A8(), ad(), aG(), al(), B8(), beginOcclusionQuery() (+147 more)
+
+### Community 143 - "planValidation.ts"
+Cohesion: 0.17
+Nodes (21): collectFontFamilyCustomProperties(), extractRequestedFontFamilies(), GENERIC_FAMILIES, isFetchableFamilyName(), iterateFontFamilyDeclarations(), parseFontFamilyValue(), primaryCssVariable(), resolveDeclaredFamilies() (+13 more)
+
+### Community 144 - "goo/lib/shaders.iife.js"
+Cohesion: 0.01
+Nodes (155): 4(), 5(), A8(), ad(), B8(), beginOcclusionQuery(), bh(), bR() (+147 more)
+
+### Community 145 - "test_boss_channel.py"
+Cohesion: 0.04
+Nodes (45): BossChannel, _cdp_json(), _cdp_zhipin_login_cookie(), _chrome_launch_command(), _has_zhipin_page(), _read_ws_text_frame(), _security_check_blocks_all(), _send_ws_text() (+37 more)
+
+### Community 146 - "obsidian/lib/shaders.iife.js"
+Cohesion: 0.01
+Nodes (158): 4(), 5(), A8(), advanceBy(), B8(), beginOcclusionQuery(), bh(), bR() (+150 more)
+
+### Community 147 - "thin-film/lib/shaders.iife.js"
+Cohesion: 0.01
+Nodes (155): 4(), 5(), A8(), ad(), B8(), beginOcclusionQuery(), bh(), bR() (+147 more)
+
+### Community 148 - "propertyPanelColorCurveGraph.tsx"
+Cohesion: 0.06
+Nodes (61): compileCurveSamples(), compileHfColorCurve(), compileHfHueCurve(), endpointSlope(), HF_COLOR_CURVE_LUT_SIZE, HF_COLOR_CURVE_MAX_POINTS, interpolateCurveSegment(), pointSlopes() (+53 more)
+
+### Community 149 - "htmlDocument.ts"
+Cohesion: 0.04
+Nodes (87): getRuntimeScriptUrl(), injectInterceptor(), carriesCompositionId(), DocumentTag, escapeCaseInsensitiveToken(), escapeInlineScriptSource(), findDocumentTag(), findOuterTemplateClose() (+79 more)
+
+### Community 150 - "unwrap"
+Cohesion: 0.05
+Nodes (55): appendToTrace(), areEqual(), beginRenderPass(), Bf(), $c(), CU(), cz(), D4() (+47 more)
+
+### Community 151 - "qr"
+Cohesion: 0.03
+Nodes (8): ep, go, mo, po, qr, sd, sp, xc
+
+### Community 153 - "_gen/client.ts"
+Cohesion: 0.05
+Nodes (54): apiBaseUrl(), buildAuthHeaders(), resolveCredential(), forceRefreshCredentials(), parseDateOrUndef(), refreshIfNeeded(), resolveCloudAuthHeaders(), resolveCloudBaseUrl() (+46 more)
+
+### Community 154 - "cn"
+Cohesion: 0.18
+Nodes (20): 2(), AB(), aC(), an(), cn(), eC(), Hs(), iC() (+12 more)
+
+### Community 155 - "commands/history.ts"
+Cohesion: 0.05
+Nodes (63): Paste it into your composition, Related topics, Variables, ago(), common, conflictText(), endedTurnText(), entryOf() (+55 more)
+
+### Community 156 - "jr"
+Cohesion: 0.08
+Nodes (29): $c(), D4(), fc(), H6(), i7(), jr(), K5(), kG() (+21 more)
+
+### Community 157 - "pathlib"
+Cohesion: 0.01
+Nodes (75): MANDATORY VIDEO POST-PRODUCTION DIRECTIVE: HEYGEN HYPERFRAMES, Core Rules for All Agents, Gobi Social - Claude Code & Agent Directives, graphify, Key Commands, Project Overview, Skills & Agents Registry, 🎯 1. BỐI CẢNH & MỤC TIÊU CUỘC HỘI THOẠI (+67 more)
+
+### Community 158 - "README_ko.md"
+Cohesion: 0.10
+Nodes (19): Agent Reach가 필요한 이유, 🍪 Cookies — 무료, 2분, FAQ (AI 검색용), 🌐 Proxy — 월 $1, 서버 전용, Star History, 관련 프로젝트, 기여, 라이선스 (+11 more)
+
+### Community 159 - "get"
+Cohesion: 0.05
+Nodes (79): a0(), add(), arrayBuffer(), BM(), Bs(), configureContext(), createBindGroup(), DE() (+71 more)
+
+### Community 160 - "test.sh"
+Cohesion: 0.33
+Nodes (4): HOME, PYTHONDONTWRITEBYTECODE, test.sh script, XDG_CONFIG_HOME
+
+### Community 161 - "engine/src/index.ts"
+Cohesion: 0.02
+Nodes (212): applyConcreteGpuScreenshotClamp(), assertEngineConfigEnum(), assertEngineConfigNumber(), assertPositiveEngineConfigNumber(), BOOLEAN_ENGINE_CONFIG_FIELDS, DEFAULT_CONFIG, defaultExtractCacheDir(), ENUM_ENGINE_CONFIG_FIELDS (+204 more)
+
+### Community 162 - "@hyperframes/player"
+Cohesion: 0.04
+Nodes (42): Comments, Development, Linting & Formatting, Running Tests, Type-safety conventions, Adding or removing shader transitions, Adjusting shader transitions, How the skeleton handles this (+34 more)
+
+### Community 163 - "README_ja.md"
+Cohesion: 0.11
+Nodes (18): 🍪 Cookie — 無料、2分, FAQ（AI検索向け）, Star History, お問い合わせ, すぐに使える機能, 🔌 すべてのチャンネルはプラグ可能, なぜ Agent Reach？, クイックスタート (+10 more)
+
+### Community 164 - "helpers/loudness.ts"
+Cohesion: 0.05
+Nodes (80): byId(), examples, existingAudioFile(), fail(), LIMIT_TEXT, measuredAbsolutePlan(), measuredPlan(), ModePlan (+72 more)
+
+### Community 165 - "constructor"
+Cohesion: 0.04
+Nodes (59): Ak(), as(), bk(), $c(), compileWriter(), constructor(), createMutable(), createSampler() (+51 more)
+
+### Community 166 - "engine/src/services/frameCapture.ts"
+Cohesion: 0.01
+Nodes (264): MEDIA_RENDER_ID_ATTR, MEDIA_VISUAL_STYLE_PROPERTIES, MediaVisualStyleProperty, quantizeSeekTime(), quantizeTimeToFrame(), safeFps(), safeTime(), snapTimeToFrameBoundary() (+256 more)
+
+### Community 167 - "propertyPanelColorSecondary.tsx"
+Cohesion: 0.09
+Nodes (37): analyzeColorGradingFrame(), buildColorGradingSecondaryMatte(), byteIndex(), ColorGradingScopeAnalysis, ColorGradingScopeMode, colorGradingSecondaryMask(), pixelOffset(), readColorGradingFramePixels() (+29 more)
+
+### Community 168 - "write"
+Cohesion: 0.07
+Nodes (51): 0(), 2(), 3(), AB(), aC(), an(), b(), c8() (+43 more)
+
+### Community 169 - "files.ts"
+Cohesion: 0.01
+Nodes (676): attrOf(), carveSources(), decode(), DEFAULT_STRENGTH, detectTracks(), escapeAttr(), fail(), groupSourceRefusal() (+668 more)
+
+### Community 170 - "login.ts"
+Cohesion: 0.10
+Nodes (49): UserInfo, isAuthError(), assertOAuthConfiguredOrExit(), persistVerifiedOAuthSession(), configDir(), CREDENTIAL_FILENAME, credentialPath(), clearOAuth() (+41 more)
+
+### Community 171 - "se"
+Cohesion: 0.03
+Nodes (147): a0(), A8(), aA(), add(), Ap(), aT(), atomic(), ay() (+139 more)
+
+### Community 172 - "jP"
+Cohesion: 0.11
+Nodes (32): $1(), al(), aM(), Bg(), C1(), dd(), eM(), fromBase() (+24 more)
+
+### Community 173 - "hr"
+Cohesion: 0.10
+Nodes (4): hr, ma, or, sc
+
+### Community 174 - "timelineElementHelpers.ts"
+Cohesion: 0.01
+Nodes (332): AudioFades, clamp01(), clampFadesToDuration(), fadeGain(), finiteFadeSeconds(), formatFadeSeconds(), HF_AUDIO_FADE_IN_ATTR, HF_AUDIO_FADE_IN_DATA_KEY (+324 more)
+
+### Community 175 - "gradientValue.ts"
+Cohesion: 0.06
+Nodes (68): position(), CHROME_147_FILL_STYLE, CHROME_147_RELATIVE_SRGB, loadColorModulesWithChromeCanvas(), canResolveInBrowser(), clampAlpha(), clampChannel(), COMMA_RGB (+60 more)
+
+### Community 176 - "fromBase"
+Cohesion: 0.11
+Nodes (32): $1(), aG(), al(), aM(), Bg(), C1(), dd(), eM() (+24 more)
+
+### Community 177 - "ref_node_util"
+Cohesion: 0.04
+Nodes (56): resolveNpxCliPath(), resolveNpxInvocation(), mergeTokensToWords(), dist, root, atomicWrite(), inputPath, outPath (+48 more)
+
+### Community 178 - "sdk/src/index.ts"
+Cohesion: 0.01
+Nodes (188): Other Changes, Disabling SDK undo, Font and image variable overrides, Full example, Host-owned undo via `applyPatches()`, Opening with overrides, Override set key format, Reading the current delta (+180 more)
+
+### Community 179 - "unwrap"
+Cohesion: 0.05
+Nodes (55): appendToTrace(), areEqual(), beginRenderPass(), Bf(), $c(), CU(), cz(), D4() (+47 more)
+
+### Community 180 - "fromBase"
+Cohesion: 0.11
+Nodes (32): $1(), aG(), al(), aM(), Bg(), C1(), dd(), eM() (+24 more)
+
+### Community 181 - "fade"
+Cohesion: 0.02
+Nodes (105): Paste it into your composition, Related topics, Variables, Paste it into your composition, Related topics, Variables, Paste it into your composition, Related topics (+97 more)
+
+### Community 182 - "🌟 GOBI SOCIAL: Autonomous AI KOC & Social Media Intelligence System"
+Cohesion: 0.11
+Nodes (18): 1. Cài đặt môi trường, 2. Thiết lập biến môi trường, 3. Kiểm tra vi phạm chính sách kịch bản (Policy Compliance Check), 4. Sinh Prompt KOC chuẩn 36 góc quay, 5. Render Video Review Gobi Boutique 9:16, 6. Khởi chạy Giao diện Giám sát Tự động hóa Trực quan, 7. Tải Source Video TikTok Không Logo (SnapTik Module), 🛡️ CÔNG CỤ QUÉT CHÍNH SÁCH & VOICE CLONER (TOOLS & COMPLIANCE) (+10 more)
+
+### Community 183 - "fromBase"
+Cohesion: 0.11
+Nodes (32): $1(), aG(), al(), aM(), Bg(), C1(), dd(), eM() (+24 more)
+
+### Community 185 - "🌷 TIKTOK SHOP AFFILIATE MASTER PROFILE - GOBI BOUTIQUE (KOC AI GOBI)"
+Cohesion: 0.25
+Nodes (7): 1. THÔNG TIN TÀI KHOẢN TIKTOK THỰC TẾ (LIVE ACCOUNT STATUS), 2. ĐỊNH VỊ PERSONA & GIÁ TRỊ CỐT LÕI (BRAND IDENTITY & USP), 3. CÁC DANH MỤC SẢN PHẨM REVIEW CHỦ LỰC (AFFILIATE NICHES), 4. BỘ CÔNG THỨC LỜI THOẠI & HOOK KOC GOBI (SPEECH & CALL TO ACTION), 5. CẤU HÌNH VOICE ENGINE & VIDEO MASTERING, 6. LỘ TRÌNH TRIỂN KHAI VÀ LIÊN KẾT TIKTOK SHOP, 🌷 TIKTOK SHOP AFFILIATE MASTER PROFILE - GOBI BOUTIQUE (KOC AI GOBI)
+
+### Community 186 - "Blocks"
+Cohesion: 0.03
+Nodes (67): All types, Caption blocks, Contributing a Block or Component to the Registry, Quality Gate, Step 1: Clarify, Step 2: Scaffold, Step 3: Build, Step 4: Validate (+59 more)
+
+### Community 187 - "CAPABILITIES.md"
+Cohesion: 0.01
+Nodes (131): 1. CHÍNH SÁCH KHÔNG XẢ RÁC THƯ MỤC GỐC (ZERO-ROOT-POLLUTION), 2. BẢN ĐỒ VỊ TRÍ ĐẶT FILE MỚI BẮT BUỘC, 3. NGUYÊN TẮC TÍCH HỢP REPO NGOẠI VI (INTEGRATIONS PROTOCOL), SENIOR BACKEND ARCHITECTURE & REPOSITORY GOVERNANCE STANDARDS, 1. NGUYÊN TẮC CỐT LÕI: TUYỆT ĐỐI KHÔNG BỎ CUỘC (NEVER SURRENDER PROTOCOL), 2.1. Môi trường Trình duyệt: Ego Lite (Mặc định), 2.2. Vượt cơ chế phòng thủ Anti-Bot (TikTok, Google, Cloudflare), 2.3. Xử lý Đa Tab & Cửa sổ Popup OAuth (+123 more)
+
+### Community 188 - "ai/skills/hyperframes/SKILL.md"
+Cohesion: 0.03
+Nodes (55): Capability menu — what HyperFrames can bring to a video, Genre lenses — the shipped workflows' taste, borrowable, The design ask — have it, pick it, or leave it, Adapt orthogonal inputs first, BRIEF.md frontmatter — the carry-away artifact, The eight steps, The intent layer — one conversation, before any workflow runs, Pitch round — the intent layer's divergent step (+47 more)
+
+### Community 189 - "Media elements"
+Cohesion: 0.07
+Nodes (30): `audio_carve_ungrouped_sources`, `audio_group_carve_attr`, `audio_group_no_members`, `audio_group_timing_attrs`, `audio_volume_double_automation`, `audio_volume_tween_overrides_gain`, `base64_media_prohibited`, `color_grading_invalid_json` (+22 more)
+
+### Community 190 - "fromBase"
+Cohesion: 0.11
+Nodes (32): $1(), aG(), al(), aM(), Bg(), C1(), dd(), eM() (+24 more)
+
+### Community 191 - "propertyPanelFlatMediaSection.tsx"
+Cohesion: 0.07
+Nodes (57): RATE_RANGE, AUDIO_GAIN_FADER_MAX, AUDIO_GAIN_FADER_MIN, audioDbToGain(), audioFaderPositionToGain(), audioGainToDb(), audioGainToFaderPosition(), audioGainToText() (+49 more)
+
+### Community 192 - "grade-compare.ts"
+Cohesion: 0.06
+Nodes (62): buildCompareSuccessPayload(), capCompareVariants(), cleanupPreparedCompareVariants(), CompareSuccessPayload, CompareVariantCapResult, CompareVariantSpec, defaultCompareCols(), defaultLabelForPath() (+54 more)
+
+### Community 193 - "ref_fs"
+Cohesion: 0.01
+Nodes (489): faces, FAMILY, FILES, fs, OUT, outKb, path, seenFamilies (+481 more)
+
+### Community 194 - "Rt"
+Cohesion: 0.09
+Nodes (31): aG(), Ak(), as(), aT(), bk(), cG(), dy(), fo() (+23 more)
+
+### Community 195 - "build-hyperframes-runtime-artifact.ts"
+Cohesion: 0.05
+Nodes (35): distDir, escapedSource, esmBuild, esmPath, iifePath, inlineModulePath, manifest, manifestPath (+27 more)
+
+### Community 196 - "probeStage.ts"
+Cohesion: 0.02
+Nodes (122): Capture frames, Related topics, What else the package exposes, Why it is different from screen recording, captureFrame(), captureFrameToBuffer(), closeCaptureSession(), createCaptureSession() (+114 more)
+
+### Community 197 - "heygen-cli.mjs"
+Cohesion: 0.08
+Nodes (33): bgmProvider, ACTIONABLE_MESSAGES, classifyHeygenError(), classifyHeygenErrorCode(), classifyHeygenErrorResult(), consumeHeygenRemediation(), flushHeygenFailureTracking(), HEYGEN_AUTH_COMMAND (+25 more)
+
+### Community 199 - "ParentMediaManager"
+Cohesion: 0.07
+Nodes (11): isRealmElement(), isRealmHtmlMediaElement(), setupPoster(), hasCompositionAncestor(), selectMediaObserverTargets(), warnOnUnscopedTimedMedia(), ParentMediaManager, ProxyEntry (+3 more)
+
+### Community 200 - "Unlimited Email Routing & Multi-Account Email Matrix Skill"
+Cohesion: 0.14
+Nodes (13): 🎯 1. NGUYÊN TẮC CỐT LÕI (CORE ARCHITECTURE), 2.1. Cơ chế Subdomain Catch-All, 2.2. Quy trình Tự động hóa qua Ego Lite, 🚀 2. PHƯƠNG PHÁP 1: MIỄN PHÍ 100% QUA ADDY.IO (ANONADDY), 3.1. Các bước thiết lập:, 🌐 3. PHƯƠNG PHÁP 2: TÊN MIỀN RIÊNG QUA CLOUDFLARE EMAIL ROUTING, 4.1. Cập nhật tên miền mới vào hệ sinh thái, 4.2. Xem bảng trạng thái 12 tài khoản chòm sao (+5 more)
+
+### Community 201 - "write"
+Cohesion: 0.06
+Nodes (60): az(), Bs(), By(), createBindGroup(), createReadonly(), createTexture(), createUniform(), DB() (+52 more)
+
+### Community 202 - "fs"
+Cohesion: 0.14
+Nodes (7): page, timestamps, page, page, times, page, page
+
+### Community 203 - "measure"
+Cohesion: 0.15
+Nodes (14): cw(), Fa(), fork(), hasKey(), JC(), maxSize(), measure(), measureCompile() (+6 more)
+
+### Community 211 - "社交媒体 & 社区"
+Cohesion: 0.14
+Nodes (14): B站 / Bilibili, Facebook（OpenCLI，必须登录态）, Instagram（OpenCLI，必须登录态）, Reddit（多后端，必须登录态）, search 失败时的重试链（按序执行，成功即停）, Twitter/X (twitter-cli), 可能不稳定的命令, 后端 A：OpenCLI（桌面首选，复用浏览器登录态） (+6 more)
+
+### Community 213 - "useRenderQueue.ts"
+Cohesion: 0.02
+Nodes (130): CrashFeedbackPrompt(), askedThisSession(), DETRACTOR_FOLLOW_UP, FeedbackContext, FeedbackReason, FeedbackRequest, FOLLOW_UPS, followUpFor() (+122 more)
+
+### Community 214 - "studio/src/telemetry/canary.ts"
+Cohesion: 0.08
+Nodes (41): canaryDecisionsForStudio(), canaryEventProperties(), decideCanary(), decisions, isCanaryEnabled(), resolveCanary(), telemetryActive(), configState (+33 more)
+
+### Community 215 - ".clone"
+Cohesion: 0.04
+Nodes (7): Cr, hi(), ii(), Jl(), vr, zi, C()
+
+### Community 216 - "videoState.ts"
+Cohesion: 0.06
+Nodes (75): finishArtifactCleanup(), kinds, managedPath(), markCleaned(), PendingArtifactCleanup, planArtifactCleanup(), protectedRevisions(), records() (+67 more)
+
+### Community 217 - "unwrap"
+Cohesion: 0.04
+Nodes (69): appendToTrace(), areEqual(), beginComputePass(), Bf(), $c(), constructor(), createMutable(), createSampler() (+61 more)
+
+### Community 218 - "Story design — PR → narrative"
+Cohesion: 0.04
+Nodes (57): diff(), Code vocabulary — the `code-*` animation blocks, Install + use, PR beat → block cheat-sheet, Showing behavior — the mechanism beat (not a `code-*` block), The animation blocks, The `code-snippet-*` theme family (standalone, not palettes), Clarity / rhetoric technique catalog (+49 more)
+
+### Community 224 - "write"
+Cohesion: 0.08
+Nodes (28): By(), cw(), dispatchThreads(), dispatchWorkgroups(), dS(), Fa(), fork(), Gy() (+20 more)
+
+### Community 225 - "motionShot.ts"
+Cohesion: 0.08
+Nodes (51): applyOrbitCamera(), applyOrbitCameraIfAngled(), cameraLabel(), captureGhostFrame(), captureGhostOnionSkin(), captureMarkerOnionSkin(), captureMotionPathShot(), captureRenderedSvgStrip() (+43 more)
+
+### Community 226 - "Composition contract"
+Cohesion: 0.08
+Nodes (26): Composition contract, `composition_exceeds_inspection_viewport_cap`, `composition_file_too_large`, `composition_heavy_overlay_count_high`, `deprecated_data_end`, `deprecated_data_layer`, `duplicate_composition_id`, `invalid_composition_variables_declaration` (+18 more)
+
+### Community 227 - "projectHistory.test.ts"
+Cohesion: 0.05
+Nodes (36): Opened, HistoryEntrySide, START, HistoryWindow, ProjectHistory, agent, cleanup, dragDuringTurn() (+28 more)
+
+### Community 228 - "unwrap"
+Cohesion: 0.05
+Nodes (55): appendToTrace(), areEqual(), beginRenderPass(), Bf(), $c(), CU(), cz(), D4() (+47 more)
+
+### Community 229 - "release-prepare.ts"
+Cohesion: 0.14
+Nodes (25): optionalFlagArg(), optionalValueArg(), BOOLEAN_OPTIONS, BooleanOptionKey, buildDraftCommandArgs(), buildSetVersionCommandArgs(), createDefaultOptions(), fail() (+17 more)
+
+### Community 230 - ".agent/skills/hyperframes-creative/references/design-spec.md"
+Cohesion: 0.08
+Nodes (17): Consuming it, Design Spec — `frame.md` / `design.md`, Resolving which spec to read, Starting from a preset (optional), What `frame.md` is, Color Presence, Density, Frame Composition (+9 more)
+
+### Community 242 - "aws-lambda/src/sdk/getRenderProgress.ts"
+Cohesion: 0.07
+Nodes (45): Paste it into your composition, Related topics, Variables, BilledLambdaInvocation, computeRenderCost(), formatUsd(), RenderCost, roundUsd() (+37 more)
+
+### Community 243 - "unwrap"
+Cohesion: 0.05
+Nodes (55): appendToTrace(), areEqual(), beginRenderPass(), Bf(), $c(), CU(), cz(), D4() (+47 more)
+
+### Community 254 - "writeCoordinator.ts"
+Cohesion: 0.08
+Nodes (44): reduceTopologyLens(), hidden(), targetA, targetB, TopologyLensBase, TopologyLensEvent, TopologyLensState, visibleBase() (+36 more)
+
+### Community 255 - "TimelineToolbar.tsx"
+Cohesion: 0.01
+Nodes (349): CaptionOverlay, CaptionOverlayProps, syncToStore(), applyCaptionModelToIframe(), computeTransformStyle(), getOrCreateWrapper(), getWordEl(), isCaptionPreviewVisible() (+341 more)
+
+### Community 257 - "main.py"
+Cohesion: 0.02
+Nodes (59): extract_tiktok_shop_products(), SnaptikScraper, register_brief_parser(), register_mimic_parser(), add_product_subparser(), handle_product_cli(), register_remix_parser(), format_number() (+51 more)
+
+### Community 261 - "unwrap"
+Cohesion: 0.05
+Nodes (55): appendToTrace(), areEqual(), beginRenderPass(), Bf(), $c(), CU(), cz(), D4() (+47 more)
+
+### Community 267 - "cn"
+Cohesion: 0.18
+Nodes (20): 2(), AB(), aC(), an(), cn(), EB(), eC(), Hs() (+12 more)
+
+### Community 268 - "2. QUY TRÌNH THỰC THI 7 BƯỚC"
+Cohesion: 0.15
+Nodes (12): 1. NGUYÊN TẮC CỐT LÕI (BẮT BUỘC TUÂN THỦ), 2. QUY TRÌNH THỰC THI 7 BƯỚC, 3. TÀI NGUYÊN ĐI KÈM TRONG HỆ THỐNG, BƯỚC 0 — CHỐT THÔNG TIN & DỰ TOÁN CREDIT, BƯỚC 1 — KỊCH BẢN PHÂN CẢNH (SCRIPT), BƯỚC 2 — CHARACTER BIBLE (HỒ SƠ NHÂN VẬT NHẤT QUÁN), BƯỚC 3 — PROMPT CHARACTER REFERENCE SHEET (IMAGE MODE), BƯỚC 4 — PROMPT STORYBOARD TỪNG CẢNH (IMAGE MODE) (+4 more)
+
+### Community 269 - "unwrap"
+Cohesion: 0.05
+Nodes (55): appendToTrace(), areEqual(), beginRenderPass(), Bf(), $c(), CU(), cz(), D4() (+47 more)
+
+### Community 270 - "Wi"
+Cohesion: 0.03
+Nodes (17): Wi(), ch, constructor(), cp, di, fi(), ih, Ji (+9 more)
+
+### Community 271 - "B6"
+Cohesion: 0.05
+Nodes (57): sR(), B6(), sR(), sR(), 0(), 3(), advanceBy(), beginComputePass() (+49 more)
+
+### Community 272 - "Part 1 — the move vocabulary"
+Cohesion: 0.08
+Nodes (23): 1. Smooth beats bouncy — `power3` is the default, 2. Sequential reveal in the back ~50%, timed to the voiceover, 3. No lazy breathing, no bad pan/push — "no motion over bad motion", 4. Internal seams are velocity-matched cuts, Aliveness during a hold (use sparingly — see Part 2), Camera, Count-up / data, Emphasis / marker (+15 more)
+
+### Community 273 - "unwrap"
+Cohesion: 0.06
+Nodes (46): appendToTrace(), areEqual(), beginRenderPass(), Bf(), bx(), ck(), createView(), CU() (+38 more)
+
+### Community 274 - ".agent/skills/media-use/audio/scripts/audio.mjs"
+Cohesion: 0.02
+Nodes (123): anomalies, argv, audioMeta, bgmFields, bgmModeOverride, HERE, hyperframesDir, langOverride (+115 more)
+
+### Community 275 - "Story design — faceless explainer video"
+Cohesion: 0.08
+Nodes (24): 1. Extract the teaching truth, 2. Match the register to `frame.md`, 3. Choose one explainer structure, 4. Build the frame sequence, Clarity / rhetoric technique catalog, Continuity across frames (no worker grouping), Core rule, Emotional beats (+16 more)
+
+### Community 276 - "Biennale Yellow — Frame (video / frame layer)"
+Cohesion: 0.08
+Nodes (24): 1 · Cover (identity · move: display + sun bloom · left), 2 · Chapter Divider (section · move: jumbo numeral · vertical rail), 3 · Ledger (catalog · move: hairline tabular rows · the dense frame), 4 · Manifesto / Quote (quote · move: italic serif · centered bloom), 5 · Poster Panel (statement · move: yellow panel · split), 6 · Strand List (programme · move: numbered editorial rows · left), Approved Entities, Aspect-Ratio Behavior (+16 more)
+
+### Community 277 - "Context-Sensitive Cursor"
+Cohesion: 0.25
+Nodes (8): Contents, Context-Sensitive Cursor, Critical Constraints, How It Works, Recipe, See also, Values, Variations
+
+### Community 278 - "Flow Auto Video"
+Cohesion: 0.15
+Nodes (12): Bước 0 — Chốt thông tin, Bước 1 — Kịch bản, Bước 2 — Character Bible, Bước 3 — Prompt character reference, Bước 4 — Prompt storyboard từng cảnh, Bước 5 — Prompt video từng cảnh, Bước 6 — Tự động hoá trên Flow, Bước 7 — Bàn giao (+4 more)
+
+### Community 279 - "skill/SKILL.md"
+Cohesion: 0.27
+Nodes (3): GitHub (gh CLI), 开发工具, 选择指南
+
+### Community 280 - "Contributing to Agent Reach"
+Cohesion: 0.17
+Nodes (11): Adding New Channels, Code Style, Contributing to Agent Reach, Development Setup, Getting Started, Pull Request Guidelines, Questions?, Reporting Issues (+3 more)
+
+### Community 281 - "For AI Agents"
+Cohesion: 0.17
+Nodes (11): Agent Reach — Update Guide, For AI Agents, For Humans, Goal, Step 1: Check current version, Step 2: Update Agent Reach package, Step 3: Refresh upstream tools, Step 4: Coexistence (DO NOT uninstall old tools) (+3 more)
+
+### Community 282 - "constructor"
+Cohesion: 0.02
+Nodes (252): pf(), $2(), A2(), A5(), Aae(), absarc(), absellipse(), addGroup() (+244 more)
+
+### Community 283 - "xg"
+Cohesion: 0.06
+Nodes (55): ce(), clear(), computeTangents(), p(), Q(), deleteAttribute(), disableAll(), $e() (+47 more)
+
+### Community 284 - "unwrap"
+Cohesion: 0.05
+Nodes (55): appendToTrace(), areEqual(), beginRenderPass(), Bf(), $c(), CU(), cz(), D4() (+47 more)
+
+### Community 285 - "glass-main.js"
+Cohesion: 0.01
+Nodes (122): aa(), absarc(), absellipse(), ac(), al(), am(), applyAxisAngle(), applyEuler() (+114 more)
+
+### Community 286 - "BlockFrame — Frame (video / frame layer)"
+Cohesion: 0.08
+Nodes (24): 1 · Cover (identity · move: decorations puncture · left), 2 · Feature Cards (catalog · move: 3-up bordered grid · blue ground), 3 · Stat Grid (data · move: tilted stat cards · green ground), 4 · Closing Plate (closer · move: inverted black · centered), 5 · Quote (quote · move: bordered quote frame · pink ground), 6 · Timeline (process · move: stepped bordered cards · offwhite), Approved Entities, Aspect-Ratio Behavior (+16 more)
+
+### Community 287 - "unwrap"
+Cohesion: 0.05
+Nodes (55): appendToTrace(), areEqual(), beginRenderPass(), Bf(), $c(), CU(), cz(), D4() (+47 more)
+
+### Community 288 - "orbit-card/assets/three.core.min.js"
+Cohesion: 0.01
+Nodes (126): Fl(), _a, aa, ad, al(), an, ao, au (+118 more)
+
+### Community 289 - "ai/skills/embedded-captions/SKILL.md"
+Cohesion: 0.05
+Nodes (37): Identities, Rules, Shortlisting heuristics (identity-level, not category-level), THE CATALOG — one front-end, three engines behind, Adding a DNA, Cinematic mode (pure embed) — one engine, six DNAs, What the engine generates (never author these), What you DON'T do (+29 more)
+
+### Community 290 - "ai/skills/hyperframes-animation/scripts/animation-map.mjs"
+Cohesion: 0.06
+Nodes (37): args, buildElementLifecycles(), captureSnapshots(), COMP_DIR, findLastBbox(), FRAMES, HEIGHT, markCollisions() (+29 more)
+
+### Community 291 - "music-to-video — one music-grounded, beat-synced video workflow"
+Cohesion: 0.04
+Nodes (45): Frame skeleton (Step 2) — read the music, lay out the frames, How to lay out frames (run in order), Self-check, The trust boundary (read this first), What the skeleton looks like, Asset treatments — weaving user media onto the beat spine, `beat_cut` — one clip per anchor (only on a `beat_cut` frame), `bg_under_text` — clip dimmed behind a template/free group (+37 more)
+
+### Community 292 - ".agent/skills/hyperframes/references/plugin-installation.md"
+Cohesion: 0.03
+Nodes (64): Assets (Phase 1 — CLI), Auth — two credentials, scoped, Components (Phase 3 — CLI), Determinism, Figma → HyperFrames, Motion (Phase 4 — connector-assisted), Routing, Shaders (Phase 5 — mostly manual) (+56 more)
+
+### Community 293 - "Vietnamese Voice Clone & Voice Vault Suite (OmniVoice Packaged)"
+Cohesion: 0.20
+Nodes (9): 📁 1. KHO GIỌNG TRUNG TÂM (VOICE VAULT), 💎 2. QUY TẮC BẮT BUỘC: BỘ ĐÔI PREVIEW (FILE GỐC + FILE CLONE MẪU), ⚡ 3. CÁC CÂU LỆNH MẪU CỦA NGƯỜI DÙNG & CÁCH AGENT XỬ LÝ, 🛠️ 4. QUY TRÌNH HẬU KỲ TỰ ĐỘNG (TIKTOK MASTERING), Các giọng trong kho hiện tại:, Trường hợp 1: Yêu cầu Đọc Kịch bản / Đoạn văn, Trường hợp 2: Yêu cầu Clone & Nạp vào Kho Giọng, Trường hợp 3: Tra cứu Danh sách Kho Giọng (+1 more)
+
+### Community 294 - "analyze.ts"
+Cohesion: 0.07
+Nodes (38): `capture`, analyzeSignal(), DEFAULT_CAPABILITIES, envelopeHopMs(), frame(), Framing, optionsFor(), tempoFromBeats() (+30 more)
+
+### Community 295 - "hyper-shader.ts"
+Cohesion: 0.10
+Nodes (42): blobToTextureSource(), CachedTransition, CachedTransitionFrame, CachedTransitionFrameBlend, canvasToPngBlob(), clampNumber(), closeTextureSource(), createFramebuffer() (+34 more)
+
+### Community 296 - "constructor"
+Cohesion: 0.10
+Nodes (21): compileWriter(), constructor(), createMutable(), createSampler(), Fk(), GU(), H5(), j5() (+13 more)
+
+### Community 297 - "pruneHistories.ts"
+Cohesion: 0.09
+Nodes (41): HistoryIdError, ID_PATH, isCopyOf0878Folder(), isHistoryId(), isRecordedFolder(), projectHistoryId(), readId(), readRecord() (+33 more)
+
+### Community 298 - "iframe.ts"
+Cohesion: 0.02
+Nodes (94): Draft loop: 60fps drag without model mutations, Embedding the composition, Hit-testing: finding what the user clicked, Keeping the preview in sync, Pairing with embedded override mode, Selection, Transparent compositions over other content, Walking a click target to the nearest HF element (+86 more)
+
+### Community 299 - "hyperframes/skills/media-use/audio/scripts/audio.mjs"
+Cohesion: 0.02
+Nodes (133): resolveNpxInvocation(), envWithNpxCli, WHISPER_ARGV, WHISPER_OPTS, localTtsGenerate(), probeDurationSeconds(), envWithNpxCli, anomalies (+125 more)
+
+### Community 300 - "media-use/resolve.mjs"
+Cohesion: 0.09
+Nodes (44): configuredOr(), FfBinarySettingError, ffmpegBinary(), ffprobeBinary(), isWorking(), runsByPath, formatMeasuredNote(), firstSemver() (+36 more)
+
+### Community 301 - "ai/skills/embedded-captions/scripts/make-theme.cjs"
+Cohesion: 0.04
+Nodes (25): anchorT, bgExtra, bgHtml, body, CHARW, dna, { execFileSync }, FONT_FACES (+17 more)
+
+### Community 302 - "projectLock.ts"
+Cohesion: 0.06
+Nodes (38): CLI_ROOT, copyDir(), copyDirContents(), copyMdFiles(), DIST, HERE, main(), REPO_ROOT (+30 more)
+
+### Community 303 - "Rt"
+Cohesion: 0.05
+Nodes (49): Ak(), as(), aT(), bk(), cG(), D4(), dy(), fc() (+41 more)
+
+### Community 304 - "Exa Search 配置指南"
+Cohesion: 0.22
+Nodes (8): 1. 安装 mcporter, 2. 注册 Exa MCP, 3. 验证, Agent 可自动完成的步骤, Exa Search 配置指南, 功能说明, 常见问题, 需要用户手动做的步骤
+
+### Community 305 - "Security Policy"
+Cohesion: 0.22
+Nodes (8): Credits, Out of Scope, Reporting a Vulnerability, Response Timeline, Scope, Security Policy, Supported Versions, What to Include
+
+### Community 306 - "mutate.ts"
+Cohesion: 0.02
+Nodes (205): style(), ALLOWED_HTML_ATTRS, DANGEROUS_DATA_URI, DANGEROUS_URI_SCHEMES, URI_BEARING_ATTRS, clipQueryRoot(), clipTweenMatcher(), indexIds() (+197 more)
+
+### Community 307 - "e"
+Cohesion: 0.03
+Nodes (41): ac, bu, n(), r(), h(), l(), s(), cc() (+33 more)
+
+### Community 308 - ".object"
+Cohesion: 0.06
+Nodes (21): Add it to your video, Related topics, Add it to your video, Related topics, Add it to your video, Related topics, Add it to your video, Related topics (+13 more)
+
+### Community 309 - "unwrap"
+Cohesion: 0.05
+Nodes (54): 7(), appendToTrace(), areEqual(), beginRenderPass(), Bf(), $c(), createView(), cz() (+46 more)
+
+### Community 310 - "check-edit-accuracy-filter.test.mjs"
+Cohesion: 0.16
+Nodes (22): benchInputs(), ci, cliCommands(), exportEntry(), exportTargets(), imports(), isFile(), job() (+14 more)
+
+### Community 311 - "Checklist — thao tác Google Flow bằng tay"
+Cohesion: 0.22
+Nodes (8): A. Tạo project, B. Image mode — character reference, C. Image mode — storyboard, Checklist — thao tác Google Flow bằng tay, Chuẩn bị, D. Video mode — sinh video, E. Tải về, Ghi chú cho bước tự động hoá sau này
+
+### Community 312 - "qt"
+Cohesion: 0.06
+Nodes (41): beginComputePass(), bx(), Df(), dR(), ep(), eR(), g(), gR() (+33 more)
+
+### Community 313 - "packages/cli.mdx"
+Cohesion: 0.03
+Nodes (62): `auth login`, `auth logout`, `auth refresh`, `auth status`, `beats`, `benchmark`, Bring in source material, `cloud delete <render_id>` (+54 more)
+
+### Community 314 - "hyperframes-player.ts"
+Cohesion: 0.08
+Nodes (31): FIRST_FRAME_READINESS_SCOPE, playRangeHoldTime(), ControlsCallbacks, ControlsOptions, createControls(), formatSpeed(), formatTime(), isControlsClick() (+23 more)
+
+### Community 315 - "Composition craft — EMBED track only"
+Cohesion: 0.05
+Nodes (47): Bespoke design vs. presets — when to override, when to clone, Canonical example renders, "Caps should accumulate (flex stack) instead of swap", "Font size doesn't match the scene", "Hanging indent / outdent / letter-width tweak", Rendering history, The clone-and-tweak workflow, "The template's blend doesn't suit this backdrop" → pick a different template, do NOT override (+39 more)
+
+### Community 316 - ".agent/skills/hyperframes-creative/scripts/package-loader.mjs"
+Cohesion: 0.07
+Nodes (38): annotateFrame(), args, buildOverlaySVG(), COMP_DIR, compositeOver(), HEIGHT, isLargeText(), measureAgainstHiddenTextFrame() (+30 more)
+
+### Community 317 - "小红书配置指南"
+Cohesion: 0.25
+Nodes (7): 使用示例, 前置条件, 功能说明, 小红书配置指南, 常见问题, 服务器方案：Docker MCP, 认证边界
+
+### Community 318 - ".agent/skills/hyperframes-animation/SKILL.md"
+Cohesion: 0.05
+Nodes (20): agent-progress-theater — Agent Progress Theater, camera-journey — Camera Journey, comparison-split — Comparison Split-Cards, constellation-hub — Constellation / Hub + Satellites, cta-morph-press — CTA Morph & Press, cursor-ui-demo — Cursor-Driven UI Demo, dataviz-countup — Data-Viz / Count-Up, device-surface-showcase — Device / Surface Showcase (+12 more)
+
+### Community 319 - "qt"
+Cohesion: 0.06
+Nodes (41): beginComputePass(), bx(), Df(), dR(), ep(), eR(), g(), gR() (+33 more)
+
+### Community 320 - "timelineZoomInput.ts"
+Cohesion: 0.03
+Nodes (154): node(), createLevelTap(), peak(), StereoLevel, AMBER_AT, AudioMeterHook, AudioMeterStrip, AudioMeterStripProps (+146 more)
+
+### Community 321 - "ai/skills/hyperframes-creative/scripts/package-loader.mjs"
+Cohesion: 0.07
+Nodes (38): annotateFrame(), args, buildOverlaySVG(), COMP_DIR, compositeOver(), HEIGHT, isLargeText(), measureAgainstHiddenTextFrame() (+30 more)
+
+### Community 322 - "sync-demo-variables.ts"
+Cohesion: 0.10
+Nodes (31): componentFiles, existingPath(), Manifest, snippetPathIn(), variableManifest(), compositionRootTag(), declaringClasses(), findDeclarationHost() (+23 more)
+
+### Community 324 - "Reddit 配置指南"
+Cohesion: 0.29
+Nodes (6): Agent 可自动完成的步骤, Fallback：Exa 搜索, Reddit 配置指南, 使用示例, 功能说明, 需要用户手动做的步骤
+
+### Community 325 - "OmniVoice 🌍"
+Cohesion: 0.18
+Nodes (11): Citation, Community Projects, Disclaimer, Discussion & Communication, Installation, Key Features, OmniVoice 🌍, pip (+3 more)
+
+### Community 326 - "hyperframes/skills/hyperframes-creative/scripts/package-loader.mjs"
+Cohesion: 0.07
+Nodes (38): annotateFrame(), args, buildOverlaySVG(), COMP_DIR, compositeOver(), HEIGHT, isLargeText(), measureAgainstHiddenTextFrame() (+30 more)
+
+### Community 327 - "svg-sanitize.mjs"
+Cohesion: 0.01
+Nodes (98): after(), al(), any(), appendChild(), assignedElements(), assignedNodes(), blur(), body() (+90 more)
+
+### Community 328 - "generate-catalog-payloads.ts"
+Cohesion: 0.10
+Nodes (33): clearPinnedVariableValues(), HostItemDirectoryResult, withBaseHref(), inlineCatalogScripts(), needsScriptInlining(), inlinedBlock(), applyInteractiveMount(), buildPayload() (+25 more)
+
+### Community 329 - "cuboid-carousel/assets/three.core.min.js"
+Cohesion: 0.01
+Nodes (132): _a, aa, ad, al(), an, ao, au, ba (+124 more)
+
+### Community 330 - "update"
+Cohesion: 0.02
+Nodes (228): addScaledSH(), addScaledVector(), addVectors(), angleTo(), Aoe(), applyMatrix4(), applyQuaternion(), area() (+220 more)
+
+### Community 331 - "getSlice"
+Cohesion: 0.12
+Nodes (21): addNode(), closeCurrentTag(), createCDATASection(), createTextNode(), emitOpenTag(), endOpenTag(), getInstructionName(), getSlice() (+13 more)
+
+### Community 332 - "parsers/src/index.ts"
+Cohesion: 0.06
+Nodes (50): bundleToSingleHtml(), bundledBody(), bundledHeadStyles(), bundleFilm(), makeColorGradingProject(), makeSubCompProject(), makeSymlinkProject(), makeTempProject() (+42 more)
+
+### Community 333 - "useStudioTestHooks.ts"
+Cohesion: 0.08
+Nodes (36): STUDIO_RUNTIME_MODE, STUDIO_TEST_HOOKS_ENABLED, studioImportMetaEnv, StudioRuntimeMode, StudioTestApi, StudioTestHookDeps, Probe(), PROFILES (+28 more)
+
+### Community 334 - "hyperframes-player.test.ts"
+Cohesion: 0.06
+Nodes (18): AdoptingShadowRoot, ClickPlayer, CompositionPlayer, DriftEntry, FakeContentWindow, loadMetadata(), _onMessage(), PlayerElement (+10 more)
+
+### Community 335 - "publishProject.ts"
+Cohesion: 0.05
+Nodes (69): envCredentialVar(), isTokenExpired(), addExternalAsset(), ARCHIVE_ENTRY_TIME, archiveArrayBuffer(), buildPublishFileMap(), collectProjectFiles(), createProjectIgnore() (+61 more)
+
+### Community 336 - "Groq Whisper 配置指南"
+Cohesion: 0.33
+Nodes (5): Agent 可自动完成的步骤, Agent 收到 key 后的操作, Groq Whisper 配置指南, 功能说明, 需要用户手动做的步骤
+
+### Community 337 - "Daisy Days — Frame (video / frame layer)"
+Cohesion: 0.08
+Nodes (24): 1 · Cover (identity · move: ornament wreath · saturated · centered), 2 · Info Cards (catalog · move: 3-up white cards · cream · the dense frame), 3 · Process Steps (sequence · move: rotating circle markers · peach · centered), 4 · Quote (quote · move: quote-mark anchor · soft-pink · centered), 5 · Framed Section (feature · move: cap+body card · cream), 6 · Closing (closer · move: ornament wreath · saturated · centered), Approved Real Entities, Aspect-Ratio Behavior (+16 more)
+
+### Community 338 - "Flow"
+Cohesion: 0.05
+Nodes (39): Avoid Web Patterns, Data in Motion, Numbers Need Visual Weight, Visual Continuity, Asymmetry, Choreography is hierarchy, Contents, Easing is emotion, not technique (+31 more)
+
+### Community 339 - "Editorial Forest — Frame (video / frame layer)"
+Cohesion: 0.08
+Nodes (24): 1 · Cover (identity · move: oversized serif · green · left), 2 · Topic Tiles (catalog · move: rotating-fill grid · cream · the dense frame), 3 · KPI Stat (data · move: oversized figure · green), 4 · Statement (quote · move: display serif · cream · left), 5 · Step Framework (process · move: 8px step tiles · cream/green), 6 · Chart (data · move: bars + meta · green), Approved Real Entities, Aspect-Ratio Behavior (+16 more)
+
+### Community 340 - "audioAnalysis.ts"
+Cohesion: 0.10
+Nodes (41): AudioKind, averageMagnitudes(), bandBins(), Biquad, blockLoudness(), blockPowers(), classify(), energyMix() (+33 more)
+
+### Community 341 - "qt"
+Cohesion: 0.06
+Nodes (49): 0(), 3(), advanceBy(), beginComputePass(), bx(), bz(), castElement(), consume() (+41 more)
+
+### Community 342 - ".agent/skills/hyperframes-animation/scripts/animation-map.mjs"
+Cohesion: 0.06
+Nodes (37): args, buildElementLifecycles(), captureSnapshots(), COMP_DIR, findLastBbox(), FRAMES, HEIGHT, markCollisions() (+29 more)
+
+### Community 343 - "gsapMutationCapabilities.ts"
+Cohesion: 0.16
+Nodes (11): GsapMutationRequest, behavioralParityOps(), GSAP_MUTATION_CAPABILITIES, GSAP_WRITER_MIGRATION, GsapMutationCapability, GsapMutationFamily, GsapMutationType, GsapParityEvidence (+3 more)
+
+### Community 345 - "Cookie Export Guide — For Server Users"
+Cohesion: 0.40
+Nodes (4): Cookie Export Guide — For Server Users, Method 1: Cookie-Editor Extension (Recommended — 30 seconds per site), Method 2: Manual (No extension needed), Sites to export:
+
+### Community 346 - "Dependency Locking Guide"
+Cohesion: 0.40
+Nodes (4): Dependency Locking Guide, Install with constraints, Update workflow, Why
+
+### Community 347 - "get"
+Cohesion: 0.02
+Nodes (221): activeTexture(), addBundle(), addClass(), addLight(), allocateQueriesForContext(), beginBundle(), beginCompute(), beginQuery() (+213 more)
+
+### Community 348 - "esc"
+Cohesion: 0.09
+Nodes (23): esc(), paradigmCarbonstrip(), paradigmChalkrail(), paradigmFlaprail(), paradigmHolorail(), paradigmHudrail(), paradigmLastpage(), paradigmLedboard() (+15 more)
+
+### Community 349 - "Story design — product launch video"
+Cohesion: 0.08
+Nodes (23): 1. Extract the product truth, 2. Choose the arc (the sequence backbone), 3. Lay out the beats, each with a role, 4. Write each beat's VO in its blueprint's script shape, Asset candidates, BENEFITS, BRAND_OUTRO, CTA (+15 more)
+
+### Community 351 - "Ví dụ — "Một buổi sáng ở tiệm phở" chạy hết 5 lớp text"
+Cohesion: 0.40
+Nodes (4): Lớp 1 — Kịch bản, Lớp 2 — Character Bible, Lớp 3 — Prompt, Ví dụ — "Một buổi sáng ở tiệm phở" chạy hết 5 lớp text
+
+### Community 352 - "Template — Kịch bản theo cảnh"
+Cohesion: 0.40
+Nodes (4): CẢNH 1, CẢNH 2, CẢNH N (kết), Template — Kịch bản theo cảnh
+
+### Community 353 - "Template — 3 lớp prompt cho Google Flow"
+Cohesion: 0.40
+Nodes (4): Lớp 1 — Character reference sheet (Image mode, 1 prompt / nhân vật), Lớp 2 — Storyboard từng cảnh (Image mode, đính kèm reference nhân vật), Lớp 3 — Video từ storyboard (Video mode, ảnh storyboard làm frame đầu), Template — 3 lớp prompt cho Google Flow
+
+### Community 354 - "assetDownloader.ts"
+Cohesion: 0.01
+Nodes (351): Add it to your video, Related topics, Add it to your video, Related topics, buildPrompt(), generateAgentPrompt(), inferColorRole(), AnimationCatalog (+343 more)
+
+### Community 355 - "Slideshow authoring contract"
+Cohesion: 0.05
+Nodes (41): sound(), 1. Interim framing — why this exists, 2. The parent wrapper (`index.html` for deliverables, `demo.html` in examples), 3. Playhead-driven scene visibility, 4. Imperative entrances on slide-activate, 5. The scenes bootstrap postMessage, 6. Audio/SFX — built-in mute control via `<hyperframes-slideshow sound>`, 7. Three.js (optional) (+33 more)
+
+### Community 356 - "ai/skills/embedded-captions/scripts/make-composition.cjs"
+Cohesion: 0.07
+Nodes (37): declaredFamilies(), FONTS_CSS, fs, GENERIC, injectInto(), loadFontLibrary(), main(), path (+29 more)
+
+### Community 357 - "ref_vitest"
+Cohesion: 0.01
+Nodes (186): dir, hit(), noise(), checks, PNG, ROUTES, fixture, request() (+178 more)
+
+### Community 359 - "Idea brief — 2 thứ cần chuẩn bị trước khi đưa cho Claude"
+Cohesion: 0.50
+Nodes (3): 1. Ý tưởng kịch bản (3–6 câu), 2. Lưu ý muốn Claude bám theo khi phát triển, Idea brief — 2 thứ cần chuẩn bị trước khi đưa cho Claude
+
+### Community 360 - "Template — Character Bible"
+Cohesion: 0.50
+Nodes (3): [NHÂN VẬT 2], Template — Character Bible, [TÊN NHÂN VẬT]
+
+### Community 361 - "Training"
+Cohesion: 0.06
+Nodes (32): Paste it into your composition, Related topics, Variables, Paste it into your composition, Related topics, Variables, steps(), Evaluation (+24 more)
+
+### Community 364 - "fromBase"
+Cohesion: 0.12
+Nodes (29): $1(), aG(), al(), Bg(), dd(), eM(), fromBase(), fx() (+21 more)
+
+### Community 366 - "jr"
+Cohesion: 0.09
+Nodes (27): $c(), D4(), fc(), H6(), jr(), K5(), kG(), mw() (+19 more)
+
+### Community 371 - "esc"
+Cohesion: 0.09
+Nodes (23): esc(), paradigmCarbonstrip(), paradigmChalkrail(), paradigmFlaprail(), paradigmHolorail(), paradigmHudrail(), paradigmLastpage(), paradigmLedboard() (+15 more)
+
+### Community 372 - "ai/skills/pr-to-video/scripts/assemble-index.mjs"
+Cohesion: 0.06
+Nodes (34): allowPendingBgm, anomalies, argv, attrPresent(), attrValue(), audio, audioMetaPath, body (+26 more)
+
+### Community 373 - "Cut catalog — within-frame seams (worker-built)"
+Cohesion: 0.10
+Nodes (20): 1. Zoom-Through (forward), 2. Inverse Zoom-Through (backward), 3. Cut the Curve (Scene Transitions), 4. Waterfall Cut (word-by-word cut-the-curve), Anti-Patterns, Blur Logic (applies to all Z-axis variants), Choosing a Variant, Cut catalog — within-frame seams (worker-built) (+12 more)
+
+### Community 374 - "ai/skills/pr-to-video/scripts/build-frame.mjs"
+Cohesion: 0.07
+Nodes (35): argv, brandColors, brandColorStats, brandFonts, brandFontWeights, __dirname, framePath, hexToHsl() (+27 more)
+
+### Community 375 - "providers/api.ts"
+Cohesion: 0.08
+Nodes (31): Paste it into your composition, Related topics, Variables, answerFor(), API_CAPABILITIES, apiProvider, ask(), askedTogether() (+23 more)
+
+### Community 376 - "qt"
+Cohesion: 0.06
+Nodes (41): beginComputePass(), bx(), Df(), dR(), ep(), eR(), g(), gR() (+33 more)
+
+### Community 377 - "src/capture.ts"
+Cohesion: 0.22
+Nodes (13): CanvasRenderingContext2DWithDrawElement, CanvasWithLayoutSubtree, captureScene(), CaptureSceneOptions, captureSceneWithHtml2Canvas(), captureSceneWithHtmlInCanvas(), forceSceneVisibleInClone(), initCapture() (+5 more)
+
+### Community 378 - "qt"
+Cohesion: 0.06
+Nodes (41): beginComputePass(), bx(), Df(), dR(), ep(), eR(), g(), gR() (+33 more)
+
+### Community 379 - "qt"
+Cohesion: 0.06
+Nodes (41): beginComputePass(), bx(), Df(), dR(), ep(), eR(), g(), gR() (+33 more)
+
+### Community 380 - "selectorIdTokens.ts"
+Cohesion: 0.18
+Nodes (25): AttributeNamespace, consumeCssEscape(), decodeCssIdentifierAt(), decodeCssString(), escapeCssAttributeValue(), escapeCssIdentifier(), isCssWhitespace(), isDigitCodeUnit() (+17 more)
+
+### Community 381 - "mediaLink.ts"
+Cohesion: 0.11
+Nodes (37): syncOffsetOf(), AttributeReader, findSyncPartner(), formatSyncOffset(), idsWithBothSidesCut(), LINK_TIMING_FIELDS, LinkTiming, linkTimingMismatches() (+29 more)
+
+### Community 382 - "gsapParser.ts"
+Cohesion: 0.02
+Nodes (220): hasExplicitTime(), SUPPORTED_EASES, SUPPORTED_PROPS, isFunctionNode(), findObjectArrayKeyframeIndex(), getCompatibleObjectArrayKeyframeTiming(), getObjectArrayKeyframeTiming(), ObjectArrayKeyframeTiming (+212 more)
+
+### Community 383 - ".agent/skills/product-launch-video/scripts/build-frame.mjs"
+Cohesion: 0.07
+Nodes (35): argv, brandColors, brandColorStats, brandFonts, brandFontWeights, __dirname, framePath, hexToHsl() (+27 more)
+
+### Community 384 - "OmniVoice/README.md"
+Cohesion: 0.25
+Nodes (3): Community Projects, Supported Languages, Tips & Notes
+
+### Community 385 - "qt"
+Cohesion: 0.06
+Nodes (41): beginComputePass(), bx(), Df(), dR(), ep(), eR(), g(), gR() (+33 more)
+
+### Community 386 - "hyperframes/skills/product-launch-video/scripts/build-frame.mjs"
+Cohesion: 0.07
+Nodes (35): argv, brandColors, brandColorStats, brandFonts, brandFontWeights, __dirname, framePath, hexToHsl() (+27 more)
+
+### Community 387 - "src/gsapWriterAcorn.ts"
+Cohesion: 0.03
+Nodes (212): holdScope, tweenSignature(), removeArcPathFromScript(), SplitAnimationsOptions, ParsedGsapAcornForWrite, parseGsapScriptAcornForWrite(), authorsKeyframes(), buildMotionPathObjectCode() (+204 more)
+
+### Community 388 - "gcp-cloud-run/src/server.ts"
+Cohesion: 0.02
+Nodes (169): Deploy, Prerequisites, Programmatic use, Progress and teardown, Related topics, Render, Reuse an upload, BeginFrame regression guard (+161 more)
+
+### Community 389 - "generate"
+Cohesion: 0.02
+Nodes (241): Ace(), addChain(), addContext(), addFlowCode(), addFlowCodeHierarchy(), addFlowTab(), addInclude(), addLineFlowCode() (+233 more)
+
+### Community 390 - "Supported Attributes"
+Cohesion: 0.29
+Nodes (7): Age, Chinese Dialect, English Accent, Gender, Pitch, Style, Supported Attributes
+
+### Community 391 - "runtime/media.ts"
+Cohesion: 0.04
+Nodes (76): Editing in Studio, Limits, Presets, The lane, What stays the same everywhere, clampAudioGain(), clampNativeMediaVolume(), withUnclampedVolume() (+68 more)
+
+### Community 392 - "Python API"
+Cohesion: 0.29
+Nodes (7): Auto Voice, Generation Parameters, Non-Verbal & Pronunciation Control, Python API, Reusing a cloned voice across sessions, Voice Cloning, Voice Design
+
+### Community 393 - "se"
+Cohesion: 0.03
+Nodes (159): a0(), aA(), ad(), add(), Ai(), Ap(), ay(), b5() (+151 more)
+
+### Community 394 - "Generation Parameters"
+Cohesion: 0.33
+Nodes (6): Decoding, Duration & Speed, Generation Parameters, Long-Form Generation, Pre/Post Processing, Sampling
+
+### Community 395 - "Voice Design"
+Cohesion: 0.33
+Nodes (5): How It Works, Quick Example, Tips, Voice Design, Writing Instruct Strings
+
+### Community 396 - "Part 1 — the move vocabulary"
+Cohesion: 0.10
+Nodes (20): 1. Smooth beats bouncy — `power3` is the default, 2. Sequential reveal in the back ~50%, timed to the voiceover, 3. No lazy breathing, no bad pan/push — "no motion over bad motion", 4. Internal seams are velocity-matched cuts, Aliveness during a hold (use sparingly — see Part 2), Camera, Count-up / data, Emphasis / marker (+12 more)
+
+### Community 397 - "qt"
+Cohesion: 0.06
+Nodes (41): beginComputePass(), bx(), Df(), dR(), ep(), eR(), g(), gR() (+33 more)
+
+### Community 398 - "engine/src/services/audioMixer.ts"
+Cohesion: 0.03
+Nodes (117): `audio`, children(), AAC_ARGS, aacSegmentCount(), encodeAac(), planSegments(), splitAdtsFrames(), lanes() (+109 more)
+
+### Community 399 - "run_eval.sh"
+Cohesion: 0.50
+Nodes (4): CUDA_VISIBLE_DEVICES, get_test_list(), PYTHONPATH, run_eval.sh script
+
+### Community 400 - "Command-Line Tools"
+Cohesion: 0.40
+Nodes (5): Batch Inference, Command-Line Tools, Demo, FlashInfer Acceleration, Single Inference
+
+### Community 401 - ".agent/skills/product-launch-video/scripts/assemble-index.mjs"
+Cohesion: 0.07
+Nodes (34): allowPendingBgm, anomalies, approvedVideoAttrs(), approvedVideoLayout(), argv, attrPresent(), attrValue(), attrValueFrom() (+26 more)
+
+### Community 402 - "core/src/index.ts"
+Cohesion: 0.02
+Nodes (202): createGSAPFrameAdapter(), CreateGSAPFrameAdapterOptions, GSAPTimelineLike, FrameAdapter, FrameAdapterContext, ADJUST_LIMITS, ADJUST_ZERO, authoredHueCurves() (+194 more)
+
+### Community 403 - "catalog-detail.test.ts"
+Cohesion: 0.12
+Nodes (20): {
+  arcToCubics,
+  fitMatrix,
+  isSvgPathData,
+  normalisePathData,
+  parsePathData,
+  printPathData,
+  shapePathData,
+  transformPathData,
+}, at(), boundsOf(), close(), closeAll(), cubicAt(), endOf(), geometry (+12 more)
+
+### Community 404 - "qt"
+Cohesion: 0.06
+Nodes (41): beginComputePass(), bx(), Df(), dR(), ep(), eR(), g(), gR() (+33 more)
+
+### Community 406 - "commands/preview.ts"
+Cohesion: 0.02
+Nodes (188): BrowserGpuMode, absolutePreviewUrl(), addContextError(), attachStudioReadyHandler(), handleOutput(), backgroundStartFailureCode(), BrowserLaunchOptions, CompactSelectionPayload (+180 more)
+
+### Community 410 - "Part 1 — the move vocabulary"
+Cohesion: 0.10
+Nodes (20): 1. Smooth beats bouncy — `power3` is the default, 2. Sequential reveal in the back ~50%, timed to the voiceover, 3. No lazy breathing, no bad pan/push — "no motion over bad motion", 4. Internal seams are velocity-matched cuts, Aliveness during a hold (use sparingly — see Part 2), Camera, Count-up / data, Emphasis / marker (+12 more)
+
+### Community 418 - "runtime/init.ts"
+Cohesion: 0.02
+Nodes (164): AUDIBLE_MEDIA_SELECTOR, AUDIBLE_VIDEO_QUALIFIER, audibleVideoNeedsWebAudio(), isAudibleVideoElement(), ensureAudioGroupInertStyle(), createD3Adapter(), D3TransitionLike, D3TransitionLike (+156 more)
+
+### Community 419 - "composition-probe.ts"
+Cohesion: 0.06
+Nodes (29): outer(), nested(), CompositionProbe, firstAuthorError(), ProbeCallbacks, ProbeOutcome, ProbeResult, readCompositionSizeFromDocument() (+21 more)
+
+### Community 420 - "ai/skills/product-launch-video/scripts/build-frame.mjs"
+Cohesion: 0.07
+Nodes (35): argv, brandColors, brandColorStats, brandFonts, brandFontWeights, __dirname, framePath, hexToHsl() (+27 more)
+
+### Community 421 - "ai/skills/hyperframes-creative/references/house-style.md"
+Cohesion: 0.05
+Nodes (28): Bold / Energetic, Clean / Corporate, Dark / Premium, Jewel / Rich, Monochrome, Nature / Earth, Neon / Electric, Pastel / Soft (+20 more)
+
+### Community 422 - "Web Audio FX stack — session handoff"
+Cohesion: 0.12
+Nodes (15): 1. What this is, 2. Current state, 3. Traps — read before running anything, 4.1 #3209 needs re-review (blocker was fixed), 4.2 CI failures not yet investigated, 4.3 Two files over the 600-line cap at the tip, 4.4 Three pre-existing test failures, 4.5 Review throughput (+7 more)
+
+### Community 426 - "CLIMAX entrances"
+Cohesion: 0.10
+Nodes (19): atelier (design-forward), Caption Template — Motion Language, CLIMAX entrances, CLIMAX exits, creator, cyber, epic, FLOW entrances / exits (per word `.w`) (+11 more)
+
+### Community 429 - "Story design — PR → narrative"
+Cohesion: 0.10
+Nodes (20): Clarity / rhetoric technique catalog, Continuity across frames, Core rule, Emotional beats, Final checklist, Frame template, Hook strategy, Music & silence (+12 more)
+
+### Community 432 - "ai/skills/pr-to-video/scripts/ingest.mjs"
+Cohesion: 0.05
+Nodes (33): argv, body, BOT_DENYLIST, botsFiltered, commitLines, consider(), diffByPath, diffSections (+25 more)
+
+### Community 433 - "textures.ts"
+Cohesion: 0.25
+Nodes (9): classNamesInSelector(), collectTextureCss(), DropShadowRule, hasInlineDropShadow(), hasInlineMaskImage(), isTextureMaterialClass(), simpleSelectorMatchesTag(), textureClassesInSelector() (+1 more)
+
+### Community 434 - "ai/skills/product-launch-video/scripts/assemble-index.mjs"
+Cohesion: 0.07
+Nodes (34): allowPendingBgm, anomalies, approvedVideoAttrs(), approvedVideoLayout(), argv, attrPresent(), attrValue(), attrValueFrom() (+26 more)
+
+### Community 435 - "cn"
+Cohesion: 0.13
+Nodes (25): 2(), AB(), aC(), an(), cn(), EB(), eC(), eT() (+17 more)
+
+### Community 436 - "qt"
+Cohesion: 0.07
+Nodes (39): advanceBy(), bx(), consume(), Df(), dR(), ep(), eR(), gR() (+31 more)
+
+### Community 437 - "ai/skills/music-to-video/references/motion-primitives/assets/gsap.min.js"
+Cohesion: 0.07
+Nodes (15): Gc(), Hc(), ia(), ja(), Lc(), Nc(), oa(), pa() (+7 more)
+
+### Community 438 - "fromBase"
+Cohesion: 0.11
+Nodes (32): $1(), aG(), al(), aM(), Bg(), C1(), dd(), eM() (+24 more)
+
+### Community 439 - "ai/skills/talking-head-recut/assets/vendor/gsap.min.js"
+Cohesion: 0.07
+Nodes (15): Gc(), Hc(), ia(), ja(), Lc(), Nc(), oa(), pa() (+7 more)
+
+### Community 440 - "HTML-in-Canvas Patterns"
+Cohesion: 0.11
+Nodes (17): 10. Pixel Sort / Glitch Art, 1. 3D Rotation with Bloom (Three.js), 2. Magnetic Cursor Distortion (Raw WebGL2), 3. Shatter / Fragment Explosion (Three.js), 4. Liquid / Fluid Surface (Three.js), 5. Portal / Dimensional Reveal (Three.js), 6. Noise Dissolve, 7. Holographic / Iridescent (+9 more)
+
+### Community 441 - "ai/skills/faceless-explainer/scripts/assemble-index.mjs"
+Cohesion: 0.07
+Nodes (31): allowPendingBgm, anomalies, argv, attrPresent(), attrValue(), audio, audioMetaPath, body (+23 more)
+
+### Community 442 - "gsapLiveRetime.ts"
+Cohesion: 0.09
+Nodes (31): isNumberLiteral(), isTaggedTemplate(), printOnly(), scriptShape(), Shape, TaggedTemplate, same(), animatedElsewhere() (+23 more)
+
+### Community 443 - "qt"
+Cohesion: 0.08
+Nodes (37): advanceBy(), bx(), consume(), Df(), dR(), ep(), eR(), gR() (+29 more)
+
+### Community 444 - "qt"
+Cohesion: 0.08
+Nodes (37): advanceBy(), bx(), consume(), Df(), dR(), ep(), eR(), gR() (+29 more)
+
+### Community 445 - "i7"
+Cohesion: 0.50
+Nodes (4): i7(), ny(), withPerformanceCallback(), yv()
+
+### Community 446 - "ai/skills/motion-graphics/grounding/locate.mjs"
+Cohesion: 0.06
+Nodes (29): Critical correctness (GSAP / seek), Hand off for verification, IR → composition, Layout before animation, Motion-Graphics Builder, Motion quality, Reuse-first (the default), The HF contract (non-negotiable) (+21 more)
+
+### Community 447 - "artifactTransaction.ts"
+Cohesion: 0.11
+Nodes (17): HLS_MASTER_PLAYLIST, HLS_VIDEO_PLAYLIST, ArtifactDurationProbe, ArtifactDurationProbeResult, ArtifactKind, ArtifactTransaction, ArtifactTransactionFileSystem, ArtifactValidationExpectation (+9 more)
+
+### Community 448 - "ai/skills/faceless-explainer/scripts/build-frame.mjs"
+Cohesion: 0.07
+Nodes (29): argv, brandColors, brandColorStats, brandFonts, brandFontWeights, __dirname, framePath, hexToHsl() (+21 more)
+
+### Community 450 - "Captions"
+Cohesion: 0.06
+Nodes (30): Caption Exit Guarantee, Captions, Constraints, Further References, Per-Word Styling, Positioning, Pre-Built Caption Components, Script-to-Style Mapping (+22 more)
+
+### Community 453 - ".agent/skills/embedded-captions/SKILL.md"
+Cohesion: 0.15
+Nodes (10): Identities, Rules, Shortlisting heuristics (identity-level, not category-level), THE CATALOG — one front-end, three engines behind, Font-size scales with column width, Picking automatically, Tone field, Typography Presets (+2 more)
+
+### Community 458 - "Transforms and Performance"
+Cohesion: 0.12
+Nodes (15): Animate transforms, not layout properties, autoAlpha, Cleanup, clearProps, Contents, CSS Variables, Fixing a flagged animation — preserve the intent, gsap.quickTo for frequent updates (preview-only) (+7 more)
+
+### Community 459 - "nbi"
+Cohesion: 0.09
+Nodes (24): barrettConvert(), BigInteger(), bnAdd(), bnAnd(), bnClone(), bnDivide(), bnDivideAndRemainder(), bnMod() (+16 more)
+
+### Community 460 - "Media treatment recipes"
+Cohesion: 0.06
+Nodes (33): 8mm Home Movie, Base payload, Base payload, Bounded tuning, Bounded tuning, Cached Error Diffusion, Creator Camcorder, Crosshatched Sketch (+25 more)
+
+### Community 461 - "Anti-Patterns"
+Cohesion: 0.06
+Nodes (33): Animation, Anti-Patterns, Blending, Grouping, Layout, Matting, Scene admission, The meta anti-pattern (+25 more)
+
+### Community 462 - "component.ts"
+Cohesion: 0.10
+Nodes (23): runAssetImport(), ComponentImportDeps, ComponentImportResult, escapeAttr(), rasterizeFallback(), RasterizeOutcome, renderWithPngRetry(), run() (+15 more)
+
+### Community 463 - "propertyPanelFont.tsx"
+Cohesion: 0.11
+Nodes (29): COMMON_LOCAL_FONT_FAMILIES, googleFontStylesheetUrl(), POPULAR_GOOGLE_FONT_FAMILIES, renderAliasFor(), buildFontFamilyValue(), collectDocumentFontFamilies(), fetchFontList(), FontFamilyField() (+21 more)
+
+### Community 465 - "useTimelineEditing.test.tsx"
+Cohesion: 0.01
+Nodes (296): notFound(), findUnsafeDomPatchValues(), findUnsafeMutationValues(), FindUnsafeMutationValuesOptions, UnsafeMutationValue, CapturedBatchCall, hasDeleteItem(), menuButtons() (+288 more)
+
+### Community 466 - "fromBase"
+Cohesion: 0.11
+Nodes (32): $1(), al(), aM(), Bg(), C1(), dd(), eM(), fromBase() (+24 more)
+
+### Community 467 - ".command"
+Cohesion: 0.23
+Nodes (8): Closure, repoPath(), scriptsOf(), Dashboard tiles, Event catalog (verified present in-project), Identity (see `scripts/lib/telemetry.mjs`), media-use usage dashboard, Recreate in an analytics dashboard
+
+### Community 469 - "Composition craft — EMBED track only"
+Cohesion: 0.13
+Nodes (15): Accumulation capacity — split into blocks when the plane can't hold more, Accumulation — vertical spacing, not single-line, Caption layer: BG vs FG (aesthetic axis), Captions are always verbatim, Composition craft — EMBED track only, Edge breathing + climax-crosses-head (bg showcase), Persistence — how long each group stays (agent decides per case), Picking the plane anchor — find the ACTUAL clean zone in THIS scene (+7 more)
+
+### Community 470 - "Direction specs"
+Cohesion: 0.13
+Nodes (14): 10. conference-lower-third-killer _(B2B but not lame)_, 1. documentary-dignified _(Errol Morris / PBS Frontline)_ — Standard-mode direction (no prebuilt Cinematic template), 2. cinematic-noir _(Kyle Cooper / Se7en)_, 3. tech-keynote-confident _(Apple / Jony Ive ad)_, 4. lyrical-poem-on-wall _(extends current memory-wall template)_, 5. high-energy-vlog _(controlled Hormozi)_, 6. chapter-card _(Wes Anderson / Grand Budapest)_, 7. investigative-typewriter _(Frontline / 60 Minutes / Morris Interrotron)_ (+6 more)
+
+### Community 471 - "write"
+Cohesion: 0.08
+Nodes (32): aT(), By(), createUniform(), cw(), dispatchThreads(), dispatchWorkgroups(), dS(), Fa() (+24 more)
+
+### Community 472 - "fromBase"
+Cohesion: 0.11
+Nodes (32): $1(), aG(), al(), aM(), Bg(), C1(), dd(), eM() (+24 more)
+
+### Community 473 - "fromBase"
+Cohesion: 0.11
+Nodes (32): $1(), aG(), al(), aM(), Bg(), C1(), dd(), eM() (+24 more)
+
+### Community 475 - "fromBase"
+Cohesion: 0.11
+Nodes (32): $1(), aG(), al(), aM(), Bg(), C1(), dd(), eM() (+24 more)
+
+### Community 477 - "verify-catalog-payloads.ts"
+Cohesion: 0.10
+Nodes (30): launchVerifyBrowser(), HOSTED_EXTENSIONS, MIME_TYPES, BOOTSTRAP_PATHS, changedItems(), checkAll(), checkOne(), declaresWebgpu() (+22 more)
+
+### Community 481 - "surfaceComposition"
+Cohesion: 0.16
+Nodes (14): animeAddTargets(), collectCompositions(), findProjectRoot(), forgetStart(), inlineScriptText(), inlineStyleText(), isHoldMarker(), movesCursorUnpredictably() (+6 more)
+
+### Community 482 - "surfaceTween"
+Cohesion: 0.15
+Nodes (14): cleanProps(), flatKeyframes(), followsTimelineCursor(), isPositionTween(), keyframeBasis(), keyframeTime(), num(), onionShotOptions() (+6 more)
+
+### Community 483 - "hyperframes/skills/hyperframes-animation/SKILL.md"
+Cohesion: 0.03
+Nodes (42): agent-progress-theater — Agent Progress Theater, camera-journey — Camera Journey, comparison-split — Comparison Split-Cards, constellation-hub — Constellation / Hub + Satellites, cta-morph-press — CTA Morph & Press, cursor-ui-demo — Cursor-Driven UI Demo, dataviz-countup — Data-Viz / Count-Up, device-surface-showcase — Device / Surface Showcase (+34 more)
+
+### Community 484 - "mn"
+Cohesion: 0.07
+Nodes (7): bn, fn(), gn(), Mi(), mn, wi(), xn
+
+### Community 485 - "se"
+Cohesion: 0.04
+Nodes (104): aA(), ad(), Ai(), Ap(), ay(), b5(), bA(), BL() (+96 more)
+
+### Community 486 - "se"
+Cohesion: 0.04
+Nodes (134): a0(), aA(), add(), Ai(), Ap(), ay(), b(), b5() (+126 more)
+
+### Community 487 - "hyperframes/skills/product-launch-video/scripts/assemble-index.mjs"
+Cohesion: 0.07
+Nodes (34): allowPendingBgm, anomalies, approvedVideoAttrs(), approvedVideoLayout(), argv, attrPresent(), attrValue(), attrValueFrom() (+26 more)
+
+### Community 488 - "ref_node_fs"
+Cohesion: 0.00
+Nodes (813): { hfBrowser }, expectedThemes, fixturesDir, fixtureTheme, fixtureWords, makeTheme, scriptsDir, skillDir (+805 more)
+
+### Community 489 - "qt"
+Cohesion: 0.06
+Nodes (49): 0(), 3(), advanceBy(), beginComputePass(), bx(), bz(), castElement(), consume() (+41 more)
+
+### Community 490 - "se"
+Cohesion: 0.03
+Nodes (172): a0(), aA(), add(), Ai(), Ap(), ay(), az(), b5() (+164 more)
+
+### Community 491 - "lf"
+Cohesion: 0.04
+Nodes (125): lf(), a0(), A8(), aA(), add(), Ai(), Ap(), ay() (+117 more)
+
+### Community 492 - ".copy"
+Cohesion: 0.02
+Nodes (18): c(), ca(), ea, en, go, kd, lo, mo (+10 more)
+
+### Community 546 - "se"
+Cohesion: 0.03
+Nodes (159): a0(), aA(), ad(), add(), Ai(), Ap(), ay(), b5() (+151 more)
+
+### Community 547 - "se"
+Cohesion: 0.04
+Nodes (131): a0(), A8(), aA(), add(), Ai(), Ap(), ay(), b5() (+123 more)
+
+### Community 548 - "se"
+Cohesion: 0.03
+Nodes (147): a0(), A8(), aA(), add(), Ap(), aT(), atomic(), ay() (+139 more)
+
+### Community 549 - "se"
+Cohesion: 0.03
+Nodes (172): a0(), aA(), add(), Ai(), Ap(), ay(), az(), b5() (+164 more)
+
+### Community 550 - "se"
+Cohesion: 0.03
+Nodes (172): a0(), aA(), add(), Ai(), Ap(), ay(), az(), b5() (+164 more)
+
+### Community 551 - "se"
+Cohesion: 0.03
+Nodes (172): a0(), aA(), add(), Ai(), Ap(), ay(), az(), b5() (+164 more)
+
+### Community 552 - "Rt"
+Cohesion: 0.04
+Nodes (69): addDeclaration(), aG(), Ak(), as(), bk(), bx(), $c(), cG() (+61 more)
+
+### Community 553 - "check-skill-mirror.mjs"
+Cohesion: 0.15
+Nodes (12): rel(), A, aFiles, aSet, B, bFiles, bSet, collectFile() (+4 more)
+
+### Community 554 - "src/hfIds.ts"
+Cohesion: 0.11
+Nodes (34): assignHfIds(), contentKey(), EXCLUDED_TAGS, fnv1a(), getChildElements(), getContractAttribute(), isCompositionTemplate(), mintHfId() (+26 more)
+
+### Community 555 - "auth/client.ts"
+Cohesion: 0.09
+Nodes (29): AuthClient, AuthClientOptions, BillingType, CreditBalance, extractUserInfo(), HEYGEN_CLI_SOURCE, HEYGEN_CLI_SOURCE_HEADER, HEYGEN_CLIENT_SOURCE (+21 more)
+
+### Community 556 - "fromBase"
+Cohesion: 0.11
+Nodes (31): $1(), al(), aM(), Bg(), C1(), dd(), eM(), fromBase() (+23 more)
+
+### Community 557 - "hyperframes/skills/media-use/scripts/lib/manifest.mjs"
+Cohesion: 0.15
+Nodes (28): formatDims(), formatDur(), generateIndexContent(), pad(), regenerateIndex(), AGENT_SOURCES, allocateId(), appendRecord() (+20 more)
+
+### Community 558 - "se"
+Cohesion: 0.03
+Nodes (137): a0(), aA(), ad(), add(), Ai(), Ap(), ay(), b5() (+129 more)
+
+### Community 559 - "se"
+Cohesion: 0.03
+Nodes (159): a0(), aA(), ad(), add(), Ai(), Ap(), ay(), b5() (+151 more)
+
+### Community 560 - "SESSION_INDEX.md"
+Cohesion: 0.08
+Nodes (21): 🧭 GOBI SOCIAL: HANDOVER & CONTINUITY GUIDE, 🧭 BẢN ĐỒ TỔNG HỢP CÁC PHIÊN LÀM VIỆC THEO PHÂN HỆ, 📌 HƯỚNG DẪN THÊM PHIÊN MỚI, 📋 SỔ CÁI TỔNG HỢP HỘI THOẠI (SESSION INDEX), 🎯 1. BỐI CẢNH & MỤC TIÊU CUỘC HỘI THOẠI, ⚙️ 2. CÁC HÀNH ĐỘNG KỸ THUẬT ĐÃ TRIỂN KHAI, 🏆 3. KẾT QUẢ ĐẠT ĐƯỢC, 📝 TÓM TẮT PHIÊN LÀM VIỆC - SESS-010: THIẾT LẬP HUB ĐỒNG NHẤT HỘI THOẠI VMAX (+13 more)
+
+### Community 561 - "test_xiaoyuzhou_install.py"
+Cohesion: 0.21
+Nodes (12): _install_xiaoyuzhou_deps(), _append_bash_function(), _assert_work_dir_cleaned(), _bash_path(), _DummyConfig, _script_env(), test_install_xiaoyuzhou_deps_does_not_raise_when_no_groq_key(), test_install_xiaoyuzhou_deps_replaces_stale_managed_script() (+4 more)
+
+### Community 562 - "va"
+Cohesion: 0.03
+Nodes (108): he(), In, u(), Yi, yn(), D(), _a(), C() (+100 more)
+
+### Community 563 - "Presets, jobs and one-knob profiles"
+Cohesion: 0.10
+Nodes (19): Dynamics — how level behaves over time, Effect registry, Filter — which frequencies a track may occupy, Nonlinear — changes the waveform's shape, Time — space and width, Why some parameters cannot be automated, Character — deliberate, not corrective, Diagnose first: what to listen for, and what fixes it (+11 more)
+
+### Community 564 - "va"
+Cohesion: 0.04
+Nodes (104): Fa(), In, Jl(), yn(), _a(), C(), L(), P() (+96 more)
+
+### Community 565 - "Composition"
+Cohesion: 0.03
+Nodes (79): CompositionVariable, CompositionVariableType, findTextElements(), findByText(), Composition, RenderArgs, AddMediaOverlayHandler, applyBind() (+71 more)
+
+### Community 566 - "runtime/vfx.ts"
+Cohesion: 0.02
+Nodes (173): isCanvasElement(), armPageComposite(), awaitCanvasPaint(), awaitSourcePaints(), bindPass(), bindSampler(), buildPasses(), CAPTURE_PASS_THROUGH (+165 more)
+
+### Community 567 - "se"
+Cohesion: 0.04
+Nodes (108): aA(), ad(), Ai(), Ap(), ay(), b5(), bA(), BL() (+100 more)
+
+### Community 568 - "se"
+Cohesion: 0.03
+Nodes (172): a0(), aA(), add(), Ai(), Ap(), ay(), az(), b5() (+164 more)
+
+### Community 569 - "se"
+Cohesion: 0.04
+Nodes (105): aA(), ad(), Ai(), Ap(), ay(), b5(), bA(), BL() (+97 more)
+
+### Community 570 - "se"
+Cohesion: 0.03
+Nodes (172): a0(), aA(), add(), Ai(), Ap(), ay(), az(), b5() (+164 more)
+
+### Community 571 - "se"
+Cohesion: 0.03
+Nodes (144): a0(), A8(), aA(), add(), Ai(), Ap(), aT(), ay() (+136 more)
+
+### Community 572 - "se"
+Cohesion: 0.03
+Nodes (172): a0(), aA(), add(), Ai(), Ap(), ay(), az(), b5() (+164 more)
+
+### Community 573 - "Failure Modes — learned the hard way"
+Cohesion: 0.07
+Nodes (29): Animation, Aspect distortion / sharp channel-stride make the alpha garbage, Blending, Bright backgrounds wash out screen blend, Centered crown eaten by body, CoreML execution provider corrupts face alpha, Crown / centered text, Crown font too small for frame → half-swallowed (+21 more)
+
+### Community 574 - "clone"
+Cohesion: 0.05
+Nodes (56): addSequentialNode(), bias(), blur(), buildUpdateNodes(), clearUpdateRanges(), clone(), compare(), depth() (+48 more)
+
+### Community 575 - "jy"
+Cohesion: 0.06
+Nodes (64): aM(), arrayBuffer(), az(), Bs(), By(), C1(), compileWriter(), createBindGroup() (+56 more)
+
+### Community 576 - "analysis/format.ts"
+Cohesion: 0.05
+Nodes (42): Analysis, AnalyzeOptions, AudioStreamInfo, At, SHIFTS, At, beatsLine(), downbeatsLine() (+34 more)
+
+### Community 577 - ".lint"
+Cohesion: 0.01
+Nodes (160): Animated Property Allowlist, Best Practices, Common vars (cheatsheet), Contents, Core Tween Methods, Credits And References, Do Not, HyperFrames Contract (+152 more)
+
+### Community 578 - "constructor"
+Cohesion: 0.10
+Nodes (22): b6(), beginComputePass(), constructor(), createMutable(), createSampler(), Fk(), g(), GU() (+14 more)
+
+### Community 579 - "gsapUndoRestore.ts"
+Cohesion: 0.02
+Nodes (160): COLOR_GRADING_AUTHORED_OPACITY_ATTR, countStudioPreviewChange(), studioGestureDraws, STUDIO_EDIT_ATTRS, applyChange(), applyGlobalSet(), changeChannels(), changeTouchesOpacity() (+152 more)
+
+### Community 580 - "se"
+Cohesion: 0.04
+Nodes (122): cL(), a0(), A8(), aA(), add(), Ai(), Ap(), ay() (+114 more)
+
+### Community 581 - "se"
+Cohesion: 0.03
+Nodes (164): a0(), aA(), add(), Ai(), Ap(), ay(), b5(), bA() (+156 more)
+
+### Community 582 - "figma.mdx"
+Cohesion: 0.07
+Nodes (23): Paste it into your composition, Related topics, Variables, Paste it into your composition, Related topics, Variables, Paste it into your composition, Related topics (+15 more)
+
+### Community 583 - "main.ts"
+Cohesion: 0.04
+Nodes (123): createFileAdapter(), addTweenToggle(), appendAnimationsSection(), appendAttributesSection(), appendBoxSection(), appendContentSection(), appendDangerSection(), appendRow() (+115 more)
+
+### Community 584 - "cg"
+Cohesion: 0.05
+Nodes (65): addGroup(), Be(), cg(), a(), be(), de(), E(), Ee() (+57 more)
+
+### Community 585 - "hyperframes/skills/pr-to-video/SKILL.md"
+Cohesion: 0.02
+Nodes (80): Before you finish — checklist, Caption-band keep-out (plan side), Inventing the visual — diagrams, type, data-viz, Layout — named inline per Scene, Palette & type — from `frame.md`, never invented, Pick the shape — instantiate a blueprint, Portrait & square (non-16:9 canvases), The unit is a time-coded shot sequence (+72 more)
+
+### Community 586 - "Cobalt Grid — Frame (video / frame layer)"
+Cohesion: 0.08
+Nodes (24): 1 · Hero Cover (identity · move: serif + glitch · left), 2 · Index Ledger (catalog · move: dense matrix · left — the dense frame), 3 · Chapter Opener (section · move: scale · sparse · left), 4 · Data Frame (chart · move: pixel-stack · left), 5 · Manifesto / Quote (quote · move: centered statement · sparse), 6 · Colophon (closer · move: right-aligned close · sparse), Approved Entities, Aspect-Ratio Behavior (+16 more)
+
+### Community 587 - "resolve"
+Cohesion: 0.04
+Nodes (120): accessProp(), addDeclaration(), Ae(), Ak(), _aliasConstStatement(), allocateFixedEntry(), allocateLayoutEntry(), as() (+112 more)
+
+### Community 588 - "resolve"
+Cohesion: 0.05
+Nodes (99): 8(), accessProp(), addDeclaration(), Ae(), _aliasConstStatement(), allocateFixedEntry(), allocateLayoutEntry(), aU() (+91 more)
+
+### Community 589 - "reveal"
+Cohesion: 0.02
+Nodes (83): Add it to your video, Related topics, Variables, Add it to your video, Related topics, Paste it into your composition, Related topics, Variables (+75 more)
+
+### Community 590 - "se"
+Cohesion: 0.04
+Nodes (110): aA(), Ai(), Ap(), ay(), b5(), bA(), BL(), Bs() (+102 more)
+
+### Community 591 - "se"
+Cohesion: 0.03
+Nodes (164): a0(), aA(), add(), Ai(), Ap(), ay(), b5(), bA() (+156 more)
+
+### Community 592 - "se"
+Cohesion: 0.03
+Nodes (172): a0(), aA(), add(), Ai(), Ap(), ay(), az(), b5() (+164 more)
+
+### Community 593 - "cs"
+Cohesion: 0.04
+Nodes (86): Paste it into your composition, Related topics, Variables, signature(), signature(), signature(), signature(), signature() (+78 more)
+
+### Community 594 - "se"
+Cohesion: 0.03
+Nodes (157): a0(), aA(), add(), Ai(), Ap(), ay(), az(), b5() (+149 more)
+
+### Community 595 - "constructor"
+Cohesion: 0.08
+Nodes (28): 0(), 3(), beginComputePass(), castElement(), constructor(), createBuffer(), createMutable(), createReadonly() (+20 more)
+
+### Community 596 - "_s"
+Cohesion: 0.03
+Nodes (134): a0(), A8(), aA(), add(), Ai(), Ap(), aT(), ay() (+126 more)
+
+### Community 597 - "Rt"
+Cohesion: 0.05
+Nodes (76): Ak(), array(), as(), atomic(), Bi(), bk(), cb(), cG() (+68 more)
+
+### Community 598 - "Es"
+Cohesion: 0.06
+Nodes (65): 0(), 3(), array(), atomic(), aW(), b(), b0(), Bi() (+57 more)
+
+### Community 599 - "GSAP animation"
+Cohesion: 0.07
+Nodes (27): `audio_reactive_single_tween_per_group`, GSAP animation, `gsap_callback_dom_measurement`, `gsap_cold_seek_hidden_fromto_missing_reveal`, `gsap_css_transform_conflict`, `gsap_from_opacity_noop`, `gsap_fullscreen_overlay_starts_visible`, `gsap_function_value_hazard` (+19 more)
+
+### Community 600 - "write"
+Cohesion: 0.08
+Nodes (28): By(), cw(), dispatchThreads(), dispatchWorkgroups(), dS(), Fa(), fork(), Gy() (+20 more)
+
+### Community 601 - ".repeat"
+Cohesion: 0.06
+Nodes (37): Animation pattern catalog (copy-paste), addGsapTween, cycles(), globalIntervals(), TimedAnimation, Compliance Checklist, compositions/captions.html, compositions/intro.html (+29 more)
+
+### Community 602 - "se"
+Cohesion: 0.03
+Nodes (165): a0(), aA(), add(), Ai(), Ap(), arrayBuffer(), ay(), b5() (+157 more)
+
+### Community 603 - "headline"
+Cohesion: 0.04
+Nodes (41): Paste it into your composition, Related topics, Paste it into your composition, Related topics, Variables, Paste it into your composition, Related topics, Variables (+33 more)
+
+### Community 604 - "e"
+Cohesion: 0.03
+Nodes (42): bu, n(), r(), h(), l(), s(), cc(), ci() (+34 more)
+
+### Community 605 - "generate-catalog-pages.ts"
+Cohesion: 0.07
+Nodes (57): declaredVariables(), CarriedContent, carriedSectionsFrom(), CatalogEntry, catalogPreviewFor(), detailAttribution(), detailMeta(), detailOpening() (+49 more)
+
+### Community 606 - "frost-sequence-camera-orbit/assets/gsap-3.14.2.min.js"
+Cohesion: 0.03
+Nodes (97): Fe(), ft(), h(), it(), J2(), kx(), nt(), pe() (+89 more)
+
+### Community 607 - "se"
+Cohesion: 0.03
+Nodes (159): a0(), aA(), ad(), add(), Ai(), Ap(), ay(), b5() (+151 more)
+
+### Community 608 - "webmcp-edit-loop.mjs"
+Cohesion: 0.11
+Nodes (32): assert(), awaitToolCall(), callTool(), capturePreviewHash(), chromeExecutable, dataProjectsDir, E2E_DIR, EVIDENCE_DIR (+24 more)
+
+### Community 609 - "s"
+Cohesion: 0.04
+Nodes (82): 7(), arrayBuffer(), bz(), c7(), cI(), clear(), clearBlockExternals(), copyFrom() (+74 more)
+
+### Community 610 - "logo.ts"
+Cohesion: 0.08
+Nodes (35): devDependencies, esbuild, opentype.js, three, three-mesh-bvh, typescript, esbuild, typescript (+27 more)
+
+### Community 611 - "orbit-card/assets/gsap-3.14.2.min.js"
+Cohesion: 0.03
+Nodes (96): _a(), Aa(), Ad(), ae(), Al(), Animation(), _assertThisInitialized(), Ba() (+88 more)
+
+### Community 612 - "AnimationCard.tsx"
+Cohesion: 0.03
+Nodes (111): clampBounce(), evaluateSpringEase(), parseSpringBounce(), ConfigurableEase, createCubicBezierEase(), cubicCoordinate(), CUSTOM_CUBIC_PATH, evaluateCubicBezier() (+103 more)
+
+### Community 613 - "measure"
+Cohesion: 0.13
+Nodes (16): cw(), Fa(), fork(), hasKey(), JC(), k8(), maxSize(), measure() (+8 more)
+
+### Community 614 - "resolve"
+Cohesion: 0.05
+Nodes (98): accessProp(), Ae(), _aliasConstStatement(), allocateFixedEntry(), allocateLayoutEntry(), aU(), Bi(), _block() (+90 more)
+
+### Community 615 - "cuboid-carousel/assets/gsap-3.14.2.min.js"
+Cohesion: 0.04
+Nodes (91): _a(), Aa(), Ad(), ae(), Al(), Animation(), _assertThisInitialized(), Ba() (+83 more)
+
+### Community 616 - "Remotion → HyperFrames API Map"
+Cohesion: 0.15
+Nodes (13): Composition root, Distributed rendering, Fonts, Lottie, Media, Parameters, React patterns, Reading this table (+5 more)
+
+### Community 617 - "ts"
+Cohesion: 0.03
+Nodes (106): addEventListener(), addUpdateRange(), ag(), Bl(), l(), o(), Bo(), $c() (+98 more)
+
+### Community 618 - "resolve"
+Cohesion: 0.05
+Nodes (105): 8(), accessProp(), addDeclaration(), Ae(), Ak(), _aliasConstStatement(), allocateFixedEntry(), allocateLayoutEntry() (+97 more)
+
+### Community 619 - "ai"
+Cohesion: 0.03
+Nodes (11): ai(), cp, ga, ju, li(), ni(), tu, ui (+3 more)
+
+### Community 620 - "se"
+Cohesion: 0.03
+Nodes (172): a0(), aA(), add(), Ai(), Ap(), ay(), az(), b5() (+164 more)
+
+### Community 621 - "src/gsapParserAcorn.ts"
+Cohesion: 0.04
+Nodes (93): BUILTIN_VAR_KEYS, DROPPED_VAR_KEYS, EXTRAS_KEYS, AddLabelDef, annotateStaggeredCollections(), applyTimelineDefaults(), assignStableIds(), callSiteStart() (+85 more)
+
+### Community 622 - "drawElementImage"
+Cohesion: 0.04
+Nodes (46): Browser support, Know the limits, Minimal pattern, Related topics, Start with a proven block, Capture, Determinism, Known constraints (+38 more)
+
+### Community 623 - "status.ts"
+Cohesion: 0.07
+Nodes (48): Paste it into your composition, Related topics, Variables, decideMusic(), decideVoice(), EngineReadiness, gatherMusicFacts(), gatherVoiceFacts() (+40 more)
+
+### Community 624 - "ai"
+Cohesion: 0.03
+Nodes (11): ai(), ju, li(), ni(), tu, ui, wu, xd (+3 more)
+
+### Community 625 - "unwrap"
+Cohesion: 0.03
+Nodes (99): 7(), appendToTrace(), areEqual(), beginRenderPass(), Bf(), bz(), c7(), cI() (+91 more)
+
+### Community 626 - "ai/skills/faceless-explainer/scripts/captions.mjs"
+Cohesion: 0.16
+Nodes (23): brandFontFaces(), buildCaptionsHtml(), buildFromSkin(), flag(), frameTokensCss(), r3(), runBuild(), wordCap() (+15 more)
+
+### Community 627 - "s"
+Cohesion: 0.04
+Nodes (82): 7(), arrayBuffer(), bz(), c7(), cI(), clear(), clearBlockExternals(), copyFrom() (+74 more)
+
+### Community 628 - "resolve"
+Cohesion: 0.05
+Nodes (103): accessProp(), addDeclaration(), Ae(), Ak(), _aliasConstStatement(), allocateFixedEntry(), allocateLayoutEntry(), aU() (+95 more)
+
+### Community 629 - "video"
+Cohesion: 0.03
+Nodes (63): `add`, `catalog`, Create a project, `init`, video(), before-after-wipe, Files, The slot mechanism (+55 more)
+
+### Community 630 - "se"
+Cohesion: 0.03
+Nodes (172): a0(), aA(), add(), Ai(), Ap(), ay(), az(), b5() (+164 more)
+
+### Community 631 - "ref_remotion"
+Cohesion: 0.06
+Nodes (9): RemotionRoot(), TitleCard(), Props, handle, Props, handle, RemotionRoot(), TitleCard() (+1 more)
+
+### Community 632 - "colorGradingContract.ts"
+Cohesion: 0.08
+Nodes (53): assertKnownGradingShape(), COLOR_GRADING_ADJUST_KEYS, COLOR_GRADING_CONTRACT_VERSION, COLOR_GRADING_CURVE_KEYS, COLOR_GRADING_DETAIL_KEYS, COLOR_GRADING_EFFECT_KEYS, COLOR_GRADING_EXAMPLE, COLOR_GRADING_HUE_CURVE_KEYS (+45 more)
+
+### Community 633 - "constructor"
+Cohesion: 0.04
+Nodes (97): o(), Ai(), Bi(), Ci(), clearViewOffset(), clone(), constructor(), Ai() (+89 more)
+
+### Community 634 - "marker"
+Cohesion: 0.14
+Nodes (10): Paste it into your composition, Related topics, Variables, Paste it into your composition, Related topics, Variables, Paste it into your composition, Related topics (+2 more)
+
+### Community 635 - ".agent/skills/music-to-video/references/motion-primitives/assets/gsap.min.js"
+Cohesion: 0.07
+Nodes (15): Gc(), Hc(), ia(), ja(), Lc(), Nc(), oa(), pa() (+7 more)
+
+### Community 636 - "cli-telemetry-e2e.mjs"
+Cohesion: 0.10
+Nodes (27): addedEvents(), BASE_COMPONENT, cliPath, COMPOSITION_SIZE, DEP_BLOCK, failures, fixtureHtml(), hookPath (+19 more)
+
+### Community 637 - "fromBase"
+Cohesion: 0.13
+Nodes (27): $1(), aG(), al(), Bg(), dd(), eM(), fromBase(), fx() (+19 more)
+
+### Community 638 - "unwrap"
+Cohesion: 0.05
+Nodes (55): appendToTrace(), areEqual(), beginRenderPass(), Bf(), $c(), CU(), cz(), D4() (+47 more)
+
+### Community 639 - "Story design — PR → narrative"
+Cohesion: 0.04
+Nodes (59): Paste it into your composition, Related topics, Variables, Paste it into your composition, Related topics, Variables, impact(), installInspection() (+51 more)
+
+### Community 640 - "SlideshowPanel.tsx"
+Cohesion: 0.10
+Nodes (43): SlideHotspot, SlideRef, SlideSequence, SlideshowManifest, isPanelUndoKey(), makeSlideshowNotesController(), NotesController, safeParseManifest() (+35 more)
+
+### Community 641 - "cn"
+Cohesion: 0.18
+Nodes (20): 2(), AB(), aC(), an(), cn(), EB(), eC(), Hs() (+12 more)
+
+### Community 642 - "nd"
+Cohesion: 0.03
+Nodes (5): gu, id, nd, od, setValue()
+
+### Community 643 - "se"
+Cohesion: 0.03
+Nodes (172): a0(), aA(), add(), Ai(), Ap(), ay(), az(), b5() (+164 more)
+
+### Community 644 - "se"
+Cohesion: 0.03
+Nodes (172): a0(), aA(), add(), Ai(), Ap(), ay(), az(), b5() (+164 more)
+
+### Community 645 - "se"
+Cohesion: 0.03
+Nodes (144): a0(), A8(), aA(), add(), Ai(), Ap(), aT(), ay() (+136 more)
+
+### Community 646 - "se"
+Cohesion: 0.03
+Nodes (144): a0(), A8(), aA(), add(), Ai(), Ap(), aT(), ay() (+136 more)
+
+### Community 647 - "se"
+Cohesion: 0.03
+Nodes (172): a0(), aA(), add(), Ai(), Ap(), ay(), az(), b5() (+164 more)
+
+### Community 648 - "resolve"
+Cohesion: 0.05
+Nodes (99): 8(), accessProp(), addDeclaration(), Ae(), _aliasConstStatement(), allocateFixedEntry(), allocateLayoutEntry(), aU() (+91 more)
+
+### Community 649 - "get"
+Cohesion: 0.05
+Nodes (83): $a(), arrayBuffer(), ax(), BM(), Bt(), Ca(), cd(), Cl() (+75 more)
+
+### Community 650 - "get"
+Cohesion: 0.05
+Nodes (90): $a(), arrayBuffer(), ax(), BM(), Bt(), Ca(), cd(), Cl() (+82 more)
+
+### Community 651 - "Es"
+Cohesion: 0.06
+Nodes (68): 0(), 3(), array(), atomic(), aW(), b(), b0(), Bi() (+60 more)
+
+### Community 652 - "s"
+Cohesion: 0.04
+Nodes (105): 7(), aT(), az(), By(), bz(), c7(), cI(), clear() (+97 more)
+
+### Community 653 - "s"
+Cohesion: 0.04
+Nodes (82): 7(), arrayBuffer(), bz(), c7(), cI(), clear(), clearBlockExternals(), copyFrom() (+74 more)
+
+### Community 654 - "resolve"
+Cohesion: 0.06
+Nodes (87): 8(), accessProp(), addDeclaration(), Ae(), _aliasConstStatement(), allocateFixedEntry(), allocateLayoutEntry(), aU() (+79 more)
+
+### Community 655 - "s"
+Cohesion: 0.04
+Nodes (91): 7(), 8(), arrayBuffer(), bz(), c7(), clear(), clearBlockExternals(), compileWriter() (+83 more)
+
+### Community 656 - "resolve"
+Cohesion: 0.05
+Nodes (97): 8(), accessProp(), addDeclaration(), Ae(), _aliasConstStatement(), allocateFixedEntry(), allocateLayoutEntry(), aU() (+89 more)
+
+### Community 657 - "s"
+Cohesion: 0.04
+Nodes (82): 7(), arrayBuffer(), bz(), c7(), cI(), clear(), clearBlockExternals(), copyFrom() (+74 more)
+
+### Community 658 - "nd"
+Cohesion: 0.03
+Nodes (11): bc, dc, fc, gc, gu, mc, nd, pc (+3 more)
+
+### Community 660 - "s"
+Cohesion: 0.03
+Nodes (100): 7(), beginRenderPass(), bh(), bR(), bz(), c7(), cI(), clear() (+92 more)
+
+### Community 662 - ".agent/skills/remotion-to-hyperframes/SKILL.md"
+Cohesion: 0.25
+Nodes (6): Pattern: `<TransitionSeries>` is `<Series>` with overlap, Presentation table, Timing translations, Transitions translation: @remotion/transitions → HF crossfades / shader-transitions, When the source uses a custom Presentation, When to use HF shader-transitions
+
+### Community 663 - "write"
+Cohesion: 0.09
+Nodes (27): 0(), 3(), castElement(), dispatchThreads(), dispatchWorkgroups(), Fa(), fork(), g() (+19 more)
+
+### Community 664 - "resolve"
+Cohesion: 0.05
+Nodes (97): 8(), accessProp(), addDeclaration(), Ae(), _aliasConstStatement(), allocateFixedEntry(), allocateLayoutEntry(), aU() (+89 more)
+
+### Community 665 - "resolve"
+Cohesion: 0.06
+Nodes (87): 8(), accessProp(), addDeclaration(), Ae(), _aliasConstStatement(), allocateFixedEntry(), allocateLayoutEntry(), aU() (+79 more)
+
+### Community 666 - "hyperframes/skills/remotion-to-hyperframes/SKILL.md"
+Cohesion: 0.06
+Nodes (38): The lint output already includes recommendations, The recommendation message, What the interop pattern actually does, When NOT to bow out: warnings only, When the source has BOTH blockers AND warnings, When to bow out: the runtime interop pattern, When to recommend interop, Font loading and `delayRender` (+30 more)
+
+### Community 667 - "hyperframes/skills/talking-head-recut/assets/vendor/gsap.min.js"
+Cohesion: 0.07
+Nodes (15): Gc(), Hc(), ia(), ja(), Lc(), Nc(), oa(), pa() (+7 more)
+
+### Community 668 - "numpy"
+Cohesion: 0.03
+Nodes (78): compute_band_edges(), compute_fft_bands(), decode_audio(), extract(), main(), analyze(), annotate_section_feel(), band_energy_curves() (+70 more)
+
+### Community 669 - "s"
+Cohesion: 0.04
+Nodes (82): 7(), arrayBuffer(), bz(), c7(), cI(), clear(), clearBlockExternals(), copyFrom() (+74 more)
+
+### Community 670 - "check-comment-citations.mjs"
+Cohesion: 0.06
+Nodes (53): ALLOW, BARE_PATH_LINE, blocksOf(), checkBlockRules(), checkComments(), CODE_EXT, codeOnly(), collectCitations() (+45 more)
+
+### Community 671 - "unwrap"
+Cohesion: 0.04
+Nodes (69): appendToTrace(), areEqual(), beginComputePass(), Bf(), $c(), constructor(), createMutable(), createSampler() (+61 more)
+
+### Community 672 - "eo"
+Cohesion: 0.02
+Nodes (20): bn, _c, eo, fn(), fo(), gn(), hn, Mi() (+12 more)
+
+### Community 673 - "s"
+Cohesion: 0.05
+Nodes (73): 7(), arrayBuffer(), atomic(), beginRenderPass(), c7(), cI(), clear(), clearBlockExternals() (+65 more)
+
+### Community 674 - "unwrap"
+Cohesion: 0.03
+Nodes (102): 7(), appendToTrace(), areEqual(), arrayBuffer(), beginComputePass(), beginRenderPass(), Bf(), bz() (+94 more)
+
+### Community 675 - "Ft"
+Cohesion: 0.06
+Nodes (92): Ft(), 8(), accessProp(), addDeclaration(), Ae(), _aliasConstStatement(), allocateFixedEntry(), allocateLayoutEntry() (+84 more)
+
+### Community 676 - "resolve"
+Cohesion: 0.05
+Nodes (97): 8(), accessProp(), addDeclaration(), Ae(), _aliasConstStatement(), allocateFixedEntry(), allocateLayoutEntry(), aU() (+89 more)
+
+### Community 677 - "resolve"
+Cohesion: 0.05
+Nodes (98): accessProp(), addDeclaration(), Ae(), _aliasConstStatement(), allocateFixedEntry(), allocateLayoutEntry(), aU(), b6() (+90 more)
+
+### Community 678 - "resolve"
+Cohesion: 0.05
+Nodes (97): 8(), accessProp(), addDeclaration(), Ae(), _aliasConstStatement(), allocateFixedEntry(), allocateLayoutEntry(), aU() (+89 more)
+
+### Community 679 - "measure"
+Cohesion: 0.13
+Nodes (16): cw(), Fa(), fork(), hasKey(), JC(), k8(), maxSize(), measure() (+8 more)
+
+### Community 680 - "edit-accuracy/run.mjs"
+Cohesion: 0.07
+Nodes (37): announcedPort(), killServers(), nodeBinary(), signalGroup(), startServer(), stopServer(), aabb(), boxDistance() (+29 more)
+
+### Community 681 - "resolve"
+Cohesion: 0.04
+Nodes (108): 8(), accessProp(), addDeclaration(), Ae(), Ak(), _aliasConstStatement(), allocateFixedEntry(), allocateLayoutEntry() (+100 more)
+
+### Community 682 - "resolve"
+Cohesion: 0.05
+Nodes (97): 8(), accessProp(), addDeclaration(), Ae(), _aliasConstStatement(), allocateFixedEntry(), allocateLayoutEntry(), aU() (+89 more)
+
+### Community 683 - "resolve"
+Cohesion: 0.06
+Nodes (87): 8(), accessProp(), addDeclaration(), Ae(), _aliasConstStatement(), allocateFixedEntry(), allocateLayoutEntry(), aU() (+79 more)
+
+### Community 684 - "Ns"
+Cohesion: 0.04
+Nodes (119): Ns(), 8(), accessProp(), addDeclaration(), Ae(), Ak(), _aliasConstStatement(), allocateFixedEntry() (+111 more)
+
+### Community 685 - "resolve"
+Cohesion: 0.05
+Nodes (97): 8(), accessProp(), addDeclaration(), Ae(), _aliasConstStatement(), allocateFixedEntry(), allocateLayoutEntry(), aU() (+89 more)
+
+### Community 686 - "resolve"
+Cohesion: 0.06
+Nodes (91): 8(), accessProp(), addDeclaration(), Ae(), _aliasConstStatement(), allocateFixedEntry(), allocateLayoutEntry(), aM() (+83 more)
+
+### Community 687 - "resolve"
+Cohesion: 0.04
+Nodes (112): accessProp(), addDeclaration(), Ae(), _aliasConstStatement(), allocateFixedEntry(), allocateLayoutEntry(), appendToTrace(), areEqual() (+104 more)
+
+### Community 688 - "resolve"
+Cohesion: 0.05
+Nodes (100): accessProp(), addDeclaration(), Ae(), Ak(), _aliasConstStatement(), allocateFixedEntry(), allocateLayoutEntry(), aM() (+92 more)
+
+### Community 689 - "resolve"
+Cohesion: 0.04
+Nodes (136): accessProp(), addDeclaration(), Ae(), Ak(), _aliasConstStatement(), allocateFixedEntry(), allocateLayoutEntry(), as() (+128 more)
+
+### Community 690 - "resolve"
+Cohesion: 0.05
+Nodes (97): 8(), accessProp(), addDeclaration(), Ae(), _aliasConstStatement(), allocateFixedEntry(), allocateLayoutEntry(), aU() (+89 more)
+
+### Community 691 - "resolve"
+Cohesion: 0.06
+Nodes (88): 8(), accessProp(), addDeclaration(), Ae(), _aliasConstStatement(), allocateFixedEntry(), allocateLayoutEntry(), aU() (+80 more)
+
+### Community 692 - "oauth.ts"
+Cohesion: 0.06
+Nodes (64): RFC-7636, AuthError, AuthErrorCode, ErrApi(), ErrDeviceAuthFailed(), ErrLoginChanged(), ErrLoginExpired(), ErrNotConfigured() (+56 more)
+
+### Community 693 - "resolve"
+Cohesion: 0.05
+Nodes (99): 8(), accessProp(), addDeclaration(), Ae(), _aliasConstStatement(), allocateFixedEntry(), allocateLayoutEntry(), aU() (+91 more)
+
+### Community 694 - "resolve"
+Cohesion: 0.05
+Nodes (97): accessProp(), addDeclaration(), Ae(), _aliasConstStatement(), allocateFixedEntry(), allocateLayoutEntry(), aU(), b6() (+89 more)
+
+### Community 695 - "resolve"
+Cohesion: 0.06
+Nodes (91): 8(), accessProp(), addDeclaration(), Ae(), _aliasConstStatement(), allocateFixedEntry(), allocateLayoutEntry(), aM() (+83 more)
+
+### Community 696 - "resolve"
+Cohesion: 0.05
+Nodes (97): 8(), accessProp(), addDeclaration(), Ae(), _aliasConstStatement(), allocateFixedEntry(), allocateLayoutEntry(), aU() (+89 more)
+
+### Community 697 - "resolve"
+Cohesion: 0.05
+Nodes (97): 8(), accessProp(), addDeclaration(), Ae(), _aliasConstStatement(), allocateFixedEntry(), allocateLayoutEntry(), aU() (+89 more)
+
+### Community 698 - "resolve"
+Cohesion: 0.05
+Nodes (97): 8(), accessProp(), addDeclaration(), Ae(), _aliasConstStatement(), allocateFixedEntry(), allocateLayoutEntry(), aU() (+89 more)
+
+### Community 699 - "resolve"
+Cohesion: 0.05
+Nodes (97): 8(), accessProp(), addDeclaration(), Ae(), _aliasConstStatement(), allocateFixedEntry(), allocateLayoutEntry(), aU() (+89 more)
+
+### Community 700 - "cube-build.mjs"
+Cohesion: 0.13
+Nodes (23): applyContrast(), applyExposure(), applyLiftGain(), applyParams(), applySaturation(), applySplitTone(), applyWhiteBalance(), buildCube() (+15 more)
+
+### Community 701 - "ai/skills/hyperframes-creative/references/design-spec.md"
+Cohesion: 0.08
+Nodes (17): Consuming it, Design Spec — `frame.md` / `design.md`, Resolving which spec to read, Starting from a preset (optional), What `frame.md` is, Color Presence, Density, Frame Composition (+9 more)
+
+### Community 702 - "write"
+Cohesion: 0.08
+Nodes (28): By(), cw(), dispatchThreads(), dispatchWorkgroups(), dS(), Fa(), fork(), Gy() (+20 more)
+
+### Community 703 - "cli-options.ts"
+Cohesion: 0.23
+Nodes (11): applyBooleanOption(), applyInlineValueOption(), applyValueOrPositionalOption(), CLI_SEMVER_PATTERN, InlineValueOption, parseMappedArgument(), ParserConfig, parseVersionOptionArgument() (+3 more)
+
+### Community 704 - "unwrap"
+Cohesion: 0.03
+Nodes (98): 7(), appendToTrace(), areEqual(), beginRenderPass(), Bf(), c7(), cI(), clear() (+90 more)
+
+### Community 705 - "weekly-updates.mdx"
+Cohesion: 0.02
+Nodes (92): 36 WebGPU shader backgrounds, A faster, lighter preview, A faster, sharper check, A light theme, A smooth preview on long films, Agent control for Studio, Agent sandboxes, Windows and WSL, Also shipped (+84 more)
+
+### Community 706 - "applyMatrix4"
+Cohesion: 0.06
+Nodes (60): Co(), l(), applyMatrix3(), applyMatrix4(), applyNormalMatrix(), attach(), center(), computeBoundingBox() (+52 more)
+
+### Community 707 - "resolve"
+Cohesion: 0.05
+Nodes (99): 8(), accessProp(), addDeclaration(), Ae(), _aliasConstStatement(), allocateFixedEntry(), allocateLayoutEntry(), aU() (+91 more)
+
+### Community 708 - "music-to-video — one music-grounded, beat-synced video workflow"
+Cohesion: 0.04
+Nodes (55): Frame skeleton (Step 2) — read the music, lay out the frames, How to lay out frames (run in order), Self-check, The trust boundary (read this first), What the skeleton looks like, Catalog, How to combine, Motion-primitive catalog — the free-compose menu (+47 more)
+
+### Community 709 - "test_opencode_skill.py"
+Cohesion: 0.06
+Nodes (15): _cmd_skill(), _cmd_uninstall(), _install_skill(), _copy_skill_dir(), _is_english_locale(), _read_skill_markdown(), _skill_resource_name(), _uninstall_skill() (+7 more)
+
+### Community 710 - "fc"
+Cohesion: 0.09
+Nodes (26): beginComputePass(), D4(), fc(), Hi(), hw(), K5(), kG(), mw() (+18 more)
+
+### Community 711 - "get"
+Cohesion: 0.06
+Nodes (77): $a(), arrayBuffer(), BM(), Bt(), bx(), cd(), Cl(), CP() (+69 more)
+
+### Community 712 - "get"
+Cohesion: 0.05
+Nodes (91): $1(), $a(), aG(), al(), aM(), ax(), Bg(), BM() (+83 more)
+
+### Community 713 - "clean"
+Cohesion: 0.08
+Nodes (22): Paste it into your composition, Related topics, Variables, `clean`, clean(), Mount, Notes, scramble-reveal (+14 more)
+
+### Community 714 - "BlockFrame — Frame (video / frame layer)"
+Cohesion: 0.08
+Nodes (24): 1 · Cover (identity · move: decorations puncture · left), 2 · Feature Cards (catalog · move: 3-up bordered grid · blue ground), 3 · Stat Grid (data · move: tilted stat cards · green ground), 4 · Closing Plate (closer · move: inverted black · centered), 5 · Quote (quote · move: bordered quote frame · pink ground), 6 · Timeline (process · move: stepped bordered cards · offwhite), Approved Entities, Aspect-Ratio Behavior (+16 more)
+
+### Community 715 - "s"
+Cohesion: 0.06
+Nodes (69): $a(), BM(), Bt(), bx(), Ca(), cd(), Cl(), cM() (+61 more)
+
+### Community 716 - "Blue Professional — Frame (video / frame layer)"
+Cohesion: 0.08
+Nodes (24): 1 · Cover (identity · move: diagonal accent · left), 2 · Dashboard (data · move: 3-up metric grid · the dense frame), 3 · Bar Ranking (data · move: cobalt bars · left), 4 · Pull Quote (quote · move: concentric rings · centered), 5 · Split + Highlight (content · move: asymmetric split · left), 6 · Closing / CTA (closer · move: centered rings + CTA), Approved Entities, Aspect-Ratio Behavior (+16 more)
+
+### Community 717 - "Scene Types — picking the right template"
+Cohesion: 0.15
+Nodes (13): Anti-examples (wall-embed would FAIL), Conditions, Conditions, corner-column-crown — "text sits in a clean region next to the subject", Four conditions — ALL must hold, Mode checklist (run this before committing to wall-embed), portrait-header — "subject fills center, text lives in top banner", Quick decision flow (+5 more)
+
+### Community 718 - "get"
+Cohesion: 0.04
+Nodes (101): $1(), $a(), ax(), Bg(), BM(), Bt(), Ca(), cd() (+93 more)
+
+### Community 719 - "get"
+Cohesion: 0.05
+Nodes (91): $1(), $a(), aG(), al(), aM(), ax(), Bg(), BM() (+83 more)
+
+### Community 720 - "get"
+Cohesion: 0.05
+Nodes (95): $1(), $a(), aG(), al(), ax(), Bg(), BM(), Bt() (+87 more)
+
+### Community 721 - "Bt"
+Cohesion: 0.08
+Nodes (54): $a(), ad(), BM(), Bt(), Ca(), cd(), Cl(), cM() (+46 more)
+
+### Community 722 - "get"
+Cohesion: 0.07
+Nodes (71): $a(), ax(), BM(), Bt(), Ca(), cd(), Cl(), cM() (+63 more)
+
+### Community 723 - "get"
+Cohesion: 0.05
+Nodes (85): $a(), ax(), BM(), Bt(), Ca(), cd(), Cl(), cM() (+77 more)
+
+### Community 724 - "get"
+Cohesion: 0.05
+Nodes (83): $a(), arrayBuffer(), ax(), BM(), Bt(), Ca(), cd(), Cl() (+75 more)
+
+### Community 725 - "s"
+Cohesion: 0.04
+Nodes (82): 7(), arrayBuffer(), bz(), c7(), cI(), clear(), clearBlockExternals(), copyFrom() (+74 more)
+
+### Community 726 - "get"
+Cohesion: 0.05
+Nodes (91): $1(), $a(), aG(), al(), aM(), ax(), Bg(), BM() (+83 more)
+
+### Community 727 - "get"
+Cohesion: 0.05
+Nodes (91): $1(), $a(), aG(), al(), aM(), ax(), Bg(), BM() (+83 more)
+
+### Community 728 - "get"
+Cohesion: 0.05
+Nodes (91): $1(), $a(), aG(), al(), aM(), ax(), Bg(), BM() (+83 more)
+
+### Community 729 - "unwrap"
+Cohesion: 0.04
+Nodes (81): 7(), appendToTrace(), areEqual(), beginRenderPass(), Bf(), c7(), cI(), clear() (+73 more)
+
+### Community 730 - ".agent/skills/media-use/audio/scripts/wait-bgm.mjs"
+Cohesion: 0.11
+Nodes (10): argv, audioMeta, audioMetaPath, base, hyperframesDir, intervalMs, outPath, started (+2 more)
+
+### Community 731 - "get"
+Cohesion: 0.05
+Nodes (89): $a(), ax(), BM(), Bt(), Ca(), cd(), Cl(), cM() (+81 more)
+
+### Community 732 - "unwrap"
+Cohesion: 0.03
+Nodes (102): 7(), appendToTrace(), areEqual(), arrayBuffer(), beginComputePass(), beginRenderPass(), Bf(), bz() (+94 more)
+
+### Community 733 - "Broadside — Frame (video / frame layer)"
+Cohesion: 0.08
+Nodes (24): 1 · Cover (identity · move: massive type · ORANGE register · left), 2 · Statement (declarative · move: type IS composition · DARK register · left), 3 · Stat Grid (data · move: top-border cards · DARK · the dense frame), 4 · Fadelist (narrative · move: opacity stack · DARK), 5 · Pull Quote (quote · move: oversized mark · DARK · left), 6 · Compare (argument · move: split + orange payoff · DARK→ORANGE), Approved Entities, Aspect-Ratio Behavior (+16 more)
+
+### Community 734 - "unwrap"
+Cohesion: 0.03
+Nodes (102): 7(), appendToTrace(), areEqual(), arrayBuffer(), beginComputePass(), beginRenderPass(), Bf(), bz() (+94 more)
+
+### Community 735 - "get"
+Cohesion: 0.05
+Nodes (87): $1(), $a(), aG(), al(), ax(), Bg(), BM(), Bt() (+79 more)
+
+### Community 736 - "Es"
+Cohesion: 0.06
+Nodes (65): 0(), 3(), array(), atomic(), aW(), b(), b0(), Bi() (+57 more)
+
+### Community 737 - "measure"
+Cohesion: 0.15
+Nodes (14): cw(), Fa(), fork(), hasKey(), JC(), maxSize(), measure(), measureCompile() (+6 more)
+
+### Community 738 - "deterministicFonts.ts"
+Cohesion: 0.05
+Nodes (63): addCaseClosure(), addFullSizeKanaVariants(), addFullwidthVariants(), bundledFamilyFaceRules(), cachedWoff2Path(), callerAbortReason(), cancelResponseBody(), CANONICAL_FONTS (+55 more)
+
+### Community 739 - "TypeGPU / WebGPU for HyperFrames"
+Cohesion: 0.15
+Nodes (12): Basic Pattern, Contents, Contract, Deterministic Rendering, Frosted Blur via Downsample Pass, Render-environment prerequisite (WebGPU + html-in-canvas), Rounded-Rect SDF (Liquid Glass Pill), Timeline Registration (+4 more)
+
+### Community 740 - ".push"
+Cohesion: 0.02
+Nodes (34): To(), Hd(), n(), r(), bl(), _c, eo, fh (+26 more)
+
+### Community 741 - "Creative Mode — Frame (video / frame layer)"
+Cohesion: 0.08
+Nodes (24): 1 · Wordmark Cover (identity · move: full-frame lockup · centered), 2 · Big Claim (oversized statement · move: scale · left), 3 · Stat Grid (catalog · move: density — the one dense frame · centered), 4 · Closing Plate (closer · move: ground-swap · centered), 5 · Featured Marker (callout · move: hard-shadow focal · left/asymmetric), 6 · Comparison Ledger (data · move: matrix · left), Approved Entities, Aspect-Ratio Behavior (+16 more)
+
+### Community 742 - "Editorial Forest — Frame (video / frame layer)"
+Cohesion: 0.08
+Nodes (24): 1 · Cover (identity · move: oversized serif · green · left), 2 · Topic Tiles (catalog · move: rotating-fill grid · cream · the dense frame), 3 · KPI Stat (data · move: oversized figure · green), 4 · Statement (quote · move: display serif · cream · left), 5 · Step Framework (process · move: 8px step tiles · cream/green), 6 · Chart (data · move: bars + meta · green), Approved Real Entities, Aspect-Ratio Behavior (+16 more)
+
+### Community 743 - "get"
+Cohesion: 0.07
+Nodes (71): $a(), ax(), BM(), Bt(), Ca(), cd(), Cl(), cM() (+63 more)
+
+### Community 745 - "jr"
+Cohesion: 0.09
+Nodes (25): $c(), D4(), fc(), H6(), i7(), jr(), K5(), kG() (+17 more)
+
+### Community 746 - "Document, CSS and scripts"
+Cohesion: 0.04
+Nodes (56): Adapters: Lottie and Three.js, `audio_file_without_element`, `audio_src_not_found`, `blank_root_with_standalone_composition`, `caption_track_kind_missing`, `clip_ends_past_root_duration`, `css_parse_error`, `css_transition_used` (+48 more)
+
+### Community 747 - "get"
+Cohesion: 0.05
+Nodes (84): $1(), $a(), aG(), al(), ax(), Bg(), BM(), Bt() (+76 more)
+
+### Community 748 - "get"
+Cohesion: 0.05
+Nodes (91): $1(), $a(), aG(), al(), aM(), ax(), Bg(), BM() (+83 more)
+
+### Community 749 - "resolve"
+Cohesion: 0.04
+Nodes (136): accessProp(), addDeclaration(), Ae(), Ak(), _aliasConstStatement(), allocateFixedEntry(), allocateLayoutEntry(), as() (+128 more)
+
+### Community 750 - "Bold Poster — Frame (video / frame layer)"
+Cohesion: 0.08
+Nodes (24): 1 · Hero Stack (identity · move: 3-line tilted stack · left), 2 · Hero Stat (statement · move: poster numeral · red panel · centered), 3 · Financial Grid (data · move: double-border matrix · the dense frame), 4 · Pull Quote (quote · move: tilted/stacked display · red panel · left), 5 · Editorial Cards (content · move: red leftbar cards · left), 6 · Closing Statement (closer · move: tilted close-big · centered/left), Approved Entities, Aspect-Ratio Behavior (+16 more)
+
+### Community 751 - "HyperframesSlideshow"
+Cohesion: 0.06
+Nodes (8): ControllerLike, finiteMediaNumber(), HyperframesSlideshow, isTextEntryTarget(), formatElapsed(), PresenterMediaAction, PresenterMediaMessage, SlideshowChannel
+
+### Community 752 - "Workflow"
+Cohesion: 0.03
+Nodes (58): Paste it into your composition, Related topics, Variables, words(), Animation, Aspect distortion / sharp channel-stride make the alpha garbage, Blending, Bright backgrounds wash out screen blend (+50 more)
+
+### Community 753 - "resolve"
+Cohesion: 0.05
+Nodes (97): 8(), accessProp(), addDeclaration(), Ae(), _aliasConstStatement(), allocateFixedEntry(), allocateLayoutEntry(), aU() (+89 more)
+
+### Community 754 - "resolve"
+Cohesion: 0.05
+Nodes (97): 8(), accessProp(), addDeclaration(), Ae(), _aliasConstStatement(), allocateFixedEntry(), allocateLayoutEntry(), aU() (+89 more)
+
+### Community 755 - "get"
+Cohesion: 0.06
+Nodes (77): $a(), arrayBuffer(), BM(), Bt(), bx(), cd(), Cl(), CP() (+69 more)
+
+### Community 756 - "textContent"
+Cohesion: 0.06
+Nodes (33): textContent(), Contents, Control-Target Sync, Critical Constraints, How It Works, Recipe, See also, Values (+25 more)
+
+### Community 757 - "$i"
+Cohesion: 0.06
+Nodes (69): Ic(), nc(), Sc(), Tu(), wc(), yc(), A(), Aa() (+61 more)
+
+### Community 758 - "gsapInline.ts"
+Cohesion: 0.05
+Nodes (76): asNum(), assignStep(), bodyStatements(), boundPatterns(), bump(), callbackParamNames(), callsAny(), cloneNode() (+68 more)
+
+### Community 759 - "unwrap"
+Cohesion: 0.03
+Nodes (112): 7(), 8(), beginComputePass(), beginRenderPass(), bz(), c7(), cI(), clear() (+104 more)
+
+### Community 760 - "read"
+Cohesion: 0.05
+Nodes (60): bz(), c7(), clear(), clearBlockExternals(), copyFrom(), createCommandEncoder(), cv(), cy() (+52 more)
+
+### Community 761 - "s"
+Cohesion: 0.04
+Nodes (82): 7(), arrayBuffer(), bz(), c7(), cI(), clear(), clearBlockExternals(), copyFrom() (+74 more)
+
+### Community 762 - "s"
+Cohesion: 0.04
+Nodes (97): 7(), arrayBuffer(), beginRenderPass(), bz(), c7(), cI(), clear(), clearBlockExternals() (+89 more)
+
+### Community 763 - "Part 1 — the move vocabulary"
+Cohesion: 0.08
+Nodes (23): 1. Smooth beats bouncy — `power3` is the default, 2. Sequential reveal in the back ~50%, timed to the voiceover, 3. No lazy breathing, no bad pan/push — "no motion over bad motion", 4. Internal seams are velocity-matched cuts, Aliveness during a hold (use sparingly — see Part 2), Camera, Count-up / data, Emphasis / marker (+15 more)
+
+### Community 764 - "normalizeFamilyName"
+Cohesion: 0.17
+Nodes (16): buildFontFaceCss(), buildFontFaceRule(), extractExistingFontFaces(), familySpellingKey(), fetchFamilyFaces(), fetchGoogleFont(), findDeclaredFamilyAlias(), fontFormatHint() (+8 more)
+
+### Community 765 - "unwrap"
+Cohesion: 0.03
+Nodes (125): hC(), 7(), appendToTrace(), areEqual(), beginComputePass(), beginRenderPass(), Bf(), bz() (+117 more)
+
+### Community 766 - "unwrap"
+Cohesion: 0.04
+Nodes (81): 7(), appendToTrace(), areEqual(), beginRenderPass(), Bf(), c7(), cI(), clear() (+73 more)
+
+### Community 767 - "s"
+Cohesion: 0.04
+Nodes (82): 7(), arrayBuffer(), bz(), c7(), cI(), clear(), clearBlockExternals(), copyFrom() (+74 more)
+
+### Community 768 - "s"
+Cohesion: 0.04
+Nodes (82): 7(), arrayBuffer(), bz(), c7(), cI(), clear(), clearBlockExternals(), copyFrom() (+74 more)
+
+### Community 769 - "s"
+Cohesion: 0.04
+Nodes (82): 7(), arrayBuffer(), bz(), c7(), cI(), clear(), clearBlockExternals(), copyFrom() (+74 more)
+
+### Community 770 - "get"
+Cohesion: 0.07
+Nodes (71): $a(), ax(), BM(), Bt(), Ca(), cd(), Cl(), cM() (+63 more)
+
+### Community 771 - "inlineTextStyleRange.ts"
+Cohesion: 0.05
+Nodes (69): escape(), richTextHtml(), filterStyle(), FORMATTING_ATTRS, FORMATTING_STYLE_PROPS, FORMATTING_TAGS, isDeclarationSeparator(), isElementNode() (+61 more)
+
+### Community 772 - "Story design — faceless explainer video"
+Cohesion: 0.08
+Nodes (24): 1. Extract the teaching truth, 2. Match the register to `frame.md`, 3. Choose one explainer structure, 4. Build the frame sequence, Clarity / rhetoric technique catalog, Continuity across frames (no worker grouping), Core rule, Emotional beats (+16 more)
+
+### Community 773 - "get"
+Cohesion: 0.05
+Nodes (91): $1(), $a(), aG(), al(), aM(), ax(), Bg(), BM() (+83 more)
+
+### Community 774 - "get"
+Cohesion: 0.05
+Nodes (84): $1(), $a(), aG(), al(), ax(), Bg(), BM(), Bt() (+76 more)
+
+### Community 775 - "get"
+Cohesion: 0.05
+Nodes (87): $1(), $a(), ax(), Bg(), BM(), Bt(), Ca(), cd() (+79 more)
+
+### Community 776 - "isHtmlElement"
+Cohesion: 0.10
+Nodes (26): json(), applyCaptionOverrides(), applyFetchedCaptionOverrides(), applyWordOverride(), CaptionOverride, declaredCaptionState(), definedProps(), fetchCaptionOverrides() (+18 more)
+
+### Community 777 - "hyperframes/skills/embedded-captions/scripts/make-composition.cjs"
+Cohesion: 0.10
+Nodes (27): DNA_DIR, fs, heroImpact(), LEGACY, path, readJson(), resolveTokens(), SKILL_ROOT (+19 more)
+
+### Community 778 - "_i"
+Cohesion: 0.02
+Nodes (9): bd, hr, _i, _l, la, or, ql(), sc (+1 more)
+
+### Community 779 - "_i"
+Cohesion: 0.03
+Nodes (5): bd, _i, la, ql(), xi()
+
+### Community 780 - "unwrap"
+Cohesion: 0.03
+Nodes (99): 7(), appendToTrace(), areEqual(), beginRenderPass(), Bf(), bz(), c7(), cI() (+91 more)
+
+### Community 781 - "producer/src/server.ts"
+Cohesion: 0.03
+Nodes (105): assertDistributedOptions(), assertNonEmptyPath(), assertOptionalBoolean(), assertOptionalEnum(), assertOptionalInteger(), assertOptionalString(), assertPositiveFps(), assertRenderRequest() (+97 more)
+
+### Community 782 - "05-drift.ts"
+Cohesion: 0.24
+Nodes (12): loadHostPage(), percentile(), waitForPlayerAssetsReady(), LoadScenarioOpts, runLoad(), DriftSample, DriftScenarioOpts, getFixtureFrame() (+4 more)
+
+### Community 783 - "write"
+Cohesion: 0.07
+Nodes (51): 0(), 2(), 3(), AB(), aC(), an(), b(), c8() (+43 more)
+
+### Community 784 - "Visual Techniques Reference"
+Cohesion: 0.08
+Nodes (22): Effect names — vocabulary (do NOT use this as the implementation source), How to use it, In the storyboard, Text Effects — Reference, When you don't need the upstream skill, 10. Velocity-Matched Transitions, 11. Audio-Reactive Animation, 12. Clip-Path Reveal Masks (+14 more)
+
+### Community 785 - "get"
+Cohesion: 0.11
+Nodes (46): $a(), ax(), BM(), Bt(), Ca(), Cl(), cM(), CP() (+38 more)
+
+### Community 786 - "get"
+Cohesion: 0.07
+Nodes (71): $a(), ax(), BM(), Bt(), Ca(), cd(), Cl(), cM() (+63 more)
+
+### Community 787 - "unwrap"
+Cohesion: 0.03
+Nodes (102): 7(), appendToTrace(), areEqual(), arrayBuffer(), beginComputePass(), beginRenderPass(), Bf(), bz() (+94 more)
+
+### Community 788 - "get"
+Cohesion: 0.05
+Nodes (91): $1(), $a(), aG(), al(), aM(), ax(), Bg(), BM() (+83 more)
+
+### Community 789 - "warn"
+Cohesion: 0.06
+Nodes (62): 8(), advanceBy(), array(), atomic(), aW(), b0(), cb(), compileWriter() (+54 more)
+
+### Community 790 - "get"
+Cohesion: 0.02
+Nodes (122): Add it to your video, Related topics, Add it to your video, Related topics, Paste it into your composition, Related topics, Variables, `check` (+114 more)
+
+### Community 791 - "catalog-payload-assets.file-race.test.ts"
+Cohesion: 0.10
+Nodes (28): bytes, hooks, publish(), expectHosted(), hooks, assertCdnUrl(), fetchHostedAsset(), fetchHostedFiles() (+20 more)
+
+### Community 792 - "Re"
+Cohesion: 0.12
+Nodes (33): asString(), bw(), completeStruct(), createComputePipeline(), createGuardedComputePipeline(), createRenderPipeline(), $d(), e6() (+25 more)
+
+### Community 793 - "World.ts"
+Cohesion: 0.06
+Nodes (39): AdaptiveResolution, clock, damp(), heroFrame, input, sim, actionListeners, CameraD (+31 more)
+
+### Community 794 - "Re"
+Cohesion: 0.08
+Nodes (42): asString(), bw(), completeStruct(), createComputePipeline(), createGuardedComputePipeline(), createRenderPipeline(), $d(), D4() (+34 more)
+
+### Community 795 - "warn"
+Cohesion: 0.06
+Nodes (62): 8(), advanceBy(), array(), atomic(), aW(), b0(), cb(), compileWriter() (+54 more)
+
+### Community 796 - "Rt"
+Cohesion: 0.05
+Nodes (75): Ak(), as(), asString(), aT(), bk(), bw(), cG(), completeStruct() (+67 more)
+
+### Community 797 - "write"
+Cohesion: 0.05
+Nodes (68): 0(), 2(), 3(), AB(), aC(), an(), aT(), b() (+60 more)
+
+### Community 798 - "Resolve — command, flags, reuse, adopt, inventory"
+Cohesion: 0.08
+Nodes (21): voice(), Body — the intent in prose, Brief format — `BRIEF.md`, Example, Frontmatter — the confirmed fields, Lifecycle, Adopt existing projects, Cross-project reuse (+13 more)
+
+### Community 799 - "Re"
+Cohesion: 0.07
+Nodes (49): aM(), appendToTrace(), areEqual(), asString(), Bf(), bw(), C1(), completeStruct() (+41 more)
+
+### Community 800 - "Re"
+Cohesion: 0.07
+Nodes (50): asString(), bw(), c8(), completeStruct(), configureContext(), createComputePipeline(), createGuardedComputePipeline(), createRenderPipeline() (+42 more)
+
+### Community 801 - "Re"
+Cohesion: 0.09
+Nodes (41): asString(), bw(), completeStruct(), createComputePipeline(), createGuardedComputePipeline(), createRenderPipeline(), $d(), D4() (+33 more)
+
+### Community 802 - "Re"
+Cohesion: 0.10
+Nodes (39): asString(), bw(), completeStruct(), createComputePipeline(), createGuardedComputePipeline(), createRenderPipeline(), $d(), e6() (+31 more)
+
+### Community 803 - "Es"
+Cohesion: 0.06
+Nodes (65): 0(), 3(), array(), atomic(), aW(), b(), b0(), Bi() (+57 more)
+
+### Community 804 - "Rt"
+Cohesion: 0.05
+Nodes (75): Ak(), as(), asString(), aT(), bk(), bw(), cG(), completeStruct() (+67 more)
+
+### Community 805 - "Rt"
+Cohesion: 0.05
+Nodes (75): Ak(), as(), asString(), aT(), bk(), bw(), cG(), completeStruct() (+67 more)
+
+### Community 806 - "cloud — HeyGen-hosted rendering (zero-infra)"
+Cohesion: 0.08
+Nodes (20): Archive size and `.hyperframesignore`, Authentication, cloud — HeyGen-hosted rendering (zero-infra), Fire-and-forget and webhooks, Managing renders, Render options, Safe retries, Templates and variables (+12 more)
+
+### Community 807 - "Es"
+Cohesion: 0.06
+Nodes (63): array(), atomic(), aW(), b(), b0(), Bi(), cb(), computeBounds() (+55 more)
+
+### Community 808 - "shader"
+Cohesion: 0.03
+Nodes (43): Add it to your video, Related topics, Add it to your video, Related topics, Add it to your video, Related topics, Add it to your video, Change how it looks (+35 more)
+
+### Community 809 - "06-parity.ts"
+Cohesion: 0.24
+Nodes (12): computeSsim(), ensureDir(), getFixtureFrame(), HERE, ParityScenarioOpts, RESULTS_DIR, runOnce(), runParity() (+4 more)
+
+### Community 810 - "Re"
+Cohesion: 0.11
+Nodes (35): asString(), bw(), completeStruct(), createComputePipeline(), createGuardedComputePipeline(), createRenderPipeline(), $d(), e6() (+27 more)
+
+### Community 811 - "unwrap"
+Cohesion: 0.04
+Nodes (94): 7(), appendToTrace(), areEqual(), beginRenderPass(), Bf(), bz(), c7(), ck() (+86 more)
+
+### Community 812 - "warn"
+Cohesion: 0.06
+Nodes (55): 8(), bz(), c7(), clear(), clearBlockExternals(), copyFrom(), createBuffer(), createCommandEncoder() (+47 more)
+
+### Community 813 - "Bold Poster — Frame (video / frame layer)"
+Cohesion: 0.08
+Nodes (24): 1 · Hero Stack (identity · move: 3-line tilted stack · left), 2 · Hero Stat (statement · move: poster numeral · red panel · centered), 3 · Financial Grid (data · move: double-border matrix · the dense frame), 4 · Pull Quote (quote · move: tilted/stacked display · red panel · left), 5 · Editorial Cards (content · move: red leftbar cards · left), 6 · Closing Statement (closer · move: tilted close-big · centered/left), Approved Entities, Aspect-Ratio Behavior (+16 more)
+
+### Community 814 - "Blue Professional — Frame (video / frame layer)"
+Cohesion: 0.08
+Nodes (24): 1 · Cover (identity · move: diagonal accent · left), 2 · Dashboard (data · move: 3-up metric grid · the dense frame), 3 · Bar Ranking (data · move: cobalt bars · left), 4 · Pull Quote (quote · move: concentric rings · centered), 5 · Split + Highlight (content · move: asymmetric split · left), 6 · Closing / CTA (closer · move: centered rings + CTA), Approved Entities, Aspect-Ratio Behavior (+16 more)
+
+### Community 815 - "Xr"
+Cohesion: 0.09
+Nodes (25): bx(), cw(), Df(), Fa(), fork(), hasKey(), Ih(), JC() (+17 more)
+
+### Community 816 - "Biennale Yellow — Frame (video / frame layer)"
+Cohesion: 0.08
+Nodes (24): 1 · Cover (identity · move: display + sun bloom · left), 2 · Chapter Divider (section · move: jumbo numeral · vertical rail), 3 · Ledger (catalog · move: hairline tabular rows · the dense frame), 4 · Manifesto / Quote (quote · move: italic serif · centered bloom), 5 · Poster Panel (statement · move: yellow panel · split), 6 · Strand List (programme · move: numbered editorial rows · left), Approved Entities, Aspect-Ratio Behavior (+16 more)
+
+### Community 817 - "Bold Poster — Frame (video / frame layer)"
+Cohesion: 0.08
+Nodes (24): 1 · Hero Stack (identity · move: 3-line tilted stack · left), 2 · Hero Stat (statement · move: poster numeral · red panel · centered), 3 · Financial Grid (data · move: double-border matrix · the dense frame), 4 · Pull Quote (quote · move: tilted/stacked display · red panel · left), 5 · Editorial Cards (content · move: red leftbar cards · left), 6 · Closing Statement (closer · move: tilted close-big · centered/left), Approved Entities, Aspect-Ratio Behavior (+16 more)
+
+### Community 818 - "perf/server.ts"
+Cohesion: 0.17
+Nodes (9): HERE, MIME_TYPES, mimeFor(), PATHS, PLAYER_PKG, readBunFile(), REPO_ROOT, RunningServer (+1 more)
+
+### Community 819 - "Cobalt Grid — Frame (video / frame layer)"
+Cohesion: 0.08
+Nodes (24): 1 · Hero Cover (identity · move: serif + glitch · left), 2 · Index Ledger (catalog · move: dense matrix · left — the dense frame), 3 · Chapter Opener (section · move: scale · sparse · left), 4 · Data Frame (chart · move: pixel-stack · left), 5 · Manifesto / Quote (quote · move: centered statement · sparse), 6 · Colophon (closer · move: right-aligned close · sparse), Approved Entities, Aspect-Ratio Behavior (+16 more)
+
+### Community 820 - "ref_react_dom"
+Cohesion: 0.01
+Nodes (255): Complete application, Editor structure, Entry points, How Studio stays connected to a project, Main exports, Playback and timeline, Related topics, Tailwind preset (+247 more)
+
+### Community 821 - "Code editorial — Frame (video / frame layer)"
+Cohesion: 0.08
+Nodes (24): 1 · Cover (identity · move: oversized EB Garamond · cream), 2 · Statement (statement · move: single EB Garamond line · cream or navy), 3 · Code Surface (code · move: warm-navy code window · the PR-critical frame), 4 · Number / Impact (data · move: oversized figure · cream), 5 · Pull-quote (quote · move: EB Garamond italic · cream), 6 · Closing / CTA (closer · move: coral voltage · cream or navy), Approved Real Entities, Aspect-Ratio Behavior (+16 more)
+
+### Community 822 - "rules/gsap.ts"
+Cohesion: 0.04
+Nodes (62): cachedExtractGsapWindows(), ClipTagClasses, collectFunctionBodyRanges(), collectMeasuringFunctionNames(), collectNamedFunctionBodies(), combinedTagStyle(), CONFLICTING_SCALE_PROPS, CONFLICTING_TRANSLATE_PROPS (+54 more)
+
+### Community 823 - "r"
+Cohesion: 0.06
+Nodes (57): 2(), AB(), aC(), an(), aT(), az(), By(), cG() (+49 more)
+
+### Community 824 - "Bt"
+Cohesion: 0.08
+Nodes (55): $a(), Bt(), bx(), Ca(), cd(), Cl(), cM(), CP() (+47 more)
+
+### Community 825 - "Es"
+Cohesion: 0.06
+Nodes (65): 0(), 3(), array(), atomic(), aW(), b(), b0(), Bi() (+57 more)
+
+### Community 826 - "s"
+Cohesion: 0.04
+Nodes (79): 7(), beginRenderPass(), bh(), bR(), bz(), c7(), cI(), clear() (+71 more)
+
+### Community 827 - "get"
+Cohesion: 0.05
+Nodes (91): $1(), $a(), aG(), al(), aM(), ax(), Bg(), BM() (+83 more)
+
+### Community 828 - "Scene Types — picking the right template"
+Cohesion: 0.15
+Nodes (13): Anti-examples (wall-embed would FAIL), Conditions, Conditions, corner-column-crown — "text sits in a clean region next to the subject", Four conditions — ALL must hold, Mode checklist (run this before committing to wall-embed), portrait-header — "subject fills center, text lives in top banner", Quick decision flow (+5 more)
+
+### Community 829 - "get"
+Cohesion: 0.07
+Nodes (68): $a(), ax(), BM(), Bt(), Ca(), cd(), Cl(), cM() (+60 more)
+
+### Community 830 - "Coral — Frame (video / frame layer)"
+Cohesion: 0.08
+Nodes (24): 1 · Region-Split Cover (identity · move: hard region edge · left), 2 · Feature Stat (anchor · move: scale · coral environment · left), 3 · Quote Layout (quote · move: panel split · giant mark), 4 · Closing Plate (closer · move: cream field + coral band · centered), 5 · Three-Column Catalog (catalog · move: density — the dense frame · centered head), 6 · Timeline (process · move: horizontal rail · left), Approved Entities, Aspect-Ratio Behavior (+16 more)
+
+### Community 831 - "Es"
+Cohesion: 0.06
+Nodes (65): 0(), 3(), array(), atomic(), aW(), b(), b0(), Bi() (+57 more)
+
+### Community 832 - "get"
+Cohesion: 0.05
+Nodes (91): $1(), $a(), aG(), al(), aM(), ax(), Bg(), BM() (+83 more)
+
+### Community 833 - "Rt"
+Cohesion: 0.05
+Nodes (79): Ak(), array(), as(), b(), Bi(), bk(), cb(), compileWriter() (+71 more)
+
+### Community 834 - "music-to-video — one music-grounded, beat-synced video workflow"
+Cohesion: 0.04
+Nodes (57): Frame skeleton (Step 2) — read the music, lay out the frames, How to lay out frames (run in order), Self-check, The trust boundary (read this first), What the skeleton looks like, Asset treatments — weaving user media onto the beat spine, `beat_cut` — one clip per anchor (only on a `beat_cut` frame), `bg_under_text` — clip dimmed behind a template/free group (+49 more)
+
+### Community 835 - "fc"
+Cohesion: 0.09
+Nodes (26): beginComputePass(), D4(), fc(), Hi(), hw(), K5(), kG(), mw() (+18 more)
+
+### Community 836 - "eu"
+Cohesion: 0.06
+Nodes (7): eu, fd(), gd(), ku, lr, ru, yd
+
+### Community 837 - "constructor"
+Cohesion: 0.10
+Nodes (21): compileWriter(), constructor(), createMutable(), createSampler(), Fk(), GU(), H5(), j5() (+13 more)
+
+### Community 838 - "Daisy Days — Frame (video / frame layer)"
+Cohesion: 0.08
+Nodes (24): 1 · Cover (identity · move: ornament wreath · saturated · centered), 2 · Info Cards (catalog · move: 3-up white cards · cream · the dense frame), 3 · Process Steps (sequence · move: rotating circle markers · peach · centered), 4 · Quote (quote · move: quote-mark anchor · soft-pink · centered), 5 · Framed Section (feature · move: cap+body card · cream), 6 · Closing (closer · move: ornament wreath · saturated · centered), Approved Real Entities, Aspect-Ratio Behavior (+16 more)
+
+### Community 839 - "ai/skills/media-use/scripts/lib/manifest.mjs"
+Cohesion: 0.19
+Nodes (23): AGENT_SOURCES, allocateId(), appendRecord(), currentRecords(), findByEntity(), findByPrompt(), manifestPath(), mediaDir() (+15 more)
+
+### Community 840 - "constructor"
+Cohesion: 0.14
+Nodes (16): constructor(), createBuffer(), createMutable(), createReadonly(), createSampler(), Fk(), GU(), j5() (+8 more)
+
+### Community 841 - "undo-socket-pool.mjs"
+Cohesion: 0.05
+Nodes (31): finish(), evidence, failures, launchStudioChrome(), evidence, failures, TAB_PX, evidence (+23 more)
+
+### Community 842 - "THEME mode — composed visual constitutions"
+Cohesion: 0.17
+Nodes (11): Adding a theme DNA, Authoring a project (this is ALL a user writes), Body paradigms (registry), Hard rules inherited (do not relax), Hero setpieces (registry), Linkages, SVG gotchas (paid for, do not rediscover), theme.json — full schema (+3 more)
+
+### Community 843 - "getTimelineElementIdentity"
+Cohesion: 0.07
+Nodes (58): resolveTimelineDropIndicator(), ResolveTimelineDropIndicatorInput, layerOrder, TimelineDropIndicator, TimelineMarqueeSelectionInput, TimelineMoveInput, addElementChange(), addLayerChanges() (+50 more)
+
+### Community 844 - "write"
+Cohesion: 0.08
+Nodes (28): By(), cw(), dispatchThreads(), dispatchWorkgroups(), dS(), Fa(), fork(), Gy() (+20 more)
+
+### Community 845 - "cn"
+Cohesion: 0.18
+Nodes (20): 2(), AB(), aC(), an(), cn(), EB(), eC(), Hs() (+12 more)
+
+### Community 846 - "audioSections.ts"
+Cohesion: 0.11
+Nodes (26): Paste it into your composition, Related topics, Variables, chordsOverEvenHits(), drums(), grid(), parts(), random() (+18 more)
+
+### Community 847 - "editor.ts"
+Cohesion: 0.06
+Nodes (57): selected(), animate(), appliedValues(), apply(), button(), camera, cameraReplay(), capture() (+49 more)
+
+### Community 848 - "Rt"
+Cohesion: 0.05
+Nodes (82): array(), as(), atomic(), aW(), b(), b0(), Bi(), bk() (+74 more)
+
+### Community 849 - "get"
+Cohesion: 0.05
+Nodes (91): $1(), $a(), aG(), al(), aM(), ax(), Bg(), BM() (+83 more)
+
+### Community 850 - "get"
+Cohesion: 0.05
+Nodes (84): $1(), $a(), aG(), al(), ax(), Bg(), BM(), Bt() (+76 more)
+
+### Community 851 - "get"
+Cohesion: 0.05
+Nodes (91): $1(), $a(), aG(), al(), aM(), ax(), Bg(), BM() (+83 more)
+
+### Community 852 - "Or"
+Cohesion: 0.03
+Nodes (109): wx(), wx(), wx(), addFlow(), Ape(), B5(), bN(), bO() (+101 more)
+
+### Community 853 - "Part 1 — the move vocabulary"
+Cohesion: 0.08
+Nodes (23): 1. Smooth beats bouncy — `power3` is the default, 2. Sequential reveal in the back ~50%, timed to the voiceover, 3. No lazy breathing, no bad pan/push — "no motion over bad motion", 4. Internal seams are velocity-matched cuts, Aliveness during a hold (use sparingly — see Part 2), Camera, Count-up / data, Emphasis / marker (+15 more)
+
+### Community 854 - "Powder.ts"
+Cohesion: 0.09
+Nodes (46): rng(), iceEnvironment(), N, fastOptics(), createIceMaterial(), N, N, opticalTransport() (+38 more)
+
+### Community 855 - "Part 1 — the move vocabulary"
+Cohesion: 0.08
+Nodes (23): 1. Smooth beats bouncy — `power3` is the default, 2. Sequential reveal in the back ~50%, timed to the voiceover, 3. No lazy breathing, no bad pan/push — "no motion over bad motion", 4. Internal seams are velocity-matched cuts, Aliveness during a hold (use sparingly — see Part 2), Camera, Count-up / data, Emphasis / marker (+15 more)
+
+### Community 856 - "Story design — product launch video"
+Cohesion: 0.08
+Nodes (23): 1. Extract the product truth, 2. Choose the arc (the sequence backbone), 3. Lay out the beats, each with a role, 4. Write each beat's VO in its blueprint's script shape, Asset candidates, BENEFITS, BRAND_OUTRO, CTA (+15 more)
+
+### Community 857 - "get"
+Cohesion: 0.05
+Nodes (91): $1(), $a(), aG(), al(), aM(), ax(), Bg(), BM() (+83 more)
+
+### Community 858 - ".agent/skills/media-use/scripts/dither.mjs"
+Cohesion: 0.20
+Nodes (19): frameRateNumber(), IMAGE_EXTENSIONS, OUTPUT_IMAGE_EXTENSIONS, probe(), processImage(), processVideo(), run(), temporaryOutput() (+11 more)
+
+### Community 859 - "hyperframes/skills/hyperframes-animation/scripts/animation-map.mjs"
+Cohesion: 0.06
+Nodes (37): args, buildElementLifecycles(), captureSnapshots(), COMP_DIR, findLastBbox(), FRAMES, HEIGHT, markCollisions() (+29 more)
+
+### Community 860 - "Biennale Yellow — Frame (video / frame layer)"
+Cohesion: 0.08
+Nodes (24): 1 · Cover (identity · move: display + sun bloom · left), 2 · Chapter Divider (section · move: jumbo numeral · vertical rail), 3 · Ledger (catalog · move: hairline tabular rows · the dense frame), 4 · Manifesto / Quote (quote · move: italic serif · centered bloom), 5 · Poster Panel (statement · move: yellow panel · split), 6 · Strand List (programme · move: numbered editorial rows · left), Approved Entities, Aspect-Ratio Behavior (+16 more)
+
+### Community 861 - ".agent/skills/media-use/scripts/lib/manifest.mjs"
+Cohesion: 0.15
+Nodes (28): formatDims(), formatDur(), generateIndexContent(), pad(), regenerateIndex(), AGENT_SOURCES, allocateId(), appendRecord() (+20 more)
+
+### Community 862 - "qt"
+Cohesion: 0.06
+Nodes (41): beginComputePass(), bx(), Df(), dR(), ep(), eR(), g(), gR() (+33 more)
+
+### Community 863 - "runtime/timeline.ts"
+Cohesion: 0.02
+Nodes (170): Compile a project, attr(), BeatFileData, findMusicAudioSrc(), isMusicSourceTag(), isSoundingVideoTag(), serializeBeats(), clampProbedMedia() (+162 more)
+
+### Community 864 - "hyperframes/skills/media-use/scripts/lib/recipe-store.mjs"
+Cohesion: 0.18
+Nodes (21): nextId(), BRIEF_CONTENT_KEYS, briefWorkflow(), FRAME_CONTENT_KEYS, frameTitle(), freezeRecipe(), FRONTMATTER_CONTENT_KEYS, listRecipes() (+13 more)
+
+### Community 865 - "warn"
+Cohesion: 0.05
+Nodes (68): 0(), 3(), 8(), array(), atomic(), aW(), b(), b0() (+60 more)
+
+### Community 866 - "s"
+Cohesion: 0.03
+Nodes (127): 0(), 3(), aM(), array(), arrayBuffer(), as(), aT(), atomic() (+119 more)
+
+### Community 867 - "shard-compile-probe.ts"
+Cohesion: 0.11
+Nodes (17): atomics, backdrop, builder, builtins, camera, erosion, ice, ids (+9 more)
+
+### Community 868 - "engineModePageComposite.ts"
+Cohesion: 0.12
+Nodes (30): Package Exports, width(), holdAnimations(), installPageSideCompositor(), prepareComposite(), resolveComposite(), isPageSideCompositingSupported(), PageCompositeTransitionConfig (+22 more)
+
+### Community 869 - ".push"
+Cohesion: 0.02
+Nodes (39): ac, n(), r(), bh, bl(), ep, fh, fl() (+31 more)
+
+### Community 870 - "Cuboid Carousel"
+Cohesion: 0.29
+Nodes (6): Cuboid Carousel, Editing rules (from the source project), Files, Install, Runtime contract, Variables
+
+### Community 871 - "Es"
+Cohesion: 0.06
+Nodes (71): 0(), 3(), array(), atomic(), aW(), b(), b0(), Bi() (+63 more)
+
+### Community 872 - "authoredGoogleFonts.ts"
+Cohesion: 0.35
+Nodes (9): activeStylesheet(), authoredGoogleFontStylesheets(), googleStylesheetFamilies(), importUrls(), screenStylesheet(), StylesheetElement, stylesheetUrls(), unconditionalImportUrl() (+1 more)
+
+### Community 873 - "glass-main.mjs"
+Cohesion: 0.04
+Nodes (60): addManualFog(), blobPoly, blobR(), bounds, buildPieceGeometry(), camera, canvas, cells (+52 more)
+
+### Community 874 - "Rt"
+Cohesion: 0.05
+Nodes (78): array(), as(), atomic(), Bi(), bk(), cb(), cG(), compileWriter() (+70 more)
+
+### Community 875 - "Es"
+Cohesion: 0.06
+Nodes (65): 0(), 3(), array(), atomic(), aW(), b(), b0(), Bi() (+57 more)
+
+### Community 876 - "Es"
+Cohesion: 0.06
+Nodes (65): 0(), 3(), array(), atomic(), aW(), b(), b0(), Bi() (+57 more)
+
+### Community 877 - "Rt"
+Cohesion: 0.05
+Nodes (77): Ak(), array(), as(), atomic(), Bi(), bk(), cb(), cG() (+69 more)
+
+### Community 878 - "k4"
+Cohesion: 0.57
+Nodes (7): advanceBy(), consume(), isAt(), isFinished(), k4(), m4(), parseUntil()
+
+### Community 879 - "Es"
+Cohesion: 0.06
+Nodes (63): array(), atomic(), aW(), b(), b0(), Bi(), cb(), computeBounds() (+55 more)
+
+### Community 880 - "write"
+Cohesion: 0.06
+Nodes (75): 0(), 3(), array(), atomic(), b(), Bi(), castElement(), cb() (+67 more)
+
+### Community 881 - "Rt"
+Cohesion: 0.05
+Nodes (79): Ak(), array(), as(), b(), Bi(), bk(), cb(), compileWriter() (+71 more)
+
+### Community 882 - "r"
+Cohesion: 0.06
+Nodes (57): 2(), AB(), aC(), an(), aT(), az(), By(), cG() (+49 more)
+
+### Community 883 - "keyframes.ts"
+Cohesion: 0.09
+Nodes (24): addAnimeSelectors(), addCssKeyframeSelectors(), addTraceSelectors(), addTweenSelectors(), collectShotSelectors(), createKeyframesCommand(), CssKeyframeStop, defaultKeyframesCommand (+16 more)
+
+### Community 884 - "Es"
+Cohesion: 0.06
+Nodes (65): 0(), 3(), array(), atomic(), aW(), b(), b0(), Bi() (+57 more)
+
+### Community 885 - "Es"
+Cohesion: 0.06
+Nodes (65): 0(), 3(), array(), atomic(), aW(), b(), b0(), Bi() (+57 more)
+
+### Community 886 - "Composition craft — EMBED track only"
+Cohesion: 0.06
+Nodes (33): Captions Overlay Doctrine, Rail-first, embed-scarce (the load-bearing rules), The caption model — drop / rail / embed, The overlay law — captions are NOT a reserved band, Why these two rules are one doctrine, Captions Overlay Doctrine, Rail-first, embed-scarce (the load-bearing rules), The caption model — drop / rail / embed (+25 more)
+
+### Community 887 - "verify-packed-manifests.mjs"
+Cohesion: 0.06
+Nodes (53): appendManifestEntry(), assertNoWorkspaceRefs(), assertPublishedExportsMatchSource(), collectArrayEntrypoints(), collectManifestEntrypoints(), collectObjectEntrypoints(), collectStringEntrypoint(), CONSUMER_MIN_RELEASE_AGE_SECONDS (+45 more)
+
+### Community 888 - "Layout Heuristics"
+Cohesion: 0.09
+Nodes (23): 1. Hard constraints first — baked graphics, 2. Subject body bias — pick the bigger clean zone, 3. Gaze direction — the "looking room" rule (tiebreaker and aesthetic), 4. Narrative emphasis (for optional crown), champion (1920×1080, bookshelf backdrop), Conditions where a centered crown works, Decision summary, If scene has a cluttered but dark backdrop (bookshelf, plants, set dressing) (+15 more)
+
+### Community 889 - "k4"
+Cohesion: 0.57
+Nodes (7): advanceBy(), consume(), isAt(), isFinished(), k4(), m4(), parseUntil()
+
+### Community 891 - "esc"
+Cohesion: 0.09
+Nodes (23): esc(), paradigmCarbonstrip(), paradigmChalkrail(), paradigmFlaprail(), paradigmHolorail(), paradigmHudrail(), paradigmLastpage(), paradigmLedboard() (+15 more)
+
+### Community 892 - "clipper.cjs"
+Cohesion: 0.03
+Nodes (11): bnBitCount(), bnGetLowestSetBit(), bnpFromRadix(), bnpFromString(), bnPow(), bnToString(), cbit(), int2char() (+3 more)
+
+### Community 893 - "qt"
+Cohesion: 0.06
+Nodes (41): beginComputePass(), bx(), Df(), dR(), ep(), eR(), g(), gR() (+33 more)
+
+### Community 894 - "ai/skills/faceless-explainer/scripts/lib/storyboard.mjs"
+Cohesion: 0.15
+Nodes (22): applyDuration(), applyMeta(), applyPoster(), applyStatus(), assignGlobal(), buildFrame(), DEFAULT_FRAME_STATUS, emptyGlobals() (+14 more)
+
+### Community 895 - "get"
+Cohesion: 0.04
+Nodes (107): arrayBuffer(), aT(), az(), Bs(), By(), compileWriter(), createBindGroup(), createReadonly() (+99 more)
+
+### Community 896 - "Capsule — Frame (video / frame layer)"
+Cohesion: 0.09
+Nodes (22): 1 · Cover (identity · move: title pill + display · centered), 2 · Pillar Cards (catalog · move: 3-up grid · left — the dense frame), 3 · Stat Grid (data · move: stat pills · centered head), 4 · Pull Quote (quote · move: highlight pill · left), 5 · Orbit (concept · move: gravitational pills · centered), 6 · Closing Plate (closer · move: title pill + display · centered), Approved Entities, Aspect-Ratio Behavior (+14 more)
+
+### Community 897 - "audioRhythm.ts"
+Cohesion: 0.06
+Nodes (50): KERNEL, kernelAt(), resample(), aboveLocalMean(), addFramePower(), autocorrelation(), bandEdges(), BandFrames (+42 more)
+
+### Community 898 - "jy"
+Cohesion: 0.06
+Nodes (56): Ai(), az(), Bs(), By(), cG(), createBindGroup(), createReadonly(), createTexture() (+48 more)
+
+### Community 899 - "ai/skills/media-use/scripts/lib/recipe-store.mjs"
+Cohesion: 0.18
+Nodes (20): BRIEF_CONTENT_KEYS, briefWorkflow(), FRAME_CONTENT_KEYS, frameTitle(), freezeRecipe(), FRONTMATTER_CONTENT_KEYS, listRecipes(), NON_ASCII_SAFE_DIR_COPY (+12 more)
+
+### Community 900 - "gcp-cloud-run/package.json"
+Cohesion: 0.10
+Nodes (20): description, engines, node, files, esbuild, hono, @hono/node-server, @hyperframes/producer (+12 more)
+
+### Community 901 - "Rt"
+Cohesion: 0.04
+Nodes (95): aG(), Ak(), array(), as(), atomic(), aW(), b0(), Bi() (+87 more)
+
+### Community 902 - "Es"
+Cohesion: 0.06
+Nodes (65): 0(), 3(), array(), atomic(), aW(), b(), b0(), Bi() (+57 more)
+
+### Community 903 - "Es"
+Cohesion: 0.06
+Nodes (71): 0(), 3(), array(), atomic(), aW(), b(), b0(), Bi() (+63 more)
+
+### Community 904 - "eu"
+Cohesion: 0.05
+Nodes (7): eu, fd(), gd(), ku, lr, ru, yd
+
+### Community 905 - "Es"
+Cohesion: 0.06
+Nodes (65): 0(), 3(), array(), atomic(), aW(), b(), b0(), Bi() (+57 more)
+
+### Community 906 - "cli/package.json"
+Cohesion: 0.03
+Nodes (61): import, types, bin, hyperframes, hyperframes-localize-fonts, description, engines, node (+53 more)
+
+### Community 907 - "ai/skills/pr-to-video/scripts/lib/storyboard.mjs"
+Cohesion: 0.15
+Nodes (22): applyDuration(), applyMeta(), applyPoster(), applyStatus(), assignGlobal(), buildFrame(), DEFAULT_FRAME_STATUS, emptyGlobals() (+14 more)
+
+### Community 908 - "ai/skills/product-launch-video/scripts/lib/storyboard.mjs"
+Cohesion: 0.15
+Nodes (22): applyDuration(), applyMeta(), applyPoster(), applyStatus(), assignGlobal(), buildFrame(), DEFAULT_FRAME_STATUS, emptyGlobals() (+14 more)
+
+### Community 909 - "s"
+Cohesion: 0.04
+Nodes (82): 7(), arrayBuffer(), bz(), c7(), cI(), clear(), clearBlockExternals(), copyFrom() (+74 more)
+
+### Community 910 - "pr"
+Cohesion: 0.06
+Nodes (7): bi(), Ei(), hp, pi, pr, s(), vi()
+
+### Community 911 - "s"
+Cohesion: 0.04
+Nodes (79): 7(), beginRenderPass(), bh(), bR(), bz(), c7(), cI(), clear() (+71 more)
+
+### Community 912 - "kt"
+Cohesion: 0.07
+Nodes (53): array(), aW(), b(), b0(), Bi(), cb(), compileWriter(), decorated() (+45 more)
+
+### Community 913 - "Es"
+Cohesion: 0.06
+Nodes (63): array(), atomic(), aW(), b(), b0(), Bi(), cb(), computeBounds() (+55 more)
+
+### Community 914 - "changelog-weekly.ts"
+Cohesion: 0.06
+Nodes (60): BOOLEAN_OPTIONS, BooleanOptionKey, capitalize(), CATEGORY_ORDER, categoryRank(), commitLinks(), compareCommitsForDigest(), createDefaultOptions() (+52 more)
+
+### Community 915 - "hyperframes/skills/hyperframes/references/plugin-installation.md"
+Cohesion: 0.03
+Nodes (56): Assets (Phase 1 — CLI), Auth — two credentials, scoped, Components (Phase 3 — CLI), Determinism, Figma → HyperFrames, Motion (Phase 4 — connector-assisted), Shaders (Phase 5 — mostly manual), Storyboards (a SECTION of scene frames → animation) (+48 more)
+
+### Community 916 - "contrast.ts"
+Cohesion: 0.03
+Nodes (99): Paste it into your composition, Related topics, Advanced: declare the approved inputs, Advanced: render a version from data, Batch renders, Bind common values without a script, Check the contract, Give each nested composition different values (+91 more)
+
+### Community 917 - "hyperframeRuntimeLoader.ts"
+Cohesion: 0.11
+Nodes (19): fileServerSource, manifest, manifestPath, manifestRaw, servicesDir, sourceSha, verifiedSource, HyperframeRuntimeManifest (+11 more)
+
+### Community 918 - "agent_reach/README.md"
+Cohesion: 0.10
+Nodes (20): 🍪 Cookie 安全建议, License, Star History, 业务合作 / Agent 落地, ⭐ 为什么值得 Star, 为什么需要 Agent Reach？, 🗑️ 卸载, 友情链接 (+12 more)
+
+### Community 919 - "perf/index.ts"
+Cohesion: 0.21
+Nodes (11): DEFAULT_RUNS, HERE, main(), parseArgs(), ParsedArgs, readGitSha(), RESULTS_DIR, RESULTS_FILE (+3 more)
+
+### Community 920 - "Rt"
+Cohesion: 0.05
+Nodes (88): array(), as(), atomic(), b(), Bi(), bk(), cb(), cG() (+80 more)
+
+### Community 921 - "02-fps.ts"
+Cohesion: 0.32
+Nodes (7): Metric, FpsScenarioOpts, getFixtureFrame(), runFps(), runOnce(), RunResult, Window
+
+### Community 922 - "_allocateTargets"
+Cohesion: 0.13
+Nodes (23): Af(), _allocateTargets(), _applyGGXFilter(), _applyPMREM(), _blur(), Cf(), _cleanup(), compileCubemapShader() (+15 more)
+
+### Community 923 - "mediaProxy.ts"
+Cohesion: 0.04
+Nodes (77): parsePreviewProxyBox(), PREVIEW_PROXY_BOX_PARAM, PreviewProxyBox, quantizePreviewProxyBox(), rungAtLeast(), RUNGS, BridgeControlData, BridgeDeps (+69 more)
+
+### Community 924 - "Anime.js for HyperFrames"
+Cohesion: 0.17
+Nodes (11): Anime.js for HyperFrames, Basic Pattern, Contents, Contract, Credits And References, Determinism, Good Uses, Loading v4 (+3 more)
+
+### Community 925 - "The 18 rules"
+Cohesion: 0.09
+Nodes (22): 10. Animate transform only, never the letter itself, 11. Minimum 0.4s per word visible, 12. Stagger is the primary expressive axis, 13. Emphasis escalates _within_ a phrase, not _between_ phrases, 14. Break rhythm once per 30s, 15. Caption what adds, cut what restates, 16. Segment on breath, not on duration, 17. Safe zones per platform, always (+14 more)
+
+### Community 926 - "Re"
+Cohesion: 0.07
+Nodes (50): asString(), bw(), c8(), completeStruct(), configureContext(), createComputePipeline(), createGuardedComputePipeline(), createRenderPipeline() (+42 more)
+
+### Community 927 - "qt"
+Cohesion: 0.06
+Nodes (50): 0(), 3(), advanceBy(), beginComputePass(), bx(), bz(), castElement(), consume() (+42 more)
+
+### Community 928 - "cn"
+Cohesion: 0.18
+Nodes (20): 2(), AB(), aC(), an(), cn(), EB(), eC(), Hs() (+12 more)
+
+### Community 929 - "Rt"
+Cohesion: 0.05
+Nodes (75): Ak(), as(), asString(), aT(), bk(), bw(), cG(), completeStruct() (+67 more)
+
+### Community 930 - "ai/skills/media-use/scripts/lib/prefs-store.mjs"
+Cohesion: 0.20
+Nodes (18): globalMediaDir(), mediaHome(), dedupe(), emptyFile(), isRecord(), mergedPreferences(), PREFERENCE_KEYS, preferenceKeyFor() (+10 more)
+
+### Community 931 - "qt"
+Cohesion: 0.06
+Nodes (41): beginComputePass(), bx(), Df(), dR(), ep(), eR(), g(), gR() (+33 more)
+
+### Community 932 - "ai/skills/product-launch-video/scripts/captions.mjs"
+Cohesion: 0.18
+Nodes (19): brandFontFaces(), buildCaptionsHtml(), buildFromSkin(), flag(), frameTokensCss(), r3(), runBuild(), wordCap() (+11 more)
+
+### Community 933 - "catalog.ts"
+Cohesion: 0.01
+Nodes (317): AddError, addToProject(), assertCompatibleOrThrow(), buildSnippet(), compositionRootId(), describeInstallFailure(), examples, installAll() (+309 more)
+
+### Community 934 - "fc"
+Cohesion: 0.10
+Nodes (22): D4(), fc(), H6(), i7(), K5(), mw(), Nf(), ny() (+14 more)
+
+### Community 935 - "publish-catalog.mjs"
+Cohesion: 0.09
+Nodes (46): GENERATED_CATALOG_PATHS, isGeneratedCatalogPath(), commitPaths(), commitToMain(), noise, publicationFixture(), publish(), regenerateOverMain() (+38 more)
+
+### Community 936 - "Text To Speech"
+Cohesion: 0.17
+Nodes (12): Available routes, Cloned voices — `scripts/heygen-voice.mjs`, ffmpeg requirement, HeyGen word-timestamp shape, Long scripts, Multilingual (Kokoro voice prefix → language), Narrating a HyperFrames docs video, Self-contained HeyGen (no CLI) — `scripts/heygen-tts.mjs` (+4 more)
+
+### Community 937 - "qt"
+Cohesion: 0.07
+Nodes (39): advanceBy(), bx(), consume(), Df(), dR(), ep(), eR(), gR() (+31 more)
+
+### Community 938 - "Rt"
+Cohesion: 0.05
+Nodes (75): Ak(), as(), asString(), aT(), bk(), bw(), cG(), completeStruct() (+67 more)
+
+### Community 939 - "CSS Animations for HyperFrames"
+Cohesion: 0.18
+Nodes (10): Avoid, Basic Pattern, Composition Duration, Contents, Contract, Credits And References, CSS Animations for HyperFrames, Good Uses (+2 more)
+
+### Community 940 - "hyperframes/skills/media-use/scripts/lib/prefs-store.mjs"
+Cohesion: 0.20
+Nodes (18): globalMediaDir(), mediaHome(), dedupe(), emptyFile(), isRecord(), mergedPreferences(), PREFERENCE_KEYS, preferenceKeyFor() (+10 more)
+
+### Community 941 - "setup"
+Cohesion: 0.03
+Nodes (150): add(), addStack(), addToStack(), addToStackBefore(), ambientOcclusion(), Ane(), bd(), bf() (+142 more)
+
+### Community 942 - "Rt"
+Cohesion: 0.05
+Nodes (75): Ak(), as(), asString(), aT(), bk(), bw(), cG(), completeStruct() (+67 more)
+
+### Community 943 - ".agent/skills/media-use/scripts/lib/recipe-store.mjs"
+Cohesion: 0.18
+Nodes (21): nextId(), BRIEF_CONTENT_KEYS, briefWorkflow(), FRAME_CONTENT_KEYS, frameTitle(), freezeRecipe(), FRONTMATTER_CONTENT_KEYS, listRecipes() (+13 more)
+
+### Community 944 - "Re"
+Cohesion: 0.10
+Nodes (39): asString(), bw(), completeStruct(), createComputePipeline(), createGuardedComputePipeline(), createRenderPipeline(), $d(), e6() (+31 more)
+
+### Community 945 - "Media operations: agent guidance"
+Cohesion: 0.12
+Nodes (15): Cut / trim: keep a slice, Ducking (declare in-composition / bake for export), Exact error-diffusion dither, Generate: images (local first, cloud upsell), Generate: video (`resolve --type video`, HeyGen avatar first), HEVC / H.265 sources, Image-to-video (animate any still into a talking clip), Media operations: agent guidance (+7 more)
+
+### Community 946 - "hyperframes/skills/product-launch-video/scripts/captions.mjs"
+Cohesion: 0.18
+Nodes (19): brandFontFaces(), buildCaptionsHtml(), buildFromSkin(), flag(), frameTokensCss(), r3(), runBuild(), wordCap() (+11 more)
+
+### Community 947 - "harnessUsage.ts"
+Cohesion: 0.06
+Nodes (53): detectHarness(), run(), authParser, claudeLogin(), codexAuthSchema, codexLogin(), Credential, credentialSchema (+45 more)
+
+### Community 948 - "studio/package.json"
+Cohesion: 0.04
+Nodes (59): description, files, esbuild, gsap, @hyperframes/core, @hyperframes/parsers, @hyperframes/player, @hyperframes/producer (+51 more)
+
+### Community 949 - "Re"
+Cohesion: 0.08
+Nodes (46): asString(), bw(), completeStruct(), createComputePipeline(), createGuardedComputePipeline(), createRenderPipeline(), $d(), D4() (+38 more)
+
+### Community 950 - "qt"
+Cohesion: 0.06
+Nodes (41): beginComputePass(), bx(), Df(), dR(), ep(), eR(), g(), gR() (+33 more)
+
+### Community 951 - "inspector/package.json"
+Cohesion: 0.12
+Nodes (16): bin, hyperframes-inspector, files, acorn, esbuild, @hyperframes/core, @hyperframes/parsers, postcss (+8 more)
+
+### Community 952 - "case.mjs"
+Cohesion: 0.06
+Nodes (51): animatedProps(), animatesTarget(), backgroundRequest(), blockedCdnUrls, callTool(), capture(), contentQuad(), controls (+43 more)
+
+### Community 953 - ".agent/skills/faceless-explainer/scripts/captions.mjs"
+Cohesion: 0.19
+Nodes (18): brandFontFaces(), buildCaptionsHtml(), buildFromSkin(), flag(), frameTokensCss(), r3(), runBuild(), wordCap() (+10 more)
+
+### Community 954 - "unwrap"
+Cohesion: 0.05
+Nodes (55): appendToTrace(), areEqual(), beginRenderPass(), Bf(), $c(), CU(), cz(), D4() (+47 more)
+
+### Community 955 - "cn"
+Cohesion: 0.10
+Nodes (32): 2(), AB(), aC(), an(), aT(), By(), cn(), createUniform() (+24 more)
+
+### Community 956 - "write"
+Cohesion: 0.07
+Nodes (51): AB(), aC(), an(), az(), By(), cn(), createBuffer(), createMutable() (+43 more)
+
+### Community 957 - "cn"
+Cohesion: 0.18
+Nodes (20): 2(), AB(), aC(), an(), cn(), EB(), eC(), Hs() (+12 more)
+
+### Community 958 - "fromBase"
+Cohesion: 0.11
+Nodes (32): $1(), aG(), al(), aM(), Bg(), C1(), dd(), eM() (+24 more)
+
+### Community 959 - "figma/index.ts"
+Cohesion: 0.08
+Nodes (39): AssetImportOptions, TokensImportResult, FigmaBindingRecord, BatchRenderedNode, createFigmaClient(), forbiddenError(), get(), throwForStatus() (+31 more)
+
+### Community 960 - "./server"
+Cohesion: 0.18
+Nodes (12): exports, ./live, ./server, default, types, publishConfig, access, exports (+4 more)
+
+### Community 961 - "qt"
+Cohesion: 0.08
+Nodes (37): advanceBy(), bx(), consume(), Df(), dR(), ep(), eR(), gR() (+29 more)
+
+### Community 962 - "constructor"
+Cohesion: 0.10
+Nodes (21): compileWriter(), constructor(), createMutable(), createSampler(), Fk(), GU(), H5(), j5() (+13 more)
+
+### Community 963 - "Motion blur — shutter smear on any animated element"
+Cohesion: 0.18
+Nodes (10): Contents, Cost, Motion blur — shutter smear on any animated element, Options, Read this part before you blur anything, See also, The contract: one attribute, The failure modes are all silent (+2 more)
+
+### Community 964 - "unwrap"
+Cohesion: 0.03
+Nodes (105): 7(), b6(), beginComputePass(), beginRenderPass(), bz(), c7(), cI(), clear() (+97 more)
+
+### Community 965 - "Commands"
+Cohesion: 0.12
+Nodes (16): `audio`, `benchmark`, Commands, `compositions`, `doctor`, Documentation, hyperframes, `info` (+8 more)
+
+### Community 966 - "Per-Beat Direction"
+Cohesion: 0.17
+Nodes (11): Animation choreography, Beat Direction, Concept, Contents, Depth layers, Mood direction, Per-Beat Direction, Rhythm Planning (+3 more)
+
+### Community 967 - ".agent/skills/pr-to-video/scripts/captions.mjs"
+Cohesion: 0.19
+Nodes (18): brandFontFaces(), buildCaptionsHtml(), buildFromSkin(), flag(), frameTokensCss(), r3(), runBuild(), wordCap() (+10 more)
+
+### Community 968 - "Cut catalog — within-frame seams (worker-built)"
+Cohesion: 0.10
+Nodes (20): 1. Zoom-Through (forward), 2. Inverse Zoom-Through (backward), 3. Cut the Curve (Scene Transitions), 4. Waterfall Cut (word-by-word cut-the-curve), Anti-Patterns, Blur Logic (applies to all Z-axis variants), Choosing a Variant, Cut catalog — within-frame seams (worker-built) (+12 more)
+
+### Community 969 - "webmcpTestUtils.ts"
+Cohesion: 0.13
+Nodes (29): mintElementHandle(), animationDeps(), animationInput(), childTextSelection(), contentDeps(), styleInput(), textInput(), inspectDeps() (+21 more)
+
+### Community 970 - "lut-preset-provider.mjs"
+Cohesion: 0.08
+Nodes (40): CANDIDATE_CAP, formatCandidates(), listCandidates(), meta(), rankScope(), shape(), CubeValidateError, DEFAULT_DOMAIN_MAX (+32 more)
+
+### Community 971 - "ai/skills/faceless-explainer/scripts/transitions.mjs"
+Cohesion: 0.20
+Nodes (18): padFrameInternalDuration(), DEFAULT_REGISTRY_PATH, here, loadTransitionRegistry(), transitionsByName(), buildGsap(), extendFrameTail(), flag() (+10 more)
+
+### Community 972 - "scripts"
+Cohesion: 0.04
+Nodes (55): scripts, build, build:hyperframes-runtime, build:hyperframes-runtime:modular, build:producer, changelog:draft, changelog:weekly, check:catalog-drift (+47 more)
+
+### Community 973 - "lint/package.json"
+Cohesion: 0.04
+Nodes (54): browser, bun, import, types, dependencies, acorn, acorn-walk, htmlparser2 (+46 more)
+
+### Community 974 - "mp4Stitch.ts"
+Cohesion: 0.06
+Nodes (63): Look at it, `normalize-audio`, `open` and `catch-up`, `present` and `play`, `preview`, `publish`, Box, boxAt() (+55 more)
+
+### Community 975 - "label"
+Cohesion: 0.10
+Nodes (19): `data-automation` — the envelopes, `data-fx-carve` — the carve's settings, `data-fx-chain` on the root — the master bus, `data-fx-chain` — the effects, The three audio attributes, 1 · Cover (identity · move: serif + compass ring · left), 2 · Agenda / Index (index · move: hairline list · left), 3 · Pull Quote (quote · move: centered statement · compass ring) (+11 more)
+
+### Community 976 - "s"
+Cohesion: 0.04
+Nodes (79): 7(), beginRenderPass(), bh(), bR(), bz(), c7(), cI(), clear() (+71 more)
+
+### Community 977 - "s"
+Cohesion: 0.04
+Nodes (82): 7(), arrayBuffer(), bz(), c7(), cI(), clear(), clearBlockExternals(), copyFrom() (+74 more)
+
+### Community 978 - "lint-skills.ts"
+Cohesion: 0.07
+Nodes (53): anchoredTargetViolation(), anchorViolation(), backtickTargets(), checkDocRef(), checkTargetPath(), classifyReadError(), collectMarkdownFiles(), collectSkillFiles() (+45 more)
+
+### Community 979 - "hyperframes/package.json"
+Cohesion: 0.07
+Nodes (26): config, dependencies, yaml, esbuild, happy-dom, @hyperframes/player, tsx, @types/node (+18 more)
+
+### Community 980 - "Presets, jobs and one-knob profiles"
+Cohesion: 0.10
+Nodes (19): Dynamics — how level behaves over time, Effect registry, Filter — which frequencies a track may occupy, Nonlinear — changes the waveform's shape, Time — space and width, Why some parameters cannot be automated, Character — deliberate, not corrective, Diagnose first: what to listen for, and what fixes it (+11 more)
+
+### Community 981 - "Tween"
+Cohesion: 0.18
+Nodes (21): _a(), Ao(), _assertThisInitialized(), cb(), cc(), ga(), gb(), hb() (+13 more)
+
+### Community 982 - "Cut catalog — within-frame seams (worker-built)"
+Cohesion: 0.10
+Nodes (20): 1. Zoom-Through (forward), 2. Inverse Zoom-Through (backward), 3. Cut the Curve (Scene Transitions), 4. Waterfall Cut (word-by-word cut-the-curve), Anti-Patterns, Blur Logic (applies to all Z-axis variants), Choosing a Variant, Cut catalog — within-frame seams (worker-built) (+12 more)
+
+### Community 983 - "grid.mjs"
+Cohesion: 0.06
+Nodes (43): BACK, base, dragCases(), everyPlacement, FAST_KEYS, GSAP_SEQUENCES, HELD_TWICE, MOVE (+35 more)
+
+### Community 984 - "ai/skills/pr-to-video/scripts/captions.mjs"
+Cohesion: 0.19
+Nodes (18): brandFontFaces(), buildCaptionsHtml(), buildFromSkin(), flag(), frameTokensCss(), r3(), runBuild(), wordCap() (+10 more)
+
+### Community 985 - "Visual Techniques Reference"
+Cohesion: 0.08
+Nodes (22): Effect names — vocabulary (do NOT use this as the implementation source), How to use it, In the storyboard, Text Effects — Reference, When you don't need the upstream skill, 10. Velocity-Matched Transitions, 11. Audio-Reactive Animation, 12. Clip-Path Reveal Masks (+14 more)
+
+### Community 986 - "Typed edit methods"
+Cohesion: 0.03
+Nodes (67): `addElement`, `addGsapTween`, `addWithKeyframes`, Advanced / agent, `applyPatches`, `batch`, `can`, `canUndo` / `canRedo` (+59 more)
+
+### Community 987 - "write"
+Cohesion: 0.09
+Nodes (27): 0(), 3(), castElement(), dispatchThreads(), dispatchWorkgroups(), Fa(), fork(), g() (+19 more)
+
+### Community 988 - "data"
+Cohesion: 0.05
+Nodes (32): Add it to your video, Change the colors, Related topics, Add it to your video, Related topics, Add it to your video, Add it to your video, Related topics (+24 more)
+
+### Community 989 - "check-test-reachability.mjs"
+Cohesion: 0.06
+Nodes (55): Paste it into your composition, Related topics, Variables, notification-stack, Usage, Variables, adapterTests(), audit() (+47 more)
+
+### Community 990 - "id"
+Cohesion: 0.05
+Nodes (5): constructor(), id, od, setValue(), xd
+
+### Community 991 - "ai/skills/pr-to-video/scripts/transitions.mjs"
+Cohesion: 0.20
+Nodes (18): padFrameInternalDuration(), DEFAULT_REGISTRY_PATH, here, loadTransitionRegistry(), transitionsByName(), buildGsap(), extendFrameTail(), flag() (+10 more)
+
+### Community 992 - "Cut catalog — within-frame seams (worker-built)"
+Cohesion: 0.10
+Nodes (20): 1. Zoom-Through (forward), 2. Inverse Zoom-Through (backward), 3. Cut the Curve (Scene Transitions), 4. Waterfall Cut (word-by-word cut-the-curve), Anti-Patterns, Blur Logic (applies to all Z-axis variants), Choosing a Variant, Cut catalog — within-frame seams (worker-built) (+12 more)
+
+### Community 993 - ".copy"
+Cohesion: 0.02
+Nodes (23): Rn(), c(), ca(), ea, en, m(), jh, kd (+15 more)
+
+### Community 994 - "mediaGradeAnalyzer.ts"
+Cohesion: 0.13
+Nodes (23): ADJUST_LIMITS, AdjustKey, asRecord(), average(), clamp(), formatMeasuredNote(), GradeMediaProbe, GradeSignalFrame (+15 more)
+
+### Community 995 - "Tween"
+Cohesion: 0.18
+Nodes (21): _a(), Ao(), _assertThisInitialized(), cb(), cc(), ga(), gb(), hb() (+13 more)
+
+### Community 997 - "motionContextToDocs.ts"
+Cohesion: 0.17
+Nodes (19): arrayAfterKey(), balancedBlock(), escapeRegExp(), extractTrackData(), MotionContextNode, MotionContextResponse, motionContextToDocs(), MotionContextToDocsOptions (+11 more)
+
+### Community 998 - "constructor"
+Cohesion: 0.10
+Nodes (21): compileWriter(), constructor(), createMutable(), createSampler(), Fk(), GU(), H5(), j5() (+13 more)
+
+### Community 999 - "DNA registry — pick a visual language, not a preset"
+Cohesion: 0.18
+Nodes (11): Adding a DNA, Authoring, Category lock (deliveries field, enforced by the compilers), Climax placement — the lockup is the default, NOT the only composition, Climax selection — what earns the promotion, DNA registry — pick a visual language, not a preset, fx fields (hero block) the engine understands, How to pick (agent) (+3 more)
+
+### Community 1000 - "constructor"
+Cohesion: 0.10
+Nodes (21): compileWriter(), constructor(), createMutable(), createSampler(), Fk(), GU(), H5(), j5() (+13 more)
+
+### Community 1001 - "@hyperframes/producer"
+Cohesion: 0.12
+Nodes (15): Authoring transparent compositions, Caveats, Configuration, Documentation, Example, HLS Output, How it works, @hyperframes/producer (+7 more)
+
+### Community 1002 - "cn"
+Cohesion: 0.18
+Nodes (20): 2(), AB(), aC(), an(), cn(), EB(), eC(), Hs() (+12 more)
+
+### Community 1003 - "write"
+Cohesion: 0.05
+Nodes (65): 0(), 2(), 3(), AB(), aC(), an(), aT(), b() (+57 more)
+
+### Community 1004 - "fromBase"
+Cohesion: 0.11
+Nodes (32): $1(), aG(), al(), aM(), Bg(), C1(), dd(), eM() (+24 more)
+
+### Community 1005 - "slot"
+Cohesion: 0.08
+Nodes (19): Paste it into your composition, Related topics, Variables, Paste it into your composition, Related topics, Variables, Paste it into your composition, Related topics (+11 more)
+
+### Community 1006 - ".agent/skills/embedded-captions/scripts/make-theme.cjs"
+Cohesion: 0.04
+Nodes (25): anchorT, bgExtra, bgHtml, body, CHARW, dna, { execFileSync }, FONT_FACES (+17 more)
+
+### Community 1007 - "constructor"
+Cohesion: 0.10
+Nodes (21): compileWriter(), constructor(), createMutable(), createSampler(), Fk(), GU(), H5(), j5() (+13 more)
+
+### Community 1008 - "shader-options.ts"
+Cohesion: 0.08
+Nodes (29): Paste it into your composition, Related topics, Variables, alreadyHasRuntime(), ensureRuntimeBeforeBodyScripts(), findOpeningTag(), OPENING_TAG_BOUNDARIES, OpeningTag (+21 more)
+
+### Community 1009 - "parseStoryboard.ts"
+Cohesion: 0.09
+Nodes (38): formatValue(), FrameBounds, setFrameField(), setFrameStatus(), setFrameVoiceover(), applyMeta(), applyStatus(), assignGlobal() (+30 more)
+
+### Community 1010 - "classCandidates.ts"
+Cohesion: 0.07
+Nodes (45): ANCHORS, boundStrings(), ClassCandidate, collect(), endOfRegion(), endOfSpan(), endOfString(), extractClassCandidates() (+37 more)
+
+### Community 1011 - "Re"
+Cohesion: 0.08
+Nodes (44): asString(), bw(), completeStruct(), createComputePipeline(), createGuardedComputePipeline(), createRenderPipeline(), $d(), D4() (+36 more)
+
+### Community 1012 - "media-use/lib/cutlist.mjs"
+Cohesion: 0.16
+Nodes (24): bareToken(), clampRanges(), cleanRange(), compileCutList(), durationFrom(), fillerRanges(), finalizeKept(), hasRemovalSource() (+16 more)
+
+### Community 1013 - "Rt"
+Cohesion: 0.05
+Nodes (75): Ak(), as(), asString(), aT(), bk(), bw(), cG(), completeStruct() (+67 more)
+
+### Community 1014 - "constructor"
+Cohesion: 0.05
+Nodes (59): 2(), asString(), beginComputePass(), bw(), completeStruct(), constructor(), createComputePipeline(), createGuardedComputePipeline() (+51 more)
+
+### Community 1015 - "unwrap"
+Cohesion: 0.05
+Nodes (55): appendToTrace(), areEqual(), beginRenderPass(), Bf(), $c(), CU(), cz(), D4() (+47 more)
+
+### Community 1016 - "hyperframes/skills/embedded-captions/scripts/make-theme.cjs"
+Cohesion: 0.04
+Nodes (25): anchorT, bgExtra, bgHtml, body, CHARW, dna, { execFileSync }, FONT_FACES (+17 more)
+
+### Community 1017 - "DNA registry — pick a visual language, not a preset"
+Cohesion: 0.09
+Nodes (20): Adding a DNA, Authoring, Category lock (deliveries field, enforced by the compilers), Climax placement — the lockup is the default, NOT the only composition, Climax selection — what earns the promotion, DNA registry — pick a visual language, not a preset, fx fields (hero block) the engine understands, How to pick (agent) (+12 more)
+
+### Community 1018 - "auth/store.ts"
+Cohesion: 0.09
+Nodes (38): RFC-7230, ErrInvalidStore(), ApiKeyCredential, CredentialSource, ENV_CREDENTIAL_VAR, EnvSource, headerSafeEnv(), OAuthCredential (+30 more)
+
+### Community 1019 - "hyperframes/skills/faceless-explainer/scripts/captions.mjs"
+Cohesion: 0.19
+Nodes (18): brandFontFaces(), buildCaptionsHtml(), buildFromSkin(), flag(), frameTokensCss(), r3(), runBuild(), wordCap() (+10 more)
+
+### Community 1020 - "hyperframes/skills/pr-to-video/scripts/captions.mjs"
+Cohesion: 0.19
+Nodes (18): brandFontFaces(), buildCaptionsHtml(), buildFromSkin(), flag(), frameTokensCss(), r3(), runBuild(), wordCap() (+10 more)
+
+### Community 1021 - "compositions.mdx"
+Cohesion: 0.09
+Nodes (22): How an HTML file becomes frames, HTML sets the timing, scripts do the motion, Load a composition's own files from its script, Put one composition inside another, Related topics, Reuse one composition with different content, See every composition in a project, What can go on the timeline (+14 more)
+
+### Community 1022 - "createPickerModule"
+Cohesion: 0.07
+Nodes (50): createPickerModule(), adoptSheet(), appendPickableRootsStyle(), blocksPickerAtPoint(), buildElementLabel(), buildElementSelector(), disablePickMode(), emitPickerRuntimeEvent() (+42 more)
+
+### Community 1023 - "SlideshowController"
+Cohesion: 0.08
+Nodes (14): Paste it into your composition, Related topics, Variables, ResolvedSlide, ResolvedSlideshow, PlayerPort, SlideshowController, StackFrame (+6 more)
+
+### Community 1024 - "hyperframes/skills/hyperframes-creative/references/house-style.md"
+Cohesion: 0.05
+Nodes (28): Bold / Energetic, Clean / Corporate, Dark / Premium, Jewel / Rich, Monochrome, Nature / Earth, Neon / Electric, Pastel / Soft (+20 more)
+
+### Community 1025 - "CLIMAX entrances"
+Cohesion: 0.10
+Nodes (19): atelier (design-forward), Caption Template — Motion Language, CLIMAX entrances, CLIMAX exits, creator, cyber, epic, FLOW entrances / exits (per word `.w`) (+11 more)
+
+### Community 1026 - "page.tsx"
+Cohesion: 0.34
+Nodes (11): lucide-react, DashboardPage(), CreateJobModal(), JobCard(), JobDetailModal(), JobFilterTabs(), JobList(), Navbar() (+3 more)
+
+### Community 1027 - "logo-provider.mjs"
+Cohesion: 0.04
+Nodes (63): SKILL, freezeLocalFile(), freezeUrl(), isDirectMediaUrl(), isSvgPath(), writeFrozen(), buildArgv(), CAPABILITIES (+55 more)
+
+### Community 1028 - "ai/skills/music-to-video/scripts/assemble-index.mjs"
+Cohesion: 0.10
+Nodes (16): anomalies, argv, audio, audiomapPath, audioMetaPath, bgmRel, body, FRAME_SUM (+8 more)
+
+### Community 1029 - "Re"
+Cohesion: 0.11
+Nodes (36): asString(), bw(), completeStruct(), createComputePipeline(), createGuardedComputePipeline(), createRenderPipeline(), $d(), e6() (+28 more)
+
+### Community 1030 - ".agent/skills/media-use/scripts/lib/telemetry.mjs"
+Cohesion: 0.24
+Nodes (16): withFileLock(), anonymousId(), __anonymousIdForTest(), heygenAccountDistinctId(), identifyAccount(), isTestOrCiContext(), legacyMediaAnonId(), optedOut() (+8 more)
+
+### Community 1031 - "jr"
+Cohesion: 0.09
+Nodes (27): $c(), D4(), fc(), H6(), jr(), K5(), kG(), mw() (+19 more)
+
+### Community 1032 - "3D Page Scroll"
+Cohesion: 0.08
+Nodes (22): 3D Page Scroll, Contents, Critical Constraints, How It Works, Recipe, See also, Values, Variations (+14 more)
+
+### Community 1033 - "Blocks"
+Cohesion: 0.03
+Nodes (67): All types, Caption blocks, Contributing a Block or Component to the Registry, Quality Gate, Step 1: Clarify, Step 2: Scaffold, Step 3: Build, Step 4: Validate (+59 more)
+
+### Community 1034 - "service.ts"
+Cohesion: 0.03
+Nodes (135): Breaking Changes, BundleScriptProvenance, PREVIEW_IGNORED_DIRS, Animation, authoredCssSelector(), Gsap, InspectorWindow, Method (+127 more)
+
+### Community 1035 - "lib/types.ts"
+Cohesion: 0.14
+Nodes (19): ⚙️ 2. CÁC HÀNH ĐỘNG KỸ THUẬT ĐÃ TRIỂN KHAI, ⚙️ 2. CÁC HÀNH ĐỘNG KỸ THUẬT ĐÃ TRIỂN KHAI, dynamic, GET(), dynamic, GET(), PRODUCTS_DIR, JobCardProps (+11 more)
+
+### Community 1036 - "Config"
+Cohesion: 0.01
+Nodes (112): Asset Preprocessing, benchmark, compositions, docs, info, info, upgrade, compositions, timeline, docs, benchmark, telemetry, asset preprocessing, Query one-liners (jq, node fallback if jq is absent), Remaining harness usage, telemetry (+104 more)
+
+### Community 1037 - "qt"
+Cohesion: 0.08
+Nodes (37): advanceBy(), bx(), consume(), Df(), dR(), ep(), eR(), gR() (+29 more)
+
+### Community 1038 - "Es"
+Cohesion: 0.06
+Nodes (63): array(), atomic(), aW(), b(), b0(), Bi(), cb(), computeBounds() (+55 more)
+
+### Community 1039 - "focus"
+Cohesion: 0.10
+Nodes (16): Paste it into your composition, Related topics, Variables, Paste it into your composition, Related topics, Variables, Paste it into your composition, Related topics (+8 more)
+
+### Community 1040 - "catalog-script-inlining.ts"
+Cohesion: 0.15
+Nodes (28): bootstrapScript(), canonicalBytes(), classicBundle(), codeStep(), extractAndRemoveScript(), extractPrecedingClassicScripts(), inlineCodeSliceScripts(), inlineCuboidScripts() (+20 more)
+
+### Community 1041 - ".agents/skills/motion-doctrine/scripts/seam-gate.mjs"
+Cohesion: 0.08
+Nodes (37): argv, CDP, cleanup, ensureServer(), eps(), findChrome(), flag(), fmtV() (+29 more)
+
+### Community 1042 - "write"
+Cohesion: 0.08
+Nodes (28): By(), cw(), dispatchThreads(), dispatchWorkgroups(), dS(), Fa(), fork(), Gy() (+20 more)
+
+### Community 1043 - "layout-audit.browser.test.ts"
+Cohesion: 0.09
+Nodes (39): ancestorGradientScene(), auditCoverageScene(), auditImageOcclusionScene(), AuditIssue, auditOcclusionScene(), auditOverflowClippedOverlap(), auditOverlapScene(), boundingTextRect() (+31 more)
+
+### Community 1044 - "init.swapScenes.test.ts"
+Cohesion: 0.06
+Nodes (26): createTimeline(), frameCallbacks, GraphAudioContext, GraphNode, makeNode(), makeParam(), mount(), sources (+18 more)
+
+### Community 1045 - "Node"
+Cohesion: 0.06
+Nodes (12): ClockCtx, Ctx, Node, RecordingNode, RecordingParam, RichCtx, SchedCtx, SchedNode (+4 more)
+
+### Community 1046 - "fromBase"
+Cohesion: 0.12
+Nodes (29): $1(), aG(), al(), Bg(), dd(), eM(), fromBase(), fx() (+21 more)
+
+### Community 1047 - "Rt"
+Cohesion: 0.05
+Nodes (75): Ak(), as(), asString(), aT(), bk(), bw(), cG(), completeStruct() (+67 more)
+
+### Community 1048 - "s"
+Cohesion: 0.04
+Nodes (82): 7(), arrayBuffer(), bz(), c7(), cI(), clear(), clearBlockExternals(), copyFrom() (+74 more)
+
+### Community 1049 - "parseCssRoot"
+Cohesion: 0.31
+Nodes (9): collectCssCustomProperties(), isFontFaceDeclaration(), iterateCssFontFamilyDeclarations(), iterateCssRootFontFamilyDeclarations(), iterateInlineStyleFontFamilyDeclarations(), normalizeCssDeclarations(), normalizeCssFontFamilyDeclarations(), normalizeInlineStyleAttribute() (+1 more)
+
+### Community 1050 - "media-use/lib/prefs-store.mjs"
+Cohesion: 0.24
+Nodes (18): dedupe(), emptyFile(), isRecord(), mergedPreferences(), PREFERENCE_KEYS, preferenceKeyFor(), projectPrefsPath(), PROMOTE_AT (+10 more)
+
+### Community 1051 - "fontDiagnostics.ts"
+Cohesion: 0.18
+Nodes (6): InternalFontFetchOptions, FontAssetDiag, FontAttemptDiag, FontDiagCollector, FontDiagPath, FontFamilyDiag
+
+### Community 1052 - "probe-beginframe.ts"
+Cohesion: 0.19
+Nodes (13): awaitBeforeDeadline(), _awaitBeforeDeadlineForTests, closeBrowserForProbe(), _closeBrowserForProbeTests, main(), parseProbeArgs(), probe(), ProbeBrowserCleanup (+5 more)
+
+### Community 1053 - "write"
+Cohesion: 0.08
+Nodes (28): By(), cw(), dispatchThreads(), dispatchWorkgroups(), dS(), Fa(), fork(), Gy() (+20 more)
+
+### Community 1054 - "write"
+Cohesion: 0.08
+Nodes (28): By(), cw(), dispatchThreads(), dispatchWorkgroups(), dS(), Fa(), fork(), Gy() (+20 more)
+
+### Community 1055 - "Lambda rendering on AWS"
+Cohesion: 0.06
+Nodes (32): Archive size and `.hyperframesignore`, Authentication, cloud — HeyGen-hosted rendering (zero-infra), Fire-and-forget and webhooks, Managing renders, Render options, Safe retries, Templates and variables (+24 more)
+
+### Community 1056 - "hyperframes/README.md"
+Cohesion: 0.04
+Nodes (41): Adopters, How to add your organization, Production, Build a committed release, Distribution status and rollback, Related topics, Verify before advertising support, Claude Code (+33 more)
+
+### Community 1057 - "perf/perf-gate.ts"
+Cohesion: 0.22
+Nodes (10): DEFAULT_BASELINE_PATH, Direction, evaluateMetric(), GateMode, GateReport, GateResult, HERE, loadBaseline() (+2 more)
+
+### Community 1058 - "check-docs-catalog.mjs"
+Cohesion: 0.07
+Nodes (40): buildNav(), added, after, afterSet, badExtensions, base, before, beforeSet (+32 more)
+
+### Community 1059 - "routes/preview.ts"
+Cohesion: 0.01
+Nodes (250): RFC-6381, mocks, OPTIONS, sweepProxies(), NAMES, ROUTES, buildPlayerPage(), examples (+242 more)
+
+### Community 1060 - "Re"
+Cohesion: 0.07
+Nodes (50): asString(), bw(), c8(), completeStruct(), configureContext(), createComputePipeline(), createGuardedComputePipeline(), createRenderPipeline() (+42 more)
+
+### Community 1061 - "Component source inspection (opt-in)"
+Cohesion: 0.08
+Nodes (20): Conformance, `events`: what a command produced, Hooks that run code, `project-lock`: one browser command at a time, The declaration, Element, version(), Component source inspection (opt-in) (+12 more)
+
+### Community 1062 - "compositionLoader.ts"
+Cohesion: 0.03
+Nodes (118): Build a frame adapter, Check the static contract, Main surfaces, Read and validate variables, Related topics, Types, Animation contract, Color grading and media effects (+110 more)
+
+### Community 1063 - "teleport.mjs"
+Cohesion: 0.13
+Nodes (35): handlePoint(), overlayRect(), plan(), selectTarget(), add(), angleOf(), centre(), compositionMapper() (+27 more)
+
+### Community 1064 - "parsers/package.json"
+Cohesion: 0.04
+Nodes (44): dependencies, acorn, acorn-walk, @babel/parser, entities, linkedom, magic-string, recast (+36 more)
+
+### Community 1067 - ".agent/skills/media-use/scripts/lib/cutlist.mjs"
+Cohesion: 0.25
+Nodes (16): bareToken(), clampRanges(), cleanRange(), compileCutList(), durationFrom(), fillerRanges(), finalizeKept(), hasRemovalSource() (+8 more)
+
+### Community 1068 - "Anti-Patterns"
+Cohesion: 0.05
+Nodes (38): Font Families, Google Fonts Import, Type Scale, Typography, normal(), Animation, Anti-Patterns, Blending (+30 more)
+
+### Community 1069 - "Embedded Captions"
+Cohesion: 0.06
+Nodes (34): Add it to your video, Related topics, Add it to your video, Related topics, Paste it into your composition, Related topics, Variables, lines() (+26 more)
+
+### Community 1070 - "_aws-isolation.sh"
+Cohesion: 0.09
+Nodes (35): hf_assert_command_absent(), hf_assert_deploy_isolation(), hf_assert_named_list_absent(), hf_derive_project_name(), hf_discover_stack_resources(), hf_known_absent(), hf_new_smoke_run_id(), hf_reserve_smoke_stack() (+27 more)
+
+### Community 1071 - "write"
+Cohesion: 0.04
+Nodes (60): 0(), 3(), bx(), castElement(), component(), cw(), Df(), dispatchThreads() (+52 more)
+
+### Community 1072 - "hf-early-stub.ts"
+Cohesion: 0.07
+Nodes (28): activeProxies, allTweenTargets, applyTimelineOperation(), BATCHED_METHODS, enqueueTimelineOperation(), flushBatch(), flushPendingOperations(), forwardRemainingMethods() (+20 more)
+
+### Community 1073 - "handles.ts"
+Cohesion: 0.08
+Nodes (38): collectSourceContours(), findSourceContextIndex(), isRenderableRect(), measureTopologyLensGeometry(), resolveTopologyLensElements(), decodeHandlePart(), decodeScopedParts(), ElementAddress (+30 more)
+
+### Community 1074 - "Audio treatment presets — research and proposed catalog"
+Cohesion: 0.10
+Nodes (19): 1. The governing precedent, 2. What consumer tools actually ship, 4. Two mechanisms, and carve is already the second, 5. Proposed catalog, 5a. Voice (static), 5b. Repair — honestly named (static), 5c. Character (static), 5d. Space (static) (+11 more)
+
+### Community 1075 - "unwrap"
+Cohesion: 0.04
+Nodes (77): 7(), appendToTrace(), areEqual(), beginRenderPass(), Bf(), bk(), bx(), cG() (+69 more)
+
+### Community 1076 - "Re"
+Cohesion: 0.06
+Nodes (59): aM(), appendToTrace(), areEqual(), asString(), Bf(), bw(), $c(), C1() (+51 more)
+
+### Community 1077 - "defaults.ts"
+Cohesion: 0.05
+Nodes (32): argv, block, ledger, lines, scenes, target, zEntries, argv (+24 more)
+
+### Community 1078 - "shaderTransitions.ts"
+Cohesion: 0.02
+Nodes (133): Add it to your video, Related topics, Paste it into your composition, Related topics, Paste it into your composition, Related topics, Variables, Energy → transition (+125 more)
+
+### Community 1079 - "authoredState.ts"
+Cohesion: 0.09
+Nodes (40): authoredClasses(), authoredNode(), boundedSkip(), closeOffset(), closesRawText(), closeStep(), closingBracket(), closingStep() (+32 more)
+
+### Community 1080 - "webmcp/types.ts"
+Cohesion: 0.12
+Nodes (21): importPolyfill(), loadModelContextPolyfill(), log, installModelContext(), trackEvent, findToolDefinitionError(), invalidState(), isAbortError() (+13 more)
+
+### Community 1081 - "Coral — Frame (video / frame layer)"
+Cohesion: 0.08
+Nodes (24): 1 · Region-Split Cover (identity · move: hard region edge · left), 2 · Feature Stat (anchor · move: scale · coral environment · left), 3 · Quote Layout (quote · move: panel split · giant mark), 4 · Closing Plate (closer · move: cream field + coral band · centered), 5 · Three-Column Catalog (catalog · move: density — the dense frame · centered head), 6 · Timeline (process · move: horizontal rail · left), Approved Entities, Aspect-Ratio Behavior (+16 more)
+
+### Community 1082 - "04-scrub.ts"
+Cohesion: 0.25
+Nodes (10): getFixtureFrame(), measureSingleSeek(), Mode, runOnce(), RunResult, runScrub(), runScrubBatch(), ScrubScenarioOpts (+2 more)
+
+### Community 1083 - "constructor"
+Cohesion: 0.04
+Nodes (59): Ak(), as(), bk(), $c(), compileWriter(), constructor(), createMutable(), createSampler() (+51 more)
+
+### Community 1084 - ".agent/skills/remotion-to-hyperframes/assets/test-corpus/tier-3-data-driven/remotion-src/src/Stargazed.tsx"
+Cohesion: 0.12
+Nodes (17): AnimatedNumber(), Props, Props, StatCard(), Props, UnderlinedText(), defaultProps, RemotionRoot() (+9 more)
+
+### Community 1085 - "cn"
+Cohesion: 0.18
+Nodes (20): 2(), AB(), aC(), an(), cn(), EB(), eC(), Hs() (+12 more)
+
+### Community 1086 - "Daisy Days — Frame (video / frame layer)"
+Cohesion: 0.08
+Nodes (24): 1 · Cover (identity · move: ornament wreath · saturated · centered), 2 · Info Cards (catalog · move: 3-up white cards · cream · the dense frame), 3 · Process Steps (sequence · move: rotating circle markers · peach · centered), 4 · Quote (quote · move: quote-mark anchor · soft-pink · centered), 5 · Framed Section (feature · move: cap+body card · cream), 6 · Closing (closer · move: ornament wreath · saturated · centered), Approved Real Entities, Aspect-Ratio Behavior (+16 more)
+
+### Community 1087 - "exports"
+Cohesion: 0.05
+Nodes (42): bun, import, node, types, bun, import, node, types (+34 more)
+
+### Community 1088 - ".agent/skills/product-launch-video/scripts/lib/storyboard.mjs"
+Cohesion: 0.15
+Nodes (22): applyDuration(), applyMeta(), applyPoster(), applyStatus(), assignGlobal(), buildFrame(), DEFAULT_FRAME_STATUS, emptyGlobals() (+14 more)
+
+### Community 1089 - "qt"
+Cohesion: 0.07
+Nodes (39): advanceBy(), bx(), consume(), Df(), dR(), ep(), eR(), gR() (+31 more)
+
+### Community 1090 - "code-slice-hero/assets/gsap-3.14.2.min.js"
+Cohesion: 0.06
+Nodes (17): ae(), ie(), Nd(), oa(), Od(), oe(), pa(), Pd() (+9 more)
+
+### Community 1091 - "transformTools.ts"
+Cohesion: 0.14
+Nodes (24): Two rules worth knowing, boxesEqual(), ElementBox, isFailure(), observeMove(), observeResize(), observeRotation(), outcomeFailure() (+16 more)
+
+### Community 1092 - "hyperframes/skills/embedded-captions/SKILL.md"
+Cohesion: 0.08
+Nodes (22): Rules, Shortlisting heuristics (identity-level, not category-level), THE CATALOG — one front-end, three engines behind, Adding a DNA, Cinematic mode (pure embed) — one engine, six DNAs, What the engine generates (never author these), What you DON'T do, Workflow (+14 more)
+
+### Community 1093 - "Scene Transitions"
+Cohesion: 0.13
+Nodes (14): Knobs, smooth(), Animation Rules for Multi-Scene Compositions, Blur Intensity by Energy, Contents, Energy → Primary Transition, Implementation, Mood → Transition Type (+6 more)
+
+### Community 1094 - ".agent/skills/pr-to-video/scripts/assemble-index.mjs"
+Cohesion: 0.06
+Nodes (34): allowPendingBgm, anomalies, argv, attrPresent(), attrValue(), audio, audioMetaPath, body (+26 more)
+
+### Community 1095 - ".agent/skills/pr-to-video/scripts/build-frame.mjs"
+Cohesion: 0.07
+Nodes (35): argv, brandColors, brandColorStats, brandFonts, brandFontWeights, __dirname, framePath, hexToHsl() (+27 more)
+
+### Community 1096 - "Du"
+Cohesion: 0.06
+Nodes (43): ac(), ae(), bc(), Br(), Cc(), dc(), Do(), Dr() (+35 more)
+
+### Community 1097 - "Coral — Frame (video / frame layer)"
+Cohesion: 0.08
+Nodes (24): 1 · Region-Split Cover (identity · move: hard region edge · left), 2 · Feature Stat (anchor · move: scale · coral environment · left), 3 · Quote Layout (quote · move: panel split · giant mark), 4 · Closing Plate (closer · move: cream field + coral band · centered), 5 · Three-Column Catalog (catalog · move: density — the dense frame · centered head), 6 · Timeline (process · move: horizontal rail · left), Approved Entities, Aspect-Ratio Behavior (+16 more)
+
+### Community 1098 - "systemFontLocator.ts"
+Cohesion: 0.09
+Nodes (39): cache, clearSystemFontCache(), collectCandidatesFromDir(), collectFontFileEntries(), execFileSync, dedupeVariants(), extensionToFormat(), FONT_EXT_RE (+31 more)
+
+### Community 1099 - "player/package.json"
+Cohesion: 0.05
+Nodes (40): dependencies, @hyperframes/core, description, devDependencies, gsap, puppeteer-core, tsup, @types/bun (+32 more)
+
+### Community 1100 - "timeline-virtualization.mjs"
+Cohesion: 0.10
+Nodes (29): assertSampleCount(), attemptPassed(), countExcess(), describeAgainstBase(), gatePassed(), judgeAgainstBase(), judgeResponsiveness(), overBudgetExcess() (+21 more)
+
+### Community 1101 - "cn"
+Cohesion: 0.18
+Nodes (20): 2(), AB(), aC(), an(), cn(), EB(), eC(), Hs() (+12 more)
+
+### Community 1102 - "Rt"
+Cohesion: 0.05
+Nodes (75): Ak(), as(), asString(), aT(), bk(), bw(), cG(), completeStruct() (+67 more)
+
+### Community 1103 - "cn"
+Cohesion: 0.18
+Nodes (20): 2(), AB(), aC(), an(), cn(), EB(), eC(), Hs() (+12 more)
+
+### Community 1104 - "Re"
+Cohesion: 0.11
+Nodes (35): asString(), bw(), completeStruct(), createComputePipeline(), createGuardedComputePipeline(), createRenderPipeline(), $d(), e6() (+27 more)
+
+### Community 1105 - "When presets are wrong"
+Cohesion: 0.20
+Nodes (10): Bespoke design vs. presets — when to override, when to clone, Canonical example renders, "Caps should accumulate (flex stack) instead of swap", "Font size doesn't match the scene", "Hanging indent / outdent / letter-width tweak", Rendering history, The clone-and-tweak workflow, "The template's blend doesn't suit this backdrop" → pick a different template, do NOT override (+2 more)
+
+### Community 1106 - "Re"
+Cohesion: 0.08
+Nodes (42): asString(), bw(), completeStruct(), createComputePipeline(), createGuardedComputePipeline(), createRenderPipeline(), $d(), D4() (+34 more)
+
+### Community 1107 - "Typographic moves — a palette, not a cage"
+Cohesion: 0.20
+Nodes (9): Anti-patterns the DNA protects against, Example: memory-wall original, expressed in freeform, Named moves — pick per group, Narrative arcs (suggestions, not required), Position + layer vocabulary, Size vs text length — DO THIS BEFORE PICKING SIZE, Sizing discipline (frame-height-relative), Typographic moves — a palette, not a cage (+1 more)
+
+### Community 1109 - "cn"
+Cohesion: 0.18
+Nodes (20): 2(), AB(), aC(), an(), cn(), EB(), eC(), Hs() (+12 more)
+
+### Community 1110 - "scripts"
+Cohesion: 0.20
+Nodes (10): scripts, build, serve, serve:node, test, test:live, test:source-release, test:timeline (+2 more)
+
+### Community 1111 - "Rt"
+Cohesion: 0.05
+Nodes (75): Ak(), as(), asString(), aT(), bk(), bw(), cG(), completeStruct() (+67 more)
+
+### Community 1112 - "Rt"
+Cohesion: 0.05
+Nodes (75): Ak(), as(), asString(), aT(), bk(), bw(), cG(), completeStruct() (+67 more)
+
+### Community 1113 - "regression-harness.ts"
+Cohesion: 0.02
+Nodes (147): Render one project, InitMediaOptions, openTag(), patchMediaPlaceholders(), setVideoAudio(), stripPlaceholder(), toSrcValue(), DistributedFps (+139 more)
+
+### Community 1115 - ".agent/skills/remotion-to-hyperframes/assets/test-corpus/tier-4-escape-hatch/cases/08-mixed.tsx"
+Cohesion: 0.20
+Nodes (3): Item, Item, Item
+
+### Community 1116 - "hyperframes/skills/pr-to-video/scripts/assemble-index.mjs"
+Cohesion: 0.06
+Nodes (34): allowPendingBgm, anomalies, argv, attrPresent(), attrValue(), audio, audioMetaPath, body (+26 more)
+
+### Community 1117 - "hyperframes/skills/pr-to-video/scripts/build-frame.mjs"
+Cohesion: 0.07
+Nodes (35): argv, brandColors, brandColorStats, brandFonts, brandFontWeights, __dirname, framePath, hexToHsl() (+27 more)
+
+### Community 1118 - ".agent/skills/faceless-explainer/scripts/build-frame.mjs"
+Cohesion: 0.07
+Nodes (34): argv, brandColors, brandColorStats, brandFonts, brandFontWeights, __dirname, framePath, hexToHsl() (+26 more)
+
+### Community 1119 - "Anime.js for HyperFrames"
+Cohesion: 0.15
+Nodes (12): Anime.js for HyperFrames, Avoid, Basic Pattern, Contents, Contract, Credits And References, Determinism, Good Uses (+4 more)
+
+### Community 1120 - "Lottie for HyperFrames"
+Cohesion: 0.15
+Nodes (12): Avoid, Characters, Composition Duration, Contents, Contract, Credits And References, dotLottie Pattern, Good Uses (+4 more)
+
+### Community 1121 - ".agent/skills/faceless-explainer/scripts/audio.mjs"
+Cohesion: 0.24
+Nodes (17): DEFAULT_ENGINE, flag(), HERE, neutralPath(), pad2(), parseScript(), previousHostAudio(), runEngine() (+9 more)
+
+### Community 1122 - ".agent/skills/pr-to-video/scripts/ingest.mjs"
+Cohesion: 0.05
+Nodes (33): argv, body, BOT_DENYLIST, botsFiltered, commitLines, consider(), diffByPath, diffSections (+25 more)
+
+### Community 1123 - ".agent/skills/pr-to-video/scripts/audio.mjs"
+Cohesion: 0.24
+Nodes (17): DEFAULT_ENGINE, flag(), HERE, neutralPath(), pad2(), parseScript(), previousHostAudio(), runEngine() (+9 more)
+
+### Community 1124 - "ai/skills/faceless-explainer/scripts/audio.mjs"
+Cohesion: 0.24
+Nodes (17): DEFAULT_ENGINE, flag(), HERE, neutralPath(), pad2(), parseScript(), previousHostAudio(), runEngine() (+9 more)
+
+### Community 1125 - "docs.json"
+Cohesion: 0.05
+Nodes (39): appearance, default, background, color, dark, light, colors, dark (+31 more)
+
+### Community 1126 - "HyperFrames Schema"
+Cohesion: 0.05
+Nodes (38): 1. Animating video element dimensions with GSAP, 2. Controlling media playback in scripts, 3. Composition duration shorter than video, Common Mistakes, Debugging checklist, All Clips, Audio Clips, Basic Sequential Clips (+30 more)
+
+### Community 1127 - "constructor"
+Cohesion: 0.10
+Nodes (21): compileWriter(), constructor(), createMutable(), createSampler(), Fk(), GU(), H5(), j5() (+13 more)
+
+### Community 1128 - "Re"
+Cohesion: 0.07
+Nodes (58): 2(), AB(), aC(), an(), asString(), bw(), cn(), completeStruct() (+50 more)
+
+### Community 1129 - "cn"
+Cohesion: 0.17
+Nodes (21): 2(), AB(), aC(), an(), cn(), EB(), eC(), Hs() (+13 more)
+
+### Community 1130 - "Rt"
+Cohesion: 0.05
+Nodes (45): ax(), Bf(), $c(), cG(), D4(), fc(), Fk(), g7() (+37 more)
+
+### Community 1131 - "Blocks"
+Cohesion: 0.04
+Nodes (48): L2(), Available items, Blocks, Branding + 3D UI (2), Code Animations (9), Code snippets (24), Components, Item manifest fields (+40 more)
+
+### Community 1132 - "hyperframes/skills/pr-to-video/scripts/ingest.mjs"
+Cohesion: 0.05
+Nodes (33): argv, body, BOT_DENYLIST, botsFiltered, commitLines, consider(), diffByPath, diffSections (+25 more)
+
+### Community 1133 - "constructor"
+Cohesion: 0.10
+Nodes (21): compileWriter(), constructor(), createMutable(), createSampler(), Fk(), GU(), H5(), j5() (+13 more)
+
+### Community 1134 - "Claude Design + HyperFrames (Template-First)"
+Cohesion: 0.05
+Nodes (38): 3a. Fill scene content, 3b. Fill entrance animations, 3c. Fill mid-scene activity (this is what separates video from slides), 3d. Adjust scene duration, Anti-monoculture, Ask ONE question if the brief is sparse, Bar chart fill, Breathing float (mid-scene activity) (+30 more)
+
+### Community 1135 - "ai/skills/media-use/scripts/lib/telemetry.mjs"
+Cohesion: 0.24
+Nodes (16): withFileLock(), anonymousId(), __anonymousIdForTest(), heygenAccountDistinctId(), identifyAccount(), isTestOrCiContext(), legacyMediaAnonId(), optedOut() (+8 more)
+
+### Community 1136 - "parse"
+Cohesion: 0.10
+Nodes (39): cleanup(), Cr(), fastForwardTo(), handleInAttributeValue(), isTagStartChar(), no(), parse(), resume() (+31 more)
+
+### Community 1137 - "src/project.ts"
+Cohesion: 0.02
+Nodes (123): auditCodes(), gradientFrame(), script, Window, content(), HDR, PROJECT, SDR (+115 more)
+
+### Community 1138 - "structure.ts"
+Cohesion: 0.06
+Nodes (51): DomNode, buildTree(), captionFindings(), clipsPastRootFindings(), describe(), enclosing(), followsParentVisibility(), hasNestedStructure() (+43 more)
+
+### Community 1139 - "Media translation: Audio, Video, Img, IFrame, staticFile"
+Cohesion: 0.20
+Nodes (10): Asset paths, `<Audio>`, `delayRender()` / `continueRender()`, `<IFrame>`, `<Img>`, Media translation: Audio, Video, Img, IFrame, staticFile, Trim / playbackRate, `<Video>` and `<OffthreadVideo>` (+2 more)
+
+### Community 1140 - "css"
+Cohesion: 0.07
+Nodes (26): Check your work, `compare` and `grade-compare`, Deprecated: `validate`, `inspect`, and `layout`, `keyframes`, `snapshot`, css(), Planes — shared parent containers for spatial coherence (RECOMMENDED), Anti-patterns the DNA protects against (+18 more)
+
+### Community 1141 - "generate-font-data.ts"
+Cohesion: 0.28
+Nodes (8): CANONICAL_FONTS, CanonicalFontSpec, __dirname, FontFaceSpec, main(), packageRoot(), require, resolveFontFile()
+
+### Community 1142 - "constructor"
+Cohesion: 0.04
+Nodes (59): Ak(), as(), bk(), $c(), compileWriter(), constructor(), createMutable(), createSampler() (+51 more)
+
+### Community 1143 - ".agent/skills/talking-head-recut/assets/vendor/gsap.min.js"
+Cohesion: 0.07
+Nodes (15): Gc(), Hc(), ia(), ja(), Lc(), Nc(), oa(), pa() (+7 more)
+
+### Community 1144 - "ai/skills/pr-to-video/scripts/audio.mjs"
+Cohesion: 0.24
+Nodes (17): DEFAULT_ENGINE, flag(), HERE, neutralPath(), pad2(), parseScript(), previousHostAudio(), runEngine() (+9 more)
+
+### Community 1145 - "layout-audit.browser.js"
+Cohesion: 0.09
+Nodes (33): arcHubForSvg(), canvasEdgeBand(), canvasEdgeHasContent(), classifyVideoAlpha(), coveredFrameEdges(), ctmScale(), dialHubForSvg(), edgeGap() (+25 more)
+
+### Community 1146 - "asset.ts"
+Cohesion: 0.09
+Nodes (34): AssetImportDeps, AssetImportResult, FORMATS, freezeAndRecord(), gatherAssetRefs(), normalizeMeta(), parseFormat(), requireNodeRef() (+26 more)
+
+### Community 1147 - "prompting/color-grading.mdx"
+Cohesion: 0.11
+Nodes (18): Analogue: three different failures, Animating a grade, Camera, Destroying the picture on purpose, Grade the room, protect the face, Grading qualifies by value, never by position, Hold one color, drain the rest, Next steps (+10 more)
+
+### Community 1148 - "get"
+Cohesion: 0.04
+Nodes (96): a0(), add(), arrayBuffer(), az(), Bs(), configureContext(), createBindGroup(), createTexture() (+88 more)
+
+### Community 1149 - "hyperframes/skills/music-to-video/references/motion-primitives/assets/gsap.min.js"
+Cohesion: 0.07
+Nodes (15): Gc(), Hc(), ia(), ja(), Lc(), Nc(), oa(), pa() (+7 more)
+
+### Community 1150 - "constructor"
+Cohesion: 0.08
+Nodes (27): constructor(), createMutable(), createSampler(), cw(), Fa(), Fk(), fork(), GU() (+19 more)
+
+### Community 1151 - ".agent/skills/faceless-explainer/scripts/assemble-index.mjs"
+Cohesion: 0.07
+Nodes (31): allowPendingBgm, anomalies, argv, attrPresent(), attrValue(), audio, audioMetaPath, body (+23 more)
+
+### Community 1152 - "inline-text-caret.mjs"
+Cohesion: 0.21
+Nodes (12): chord(), evidence, failures, key(), onScreen(), openEdit(), pause(), read() (+4 more)
+
+### Community 1153 - "Hyperframes"
+Cohesion: 0.05
+Nodes (32): Build & Test, Composition Validation, Documentation, Hyperframes, Issue and PR triage, Key Conventions, Linting & Formatting, Project Structure (+24 more)
+
+### Community 1154 - "browser/manager.ts"
+Cohesion: 0.01
+Nodes (196): Add it to your video, Related topics, Add it to your video, Related topics, Add it to your video, Related topics, Add it to your video, Related topics (+188 more)
+
+### Community 1155 - "$o"
+Cohesion: 0.05
+Nodes (37): $o(), Qn(), Qn(), Qn(), Qn(), Qn(), Qn(), Qn() (+29 more)
+
+### Community 1156 - "nodeToHtml.ts"
+Cohesion: 0.11
+Nodes (33): figmaColorToCss(), isRecord(), toHexByte(), backgroundValue(), Box, boxOf(), cornerAndClipCss(), decorationCss() (+25 more)
+
+### Community 1157 - "dependencies"
+Cohesion: 0.22
+Nodes (9): dependencies, acorn, esbuild, eslint-scope, @hyperframes/core, @hyperframes/parsers, @jridgewell/trace-mapping, postcss (+1 more)
+
+### Community 1158 - "hyper-shader.preview.test.ts"
+Cohesion: 0.31
+Nodes (6): initDuringCapture(), mountScenes(), ShaderTimeline, SpeedTimeline, stubGsap(), stubWebGl()
+
+### Community 1159 - "beatDetection.test.ts"
+Cohesion: 0.17
+Nodes (11): bandFramesOf(), rhythm, STEADY_BEAT_CONFIDENCE, analyzeMusicFromBuffer(), analyzeMusicFromSignal(), analyzeMusicFromUrl(), beatStrengths(), computeRmsAt() (+3 more)
+
+### Community 1160 - "unwrap"
+Cohesion: 0.04
+Nodes (70): appendToTrace(), areEqual(), beginComputePass(), Bf(), bz(), $c(), constructor(), createMutable() (+62 more)
+
+### Community 1161 - "Xr"
+Cohesion: 0.25
+Nodes (11): Df(), ep(), Ih(), kU(), N6(), op(), U_(), v6() (+3 more)
+
+### Community 1162 - "WebChannel"
+Cohesion: 0.13
+Nodes (19): _is_antibot_page(), WebChannel, _literal_ip_address(), normalize_public_http_url(), _resp(), test_antibot_detection_has_a_fixed_scan_window(), test_can_handle_accepts_any_url(), test_check_is_ok_and_touches_no_network() (+11 more)
+
+### Community 1163 - "end"
+Cohesion: 0.10
+Nodes (28): $0(), addToNumericResult(), Ci(), done(), ec(), emitNamedEntityData(), emitNotTerminatedNamedEntity(), emitNumericEntity() (+20 more)
+
+### Community 1164 - "hyperframes/skills/faceless-explainer/scripts/assemble-index.mjs"
+Cohesion: 0.07
+Nodes (31): allowPendingBgm, anomalies, argv, attrPresent(), attrValue(), audio, audioMetaPath, body (+23 more)
+
+### Community 1165 - "FileTreeNodes.tsx"
+Cohesion: 0.20
+Nodes (19): FileTree, FileTreeProps, ALIAS, buildTree(), ContextMenuState, DIM, FileIcon(), Icon (+11 more)
+
+### Community 1166 - "mediaIndex.test.ts"
+Cohesion: 0.16
+Nodes (15): formatDims(), formatDur(), generateIndexContent(), indexPath(), IndexRow, isRow(), pad(), regenerateIndex() (+7 more)
+
+### Community 1167 - "constructor"
+Cohesion: 0.11
+Nodes (19): compileWriter(), constructor(), createSampler(), E1(), Fk(), GU(), H5(), j5() (+11 more)
+
+### Community 1168 - "bnModPow"
+Cohesion: 0.25
+Nodes (9): Barrett(), bnBitLength(), bnModPow(), bnModPowInt(), bnpDivRemTo(), bnpExp(), Classic(), Montgomery() (+1 more)
+
+### Community 1169 - "constructor"
+Cohesion: 0.11
+Nodes (19): constructor(), createMutable(), createSampler(), eg(), ex(), GU(), H5(), makeColumn() (+11 more)
+
+### Community 1170 - "constructor"
+Cohesion: 0.11
+Nodes (19): constructor(), createMutable(), createSampler(), eg(), ex(), GU(), H5(), makeColumn() (+11 more)
+
+### Community 1171 - "login.test.ts"
+Cohesion: 0.11
+Nodes (16): ENV_KEYS, EnvFixture, EnvKey, setupTempAuthEnv(), browserAuth, deviceAuth, deviceChallenge, MockAuthClient (+8 more)
+
+### Community 1172 - "figma/types.ts"
+Cohesion: 0.14
+Nodes (24): emitTimelineScript(), emitTween(), lit(), num(), doc, val(), isBezier4(), mapEase() (+16 more)
+
+### Community 1173 - "frost.ts"
+Cohesion: 0.05
+Nodes (57): ASSET_BASE, assetUrl(), BUILD_VERSION, CachedBuild, CachedGeometry, packGeometry(), readBuild(), unpackGeometry() (+49 more)
+
+### Community 1174 - "build-zip.ts"
+Cohesion: 0.09
+Nodes (31): assertLinuxX86_64Elf(), BuildOptions, bundleHandler(), compareSemver(), DEFAULT_OPTIONS, directorySizeBytes(), distDir, ELF_MAGIC (+23 more)
+
+### Community 1175 - "hyperframes/skills/media-use/scripts/lib/telemetry.mjs"
+Cohesion: 0.24
+Nodes (16): withFileLock(), anonymousId(), __anonymousIdForTest(), heygenAccountDistinctId(), identifyAccount(), isTestOrCiContext(), legacyMediaAnonId(), optedOut() (+8 more)
+
+### Community 1176 - "Re"
+Cohesion: 0.09
+Nodes (41): asString(), bw(), completeStruct(), createComputePipeline(), createGuardedComputePipeline(), createRenderPipeline(), $d(), D4() (+33 more)
+
+### Community 1177 - "Re"
+Cohesion: 0.07
+Nodes (50): asString(), bw(), c8(), completeStruct(), configureContext(), createComputePipeline(), createGuardedComputePipeline(), createRenderPipeline() (+42 more)
+
+### Community 1178 - "check-artifact-coverage.ts"
+Cohesion: 0.07
+Nodes (53): LOCAL_MODEL_ID, LOCAL_MODEL_REVISION, arg(), main(), openAiEmbedder(), registryNames(), arg(), embedInBatches() (+45 more)
+
+### Community 1179 - "Captions"
+Cohesion: 0.06
+Nodes (30): Caption Exit Guarantee, Captions, Constraints, Further References, Per-Word Styling, Positioning, Pre-Built Caption Components, Script-to-Style Mapping (+22 more)
+
+### Community 1180 - "Media treatment recipes"
+Cohesion: 0.06
+Nodes (33): 8mm Home Movie, Base payload, Base payload, Bounded tuning, Bounded tuning, Cached Error Diffusion, Creator Camcorder, Crosshatched Sketch (+25 more)
+
+### Community 1181 - ".agent/skills/pr-to-video/scripts/lib/frame-packets-core.mjs"
+Cohesion: 0.29
+Nodes (13): blueprintId(), buildFramePackets(), buildRolePayload(), citedRules(), escapeRegExp(), field(), flag(), frameId() (+5 more)
+
+### Community 1182 - ".agent/skills/product-launch-video/scripts/transitions.mjs"
+Cohesion: 0.25
+Nodes (17): padFrameInternalDuration(), parseStoryboard(), loadTransitionRegistry(), transitionsByName(), buildGsap(), extendFrameTail(), flag(), mountedFramesInOrder() (+9 more)
+
+### Community 1183 - "The 10 moves"
+Cohesion: 0.11
+Nodes (17): 10. burn-in, 1. typewriter, 2. word-fade-up (DEFAULT), 3. word-pop, 4. swipe-reveal, 5. drop-and-settle, 6. etch, 7. crosshair (+9 more)
+
+### Community 1184 - "motion-signature.browser.js"
+Cohesion: 0.13
+Nodes (29): boxChannel(), clipPathChannel(), compositionSignature(), consumedCounterNames(), controlValueChannel(), controlWidgetChannel(), counterParts(), push() (+21 more)
+
+### Community 1185 - "package-subpaths.mjs"
+Cohesion: 0.11
+Nodes (24): esbuildOptions(), pkg, producerPkg, packageVersion, bootstrap(), descriptorFromManifest(), exportsFromDescriptor(), inferEnvironments() (+16 more)
+
+### Community 1186 - "HTML-in-Canvas Patterns"
+Cohesion: 0.11
+Nodes (17): 10. Pixel Sort / Glitch Art, 1. 3D Rotation with Bloom (Three.js), 2. Magnetic Cursor Distortion (Raw WebGL2), 3. Shatter / Fragment Explosion (Three.js), 4. Liquid / Fluid Surface (Three.js), 5. Portal / Dimensional Reveal (Three.js), 6. Noise Dissolve, 7. Holographic / Iridescent (+9 more)
+
+### Community 1187 - "timeline-bulk-actions.mjs"
+Cohesion: 0.12
+Nodes (31): actions, chrome, CLI, clickClips(), clipTimes(), deleteAll(), dragAll(), installProbe() (+23 more)
+
+### Community 1188 - "Re"
+Cohesion: 0.09
+Nodes (41): asString(), bw(), completeStruct(), createComputePipeline(), createGuardedComputePipeline(), createRenderPipeline(), $d(), e6() (+33 more)
+
+### Community 1189 - "Broadside — Frame (video / frame layer)"
+Cohesion: 0.08
+Nodes (24): 1 · Cover (identity · move: massive type · ORANGE register · left), 2 · Statement (declarative · move: type IS composition · DARK register · left), 3 · Stat Grid (data · move: top-border cards · DARK · the dense frame), 4 · Fadelist (narrative · move: opacity stack · DARK), 5 · Pull Quote (quote · move: oversized mark · DARK · left), 6 · Compare (argument · move: split + orange payoff · DARK→ORANGE), Approved Entities, Aspect-Ratio Behavior (+16 more)
+
+### Community 1190 - "ios26-liquid-glass/lib/liquid-glass.iife.js"
+Cohesion: 0.10
+Nodes (28): _blitPass(), _blurPass(), _captureRegion(), constructor(), destroy(), _doInit(), _drawGlassElementContent(), _freeTarget() (+20 more)
+
+### Community 1191 - "liquid-glass-notification/lib/liquid-glass.iife.js"
+Cohesion: 0.10
+Nodes (28): _blitPass(), _blurPass(), _captureRegion(), constructor(), destroy(), _doInit(), _drawGlassElementContent(), _freeTarget() (+20 more)
+
+### Community 1192 - "liquid-glass-widgets/lib/liquid-glass.iife.js"
+Cohesion: 0.10
+Nodes (28): _blitPass(), _blurPass(), _captureRegion(), constructor(), destroy(), _doInit(), _drawGlassElementContent(), _freeTarget() (+20 more)
+
+### Community 1193 - "hyperframes/skills/faceless-explainer/scripts/build-frame.mjs"
+Cohesion: 0.07
+Nodes (34): argv, brandColors, brandColorStats, brandFonts, brandFontWeights, __dirname, framePath, hexToHsl() (+26 more)
+
+### Community 1194 - "Captions"
+Cohesion: 0.06
+Nodes (30): Caption Exit Guarantee, Captions, Constraints, Further References, Per-Word Styling, Positioning, Pre-Built Caption Components, Script-to-Style Mapping (+22 more)
+
+### Community 1195 - "hyperframes/skills/pr-to-video/scripts/lib/frame-packets-core.mjs"
+Cohesion: 0.29
+Nodes (13): blueprintId(), buildFramePackets(), buildRolePayload(), citedRules(), escapeRegExp(), field(), flag(), frameId() (+5 more)
+
+### Community 1196 - "ai/skills/media-use/audio/scripts/wait-bgm.mjs"
+Cohesion: 0.11
+Nodes (10): argv, audioMeta, audioMetaPath, base, hyperframesDir, intervalMs, outPath, started (+2 more)
+
+### Community 1197 - "Problem setup"
+Cohesion: 0.06
+Nodes (32): before-after-wipe, browser-device-stage, Call to action, chart-story, count-up, cta-close, cut-the-curve, Feature tour (+24 more)
+
+### Community 1198 - "set-version.ts"
+Cohesion: 0.14
+Nodes (30): artifactExists(), artifactHasGeneratedTodo(), assertNoUnexpectedChanges(), assertReviewedChangelog(), assertTagMonotonicity(), CHANGELOG_REVIEW_TODO, changelogArtifacts(), collectChangedPaths() (+22 more)
+
+### Community 1199 - "plan-parity-contract.ts"
+Cohesion: 0.13
+Nodes (20): check(), comparableMetadata(), comparePlanParityMeasurements(), equalJson(), PlanParityCheck, PlanParityChunkArtifact, PlanParityChunkMeasurement, PlanParityComparison (+12 more)
+
+### Community 1200 - "Creative Mode — Frame (video / frame layer)"
+Cohesion: 0.08
+Nodes (24): 1 · Wordmark Cover (identity · move: full-frame lockup · centered), 2 · Big Claim (oversized statement · move: scale · left), 3 · Stat Grid (catalog · move: density — the one dense frame · centered), 4 · Closing Plate (closer · move: ground-swap · centered), 5 · Featured Marker (callout · move: hard-shadow focal · left/asymmetric), 6 · Comparison Ledger (data · move: matrix · left), Approved Entities, Aspect-Ratio Behavior (+16 more)
+
+### Community 1201 - "ai/skills/music-to-video/scripts/lib/storyboard.mjs"
+Cohesion: 0.18
+Nodes (17): applyDuration(), applyMeta(), applyPoster(), applyStatus(), buildFrame(), DEFAULT_FRAME_STATUS, endsFrameSection(), FRAME_STATUSES (+9 more)
+
+### Community 1202 - "ai/skills/product-launch-video/scripts/audio.mjs"
+Cohesion: 0.25
+Nodes (16): DEFAULT_ENGINE, flag(), HERE, neutralPath(), pad2(), parseScript(), previousHostAudio(), runEngine() (+8 more)
+
+### Community 1203 - "code-terminal-run"
+Cohesion: 0.07
+Nodes (26): Paste it into your composition, Related topics, Variables, Paste it into your composition, Related topics, Variables, Paste it into your composition, Related topics (+18 more)
+
+### Community 1204 - "r"
+Cohesion: 0.05
+Nodes (71): a(), addUpdateRange(), as(), Ca(), cae(), CI(), Cr(), createStrokeMaterial() (+63 more)
+
+### Community 1205 - "scripts"
+Cohesion: 0.06
+Nodes (32): scripts, bench:hdr, benchmark, build, build:hf-early-stub, check:runtime-conformance, docker:build:test, docker:test (+24 more)
+
+### Community 1206 - "shader-transitions/package.json"
+Cohesion: 0.06
+Nodes (31): dependencies, html2canvas, description, devDependencies, tsup, typescript, vitest, exports (+23 more)
+
+### Community 1207 - "Cartesian — Frame (video / frame layer)"
+Cohesion: 0.08
+Nodes (24): 1 · Cover (identity · move: serif + compass ring · left), 2 · Agenda / Index (index · move: hairline list · left), 3 · Pull Quote (quote · move: centered statement · compass ring), 4 · Closing Plate (closer · move: centered ring · centered), 5 · Two-Column Editorial (content · move: asymmetric split · left), 6 · Stats / Timeline (data · move: hairline rail · left), Approved Entities, Aspect-Ratio Behavior (+16 more)
+
+### Community 1208 - "hyperframes/skills/product-launch-video/scripts/lib/storyboard.mjs"
+Cohesion: 0.15
+Nodes (22): applyDuration(), applyMeta(), applyPoster(), applyStatus(), assignGlobal(), buildFrame(), DEFAULT_FRAME_STATUS, emptyGlobals() (+14 more)
+
+### Community 1209 - "resolve.test.mjs"
+Cohesion: 0.12
+Nodes (7): captureResolveEvent(), makeRecord(), OPENVERSE_BY_WHOOSH, REPO_ROOT, RESOLVE_CLI, spawnResolveAsync(), tests
+
+### Community 1210 - "ai/skills/product-launch-video/scripts/transitions.mjs"
+Cohesion: 0.25
+Nodes (17): padFrameInternalDuration(), parseStoryboard(), loadTransitionRegistry(), transitionsByName(), buildGsap(), extendFrameTail(), flag(), mountedFramesInOrder() (+9 more)
+
+### Community 1211 - "lintStreaks.ts"
+Cohesion: 0.17
+Nodes (17): Provenance and refresh, carryForward(), CodeStreak, emptyState(), FileEntry, fileKey(), firstSeverityPerCode(), foldEdit() (+9 more)
+
+### Community 1212 - "innerText"
+Cohesion: 0.20
+Nodes (9): Internal, innerText(), Features, Fixes, Full changelog, HyperFrames v0.6.80, Internal, Animated Property Allowlist (+1 more)
+
+### Community 1213 - "add"
+Cohesion: 0.03
+Nodes (113): a0(), add(), arrayBuffer(), aT(), az(), By(), c2(), c8() (+105 more)
+
+### Community 1215 - "surfaceCssKeyframes"
+Cohesion: 0.22
+Nodes (10): addAnimationNameDeclNames(), addAnimationShorthandNames(), animationNamesFromDeclarations(), collectKeyframeBlocks(), parseDeclarations(), readBalancedBlock(), stripCssComments(), stripQuotes() (+2 more)
+
+### Community 1216 - "Tween"
+Cohesion: 0.15
+Nodes (22): _assertThisInitialized(), cb(), dc(), Fo(), ga(), gb(), ha(), hb() (+14 more)
+
+### Community 1217 - "check-registry-set-delta.mjs"
+Cohesion: 0.57
+Nodes (6): computeRegistrySetDelta(), diffPaths(), formatRegistrySetDeltaResult(), main(), registryItemNamesFromPaths(), runRegistrySetDeltaCheck()
+
+### Community 1218 - "constructor"
+Cohesion: 0.10
+Nodes (21): compileWriter(), constructor(), createMutable(), createSampler(), Fk(), GU(), H5(), j5() (+13 more)
+
+### Community 1219 - "Part 1 — the move vocabulary"
+Cohesion: 0.08
+Nodes (23): 1. Smooth beats bouncy — `power3` is the default, 2. Sequential reveal in the back ~50%, timed to the voiceover, 3. No lazy breathing, no bad pan/push — "no motion over bad motion", 4. Internal seams are velocity-matched cuts, Aliveness during a hold (use sparingly — see Part 2), Camera, Count-up / data, Emphasis / marker (+15 more)
+
+### Community 1220 - "host-registry-assets.ts"
+Cohesion: 0.20
+Nodes (17): allItemDirs(), discardStagedSources(), HOSTED_EXTENSIONS, hostFile(), itemDirFor(), itemDirsUnder(), main(), needsHosting() (+9 more)
+
+### Community 1221 - "constructor"
+Cohesion: 0.10
+Nodes (21): compileWriter(), constructor(), createMutable(), createSampler(), Fk(), GU(), H5(), j5() (+13 more)
+
+### Community 1222 - "Tween"
+Cohesion: 0.18
+Nodes (21): _a(), Ao(), _assertThisInitialized(), cb(), cc(), ga(), gb(), hb() (+13 more)
+
+### Community 1223 - "MediaReachTool"
+Cohesion: 0.14
+Nodes (4): main(), print_banner(), MediaReachTool, AgentOS
+
+### Community 1224 - "Lambda rendering on AWS"
+Cohesion: 0.03
+Nodes (69): Composition format, Concept mapping, Deterministic Chrome path is mandatory, Font fetching fails closed, HDR is not supported, IAM policy is print-then-narrow, Migration checklist, Non-Lambda runtimes (+61 more)
+
+### Community 1225 - "Cartesian — Frame (video / frame layer)"
+Cohesion: 0.12
+Nodes (17): Approved Entities, Aspect-Ratio Behavior, Cartesian — Frame (video / frame layer), Colors, Components, Composition Rules, Depth & Surface, Do (+9 more)
+
+### Community 1226 - ".agent/skills/embedded-captions/scripts/make-composition.cjs"
+Cohesion: 0.10
+Nodes (27): DNA_DIR, fs, heroImpact(), LEGACY, path, readJson(), resolveTokens(), SKILL_ROOT (+19 more)
+
+### Community 1227 - "BlockFrame — Frame (video / frame layer)"
+Cohesion: 0.08
+Nodes (24): 1 · Cover (identity · move: decorations puncture · left), 2 · Feature Cards (catalog · move: 3-up bordered grid · blue ground), 3 · Stat Grid (data · move: tilted stat cards · green ground), 4 · Closing Plate (closer · move: inverted black · centered), 5 · Quote (quote · move: bordered quote frame · pink ground), 6 · Timeline (process · move: stepped bordered cards · offwhite), Approved Entities, Aspect-Ratio Behavior (+16 more)
+
+### Community 1228 - "add"
+Cohesion: 0.05
+Nodes (64): a0(), add(), Bs(), c8(), configureContext(), createBindGroup(), createRenderPipeline(), d8() (+56 more)
+
+### Community 1229 - "constructor"
+Cohesion: 0.10
+Nodes (21): compileWriter(), constructor(), createMutable(), createSampler(), Fk(), GU(), H5(), j5() (+13 more)
+
+### Community 1230 - "uniqueSelectorFor"
+Cohesion: 0.16
+Nodes (31): candidateAnchor(), canvasEdgeIssues(), clippedTextIssue(), clipsOverflow(), connectorAnchorRects(), connectorAttachThreshold(), connectorDetachmentIssues(), connectorEndpointCandidates() (+23 more)
+
+### Community 1231 - "ai/skills/media-use/scripts/lib/cutlist.mjs"
+Cohesion: 0.25
+Nodes (16): bareToken(), clampRanges(), cleanRange(), compileCutList(), durationFrom(), fillerRanges(), finalizeKept(), hasRemovalSource() (+8 more)
+
+### Community 1232 - "GSAP Tweens"
+Cohesion: 0.12
+Nodes (16): Adding a keyframed tween, Adding a tween, Clip Timing, Elastic holds, Gating an op with `can()`, GSAP Tweens, GsapTweenSpec fields, Keyframes (+8 more)
+
+### Community 1233 - "Media treatment recipes"
+Cohesion: 0.06
+Nodes (33): 8mm Home Movie, Base payload, Base payload, Bounded tuning, Bounded tuning, Cached Error Diffusion, Creator Camcorder, Crosshatched Sketch (+25 more)
+
+### Community 1234 - "Anti-Patterns"
+Cohesion: 0.06
+Nodes (33): Animation, Anti-Patterns, Blending, Grouping, Layout, Matting, Scene admission, The meta anti-pattern (+25 more)
+
+### Community 1235 - "bindings.ts"
+Cohesion: 0.29
+Nodes (15): appendBinding(), appendLine(), bindingsPath(), findBindingByFigmaId(), isBindingRecord(), isLibraryRecord(), isRecord(), LibraryRecord (+7 more)
+
+### Community 1236 - "dependencies"
+Cohesion: 0.25
+Nodes (8): dependencies, clsx, lucide-react, next, react, react-dom, tailwind-merge, zustand
+
+### Community 1237 - "HyperFrames Schema"
+Cohesion: 0.07
+Nodes (29): All Clips, Audio Clips, Basic Sequential Clips, Clip Types, Composition Clips, Compositions, Correct: Dynamic content wrapped in compositions, Framework-Managed Behavior (+21 more)
+
+### Community 1238 - "perf-ratchet.mjs"
+Cohesion: 0.14
+Nodes (26): acceptedRaises(), assertBaseShape(), browserMajor(), ceilingRow(), checkCeilings(), COMMANDS, correlate(), formatRow() (+18 more)
+
+### Community 1239 - "Ii"
+Cohesion: 0.19
+Nodes (27): pT(), pT(), pT(), pT(), pT(), Ii(), Ix(), pT() (+19 more)
+
+### Community 1240 - "Cut catalog — within-frame seams (worker-built)"
+Cohesion: 0.10
+Nodes (20): 1. Zoom-Through (forward), 2. Inverse Zoom-Through (backward), 3. Cut the Curve (Scene Transitions), 4. Waterfall Cut (word-by-word cut-the-curve), Anti-Patterns, Blur Logic (applies to all Z-axis variants), Choosing a Variant, Cut catalog — within-frame seams (worker-built) (+12 more)
+
+### Community 1241 - "Failure Modes — learned the hard way"
+Cohesion: 0.07
+Nodes (29): Animation, Aspect distortion / sharp channel-stride make the alpha garbage, Blending, Bright backgrounds wash out screen blend, Centered crown eaten by body, CoreML execution provider corrupts face alpha, Crown / centered text, Crown font too small for frame → half-swallowed (+21 more)
+
+### Community 1242 - "devDependencies"
+Cohesion: 0.25
+Nodes (8): devDependencies, autoprefixer, postcss, tailwindcss, @types/node, @types/react, @types/react-dom, typescript
+
+### Community 1243 - "ew"
+Cohesion: 0.14
+Nodes (17): aW(), b0(), cC(), computeBounds(), eU(), ew(), Fr(), IE() (+9 more)
+
+### Community 1244 - "Tween"
+Cohesion: 0.18
+Nodes (21): _a(), Ao(), _assertThisInitialized(), cb(), cc(), ga(), gb(), hb() (+13 more)
+
+### Community 1245 - "ew"
+Cohesion: 0.14
+Nodes (17): aW(), b0(), cC(), computeBounds(), eU(), ew(), Fr(), IE() (+9 more)
+
+### Community 1246 - "Cut catalog — within-frame seams (worker-built)"
+Cohesion: 0.10
+Nodes (20): 1. Zoom-Through (forward), 2. Inverse Zoom-Through (backward), 3. Cut the Curve (Scene Transitions), 4. Waterfall Cut (word-by-word cut-the-curve), Anti-Patterns, Blur Logic (applies to all Z-axis variants), Choosing a Variant, Cut catalog — within-frame seams (worker-built) (+12 more)
+
+### Community 1247 - "plan-parity-harness.ts"
+Cohesion: 0.13
+Nodes (22): classifyPlanTooLargeProbeFailure(), collectArgs(), errorCode(), errorMessage(), errorNumber(), isLambdaLocalDriverModule(), isRecord(), LambdaLocalDriverModule (+14 more)
+
+### Community 1248 - "effects"
+Cohesion: 0.04
+Nodes (41): Paste it into your composition, Related topics, Variables, Paste it into your composition, Related topics, Variables, Paste it into your composition, Related topics (+33 more)
+
+### Community 1249 - "HyperFrame Schema Compliance Review"
+Cohesion: 0.20
+Nodes (9): Compliance Checklist, compositions/captions.html, compositions/graphics.html, Critical Issues, Executive Summary, File Reviews, HyperFrame Schema Compliance Review, index.html (+1 more)
+
+### Community 1250 - "producer/package.json"
+Cohesion: 0.07
+Nodes (27): description, engines, node, files, esbuild, hono, @hono/node-server, @hyperframes/aws-lambda (+19 more)
+
+### Community 1251 - "adopt.mjs"
+Cohesion: 0.24
+Nodes (14): adoptExistingAssets(), AUDIO_EXT, findExistingAsset(), IMAGE_EXT, inferType(), scanExistingAssets(), cleanup(), drop() (+6 more)
+
+### Community 1252 - "write"
+Cohesion: 0.08
+Nodes (28): By(), cw(), dispatchThreads(), dispatchWorkgroups(), dS(), Fa(), fork(), Gy() (+20 more)
+
+### Community 1253 - "ew"
+Cohesion: 0.14
+Nodes (17): aW(), b0(), cC(), computeBounds(), eU(), ew(), Fr(), IE() (+9 more)
+
+### Community 1254 - "unwrap"
+Cohesion: 0.05
+Nodes (55): appendToTrace(), areEqual(), beginRenderPass(), Bf(), $c(), CU(), cz(), D4() (+47 more)
+
+### Community 1255 - "ew"
+Cohesion: 0.14
+Nodes (17): aW(), b0(), cC(), computeBounds(), eU(), ew(), Fr(), IE() (+9 more)
+
+### Community 1256 - "Embedded Captions"
+Cohesion: 0.12
+Nodes (16): Aesthetic decision — tone × shot × platform (input to the catalog shortlist, NOT a second router), Caption model — rail + embed, Composition craft (embed track) — read before embedding, Decision gate — RUN FIRST, Embedded Captions, Non-negotiables, Operational flow (TL;DR), Pipeline — 5 steps (+8 more)
+
+### Community 1257 - "Rt"
+Cohesion: 0.05
+Nodes (76): Ak(), array(), as(), atomic(), Bi(), bk(), cb(), cG() (+68 more)
+
+### Community 1258 - "ai/skills/faceless-explainer/scripts/lib/frame-packets-core.mjs"
+Cohesion: 0.24
+Nodes (14): blueprintId(), buildFramePackets(), buildRolePayload(), citedRules(), escapeRegExp(), field(), flag(), frameId() (+6 more)
+
+### Community 1259 - "Tween"
+Cohesion: 0.18
+Nodes (21): _a(), Ao(), _assertThisInitialized(), cb(), cc(), ga(), gb(), hb() (+13 more)
+
+### Community 1260 - "cn"
+Cohesion: 0.18
+Nodes (20): 2(), AB(), aC(), an(), cn(), EB(), eC(), Hs() (+12 more)
+
+### Community 1261 - "Workflow"
+Cohesion: 0.07
+Nodes (26): 10. Render to MP4, 11. Report Results, 1. Check Environment, 2. Create a Work Directory, 3. Extract Audio and Metadata, 4. Transcribe, 5. Correct Transcript, 6. Draft a Lightweight Storyboard (in chat) (+18 more)
+
+### Community 1262 - "ai/skills/remotion-to-hyperframes/assets/test-corpus/tier-3-data-driven/remotion-src/src/Stargazed.tsx"
+Cohesion: 0.18
+Nodes (12): Props, UnderlinedText(), defaultProps, RemotionRoot(), OutroScene(), Props, StatsScene(), Props (+4 more)
+
+### Community 1263 - "dockTabFill.ts"
+Cohesion: 0.36
+Nodes (9): fillOf(), installTabFill(), observe(), placeAll(), markClippedEdges(), measureFill(), reshaped(), revealedScroll() (+1 more)
+
+### Community 1264 - "ai/skills/general-video/scripts/lib/frame-packets-core.mjs"
+Cohesion: 0.24
+Nodes (14): blueprintId(), buildFramePackets(), buildRolePayload(), citedRules(), escapeRegExp(), field(), flag(), frameId() (+6 more)
+
+### Community 1265 - "motionBlurShutter.browser.test.ts"
+Cohesion: 0.11
+Nodes (18): attach(), Attached, declare(), Declared, Fake, installComputedStyle(), installSnippet(), joinWrappedLines() (+10 more)
+
+### Community 1266 - "Transforms and Performance"
+Cohesion: 0.12
+Nodes (15): Animate transforms, not layout properties, autoAlpha, Cleanup, clearProps, Contents, CSS Variables, Fixing a flagged animation — preserve the intent, gsap.quickTo for frequent updates (preview-only) (+7 more)
+
+### Community 1267 - "HyperFrames Animation"
+Cohesion: 0.12
+Nodes (16): Adapters, Blueprints, Contents, Critical Constraints, Default: compose atomic rules, Guides, HyperFrames Animation, Load a blueprint when (+8 more)
+
+### Community 1268 - "write"
+Cohesion: 0.05
+Nodes (65): 0(), 2(), 3(), AB(), aC(), an(), aT(), b() (+57 more)
+
+### Community 1269 - "Media translation: Audio, Video, Img, IFrame, staticFile"
+Cohesion: 0.20
+Nodes (10): Asset paths, `<Audio>`, `delayRender()` / `continueRender()`, `<IFrame>`, `<Img>`, Media translation: Audio, Video, Img, IFrame, staticFile, Trim / playbackRate, `<Video>` and `<OffthreadVideo>` (+2 more)
+
+### Community 1270 - "write"
+Cohesion: 0.08
+Nodes (28): By(), cw(), dispatchThreads(), dispatchWorkgroups(), dS(), Fa(), fork(), Gy() (+20 more)
+
+### Community 1271 - "Tween"
+Cohesion: 0.18
+Nodes (21): _a(), Ao(), _assertThisInitialized(), cb(), cc(), ga(), gb(), hb() (+13 more)
+
+### Community 1272 - "Typewriter"
+Cohesion: 0.12
+Nodes (15): Appending Words, Audio Visualizer, Backspacing, Basic, Blinking Cursor, Design Guide, Driving the Timeline, Extract Audio Data (+7 more)
+
+### Community 1273 - "k4"
+Cohesion: 0.57
+Nodes (7): advanceBy(), consume(), isAt(), isFinished(), k4(), m4(), parseUntil()
+
+### Community 1274 - "Caption Template — Anatomy (the shared engine)"
+Cohesion: 0.22
+Nodes (8): 1 · Asset prep (two CLI calls), 2 · The matte sandwich (HTML), 3 · Base CSS (layout · z-order · sizing), 4 · One paused GSAP timeline (the loop, made seek-safe), 5 · How to choose values, Caption Template — Anatomy (the shared engine), Critical constraints (HyperFrames), Pairs with HF skills
+
+### Community 1275 - ".render"
+Cohesion: 0.03
+Nodes (57): browser, Configure FFmpeg without a package manager, doctor, doctor, browser, capture, init, init, capture, skills, skills (+49 more)
+
+### Community 1276 - "k4"
+Cohesion: 0.57
+Nodes (7): advanceBy(), consume(), isAt(), isFinished(), k4(), m4(), parseUntil()
+
+### Community 1277 - "Multi-Phase Camera"
+Cohesion: 0.22
+Nodes (9): Contents, Critical Constraints, How It Works, Multi-Phase Camera, Phase Patterns, Recipe, See also, Values (+1 more)
+
+### Community 1278 - "dashboard/package.json"
+Cohesion: 0.12
+Nodes (16): autoprefixer, clsx, tailwind-merge, @types/node, @types/react, @types/react-dom, react, react-dom (+8 more)
+
+### Community 1279 - "HyperFrames Design System & Style Guide"
+Cohesion: 0.10
+Nodes (20): Accent Colors (Dark), Accent Colors (Light), Animation Guidelines, Badges, Border Radius, Brand Assets, Buttons, Cards (+12 more)
+
+### Community 1280 - "useStudioAgentTools.polyfill.test.tsx"
+Cohesion: 0.05
+Nodes (36): Paste it into your composition, Related topics, Variables, Paste it into your composition, Related topics, Variables, Paste it into your composition, Related topics (+28 more)
+
+### Community 1281 - "argparse"
+Cohesion: 0.01
+Nodes (163): cluster_samples_by_batch_size(), cluster_samples_by_duration(), estimate_sample_total_duration(), _get_audio_duration(), get_parser(), main(), process_init(), run_inference_batch() (+155 more)
+
+### Community 1282 - "hyperframes/skills/media-use/scripts/dither.mjs"
+Cohesion: 0.20
+Nodes (19): frameRateNumber(), IMAGE_EXTENSIONS, OUTPUT_IMAGE_EXTENSIONS, probe(), processImage(), processVideo(), run(), temporaryOutput() (+11 more)
+
+### Community 1283 - "media-use/lib/recipe-store.mjs"
+Cohesion: 0.16
+Nodes (24): formatDims(), formatDur(), generateIndexContent(), pad(), regenerateIndex(), BRIEF_CONTENT_KEYS, briefWorkflow(), FRAME_CONTENT_KEYS (+16 more)
+
+### Community 1284 - "hyperframes/skills/product-launch-video/scripts/transitions.mjs"
+Cohesion: 0.20
+Nodes (19): padFrameInternalDuration(), parseStoryboard(), DEFAULT_REGISTRY_PATH, here, loadTransitionRegistry(), transitionsByName(), buildGsap(), extendFrameTail() (+11 more)
+
+### Community 1285 - "yf"
+Cohesion: 0.18
+Nodes (20): Bf(), Ff(), getParameter(), Gf(), Ha(), jf(), kf(), _m() (+12 more)
+
+### Community 1286 - "sdk-playground/package.json"
+Cohesion: 0.08
+Nodes (25): dependencies, gsap, @hyperframes/core, @hyperframes/sdk, devDependencies, @types/node, typescript, vite (+17 more)
+
+### Community 1287 - "dependencies"
+Cohesion: 0.08
+Nodes (26): dependencies, @base-ui/react, cn, @codemirror/autocomplete, @codemirror/commands, @codemirror/lang-css, @codemirror/lang-html, @codemirror/lang-javascript (+18 more)
+
+### Community 1288 - "Re"
+Cohesion: 0.08
+Nodes (42): asString(), bw(), completeStruct(), createComputePipeline(), createGuardedComputePipeline(), createRenderPipeline(), $d(), D4() (+34 more)
+
+### Community 1289 - "cn"
+Cohesion: 0.18
+Nodes (20): 2(), AB(), aC(), an(), cn(), eC(), Hs(), iC() (+12 more)
+
+### Community 1290 - "useStudioAgentTools.ts"
+Cohesion: 0.10
+Nodes (43): runToolBody(), toolOk(), animationBelongsToTarget(), AnimationToolDeps, GsapMethod, isRawGsapExpression(), METHODS, preDispatchFailure() (+35 more)
+
+### Community 1291 - "r"
+Cohesion: 0.06
+Nodes (57): 2(), AB(), aC(), an(), aT(), az(), By(), cG() (+49 more)
+
+### Community 1292 - "red"
+Cohesion: 0.12
+Nodes (13): Paste it into your composition, Related topics, Variables, Paste it into your composition, Related topics, Variables, Paste it into your composition, Related topics (+5 more)
+
+### Community 1293 - "hyperframes/skills/remotion-to-hyperframes/assets/test-corpus/tier-3-data-driven/remotion-src/src/Stargazed.tsx"
+Cohesion: 0.12
+Nodes (17): AnimatedNumber(), Props, Props, StatCard(), Props, UnderlinedText(), defaultProps, RemotionRoot() (+9 more)
+
+### Community 1294 - "k4"
+Cohesion: 0.57
+Nodes (7): advanceBy(), consume(), isAt(), isFinished(), k4(), m4(), parseUntil()
+
+### Community 1295 - "registry.mjs"
+Cohesion: 0.14
+Nodes (15): brandProvider, iconProvider, imageProvider, buildProviderTierIndex(), getProvider(), getProviders(), listFor(), listTypes() (+7 more)
+
+### Community 1296 - "Capsule — Frame (video / frame layer)"
+Cohesion: 0.08
+Nodes (24): 1 · Cover (identity · move: title pill + display · centered), 2 · Pillar Cards (catalog · move: 3-up grid · left — the dense frame), 3 · Stat Grid (data · move: stat pills · centered head), 4 · Pull Quote (quote · move: highlight pill · left), 5 · Orbit (concept · move: gravitational pills · centered), 6 · Closing Plate (closer · move: title pill + display · centered), Approved Entities, Aspect-Ratio Behavior (+16 more)
+
+### Community 1297 - "Creative Mode — Frame (video / frame layer)"
+Cohesion: 0.08
+Nodes (24): 1 · Wordmark Cover (identity · move: full-frame lockup · centered), 2 · Big Claim (oversized statement · move: scale · left), 3 · Stat Grid (catalog · move: density — the one dense frame · centered), 4 · Closing Plate (closer · move: ground-swap · centered), 5 · Featured Marker (callout · move: hard-shadow focal · left/asymmetric), 6 · Comparison Ledger (data · move: matrix · left), Approved Entities, Aspect-Ratio Behavior (+16 more)
+
+### Community 1298 - "write"
+Cohesion: 0.07
+Nodes (51): 0(), 2(), 3(), AB(), aC(), an(), b(), c8() (+43 more)
+
+### Community 1299 - ".agent/skills/hyperframes-audio/scripts/carve.mjs"
+Cohesion: 0.20
+Nodes (17): attrOf(), carveSources(), decode(), DEFAULT_STRENGTH, detectTracks(), escapeAttr(), fail(), groupSourceRefusal() (+9 more)
+
+### Community 1300 - "Caption Grouping"
+Cohesion: 0.22
+Nodes (9): Break boundaries, Caption Grouping, Editorial surgery is allowed, Example (champion), Goal, Input, Style & tone (cross-reference), Timing the group (+1 more)
+
+### Community 1301 - "Card Morph Anchor"
+Cohesion: 0.22
+Nodes (9): Card Morph Anchor, Contents, Critical Constraints, How It Works, Morph channels, Recipe, See also, Values (+1 more)
+
+### Community 1302 - "HyperFrames Animation"
+Cohesion: 0.12
+Nodes (16): Adapters, Blueprints, Contents, Critical Constraints, Default: compose atomic rules, Guides, HyperFrames Animation, Load a blueprint when (+8 more)
+
+### Community 1303 - "plan-parity-analysis.ts"
+Cohesion: 0.24
+Nodes (15): analyzePlanParityDriverResult(), canonicalFrameHashes(), canonicalPcmAudio(), hashFile(), hashPath(), integerValue(), isRecord(), JsonRecord (+7 more)
+
+### Community 1304 - "Media operations: agent guidance"
+Cohesion: 0.12
+Nodes (15): Cut / trim: keep a slice, Ducking (declare in-composition / bake for export), Exact error-diffusion dither, Generate: images (local first, cloud upsell), Generate: video (`resolve --type video`, HeyGen avatar first), HEVC / H.265 sources, Image-to-video (animate any still into a talking clip), Media operations: agent guidance (+7 more)
+
+### Community 1305 - "ai/skills/music-to-video/scripts/validate-plan.mjs"
+Cohesion: 0.12
+Nodes (12): argv, audiomapPath, blocks, errors, framesWithGroups, hyperframesDir, manifest, raw (+4 more)
+
+### Community 1306 - "ai/skills/product-launch-video/scripts/lib/frame-packets-core.mjs"
+Cohesion: 0.24
+Nodes (14): blueprintId(), buildFramePackets(), buildRolePayload(), citedRules(), escapeRegExp(), field(), flag(), frameId() (+6 more)
+
+### Community 1307 - "ai/skills/remotion-to-hyperframes/assets/test-corpus/tier-3-data-driven/remotion-src/src/scenes/StatsScene.tsx"
+Cohesion: 0.17
+Nodes (12): Composition shape, How to render and evaluate, The lossy parts (and why threshold = 0.90), Tier 3 — stargazed-data-driven, Translation walk-through (skill cheat sheet), What it tests, AnimatedNumber(), Props (+4 more)
+
+### Community 1308 - "ai/skills/remotion-to-hyperframes/assets/test-corpus/tier-3-data-driven/remotion-src/package.json"
+Cohesion: 0.12
+Nodes (15): dependencies, react, react-dom, remotion, @remotion/cli, zod, react, react-dom (+7 more)
+
+### Community 1309 - "reference/audio-effects.mdx"
+Cohesion: 0.12
+Nodes (15): `data-audio-group`, `data-fx-carve`, `data-fx-chain`, Groups, mute, and solo, Jobs, One-knob profiles, Presets, Presets, jobs, and one-knob profiles (+7 more)
+
+### Community 1310 - "Contributing to Hyperframes"
+Cohesion: 0.09
+Nodes (24): Adding Registry Items (Blocks & Components), AI-Assisted Contributions, Checklist for new items, Choosing work, Code of Conduct, Contributing to Hyperframes, Directory structure, Generated catalog files (+16 more)
+
+### Community 1311 - "guides/troubleshooting.mdx"
+Cohesion: 0.08
+Nodes (24): A timed element is always visible, A video freezes while its box animates, Animation and composition mistakes, Animation is static, Changing root duration from a variable does nothing, Docker render will not start, Every render takes about 45 seconds longer than expected, Expected HDR but received SDR (+16 more)
+
+### Community 1312 - "media-use/lib/openverse.mjs"
+Cohesion: 0.22
+Nodes (13): httpsUrl(), oneLine(), OPENVERSE_SFX_LICENSES, OpenverseUnavailableError, penalty(), pickOpenverseSfx(), PLAYABLE_FILETYPES, searchOpenverseSfx() (+5 more)
+
+### Community 1313 - "(GOBI SOCIAL OFFICIAL POST-PRODUCTION & VIDEO EDITING STANDARD)"
+Cohesion: 0.17
+Nodes (12): 🗺️ 1. TỔNG QUAN KIẾN TRÚC PHÂN TẦNG (ARCHITECTURE ALIGNMENT), 📐 2. TIÊU CHUẨN TIKTOK SAFE ZONE 9:16 (1080x1920), 🏗️ 3. CẤU TRÚC MÃ NGUỒN HTML5 TẤT ĐỊNH (COMPOSITION CONTRACT), 💻 4. HƯỚNG DẪN LẬP TRÌNH VỚI PYTHON SDK, 5.1. Chạy render video qua Unified CLI, 5.2. Mở Live Preview Studio để duyệt trực quan trên màn hình, 5.3. Render thủ công một thư mục composition, ⚡ 5. HƯỚNG DẪN DÒNG LỆNH (CLI REFERENCE) (+4 more)
+
+### Community 1314 - "contrast-audit.browser.js"
+Cohesion: 0.16
+Nodes (19): axisAligned(), blends(), boxPaints(), canvasColor(), contains(), hasClipPath(), hasContainerPaint(), hasOwnText() (+11 more)
+
+### Community 1315 - "Dynamic Content Sequencing"
+Cohesion: 0.22
+Nodes (9): Accelerating cadence (geometric hold decay), Contents, Critical Constraints, Dynamic Content Sequencing, How It Works, Recipe, See also, Values (+1 more)
+
+### Community 1316 - "compilerOptions"
+Cohesion: 0.08
+Nodes (24): compilerOptions, allowJs, declaration, esModuleInterop, forceConsistentCasingInFileNames, ignoreDeprecations, incremental, isolatedModules (+16 more)
+
+### Community 1317 - "constructor"
+Cohesion: 0.07
+Nodes (37): ax(), az(), b6(), cG(), constructor(), createBindGroup(), createBuffer(), createMutable() (+29 more)
+
+### Community 1318 - "write"
+Cohesion: 0.06
+Nodes (50): 0(), 2(), 3(), AB(), aC(), an(), b(), c8() (+42 more)
+
+### Community 1319 - "constructor"
+Cohesion: 0.10
+Nodes (21): compileWriter(), constructor(), createMutable(), createSampler(), Fk(), GU(), H5(), j5() (+13 more)
+
+### Community 1320 - "cn"
+Cohesion: 0.18
+Nodes (20): 2(), AB(), aC(), an(), cn(), EB(), eC(), Hs() (+12 more)
+
+### Community 1322 - "Audio-Reactive Animation"
+Cohesion: 0.22
+Nodes (8): Audio Data Format, Audio-Reactive Animation, Constraints, Content, Not Medium, Guidelines, Mapping Audio to Visuals, Sampling Pattern, textShadow Gotcha
+
+### Community 1323 - "ke"
+Cohesion: 0.07
+Nodes (35): bind(), bm(), conjugate(), n(), re(), Ue(), getValue(), _getValue_unbound() (+27 more)
+
+### Community 1324 - "Cartesian — Frame (video / frame layer)"
+Cohesion: 0.08
+Nodes (24): 1 · Cover (identity · move: serif + compass ring · left), 2 · Agenda / Index (index · move: hairline list · left), 3 · Pull Quote (quote · move: centered statement · compass ring), 4 · Closing Plate (closer · move: centered ring · centered), 5 · Two-Column Editorial (content · move: asymmetric split · left), 6 · Stats / Timeline (data · move: hairline rail · left), Approved Entities, Aspect-Ratio Behavior (+16 more)
+
+### Community 1325 - "Rt"
+Cohesion: 0.05
+Nodes (75): Ak(), as(), asString(), aT(), bk(), bw(), cG(), completeStruct() (+67 more)
+
+### Community 1326 - "k4"
+Cohesion: 0.57
+Nodes (7): advanceBy(), consume(), isAt(), isFinished(), k4(), m4(), parseUntil()
+
+### Community 1327 - "hyperframes/skills/hyperframes-creative/references/design-spec.md"
+Cohesion: 0.05
+Nodes (34): Approved Entities, Aspect-Ratio Behavior, Blue Professional — Frame (video / frame layer), Colors, Components, Composition Rules, Depth & Surface, Do (+26 more)
+
+### Community 1328 - "Rt"
+Cohesion: 0.05
+Nodes (76): Ak(), array(), as(), atomic(), Bi(), bk(), cb(), cG() (+68 more)
+
+### Community 1329 - "Code editorial — Frame (video / frame layer)"
+Cohesion: 0.08
+Nodes (24): 1 · Cover (identity · move: oversized EB Garamond · cream), 2 · Statement (statement · move: single EB Garamond line · cream or navy), 3 · Code Surface (code · move: warm-navy code window · the PR-critical frame), 4 · Number / Impact (data · move: oversized figure · cream), 5 · Pull-quote (quote · move: EB Garamond italic · cream), 6 · Closing / CTA (closer · move: coral voltage · cream or navy), Approved Real Entities, Aspect-Ratio Behavior (+16 more)
+
+### Community 1330 - "Editorial Forest — Frame (video / frame layer)"
+Cohesion: 0.08
+Nodes (24): 1 · Cover (identity · move: oversized serif · green · left), 2 · Topic Tiles (catalog · move: rotating-fill grid · cream · the dense frame), 3 · KPI Stat (data · move: oversized figure · green), 4 · Statement (quote · move: display serif · cream · left), 5 · Step Framework (process · move: 8px step tiles · cream/green), 6 · Chart (data · move: bars + meta · green), Approved Real Entities, Aspect-Ratio Behavior (+16 more)
+
+### Community 1331 - "resolveBindings.ts"
+Cohesion: 0.25
+Nodes (12): FigmaNodeDocument, asNodeDocument(), childDocuments(), isRecord(), aliasId(), boundVariableSites(), collectSites(), findInIndex() (+4 more)
+
+### Community 1332 - "timelineAssetId.ts"
+Cohesion: 0.26
+Nodes (14): attributeReferencesId(), buildTimelineAssetId(), canRenameMedia(), decodeFragment(), decodeIdEscape(), documentElements(), elementReferencesId(), matchesGeneratedId() (+6 more)
+
+### Community 1333 - "ew"
+Cohesion: 0.15
+Nodes (16): aW(), b0(), cC(), computeBounds(), eU(), ew(), Fr(), IE() (+8 more)
+
+### Community 1334 - "devDependencies"
+Cohesion: 0.08
+Nodes (24): devDependencies, ajv, @clack/prompts, @google/genai, @hyperframes/aws-lambda, @hyperframes/core, @hyperframes/engine, @hyperframes/gcp-cloud-run (+16 more)
+
+### Community 1335 - "motion-signature.browser.test.ts"
+Cohesion: 0.09
+Nodes (16): BASE_PSEUDO_STYLE, BASE_STYLE, COUNTDOWN, COUNTER_CONSUMER, __dirname, Fixture, installFixture(), keyFor() (+8 more)
+
+### Community 1336 - "CLIMAX entrances"
+Cohesion: 0.10
+Nodes (19): atelier (design-forward), Caption Template — Motion Language, CLIMAX entrances, CLIMAX exits, creator, cyber, epic, FLOW entrances / exits (per word `.w`) (+11 more)
+
+### Community 1337 - "check-dockerfile-workspaces.mjs"
+Cohesion: 0.15
+Nodes (21): addRuntimeWorkspace(), buildEntries(), buildIssues(), checkDockerfileWorkspaces(), copiedWorkspaceDirectories(), entryBuildIssues(), findRuntimeWorkspaceDirectories(), fullBuildPositions() (+13 more)
+
+### Community 1338 - "scaffold-example-manifests.ts"
+Cohesion: 0.15
+Nodes (20): buildItem(), CanvasMeta, collectFiles(), durationSeconds(), examplesDir, extractAttr(), fileTypeFor(), LegacyManifest (+12 more)
+
+### Community 1339 - "exports"
+Cohesion: 0.11
+Nodes (24): exports, ./components.css, ./package.json, ./player, ./styles.css, ./tailwind-preset, ./theme.css, ./ui (+16 more)
+
+### Community 1340 - "Media operations: agent guidance"
+Cohesion: 0.12
+Nodes (15): Cut / trim: keep a slice, Ducking (declare in-composition / bake for export), Exact error-diffusion dither, Generate: images (local first, cloud upsell), Generate: video (`resolve --type video`, HeyGen avatar first), HEVC / H.265 sources, Image-to-video (animate any still into a talking clip), Media operations: agent guidance (+7 more)
+
+### Community 1341 - "check-pr-captures.mjs"
+Cohesion: 0.13
+Nodes (23): blankFences(), cappedCollector(), CAPTURE_TITLES, closesFence(), drainBody(), isCapture(), isWatched(), nextFence() (+15 more)
+
+### Community 1342 - "Broadside — Frame (video / frame layer)"
+Cohesion: 0.08
+Nodes (24): 1 · Cover (identity · move: massive type · ORANGE register · left), 2 · Statement (declarative · move: type IS composition · DARK register · left), 3 · Stat Grid (data · move: top-border cards · DARK · the dense frame), 4 · Fadelist (narrative · move: opacity stack · DARK), 5 · Pull Quote (quote · move: oversized mark · DARK · left), 6 · Compare (argument · move: split + orange payoff · DARK→ORANGE), Approved Entities, Aspect-Ratio Behavior (+16 more)
+
+### Community 1343 - "Capsule — Frame (video / frame layer)"
+Cohesion: 0.08
+Nodes (24): 1 · Cover (identity · move: title pill + display · centered), 2 · Pillar Cards (catalog · move: 3-up grid · left — the dense frame), 3 · Stat Grid (data · move: stat pills · centered head), 4 · Pull Quote (quote · move: highlight pill · left), 5 · Orbit (concept · move: gravitational pills · centered), 6 · Closing Plate (closer · move: title pill + display · centered), Approved Entities, Aspect-Ratio Behavior (+16 more)
+
+### Community 1344 - "Cobalt Grid — Frame (video / frame layer)"
+Cohesion: 0.08
+Nodes (24): 1 · Hero Cover (identity · move: serif + glitch · left), 2 · Index Ledger (catalog · move: dense matrix · left — the dense frame), 3 · Chapter Opener (section · move: scale · sparse · left), 4 · Data Frame (chart · move: pixel-stack · left), 5 · Manifesto / Quote (quote · move: centered statement · sparse), 6 · Colophon (closer · move: right-aligned close · sparse), Approved Entities, Aspect-Ratio Behavior (+16 more)
+
+### Community 1345 - "Code editorial — Frame (video / frame layer)"
+Cohesion: 0.08
+Nodes (24): 1 · Cover (identity · move: oversized EB Garamond · cream), 2 · Statement (statement · move: single EB Garamond line · cream or navy), 3 · Code Surface (code · move: warm-navy code window · the PR-critical frame), 4 · Number / Impact (data · move: oversized figure · cream), 5 · Pull-quote (quote · move: EB Garamond italic · cream), 6 · Closing / CTA (closer · move: coral voltage · cream or navy), Approved Real Entities, Aspect-Ratio Behavior (+16 more)
+
+### Community 1346 - "⚙️ 3. CÁC ĐỘNG CƠ CỐT LÕI & CÁCH CHẠY (CORE ENGINES)"
+Cohesion: 0.13
+Nodes (15): 📌 1. BỨC TRANH TOÀN CẢNH DỰ ÁN (PROJECT OVERVIEW), 🗺️ 2. BẢN ĐỒ TRI THỨC & NƠI LƯU TRỮ DỮ LIỆU, 3.1. Động cơ Tự học & Tiến hóa (`src/gobi/services/intelligence/continuous_learning_engine.py`), 3.2. Trình sinh Kịch bản & Prompt 36 Góc (`src/gobi/services/prompt/koc_prompt_generator.py`), 3.3. Bộ Quét Vi phạm Chính sách & Vùng An toàn (`src/gobi/domain/policy_compliance_checker.py`), 3.4. Bộ Dựng Video Ken Burns & Phụ đề Safe Zone (`src/gobi/services/media/render_gobi_boutique_v1.py`), 3.5. Pipeline Nhân bản Giọng nói Thật (`src/gobi/services/voice/koc_voice_cloner.py`), 3.6. Giám sát Tự động hóa Trực quan (`live_viewer.html`) (+7 more)
+
+### Community 1347 - "Layout Heuristics"
+Cohesion: 0.09
+Nodes (23): 1. Hard constraints first — baked graphics, 2. Subject body bias — pick the bigger clean zone, 3. Gaze direction — the "looking room" rule (tiebreaker and aesthetic), 4. Narrative emphasis (for optional crown), champion (1920×1080, bookshelf backdrop), Conditions where a centered crown works, Decision summary, If scene has a cluttered but dark backdrop (bookshelf, plants, set dressing) (+15 more)
+
+### Community 1348 - "Motion-Graphics Builder"
+Cohesion: 0.04
+Nodes (47): Avoid Web Patterns, Data in Motion, Numbers Need Visual Weight, Visual Continuity, Asymmetry, Choreography is hierarchy, Contents, Easing is emotion, not technique (+39 more)
+
+### Community 1349 - ".agent/skills/faceless-explainer/scripts/lib/storyboard.mjs"
+Cohesion: 0.15
+Nodes (22): applyDuration(), applyMeta(), applyPoster(), applyStatus(), assignGlobal(), buildFrame(), DEFAULT_FRAME_STATUS, emptyGlobals() (+14 more)
+
+### Community 1350 - ".agent/skills/pr-to-video/scripts/lib/storyboard.mjs"
+Cohesion: 0.15
+Nodes (22): applyDuration(), applyMeta(), applyPoster(), applyStatus(), assignGlobal(), buildFrame(), DEFAULT_FRAME_STATUS, emptyGlobals() (+14 more)
+
+### Community 1351 - "Direction specs"
+Cohesion: 0.13
+Nodes (14): 10. conference-lower-third-killer _(B2B but not lame)_, 1. documentary-dignified _(Errol Morris / PBS Frontline)_ — Standard-mode direction (no prebuilt Cinematic template), 2. cinematic-noir _(Kyle Cooper / Se7en)_, 3. tech-keynote-confident _(Apple / Jony Ive ad)_, 4. lyrical-poem-on-wall _(extends current memory-wall template)_, 5. high-energy-vlog _(controlled Hormozi)_, 6. chapter-card _(Wes Anderson / Grand Budapest)_, 7. investigative-typewriter _(Frontline / 60 Minutes / Morris Interrotron)_ (+6 more)
+
+### Community 1352 - ".agent/skills/media-use/scripts/audio-duck.mjs"
+Cohesion: 0.30
+Nodes (12): escapeRegExp(), readTargetAttrs(), run(), { values: args }, duckKeyframes(), duckLane(), finiteOr(), mergeIntervals() (+4 more)
+
+### Community 1353 - "aws-lambda/package.json"
+Cohesion: 0.02
+Nodes (127): Architecture, Cost shape, Current limits, IAM permissions, `Lambda function failed: BROWSER_GPU_NOT_SOFTWARE`, `Lambda function failed: PLAN_HASH_MISMATCH`, Path 2 — Direct SAM deploy, Path 3 — CDK construct (+119 more)
+
+### Community 1354 - "compilerOptions"
+Cohesion: 0.11
+Nodes (17): compilerOptions, allowJs, esModuleInterop, incremental, isolatedModules, jsx, lib, module (+9 more)
+
+### Community 1355 - "ai/skills/embedded-captions/scripts/safe-zones.cjs"
+Cohesion: 0.22
+Nodes (14): analyze(), fs, HF_ROOTS, hsv2hex(), largestRect(), main(), os, path (+6 more)
+
+### Community 1356 - "Layout Heuristics"
+Cohesion: 0.09
+Nodes (23): 1. Hard constraints first — baked graphics, 2. Subject body bias — pick the bigger clean zone, 3. Gaze direction — the "looking room" rule (tiebreaker and aesthetic), 4. Narrative emphasis (for optional crown), champion (1920×1080, bookshelf backdrop), Conditions where a centered crown works, Decision summary, If scene has a cluttered but dark backdrop (bookshelf, plants, set dressing) (+15 more)
+
+### Community 1357 - ".agent/skills/media-use/scripts/lib/prefs-store.mjs"
+Cohesion: 0.20
+Nodes (18): globalMediaDir(), mediaHome(), dedupe(), emptyFile(), isRecord(), mergedPreferences(), PREFERENCE_KEYS, preferenceKeyFor() (+10 more)
+
+### Community 1358 - "hyperframes/skills/faceless-explainer/scripts/lib/storyboard.mjs"
+Cohesion: 0.15
+Nodes (22): applyDuration(), applyMeta(), applyPoster(), applyStatus(), assignGlobal(), buildFrame(), DEFAULT_FRAME_STATUS, emptyGlobals() (+14 more)
+
+### Community 1359 - "hyperframes/skills/pr-to-video/scripts/lib/storyboard.mjs"
+Cohesion: 0.15
+Nodes (22): applyDuration(), applyMeta(), applyPoster(), applyStatus(), assignGlobal(), buildFrame(), DEFAULT_FRAME_STATUS, emptyGlobals() (+14 more)
+
+### Community 1360 - "The 18 rules"
+Cohesion: 0.09
+Nodes (22): 10. Animate transform only, never the letter itself, 11. Minimum 0.4s per word visible, 12. Stagger is the primary expressive axis, 13. Emphasis escalates _within_ a phrase, not _between_ phrases, 14. Break rhythm once per 30s, 15. Caption what adds, cut what restates, 16. Segment on breath, not on duration, 17. Safe zones per platform, always (+14 more)
+
+### Community 1361 - ".agent/skills/faceless-explainer/scripts/transitions.mjs"
+Cohesion: 0.24
+Nodes (16): padFrameInternalDuration(), loadTransitionRegistry(), transitionsByName(), buildGsap(), extendFrameTail(), flag(), mountedFramesInOrder(), NO_TRANSITION (+8 more)
+
+### Community 1362 - ".agent/skills/general-video/scripts/lib/frame-packets-core.mjs"
+Cohesion: 0.24
+Nodes (14): blueprintId(), buildFramePackets(), buildRolePayload(), citedRules(), escapeRegExp(), field(), flag(), frameId() (+6 more)
+
+### Community 1363 - "Three.js for HyperFrames"
+Cohesion: 0.13
+Nodes (14): AnimationMixer Pattern, Avoid, Basic Pattern, Camera Cuts Inside One Canvas, Contents, Contract, Credits And References, Good Uses (+6 more)
+
+### Community 1364 - "Recipes"
+Cohesion: 0.13
+Nodes (14): 1. The clean original, if it exists, 2. The pauses, 3. The speech's own tilt, for a suspected filter, 4. The file against itself over time, Band energy, in proportional bands, Compare against something inside the same file, Compare loudness from the bytes the listener actually hears, Diagnosing audio you cannot hear (+6 more)
+
+### Community 1365 - "ai/skills/media-use/scripts/audio-duck.mjs"
+Cohesion: 0.30
+Nodes (12): escapeRegExp(), readTargetAttrs(), run(), { values: args }, duckKeyframes(), duckLane(), finiteOr(), mergeIntervals() (+4 more)
+
+### Community 1366 - "ai/skills/media-use/scripts/transcript-cut.mjs"
+Cohesion: 0.26
+Nodes (13): fadeFilterFor(), round3(), cutSegment(), encodeArgsFor(), escapeConcatPath(), fmt(), isAudioOnly(), probeDuration() (+5 more)
+
+### Community 1367 - ".agent/skills/product-launch-video/scripts/captions.mjs"
+Cohesion: 0.18
+Nodes (19): brandFontFaces(), buildCaptionsHtml(), buildFromSkin(), flag(), frameTokensCss(), r3(), runBuild(), wordCap() (+11 more)
+
+### Community 1368 - "ai/skills/remotion-to-hyperframes/assets/test-corpus/tier-1-title-card/remotion-src/package.json"
+Cohesion: 0.13
+Nodes (14): dependencies, react, react-dom, remotion, @remotion/cli, react, react-dom, remotion (+6 more)
+
+### Community 1369 - "The 18 rules"
+Cohesion: 0.09
+Nodes (22): 10. Animate transform only, never the letter itself, 11. Minimum 0.4s per word visible, 12. Stagger is the primary expressive axis, 13. Emphasis escalates _within_ a phrase, not _between_ phrases, 14. Break rhythm once per 30s, 15. Caption what adds, cut what restates, 16. Segment on breath, not on duration, 17. Safe zones per platform, always (+14 more)
+
+### Community 1370 - "hyperframes/skills/general-video/scripts/lib/frame-packets-core.mjs"
+Cohesion: 0.24
+Nodes (14): blueprintId(), buildFramePackets(), buildRolePayload(), citedRules(), escapeRegExp(), field(), flag(), frameId() (+6 more)
+
+### Community 1371 - ".agent/skills/media-use/scripts/transcript-cut.mjs"
+Cohesion: 0.26
+Nodes (13): fadeFilterFor(), round3(), cutSegment(), encodeArgsFor(), escapeConcatPath(), fmt(), isAudioOnly(), probeDuration() (+5 more)
+
+### Community 1372 - "ai/skills/remotion-to-hyperframes/assets/test-corpus/tier-2-multi-scene/remotion-src/package.json"
+Cohesion: 0.13
+Nodes (14): dependencies, react, react-dom, remotion, @remotion/cli, react, react-dom, remotion (+6 more)
+
+### Community 1373 - "V—Take Visual Design Library"
+Cohesion: 0.22
+Nodes (8): Constraints you must obey when copying from these references, Decision guide (loose, not prescriptive), Layouts — how video and card share the canvas, Portrait sizing — bigger type for mobile, Source aspect ratio independence, Styles — the card's visual language, V—Take Visual Design Library, Video Frames — decoration around the video element
+
+### Community 1374 - "@hyperframes/shader-transitions"
+Cohesion: 0.13
+Nodes (14): API, Available shaders, Distribution, @hyperframes/shader-transitions, `init(config): GsapTimeline`, Install, License, Related packages (+6 more)
+
+### Community 1375 - "Direction specs"
+Cohesion: 0.13
+Nodes (14): 10. conference-lower-third-killer _(B2B but not lame)_, 1. documentary-dignified _(Errol Morris / PBS Frontline)_ — Standard-mode direction (no prebuilt Cinematic template), 2. cinematic-noir _(Kyle Cooper / Se7en)_, 3. tech-keynote-confident _(Apple / Jony Ive ad)_, 4. lyrical-poem-on-wall _(extends current memory-wall template)_, 5. high-energy-vlog _(controlled Hormozi)_, 6. chapter-card _(Wes Anderson / Grand Budapest)_, 7. investigative-typewriter _(Frontline / 60 Minutes / Morris Interrotron)_ (+6 more)
+
+### Community 1376 - "Part 1 — the move vocabulary"
+Cohesion: 0.08
+Nodes (23): 1. Smooth beats bouncy — `power3` is the default, 2. Sequential reveal in the back ~50%, timed to the voiceover, 3. No lazy breathing, no bad pan/push — "no motion over bad motion", 4. Internal seams are velocity-matched cuts, Aliveness during a hold (use sparingly — see Part 2), Camera, Count-up / data, Emphasis / marker (+15 more)
+
+### Community 1377 - "webgl.ts"
+Cohesion: 0.20
+Nodes (11): H, NQ, vertSrc, compileShader(), createProgram(), createProgramWithVertex(), DEFAULT_HEIGHT, DEFAULT_WIDTH (+3 more)
+
+### Community 1378 - ".agent/skills/pr-to-video/scripts/transitions.mjs"
+Cohesion: 0.20
+Nodes (18): padFrameInternalDuration(), DEFAULT_REGISTRY_PATH, here, loadTransitionRegistry(), transitionsByName(), buildGsap(), extendFrameTail(), flag() (+10 more)
+
+### Community 1379 - "KeyframeNavigation.tsx"
+Cohesion: 0.21
+Nodes (12): DiamondState, KeyframeDiamond, KeyframeDiamondProps, ArrowLeft(), ArrowRight(), clipToTweenPercentage(), getKeyframeNavigationState(), KeyframeNavigation (+4 more)
+
+### Community 1380 - "hyperframes/skills/media-use/scripts/audio-duck.mjs"
+Cohesion: 0.30
+Nodes (12): escapeRegExp(), readTargetAttrs(), run(), { values: args }, duckKeyframes(), duckLane(), finiteOr(), mergeIntervals() (+4 more)
+
+### Community 1381 - "hyperframes/skills/media-use/scripts/transcript-cut.mjs"
+Cohesion: 0.26
+Nodes (13): fadeFilterFor(), round3(), cutSegment(), encodeArgsFor(), escapeConcatPath(), fmt(), isAudioOnly(), probeDuration() (+5 more)
+
+### Community 1382 - "2. Processing"
+Cohesion: 0.13
+Nodes (13): 1. Input Format, 2. Processing, 3. Data Config for Training, Advanced Data Preparation, Denoise, Pipeline Overview, Prerequisites, Tokenize with noise augmentation (+5 more)
+
+### Community 1383 - "(QUY TẮC HOẠT ĐỘNG BẮT BUỘC: MẶC ĐỊNH LÀM VIỆC ĐẾN CÙNG - KHÔNG CẦN GÕ /GOAL)"
+Cohesion: 0.14
+Nodes (13): 1. NGUYÊN TẮC CỐT LÕI: TUYỆT ĐỐI KHÔNG BỎ CUỘC (NEVER SURRENDER PROTOCOL), 2.1. Môi trường Trình duyệt: Ego Lite (Mặc định), 2.2. Vượt cơ chế phòng thủ Anti-Bot (TikTok, Google, Cloudflare), 2.3. Xử lý Đa Tab & Cửa sổ Popup OAuth, 2.4. Đối phó CAPTCHA & Mã xác nhận (OTP / 2FA), 2. QUY CHUẨN TỰ ĐỘNG HÓA TRÌNH DUYỆT (BROWSER AUTOMATION STANDARDS), 3. CHU TRÌNH TỰ SỬA LỖI ĐỘC LẬP (AUTONOMOUS DIAGNOSTIC & HEALING LOOP), 4. QUY TẮC BÁO CÁO CHO NGƯỜI DÙNG (+5 more)
+
+### Community 1384 - "ai/skills/figma/scripts/verify-motion.mjs"
+Cohesion: 0.14
+Nodes (11): crop, dims, dir, interval, min, minMotion, refDur, reference (+3 more)
+
+### Community 1385 - "Remotion → HyperFrames API Map"
+Cohesion: 0.14
+Nodes (14): frame(), Composition root, Distributed rendering, Fonts, Lottie, Media, Parameters, React patterns (+6 more)
+
+### Community 1386 - "Scene Transitions"
+Cohesion: 0.14
+Nodes (13): Animation Rules for Multi-Scene Compositions, Blur Intensity by Energy, Contents, CSS vs Shader, Energy → Primary Transition, Implementation, Mood → Transition Type, Narrative Position (+5 more)
+
+### Community 1387 - "Sub-Compositions"
+Cohesion: 0.14
+Nodes (13): Animations Inside Sub-Compositions, Common pitfalls that pass static checks but break at render, File shape, Host Wiring, Mental model — what the runtime actually does, Per-Instance Variables, Pitfall 1 — `<style>` in `<head>` instead of inside `<template>`, Pitfall 2 — Host `data-composition-id` ≠ inner template `data-composition-id` (+5 more)
+
+### Community 1388 - "add"
+Cohesion: 0.05
+Nodes (85): add(), addScaledVector(), addVectors(), angleTo(), at(), clamp(), clampLength(), clampPoint() (+77 more)
+
+### Community 1389 - "Visual Style Library"
+Cohesion: 0.14
+Nodes (13): 1. Swiss Pulse — Josef Müller-Brockmann, 2. Velvet Standard — Massimo Vignelli, 3. Deconstructed — Neville Brody, 4. Maximalist Type — Paula Scher, 5. Data Drift — Refik Anadol, 6. Soft Signal — Stefan Sagmeister, 7. Folk Frequency — Eduardo Terrazas, 8. Shadow Cut — Hans Hillmann (+5 more)
+
+### Community 1390 - "cta-close"
+Cohesion: 0.33
+Nodes (5): Choreography, cta-close, Mount, Notes, Variables
+
+### Community 1391 - "ancestorBackgroundPaintsText"
+Cohesion: 0.13
+Nodes (21): ancestorBackgroundPaintsText(), colorAlpha(), gradientHasOpaqueStop(), gradientLayersAlpha(), gradientMaxAlpha(), gradientStopCoverage(), hasOpaqueBackground(), isPaintedPanel() (+13 more)
+
+### Community 1392 - "fontLocalize.ts"
+Cohesion: 0.17
+Nodes (13): FontLocalizeIo, FontVersions, runFontLocalize(), safeErrorName(), safeFamilyName(), safeVersion(), stampFontVersions(), FontFetchLikeError (+5 more)
+
+### Community 1393 - "workspaceBuildCheck.ts"
+Cohesion: 0.15
+Nodes (17): buildCommand(), checkStudioWorkspaceBuild(), CORE_REQUIRED_GENERATED_FILES, distExportEntries(), distTargetsOf(), exportProblemsFor(), isTestFile(), missingDistExportTargets() (+9 more)
+
+### Community 1394 - "sanitizeSvg.ts"
+Cohesion: 0.12
+Nodes (24): canonicalCss(), decodeCssEscape(), everyFunctionIsSafe(), everyUrlIsLocalFragment(), functionNameBefore(), isAllowedHref(), isCssNameChar(), isKnownAttribute() (+16 more)
+
+### Community 1395 - "particle-image-reveal"
+Cohesion: 0.33
+Nodes (5): Image slot, Mount, Notes, particle-image-reveal, Variables
+
+### Community 1396 - "engine/package.json"
+Cohesion: 0.10
+Nodes (20): description, engines, node, files, hono, @hono/node-server, @hyperframes/core, @hyperframes/parsers (+12 more)
+
+### Community 1397 - "runner.ts"
+Cohesion: 0.11
+Nodes (13): Layer, server, server, findChromeExecutable(), HERE, launchBrowser(), LaunchOpts, LoadOpts (+5 more)
+
+### Community 1398 - "compilerOptions"
+Cohesion: 0.10
+Nodes (20): compilerOptions, baseUrl, declaration, declarationMap, esModuleInterop, module, moduleResolution, noUncheckedIndexedAccess (+12 more)
+
+### Community 1399 - "HyperFrame Schema Compliance Review"
+Cohesion: 0.12
+Nodes (14): Paste it into your composition, Related topics, Variables, Compliance Checklist, compositions/captions.html, compositions/intro.html, compositions/stats.html, Critical Issues (+6 more)
+
+### Community 1400 - "yE"
+Cohesion: 0.05
+Nodes (58): 8(), arrayBuffer(), az(), Bs(), ck(), createBindGroup(), createTexture(), destroy() (+50 more)
+
+### Community 1401 - "rotation"
+Cohesion: 0.05
+Nodes (40): rotation(), Animate transforms, not layout properties, autoAlpha, clearProps, Contents, CSS Variables, Fixing a flagged animation — preserve the intent, gsap.quickTo for frequent updates (preview-only) (+32 more)
+
+### Community 1402 - "Documentation Guidelines"
+Cohesion: 0.11
+Nodes (17): Always annotate code blocks, Callout budget: max 2-3 per page, Code Examples, Core Principles, Cross-Linking, Documentation Guidelines, File Conventions, Guides (concepts/, guides/) (+9 more)
+
+### Community 1403 - "ai/skills/hyperframes/scripts/lib/frame-packets-core.mjs"
+Cohesion: 0.29
+Nodes (13): blueprintId(), buildFramePackets(), buildRolePayload(), citedRules(), escapeRegExp(), field(), flag(), frameId() (+5 more)
+
+### Community 1404 - "soft-blob-touch"
+Cohesion: 0.33
+Nodes (5): Choreography, Determinism, Mounting, soft-blob-touch, Variables
+
+### Community 1405 - "./sdk"
+Cohesion: 0.13
+Nodes (17): exports, ./sdk, ./server, ./terraform, publishConfig, access, exports, registry (+9 more)
+
+### Community 1406 - "📑 3. HỒ SƠ CHI TIẾT TỪNG SẢN PHẨM TRONG KHO (PRODUCT DATA SHEETS)"
+Cohesion: 0.09
+Nodes (21): 1.1. Cấu Trúc Thư Mục Chuẩn Hóa, 1.2. Quy Chuẩn Vòng Đời Trạng Thái (Status Lifecycle), 1.3. Hệ Thống Nhân Vật KOC AI Được Phân Công (Assigned KOCs), 1. [SP-BJ-001] Áo Thun Giấy Tay Dài Cổ Henley Byjane Form Suông, 🏛️ 1. TỔNG QUAN KIẾN TRÚC KHO SẢN PHẨM (WAREHOUSE ARCHITECTURE), 📊 2. BẢNG TỔNG HỢP DANH MỤC SẢN PHẨM (MASTER INVENTORY), 2. [SP-QT-002] Quần Tây Ống Suông Lưng Cao Vải Tuyết Mưa Hack Dáng 1m7, 📑 3. HỒ SƠ CHI TIẾT TỪNG SẢN PHẨM TRONG KHO (PRODUCT DATA SHEETS) (+13 more)
+
+### Community 1407 - "cn"
+Cohesion: 0.18
+Nodes (20): 2(), AB(), aC(), an(), cn(), EB(), eC(), Hs() (+12 more)
+
+### Community 1408 - "media-use/lib/telemetry.mjs"
+Cohesion: 0.19
+Nodes (18): anonymousId(), __anonymousIdForTest(), heygenAccountDistinctId(), identifyAccount(), isTestOrCiContext(), legacyMediaAnonId(), optedOut(), postBatch() (+10 more)
+
+### Community 1409 - "core/src/editing/affordances.ts"
+Cohesion: 0.07
+Nodes (37): Docs & Examples, `AffordanceContext`, `capabilities`, End-to-end example, Gotchas, Import, Return value, `sections` (+29 more)
+
+### Community 1410 - "ai/skills/media-use/scripts/eval.mjs"
+Cohesion: 0.18
+Nodes (13): countAssetFiles(), walk(), escapeHtml(), evalBlock(), generateReport(), outPath, REPO_ROOT, report (+5 more)
+
+### Community 1411 - "studio-runtime-smoke.mjs"
+Cohesion: 0.19
+Nodes (19): clippedStrip(), dockStripErrors(), GET_RESPONSES, getStudioSmokeResponse(), gsapAnimationsResponse(), isExpectedStudioSmokeError(), json(), loadPuppeteer() (+11 more)
+
+### Community 1412 - "Cut catalog — within-frame seams (worker-built)"
+Cohesion: 0.10
+Nodes (20): 1. Zoom-Through (forward), 2. Inverse Zoom-Through (backward), 3. Cut the Curve (Scene Transitions), 4. Waterfall Cut (word-by-word cut-the-curve), Anti-Patterns, Blur Logic (applies to all Z-axis variants), Choosing a Variant, Cut catalog — within-frame seams (worker-built) (+12 more)
+
+### Community 1413 - "auth/loopback.ts"
+Cohesion: 0.23
+Nodes (13): errorPage(), escapeHtml(), handleRequest(), listen(), LoopbackHandle, LoopbackOptions, LoopbackResult, respond() (+5 more)
+
+### Community 1414 - "hyperframes/skills/faceless-explainer/scripts/lib/frame-packets-core.mjs"
+Cohesion: 0.24
+Nodes (14): blueprintId(), buildFramePackets(), buildRolePayload(), citedRules(), escapeRegExp(), field(), flag(), frameId() (+6 more)
+
+### Community 1415 - "hyperframes/skills/faceless-explainer/scripts/transitions.mjs"
+Cohesion: 0.24
+Nodes (16): padFrameInternalDuration(), loadTransitionRegistry(), transitionsByName(), buildGsap(), extendFrameTail(), flag(), mountedFramesInOrder(), NO_TRANSITION (+8 more)
+
+### Community 1416 - "Creator Editing Recipes"
+Cohesion: 0.10
+Nodes (20): Add media (image, video, audio), Align a sound to an on-screen event, Audio alignment, Clip-path wipe / reveal / mask / split-screen, Constant speed / slow motion, Copy a group of clips to another time, Creator Editing Recipes, Crop / reframe (+12 more)
+
+### Community 1417 - "ce"
+Cohesion: 0.22
+Nodes (14): Ae(), ce(), $d(), ee(), ha(), ka(), le(), me() (+6 more)
+
+### Community 1418 - "Cut catalog — within-frame seams (worker-built)"
+Cohesion: 0.10
+Nodes (20): 1. Zoom-Through (forward), 2. Inverse Zoom-Through (backward), 3. Cut the Curve (Scene Transitions), 4. Waterfall Cut (word-by-word cut-the-curve), Anti-Patterns, Blur Logic (applies to all Z-axis variants), Choosing a Variant, Cut catalog — within-frame seams (worker-built) (+12 more)
+
+### Community 1419 - "ai/skills/pr-to-video/scripts/lib/frame-packets-core.mjs"
+Cohesion: 0.29
+Nodes (13): blueprintId(), buildFramePackets(), buildRolePayload(), citedRules(), escapeRegExp(), field(), flag(), frameId() (+5 more)
+
+### Community 1420 - "hyperframes/skills/pr-to-video/scripts/transitions.mjs"
+Cohesion: 0.20
+Nodes (18): padFrameInternalDuration(), DEFAULT_REGISTRY_PATH, here, loadTransitionRegistry(), transitionsByName(), buildGsap(), extendFrameTail(), flag() (+10 more)
+
+### Community 1421 - "Cut catalog — within-frame seams (worker-built)"
+Cohesion: 0.10
+Nodes (20): 1. Zoom-Through (forward), 2. Inverse Zoom-Through (backward), 3. Cut the Curve (Scene Transitions), 4. Waterfall Cut (word-by-word cut-the-curve), Anti-Patterns, Blur Logic (applies to all Z-axis variants), Choosing a Variant, Cut catalog — within-frame seams (worker-built) (+12 more)
+
+### Community 1422 - "printComposition"
+Cohesion: 0.25
+Nodes (9): fmtProps(), formatSeconds(), isEmptyComposition(), printAnime(), printComposition(), printCompositionTweens(), printCssKeyframes(), printTrace() (+1 more)
+
+### Community 1423 - ".agent/skills/music-to-video/scripts/assemble-index.mjs"
+Cohesion: 0.10
+Nodes (16): anomalies, argv, audio, audiomapPath, audioMetaPath, bgmRel, body, FRAME_SUM (+8 more)
+
+### Community 1424 - "ce"
+Cohesion: 0.22
+Nodes (14): Ae(), ce(), $d(), ee(), ha(), ka(), le(), me() (+6 more)
+
+### Community 1425 - "Unlimited Email Routing & Multi-Account Email Matrix Skill"
+Cohesion: 0.14
+Nodes (13): 🎯 1. NGUYÊN TẮC CỐT LÕI (CORE ARCHITECTURE), 2.1. Cơ chế Subdomain Catch-All, 2.2. Quy trình Tự động hóa qua Ego Lite, 🚀 2. PHƯƠNG PHÁP 1: MIỄN PHÍ 100% QUA ADDY.IO (ANONADDY), 3.1. Các bước thiết lập:, 🌐 3. PHƯƠNG PHÁP 2: TÊN MIỀN RIÊNG QUA CLOUDFLARE EMAIL ROUTING, 4.1. Cập nhật tên miền mới vào hệ sinh thái, 4.2. Xem bảng trạng thái 12 tài khoản chòm sao (+5 more)
+
+### Community 1426 - "Cut the Curve — GSAP code templates"
+Cohesion: 0.10
+Nodes (19): 1. Zoom-Through (forward), 2. Inverse Zoom-Through, 3. Cut the Curve, 4. Waterfall Cut, 5. Rack-Focus Blur-Cut, 6. Waterfall Entry, 7. Nudge Curve, Combined cut-the-curve + zoom (+11 more)
+
+### Community 1427 - "Cut the Curve — GSAP code templates"
+Cohesion: 0.10
+Nodes (19): 1. Zoom-Through (forward), 2. Inverse Zoom-Through, 3. Cut the Curve, 4. Waterfall Cut, 5. Rack-Focus Blur-Cut, 6. Waterfall Entry, 7. Nudge Curve, Combined cut-the-curve + zoom (+11 more)
+
+### Community 1428 - "Coordinate Target Zoom"
+Cohesion: 0.22
+Nodes (9): Contents, Coordinate Target Zoom, Critical Constraints, Getting the offset, How It Works, Recipe, See also, Values (+1 more)
+
+### Community 1429 - "occludedTextIssue"
+Cohesion: 0.14
+Nodes (20): directTextNodes(), hasAllowOcclusionFlag(), hasVisibleTextInk(), imageAlphaAt(), invisibleTextIssue(), isAtomicLabel(), isCrossSceneTransitionOverlap(), isForeignElement() (+12 more)
+
+### Community 1430 - "cn"
+Cohesion: 0.18
+Nodes (20): 2(), AB(), aC(), an(), cn(), EB(), eC(), Hs() (+12 more)
+
+### Community 1431 - "Building the picker"
+Cohesion: 0.14
+Nodes (13): innerHTML(), onclick(), Critical Constraints, Architecture data format, Building the picker, Content tokens in preview_html, Contents, Design Picker (+5 more)
+
+### Community 1432 - "compilerOptions"
+Cohesion: 0.10
+Nodes (19): compilerOptions, baseUrl, declaration, esModuleInterop, ignoreDeprecations, module, moduleResolution, noUncheckedIndexedAccess (+11 more)
+
+### Community 1433 - "measure"
+Cohesion: 0.13
+Nodes (16): cw(), Fa(), fork(), hasKey(), JC(), k8(), maxSize(), measure() (+8 more)
+
+### Community 1434 - "transform3dProjection.ts"
+Cohesion: 0.17
+Nodes (16): CubePose, pxToProjPersp(), Transform3DCube(), AXES, CORNERS, FACES, LIGHT, projectAxes() (+8 more)
+
+### Community 1435 - "hyperframes/skills/media-use/scripts/lib/cutlist.mjs"
+Cohesion: 0.25
+Nodes (16): bareToken(), clampRanges(), cleanRange(), compileCutList(), durationFrom(), fillerRanges(), finalizeKept(), hasRemovalSource() (+8 more)
+
+### Community 1436 - "cn"
+Cohesion: 0.18
+Nodes (20): 2(), AB(), aC(), an(), cn(), EB(), eC(), Hs() (+12 more)
+
+### Community 1437 - "cn"
+Cohesion: 0.16
+Nodes (22): 2(), AB(), aC(), an(), cn(), EB(), eC(), Hs() (+14 more)
+
+### Community 1438 - "ce"
+Cohesion: 0.22
+Nodes (14): Ae(), ce(), $d(), ee(), ha(), ka(), le(), me() (+6 more)
+
+### Community 1439 - "Standalone HyperFrames Slideshow Harness"
+Cohesion: 0.12
+Nodes (16): 1. Interim framing — why this exists, 2. The parent wrapper (`index.html` for deliverables, `demo.html` in examples), 3. Playhead-driven scene visibility, 4. Imperative entrances on slide-activate, 5. The scenes bootstrap postMessage, 6. Audio/SFX — built-in mute control via `<hyperframes-slideshow sound>`, 7. Three.js (optional), 8. Foot-gun checklist (+8 more)
+
+### Community 1440 - "jy"
+Cohesion: 0.06
+Nodes (53): az(), Bs(), configureContext(), createBindGroup(), createBuffer(), createMutable(), createReadonly(), createTexture() (+45 more)
+
+### Community 1441 - "compilationRunner.ts"
+Cohesion: 0.23
+Nodes (12): CompilationTestResult, runCompilationTest(), TestSuite, updateCompiledGolden(), compareElements(), CompilationValidationResult, CompiledElement, CompositionStructure (+4 more)
+
+### Community 1442 - "htmlCompiler.mediaType.test.ts"
+Cohesion: 0.23
+Nodes (5): compile(), synthesizeMediaFixture(), sharedMediaProbeSemaphore, withMediaProbeSlot(), Semaphore
+
+### Community 1443 - "jy"
+Cohesion: 0.06
+Nodes (56): Ai(), az(), Bs(), By(), cG(), createBindGroup(), createReadonly(), createTexture() (+48 more)
+
+### Community 1444 - "Es"
+Cohesion: 0.06
+Nodes (65): 0(), 3(), array(), atomic(), aW(), b(), b0(), Bi() (+57 more)
+
+### Community 1445 - "propertyPanelFlatStyleSections.test.tsx"
+Cohesion: 0.20
+Nodes (10): changeFlatSelectRow(), commitFlatRowInput(), commitInsetSideInput(), getFlatRowInput(), getFlatSelectRow(), getInsetSideInput(), getInsetSideInputOrNull(), makeElement() (+2 more)
+
+### Community 1446 - "Rt"
+Cohesion: 0.05
+Nodes (75): Ak(), as(), asString(), aT(), bk(), bw(), cG(), completeStruct() (+67 more)
+
+### Community 1447 - "devDependencies"
+Cohesion: 0.12
+Nodes (16): devDependencies, @commitlint/cli, @commitlint/config-conventional, esbuild, fallow, happy-dom, @hyperframes/player, knip (+8 more)
+
+### Community 1448 - "Motion-Graphics Builder"
+Cohesion: 0.04
+Nodes (47): Avoid Web Patterns, Data in Motion, Numbers Need Visual Weight, Visual Continuity, Asymmetry, Choreography is hierarchy, Contents, Easing is emotion, not technique (+39 more)
+
+### Community 1449 - "hyperframes/skills/music-to-video/scripts/assemble-index.mjs"
+Cohesion: 0.10
+Nodes (16): anomalies, argv, audio, audiomapPath, audioMetaPath, bgmRel, body, FRAME_SUM (+8 more)
+
+### Community 1450 - "measure"
+Cohesion: 0.15
+Nodes (14): cw(), Fa(), fork(), hasKey(), JC(), maxSize(), measure(), measureCompile() (+6 more)
+
+### Community 1451 - "catalog-fetch-mirror.ts"
+Cohesion: 0.19
+Nodes (10): FetchMirror, installFetchMirror(), recordFetch(), replayFetch(), MirrorEntry, MirrorIndex, MirrorMode, readIndex() (+2 more)
+
+### Community 1452 - "plan-parity-fixture.ts"
+Cohesion: 0.29
+Nodes (13): GeneratedAudioConfig, GeneratedPressureFileConfig, generatePressureBytes(), generateToneWav(), isRecord(), parseGeneratedAudio(), parsePressureFile(), PlanParityFixtureConfig (+5 more)
+
+### Community 1453 - "Recipes"
+Cohesion: 0.13
+Nodes (14): 1. The clean original, if it exists, 2. The pauses, 3. The speech's own tilt, for a suspected filter, 4. The file against itself over time, Band energy, in proportional bands, Compare against something inside the same file, Compare loudness from the bytes the listener actually hears, Diagnosing audio you cannot hear (+6 more)
+
+### Community 1454 - "Scene Types — picking the right template"
+Cohesion: 0.15
+Nodes (13): Anti-examples (wall-embed would FAIL), Conditions, Conditions, corner-column-crown — "text sits in a clean region next to the subject", Four conditions — ALL must hold, Mode checklist (run this before committing to wall-embed), portrait-header — "subject fills center, text lives in top banner", Quick decision flow (+5 more)
+
+### Community 1455 - "The eight rules"
+Cohesion: 0.11
+Nodes (18): Avoiding the slideshow, Every movement makes a claim, Handmade, still deterministic, One method: a continuous world-camera, Other methods worth trying, Related topics, Rule 1 — Nothing ever fully stops, Rule 2 — The camera is an actor (+10 more)
+
+### Community 1456 - "trust-strip"
+Cohesion: 0.40
+Nodes (4): Envelope, Mounting, trust-strip, Variables
+
+### Community 1457 - "2. QUY TRÌNH THỰC THI 7 BƯỚC"
+Cohesion: 0.15
+Nodes (12): 1. NGUYÊN TẮC CỐT LÕI (BẮT BUỘC TUÂN THỦ), 2. QUY TRÌNH THỰC THI 7 BƯỚC, 3. TÀI NGUYÊN ĐI KÈM TRONG HỆ THỐNG, BƯỚC 0 — CHỐT THÔNG TIN & DỰ TOÁN CREDIT, BƯỚC 1 — KỊCH BẢN PHÂN CẢNH (SCRIPT), BƯỚC 2 — CHARACTER BIBLE (HỒ SƠ NHÂN VẬT NHẤT QUÁN), BƯỚC 3 — PROMPT CHARACTER REFERENCE SHEET (IMAGE MODE), BƯỚC 4 — PROMPT STORYBOARD TỪNG CẢNH (IMAGE MODE) (+4 more)
+
+### Community 1458 - "studio-server/package.json"
+Cohesion: 0.11
+Nodes (18): files, hono, @hyperframes/core, @hyperframes/parsers, linkedom, postcss, postcss-selector-parser, sharp (+10 more)
+
+### Community 1459 - "Anime.js for HyperFrames"
+Cohesion: 0.15
+Nodes (12): Anime.js for HyperFrames, Avoid, Basic Pattern, Contents, Contract, Credits And References, Determinism, Good Uses (+4 more)
+
+### Community 1460 - "hyperframes/skills/faceless-explainer/scripts/audio.mjs"
+Cohesion: 0.24
+Nodes (17): DEFAULT_ENGINE, flag(), HERE, neutralPath(), pad2(), parseScript(), previousHostAudio(), runEngine() (+9 more)
+
+### Community 1461 - "write"
+Cohesion: 0.08
+Nodes (42): 2(), AB(), aC(), an(), By(), cn(), createUniform(), dispatchThreads() (+34 more)
+
+### Community 1462 - "The 10 moves"
+Cohesion: 0.11
+Nodes (17): 10. burn-in, 1. typewriter, 2. word-fade-up (DEFAULT), 3. word-pop, 4. swipe-reveal, 5. drop-and-settle, 6. etch, 7. crosshair (+9 more)
+
+### Community 1463 - "3D Camera Flight"
+Cohesion: 0.25
+Nodes (8): 3D Camera Flight, Contents, Critical Constraints, How It Works, Recipe, See also, Values, Variations
+
+### Community 1464 - ".agent/skills/music-to-video/scripts/lib/storyboard.mjs"
+Cohesion: 0.18
+Nodes (17): applyDuration(), applyMeta(), applyPoster(), applyStatus(), buildFrame(), DEFAULT_FRAME_STATUS, endsFrameSection(), FRAME_STATUSES (+9 more)
+
+### Community 1465 - "Lottie for HyperFrames"
+Cohesion: 0.15
+Nodes (12): Avoid, Characters, Composition Duration, Contents, Contract, Credits And References, dotLottie Pattern, Good Uses (+4 more)
+
+### Community 1466 - "TypeGPU / WebGPU for HyperFrames"
+Cohesion: 0.15
+Nodes (12): Basic Pattern, Contents, Contract, Deterministic Rendering, Frosted Blur via Downsample Pass, Render-environment prerequisite (WebGPU + html-in-canvas), Rounded-Rect SDF (Liquid Glass Pill), Timeline Registration (+4 more)
+
+### Community 1467 - "Lambda rendering on AWS"
+Cohesion: 0.15
+Nodes (13): Choose Lambda or local rendering, Contents, Deploy, Destroy the stack, IAM policies, Inspect progress, Lambda rendering on AWS, Non-retryable errors (+5 more)
+
+### Community 1468 - "Component quality bar"
+Cohesion: 0.15
+Nodes (12): Calibration, Checklist, Component quality bar, Duplicates, which one survives, Fatal, cut the item, Fixable, keep and repair, How an audit runs, Mechanical first pass (+4 more)
+
+### Community 1469 - ".cursor-plugin/plugin.json"
+Cohesion: 0.11
+Nodes (17): author, email, name, category, description, displayName, homepage, keywords (+9 more)
+
+### Community 1470 - "ai/skills/pr-to-video/scripts/fetch-pr.mjs"
+Cohesion: 0.15
+Nodes (9): argv, diff, diffPath, FIELDS, m, outDir, prJsonPath, prRef (+1 more)
+
+### Community 1471 - "renovate.json"
+Cohesion: 0.11
+Nodes (17): extends, lockFileMaintenance, enabled, schedule, packageRules, prConcurrentLimit, prHourlyLimit, rangeStrategy (+9 more)
+
+### Community 1472 - "Chart Scrub Readout"
+Cohesion: 0.25
+Nodes (8): Chart Scrub Readout, Contents, Critical Constraints, How It Works, Recipe, See also, Values, Variations
+
+### Community 1473 - "dependencies"
+Cohesion: 0.11
+Nodes (18): dependencies, adm-zip, citty, compare-versions, css-tree, debug, esbuild, fontkit (+10 more)
+
+### Community 1474 - ".agent/skills/product-launch-video/scripts/audio.mjs"
+Cohesion: 0.25
+Nodes (16): DEFAULT_ENGINE, flag(), HERE, neutralPath(), pad2(), parseScript(), previousHostAudio(), runEngine() (+8 more)
+
+### Community 1475 - "bundled-sfx-provider.mjs"
+Cohesion: 0.16
+Nodes (16): BUNDLED_SFX_RECOVERY_COMMAND, BundledSfxAssetsError, bundledSfxProvider, extensionForBundledSfxFile(), inspectBundledSfxAssets(), unhealthy(), DEFAULT_DIRECTORY, directory() (+8 more)
+
+### Community 1476 - "grade-analyzer.mjs"
+Cohesion: 0.26
+Nodes (13): ADJUST_LIMITS, analyzeMediaGrade(), average(), clamp(), IMAGE_EXT, parseMediaTreatmentSignalStats(), probeMedia(), statsToAdjust() (+5 more)
+
+### Community 1477 - "WebAudioTransport"
+Cohesion: 0.03
+Nodes (51): audible(), createTimeline(), frameCallbacks, GraphAudioContext, GraphNode, heard(), makeNode(), makeParam() (+43 more)
+
+### Community 1478 - "compilerOptions"
+Cohesion: 0.15
+Nodes (12): compilerOptions, esModuleInterop, forceConsistentCasingInFileNames, isolatedModules, jsx, module, moduleResolution, resolveJsonModule (+4 more)
+
+### Community 1479 - "apple-money-count/registry-item.json"
+Cohesion: 0.11
+Nodes (17): author, authorUrl, description, dimensions, height, width, duration, files (+9 more)
+
+### Community 1480 - "compilerOptions"
+Cohesion: 0.15
+Nodes (12): compilerOptions, esModuleInterop, forceConsistentCasingInFileNames, isolatedModules, jsx, module, moduleResolution, resolveJsonModule (+4 more)
+
+### Community 1481 - "driver.js"
+Cohesion: 0.12
+Nodes (15): canvas, chain, ready, renderAt(), renderer, devDependencies, esbuild, shaders (+7 more)
+
+### Community 1482 - "north-korea-locked-down/registry-item.json"
+Cohesion: 0.11
+Nodes (17): author, authorUrl, description, dimensions, height, width, duration, files (+9 more)
+
+### Community 1483 - "nyc-paris-flight/registry-item.json"
+Cohesion: 0.11
+Nodes (17): author, authorUrl, description, dimensions, height, width, duration, files (+9 more)
+
+### Community 1484 - "vpn-youtube-spot/registry-item.json"
+Cohesion: 0.11
+Nodes (17): author, authorUrl, description, dimensions, height, width, duration, files (+9 more)
+
+### Community 1485 - "The 10 moves"
+Cohesion: 0.11
+Nodes (17): 10. burn-in, 1. typewriter, 2. word-fade-up (DEFAULT), 3. word-pop, 4. swipe-reveal, 5. drop-and-settle, 6. etch, 7. crosshair (+9 more)
+
+### Community 1486 - "r"
+Cohesion: 0.06
+Nodes (57): 2(), AB(), aC(), an(), aT(), az(), By(), cG() (+49 more)
+
+### Community 1487 - "hyperframes/skills/music-to-video/scripts/lib/storyboard.mjs"
+Cohesion: 0.18
+Nodes (17): applyDuration(), applyMeta(), applyPoster(), applyStatus(), buildFrame(), DEFAULT_FRAME_STATUS, endsFrameSection(), FRAME_STATUSES (+9 more)
+
+### Community 1488 - "Embedded Captions"
+Cohesion: 0.12
+Nodes (17): Aesthetic decision — tone × shot × platform (input to the catalog shortlist, NOT a second router), Caption model — rail + embed, Composition craft (embed track) — read before embedding, Decision gate — RUN FIRST, Dependencies, Embedded Captions, Non-negotiables, Operational flow (TL;DR) (+9 more)
+
+### Community 1489 - ".agent/skills/figma/scripts/verify-motion.mjs"
+Cohesion: 0.12
+Nodes (11): crop, dims, dir, interval, min, minMotion, refDur, reference (+3 more)
+
+### Community 1490 - ".agent/skills/remotion-to-hyperframes/assets/test-corpus/tier-3-data-driven/remotion-src/package.json"
+Cohesion: 0.12
+Nodes (16): dependencies, react, react-dom, remotion, @remotion/cli, zod, react, react-dom (+8 more)
+
+### Community 1491 - "Standalone HyperFrames Slideshow Harness"
+Cohesion: 0.12
+Nodes (16): 1. Interim framing — why this exists, 2. The parent wrapper (`index.html` for deliverables, `demo.html` in examples), 3. Playhead-driven scene visibility, 4. Imperative entrances on slide-activate, 5. The scenes bootstrap postMessage, 6. Audio/SFX — built-in mute control via `<hyperframes-slideshow sound>`, 7. Three.js (optional), 8. Foot-gun checklist (+8 more)
+
+### Community 1492 - "Control-Target Sync"
+Cohesion: 0.25
+Nodes (8): Contents, Control-Target Sync, Critical Constraints, How It Works, Recipe, See also, Values, Variations
+
+### Community 1493 - "compilerOptions"
+Cohesion: 0.15
+Nodes (12): compilerOptions, esModuleInterop, forceConsistentCasingInFileNames, isolatedModules, jsx, module, moduleResolution, resolveJsonModule (+4 more)
+
+### Community 1494 - "sdk.mdx"
+Cohesion: 0.15
+Nodes (12): Advanced Dispatch API, Core Concepts, Embedded Override Mode, Explicit Element IDs, Package Exports, Persistence, Preview Adapters, Quick Start (+4 more)
+
+### Community 1495 - "Recipes"
+Cohesion: 0.13
+Nodes (14): 1. The clean original, if it exists, 2. The pauses, 3. The speech's own tilt, for a suspected filter, 4. The file against itself over time, Band energy, in proportional bands, Compare against something inside the same file, Compare loudness from the bytes the listener actually hears, Diagnosing audio you cannot hear (+6 more)
+
+### Community 1496 - "write"
+Cohesion: 0.08
+Nodes (28): By(), cw(), dispatchThreads(), dispatchWorkgroups(), dS(), Fa(), fork(), Gy() (+20 more)
+
+### Community 1497 - "write"
+Cohesion: 0.08
+Nodes (28): By(), cw(), dispatchThreads(), dispatchWorkgroups(), dS(), Fa(), fork(), Gy() (+20 more)
+
+### Community 1498 - "Counting with Dynamic Scale"
+Cohesion: 0.25
+Nodes (8): Contents, Counting with Dynamic Scale, Critical Constraints, How It Works, Recipe, See also, Values, Variations
+
+### Community 1499 - "writeFloat32"
+Cohesion: 0.23
+Nodes (13): f32(), float32(), float32x2(), float32x3(), float32x4(), mat2x2f(), mat3x3f(), mat4x4f() (+5 more)
+
+### Community 1500 - "design-panel.mjs"
+Cohesion: 0.32
+Nodes (15): ab(), abEval(), byLabel(), byType(), check(), commit(), disk(), HELPERS (+7 more)
+
+### Community 1501 - "touch-indicator.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 1502 - "ce"
+Cohesion: 0.22
+Nodes (14): Ae(), ce(), $d(), ee(), ha(), ka(), le(), me() (+6 more)
+
+### Community 1503 - "ai-chat-reveal/registry-item.json"
+Cohesion: 0.12
+Nodes (16): author, description, dimensions, height, width, duration, files, name (+8 more)
+
+### Community 1504 - ".agent/skills/pr-to-video/SKILL.md"
+Cohesion: 0.01
+Nodes (154): Before you finish — checklist, Caption-band keep-out (plan side), Inventing the visual — diagrams, type, data-viz, Layout — named inline per Scene, Palette & type — from `frame.md`, never invented, Pick the shape — instantiate a blueprint, Portrait & square (non-16:9 canvases), The unit is a time-coded shot sequence (+146 more)
+
+### Community 1505 - "blue-sweater-intro-video/registry-item.json"
+Cohesion: 0.12
+Nodes (16): author, authorUrl, description, dimensions, height, width, duration, files (+8 more)
+
+### Community 1506 - "BufferGeometryUtils.js"
+Cohesion: 0.14
+Nodes (8): computeMikkTSpaceTangents(), computeMorphedAttributes(), deepCloneAttribute(), deinterleaveAttribute(), deinterleaveGeometry(), mergeAttributes(), mergeGeometries(), toCreasedNormals()
+
+### Community 1507 - "message-thread-reveal/registry-item.json"
+Cohesion: 0.12
+Nodes (16): author, description, dimensions, height, width, duration, files, name (+8 more)
+
+### Community 1508 - "notes-reveal/registry-item.json"
+Cohesion: 0.12
+Nodes (16): author, description, dimensions, height, width, duration, files, name (+8 more)
+
+### Community 1509 - "notification-cascade/registry-item.json"
+Cohesion: 0.12
+Nodes (16): author, description, dimensions, height, width, duration, files, name (+8 more)
+
+### Community 1510 - "share-sheet-carousel/registry-item.json"
+Cohesion: 0.12
+Nodes (16): author, description, dimensions, height, width, duration, files, name (+8 more)
+
+### Community 1511 - "vfx-liquid-background/registry-item.json"
+Cohesion: 0.12
+Nodes (16): description, dimensions, height, width, duration, files, name, params (+8 more)
+
+### Community 1512 - "vfx-liquid-glass/registry-item.json"
+Cohesion: 0.12
+Nodes (16): description, dimensions, height, width, duration, files, name, params (+8 more)
+
+### Community 1513 - "vfx-magnetic/registry-item.json"
+Cohesion: 0.12
+Nodes (16): description, dimensions, height, width, duration, files, name, params (+8 more)
+
+### Community 1514 - "vfx-portal/registry-item.json"
+Cohesion: 0.12
+Nodes (16): description, dimensions, height, width, duration, files, name, params (+8 more)
+
+### Community 1515 - "validate-release-channel.mjs"
+Cohesion: 0.24
+Nodes (15): EVENT_VALIDATORS, expectedDistTag(), getPrereleaseId(), main(), normalizeRemoteBranches(), readEnv(), readRemoteBranchesContainingHead(), readRemoteBranchesForEvent() (+7 more)
+
+### Community 1516 - "hyperframes/skills/figma/scripts/verify-motion.mjs"
+Cohesion: 0.12
+Nodes (11): crop, dims, dir, interval, min, minMotion, refDur, reference (+3 more)
+
+### Community 1517 - "hyperframes/skills/remotion-to-hyperframes/assets/test-corpus/tier-3-data-driven/remotion-src/package.json"
+Cohesion: 0.12
+Nodes (16): dependencies, react, react-dom, remotion, @remotion/cli, zod, react, react-dom (+8 more)
+
+### Community 1518 - "Theme Crossfade Morph"
+Cohesion: 0.25
+Nodes (8): Contents, Critical Constraints, How It Works, Recipe, See also, Theme Crossfade Morph, Values, Variations
+
+### Community 1519 - ".agent/skills/faceless-explainer/scripts/lib/frame-packets-core.mjs"
+Cohesion: 0.24
+Nodes (14): blueprintId(), buildFramePackets(), buildRolePayload(), citedRules(), escapeRegExp(), field(), flag(), frameId() (+6 more)
+
+### Community 1520 - "ASR Keyword Glow"
+Cohesion: 0.25
+Nodes (8): ASR Keyword Glow, Contents, Critical Constraints, How It Works, Recipe, See also, Values, Variations
+
+### Community 1521 - "Hacker Flip 3D Reveal"
+Cohesion: 0.25
+Nodes (8): Contents, Critical Constraints, Hacker Flip 3D Reveal, How It Works, Recipe, See also, Values, Variations
+
+### Community 1522 - "Typewriter"
+Cohesion: 0.12
+Nodes (15): Appending Words, Audio Visualizer, Backspacing, Basic, Blinking Cursor, Design Guide, Driving the Timeline, Extract Audio Data (+7 more)
+
+### Community 1523 - "visibility"
+Cohesion: 0.04
+Nodes (53): Animation rules, Determinism (non-negotiable), Media rules, Section 6: Rules you cannot break, Self-review checklist, 1. Choose dimensions and scene count by video type, 2. Fill brand identity on `:root`, and avoid the monoculture, 3. Fill each scene — content, entrance, mid-scene activity (+45 more)
+
+### Community 1524 - "Background music (BGM)"
+Cohesion: 0.25
+Nodes (7): Background music (BGM), Driving it from the request, Failure modes, HeyGen retrieval (default), Local generation (fallback) — Lyria → MusicGen, Lyria knobs (direct recipe use), Mood inference (the generate prompt)
+
+### Community 1525 - ".agent/skills/music-to-video/scripts/validate-plan.mjs"
+Cohesion: 0.12
+Nodes (12): argv, audiomapPath, blocks, errors, framesWithGroups, hyperframesDir, manifest, raw (+4 more)
+
+### Community 1526 - "writeFloat32"
+Cohesion: 0.23
+Nodes (13): f32(), float32(), float32x2(), float32x3(), float32x4(), mat2x2f(), mat3x3f(), mat4x4f() (+5 more)
+
+### Community 1527 - "generate-catalog-previews.ts"
+Cohesion: 0.07
+Nodes (47): applyFlag(), authoredEntryDuration(), catalogKinds, CliArgs, compileIndex(), compositionEntry(), compositionPathOf(), decodeHtml() (+39 more)
+
+### Community 1528 - "asset-fusion — category module (search-driven · the net-new IP)"
+Cohesion: 0.25
+Nodes (7): asset-fusion — category module (search-driven · the net-new IP), Build (reuse-first + hand-author the affordance), Highlight + circle recipe (the common case), Plan (Director Part 2) — the fusion logic, Render gotchas (codified — skipping these breaks the render), Source (Step 2), Vocabulary / leans on
+
+### Community 1529 - "Per-Beat Direction"
+Cohesion: 0.17
+Nodes (11): Animation choreography, Beat Direction, Concept, Contents, Depth layers, Mood direction, Per-Beat Direction, Rhythm Planning (+3 more)
+
+### Community 1530 - "Part 1 — The Seam Law"
+Cohesion: 0.12
+Nodes (15): Anti-Patterns, Carriers, Causal Motion, Motion Doctrine (Gateway), No idle wobble, Part 1 — The Seam Law, Part 2 — Performance (the scene keeps performing), Route map (+7 more)
+
+### Community 1531 - "Part 1 — The Seam Law"
+Cohesion: 0.12
+Nodes (15): Anti-Patterns, Carriers, Causal Motion, Motion Doctrine (Gateway), No idle wobble, Part 1 — The Seam Law, Part 2 — Performance (the scene keeps performing), Route map (+7 more)
+
+### Community 1532 - "compilerOptions"
+Cohesion: 0.12
+Nodes (15): compilerOptions, baseUrl, esModuleInterop, module, moduleResolution, noEmit, noUncheckedIndexedAccess, paths (+7 more)
+
+### Community 1533 - "debug-timeline.ts"
+Cohesion: 0.24
+Nodes (15): AttrMap, extractWindowNumber(), inferClipDuration(), main(), normalizeDurationSeconds(), parseArgs(), parseAttributes(), ParsedTag (+7 more)
+
+### Community 1534 - "compilerOptions"
+Cohesion: 0.12
+Nodes (15): compilerOptions, baseUrl, esModuleInterop, module, moduleResolution, noEmit, noUncheckedIndexedAccess, paths (+7 more)
+
+### Community 1535 - "freeze.test.ts"
+Cohesion: 0.33
+Nodes (7): exceedsFreezeCap(), freezeBytes(), freezeLocalFile(), freezeUrl(), isAllowedFreezeUrl(), MAX_FREEZE_BYTES, dirs
+
+### Community 1536 - "shaderDomains.ts"
+Cohesion: 0.33
+Nodes (11): argumentAt(), isCall(), isNumber(), shaderDomainOffsets(), ShaderSource, staticShaders(), unboundedCosine(), unsafeCosinePower() (+3 more)
+
+### Community 1537 - "devDependencies"
+Cohesion: 0.12
+Nodes (16): devDependencies, chokidar, esbuild, fake-indexeddb, @hyperframes/producer, puppeteer-core, tailwindcss, @tailwindcss/vite (+8 more)
+
+### Community 1538 - "scripts"
+Cohesion: 0.12
+Nodes (16): scripts, bench:timeline-bulk-actions, build, dev, report:sdk-cutover, test, test:colors:browser, test:edit-accuracy (+8 more)
+
+### Community 1539 - "measure"
+Cohesion: 0.18
+Nodes (12): Fa(), fork(), k8(), maxSize(), measure(), measureCompile(), measureResolve(), record() (+4 more)
+
+### Community 1540 - "Lottie translation: @remotion/lottie → HF lottie adapter"
+Cohesion: 0.25
+Nodes (8): After Effects → Lottie limitations, Asset handling, Loop behavior, Lottie source isn't actually translation-blocking, Lottie translation: @remotion/lottie → HF lottie adapter, Multiple Lottie animations, Pattern, Performance note
+
+### Community 1541 - "chatgpt-exchange/registry-item.json"
+Cohesion: 0.12
+Nodes (15): author, description, dimensions, height, width, duration, files, name (+7 more)
+
+### Community 1542 - "claude-exchange/registry-item.json"
+Cohesion: 0.12
+Nodes (15): author, description, dimensions, height, width, duration, files, name (+7 more)
+
+### Community 1543 - "data-chart/registry-item.json"
+Cohesion: 0.12
+Nodes (15): description, dimensions, height, width, duration, files, name, params (+7 more)
+
+### Community 1544 - "measure"
+Cohesion: 0.18
+Nodes (12): cw(), Fa(), fork(), hasKey(), JC(), maxSize(), measure(), measureCompile() (+4 more)
+
+### Community 1545 - "measure"
+Cohesion: 0.15
+Nodes (14): cw(), Fa(), fork(), hasKey(), JC(), maxSize(), measure(), measureCompile() (+6 more)
+
+### Community 1546 - "Rules Index"
+Cohesion: 0.17
+Nodes (12): Camera & Viewport, Contents, Data & Stats, Effect Recipes (moved from hyperframes-creative), Idle & Ambient, Layout & Network, Rules Index, See Also (+4 more)
+
+### Community 1547 - "heygen-avatar-promo-card/registry-item.json"
+Cohesion: 0.12
+Nodes (15): author, description, dimensions, height, width, duration, files, name (+7 more)
+
+### Community 1548 - "ios26-liquid-glass/registry-item.json"
+Cohesion: 0.12
+Nodes (15): description, dimensions, height, width, duration, files, name, preview (+7 more)
+
+### Community 1549 - "liquid-glass-notification/registry-item.json"
+Cohesion: 0.12
+Nodes (15): description, dimensions, height, width, duration, files, name, preview (+7 more)
+
+### Community 1550 - "liquid-glass-widgets/registry-item.json"
+Cohesion: 0.12
+Nodes (15): description, dimensions, height, width, duration, files, name, preview (+7 more)
+
+### Community 1551 - "logo-outro/registry-item.json"
+Cohesion: 0.12
+Nodes (15): description, dimensions, height, width, duration, files, name, params (+7 more)
+
+### Community 1552 - "macos-tahoe-liquid-glass/registry-item.json"
+Cohesion: 0.12
+Nodes (15): description, dimensions, height, width, duration, files, name, preview (+7 more)
+
+### Community 1553 - "oscilloscope-trace/registry-item.json"
+Cohesion: 0.12
+Nodes (15): description, dimensions, height, width, duration, files, name, preview (+7 more)
+
+### Community 1554 - "Building the picker"
+Cohesion: 0.18
+Nodes (10): Architecture data format, Building the picker, Content tokens in preview_html, Contents, Design Picker, Example architecture object, Mood board data format, Prerequisites (+2 more)
+
+### Community 1555 - "slack-notification-ad/registry-item.json"
+Cohesion: 0.12
+Nodes (15): author, description, dimensions, height, width, duration, files, name (+7 more)
+
+### Community 1556 - "snow/registry-item.json"
+Cohesion: 0.12
+Nodes (15): description, dimensions, height, width, duration, files, name, preview (+7 more)
+
+### Community 1557 - "starfield/registry-item.json"
+Cohesion: 0.12
+Nodes (15): description, dimensions, height, width, duration, files, name, preview (+7 more)
+
+### Community 1558 - "Sequencing translation: Sequence, Series, Composition root"
+Cohesion: 0.18
+Nodes (11): `<AbsoluteFill>` → positioned div, `<Composition>` → root `#stage`, Crossfading scene boundaries, `<Freeze>`, `<Loop>`, Multiple parallel tracks, Nested `<Sequence>` flattens, `<Sequence>` → sub-composition host (+3 more)
+
+### Community 1559 - "vfx-iphone-device/registry-item.json"
+Cohesion: 0.12
+Nodes (15): description, dimensions, height, width, duration, files, name, preview (+7 more)
+
+### Community 1560 - "vfx-shatter/registry-item.json"
+Cohesion: 0.12
+Nodes (15): description, dimensions, height, width, duration, files, name, preview (+7 more)
+
+### Community 1561 - "vfx-text-cursor/registry-item.json"
+Cohesion: 0.12
+Nodes (15): description, dimensions, height, width, duration, files, name, preview (+7 more)
+
+### Community 1562 - "DNA registry — pick a visual language, not a preset"
+Cohesion: 0.18
+Nodes (11): Adding a DNA, Authoring, Category lock (deliveries field, enforced by the compilers), Climax placement — the lockup is the default, NOT the only composition, Climax selection — what earns the promotion, DNA registry — pick a visual language, not a preset, fx fields (hero block) the engine understands, How to pick (agent) (+3 more)
+
+### Community 1563 - "caret-swap/registry-item.json"
+Cohesion: 0.12
+Nodes (15): author, authorUrl, description, family, files, jobs, license, name (+7 more)
+
+### Community 1564 - "kinetic-center-build/registry-item.json"
+Cohesion: 0.12
+Nodes (15): author, authorUrl, description, family, files, jobs, license, name (+7 more)
+
+### Community 1565 - "page-side-compositing-smoke/run.mjs"
+Cohesion: 0.26
+Nodes (15): assertCanary(), assertCliCanary(), assertExists(), CLI_PATH, fail(), FIXTURE_RUN_DIR, FIXTURE_SRC, HERE (+7 more)
+
+### Community 1566 - ".present"
+Cohesion: 0.04
+Nodes (46): Internal, Failure modes, The knobs that matter, Two outputs that a brief blurs together, Variants, Your first win, Docs & Examples, Features (+38 more)
+
+### Community 1567 - "Typewriter"
+Cohesion: 0.12
+Nodes (15): Appending Words, Audio Visualizer, Backspacing, Basic, Blinking Cursor, Design Guide, Driving the Timeline, Extract Audio Data (+7 more)
+
+### Community 1568 - "ce"
+Cohesion: 0.22
+Nodes (14): Ae(), ce(), $d(), ee(), ha(), ka(), le(), me() (+6 more)
+
+### Community 1569 - "CSS Animations for HyperFrames"
+Cohesion: 0.18
+Nodes (10): Avoid, Basic Pattern, Composition Duration, Contents, Contract, Credits And References, CSS Animations for HyperFrames, Good Uses (+2 more)
+
+### Community 1570 - "hyperframes/skills/music-to-video/scripts/validate-plan.mjs"
+Cohesion: 0.12
+Nodes (12): argv, audiomapPath, blocks, errors, framesWithGroups, hyperframesDir, manifest, raw (+4 more)
+
+### Community 1571 - "Scene Transitions"
+Cohesion: 0.14
+Nodes (13): Animation Rules for Multi-Scene Compositions, Blur Intensity by Energy, Contents, CSS vs Shader, Energy → Primary Transition, Implementation, Mood → Transition Type, Narrative Position (+5 more)
+
+### Community 1572 - "studio-open-counts.mjs"
+Cohesion: 0.16
+Nodes (11): diffCounts(), installInPage(), countCallbacks(), installPageActivity(), startWorkCounters(), executablePath, IDLE_MS, indexHtml (+3 more)
+
+### Community 1573 - "Three.js for HyperFrames"
+Cohesion: 0.13
+Nodes (14): AnimationMixer Pattern, Avoid, Basic Pattern, Camera Cuts Inside One Canvas, Contents, Contract, Credits And References, Good Uses (+6 more)
+
+### Community 1574 - "constructor"
+Cohesion: 0.11
+Nodes (20): az(), constructor(), createBuffer(), createMutable(), createReadonly(), createSampler(), createTexture(), E1() (+12 more)
+
+### Community 1575 - ".agent/skills/remotion-to-hyperframes/assets/test-corpus/tier-1-title-card/remotion-src/package.json"
+Cohesion: 0.13
+Nodes (14): dependencies, react, react-dom, remotion, @remotion/cli, react, react-dom, remotion (+6 more)
+
+### Community 1576 - ".agent/skills/remotion-to-hyperframes/assets/test-corpus/tier-2-multi-scene/remotion-src/package.json"
+Cohesion: 0.13
+Nodes (14): dependencies, react, react-dom, remotion, @remotion/cli, react, react-dom, remotion (+6 more)
+
+### Community 1577 - "Web Animations API for HyperFrames"
+Cohesion: 0.18
+Nodes (10): Avoid, Basic Pattern, Composition Duration, Contents, Contract, Credits And References, Good Uses, Stagger Pattern (+2 more)
+
+### Community 1578 - "Motion blur — shutter smear on any animated element"
+Cohesion: 0.18
+Nodes (10): Contents, Cost, Motion blur — shutter smear on any animated element, Options, Read this part before you blur anything, See also, The contract: one attribute, The failure modes are all silent (+2 more)
+
+### Community 1579 - "Building the picker"
+Cohesion: 0.18
+Nodes (10): Architecture data format, Building the picker, Content tokens in preview_html, Contents, Design Picker, Example architecture object, Mood board data format, Prerequisites (+2 more)
+
+### Community 1580 - "Background Removal"
+Cohesion: 0.18
+Nodes (10): Background Removal, Canonical 3-layer template (plate + content + cutout), Compositing patterns — pick the right one, Device (`--device`), Layer separation (`--background-output`), Output Format, Quality (`--quality`), Text-behind-subject pattern (two non-obvious rules) (+2 more)
+
+### Community 1581 - "🎭 Gobi Video Motion Mimic Workflow (Quy Trình AI KOC Bắt Chước Video Nạp Vào)"
+Cohesion: 0.18
+Nodes (10): 1. Giới thiệu tổng quan, 2. Kiến trúc 5 bước thực thi, 3. Các bố cục hiển thị (HyperFrames Layouts), 4.1. Lệnh cơ bản nạp video cho Gobi bắt chước:, 4.2. Dựng video 3 tầng chuẩn What's up AI:, 4.3. Dựng video so sánh Song Song (Duet Side-by-Side):, 4. Hướng dẫn sử dụng CLI, 5. Sử dụng qua Python API (+2 more)
+
+### Community 1582 - "Cut the Curve — the technique catalog"
+Cohesion: 0.13
+Nodes (14): 1. Zoom-Through (forward), 2. Inverse Zoom-Through (backward), 3. Cut the Curve (default scene boundary), 4. Waterfall Cut (word-by-word cut-the-curve), 5. Rack-Focus Blur-Cut (the visible cut), 6. Waterfall Entry (in-scene arrival — not a seam), 7. Nudge Curve (in-scene group slide — not a seam), Anti-Patterns (+6 more)
+
+### Community 1583 - "Cut the Curve — the technique catalog"
+Cohesion: 0.13
+Nodes (14): 1. Zoom-Through (forward), 2. Inverse Zoom-Through (backward), 3. Cut the Curve (default scene boundary), 4. Waterfall Cut (word-by-word cut-the-curve), 5. Rack-Focus Blur-Cut (the visible cut), 6. Waterfall Entry (in-scene arrival — not a seam), 7. Nudge Curve (in-scene group slide — not a seam), Anti-Patterns (+6 more)
+
+### Community 1584 - "sync-agent-dirs.ts"
+Cohesion: 0.15
+Nodes (12): AgentGlobalDir, BASE_VARS, BaseVar, here, isCheck, next, outPath, parseAgents() (+4 more)
+
+### Community 1585 - "ai/skills/music-to-video/scripts/stage-assets.mjs"
+Cohesion: 0.18
+Nodes (8): argv, destDir, fromAbs, fromDir, hyperframesDir, into, landed, MEDIA
+
+### Community 1586 - "ai/skills/pr-to-video/scripts/fetch-people-avatars.mjs"
+Cohesion: 0.22
+Nodes (8): argv, AVATAR_HOSTS, fetchOne(), isAllowedAvatarUrl(), isUnderProject(), peoplePath, projectDir, TIMEOUT
+
+### Community 1587 - "write"
+Cohesion: 0.08
+Nodes (28): By(), cw(), dispatchThreads(), dispatchWorkgroups(), dS(), Fa(), fork(), Gy() (+20 more)
+
+### Community 1588 - "devDependencies"
+Cohesion: 0.50
+Nodes (4): devDependencies, @types/node, typescript, vitest
+
+### Community 1589 - "compilerOptions"
+Cohesion: 0.13
+Nodes (14): compilerOptions, declaration, esModuleInterop, module, moduleResolution, noUncheckedIndexedAccess, outDir, rootDir (+6 more)
+
+### Community 1590 - "exports"
+Cohesion: 0.16
+Nodes (15): bun, import, types, exports, ./alpha-blit, ./package.json, ./system-memory, ./wsl-host (+7 more)
+
+### Community 1591 - "compilerOptions"
+Cohesion: 0.13
+Nodes (14): compilerOptions, declaration, esModuleInterop, module, moduleResolution, noUncheckedIndexedAccess, outDir, rootDir (+6 more)
+
+### Community 1592 - "HyperFrames Design Review"
+Cohesion: 0.17
+Nodes (11): Animation "Bounce" Overload, Background Pattern is a Ghost, CRITICAL Design Failures, Design Improvements, Design Verdict, First Impression, HyperFrames Design Review, The "Floating Head" Video Problem (+3 more)
+
+### Community 1593 - "Step 0: demo-failure reproduction (baseline, pre-fix)"
+Cohesion: 0.13
+Nodes (14): Confirmed bugs, Design Panel QA Matrix, Full matrix (post selection + U3 fixes, embedded mode, locally built CLI), Inputs (all persist to disk with matched:true/changed:true and survive reload), Instrumentation notes for the full matrix, Notes and paper cuts (not input bugs), S0.1 Master view: click on visible text selects the invisible top overlay, S0.2 Sub-composition view: hover finds the element, click cannot select it (+6 more)
+
+### Community 1594 - "app-showcase/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1595 - "aurora/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, license, name (+6 more)
+
+### Community 1596 - "blob/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, license, name (+6 more)
+
+### Community 1597 - "camcorder-hud/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1598 - "canopy-part-title/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1599 - "chromatic-radial-split/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1600 - "chrome-orb/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, license, name (+6 more)
+
+### Community 1601 - "cinematic-zoom/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1602 - "code-3d-extrude/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1603 - "code-diff/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1604 - "code-highlight/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1605 - "code-morph/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1606 - "code-particle-assemble/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1607 - "code-scroll/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1608 - "code-shader-dissolve/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1609 - "code-slice-hero/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1610 - "code-snippet-apple-terminal-pro/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1611 - "code-typing/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1612 - "color-wheel/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, license, name (+6 more)
+
+### Community 1613 - "cosmic-orb/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, params (+6 more)
+
+### Community 1614 - "cross-warp-morph/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1615 - "cuboid-carousel/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1616 - "domain-warp-dissolve/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1617 - "editorial-flash-overlay/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1618 - "falling-lines/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, license, name (+6 more)
+
+### Community 1619 - "flash-through-white/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1620 - "flowchart/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1621 - "flowchart-vertical/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1622 - "flowing-gradient/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, license, name (+6 more)
+
+### Community 1623 - "fractal-noise/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, license, name (+6 more)
+
+### Community 1624 - "freeze-frame-dressing/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1625 - "frost/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, license, name (+6 more)
+
+### Community 1626 - "frost-sequence-camera-orbit/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1627 - "repository"
+Cohesion: 0.50
+Nodes (4): repository, directory, type, url
+
+### Community 1628 - "gabor-noise/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, license, name (+6 more)
+
+### Community 1629 - "gallery-tunnel/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, params (+6 more)
+
+### Community 1630 - "glass-shard-title/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1631 - "glitch/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1632 - "godrays/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, license, name (+6 more)
+
+### Community 1633 - "goo/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, license, name (+6 more)
+
+### Community 1634 - "gravitational-lens/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1635 - "halftone-field/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, params (+6 more)
+
+### Community 1636 - "heatmap/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, license, name (+6 more)
+
+### Community 1637 - "hologram/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, license, name (+6 more)
+
+### Community 1638 - "holographic/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, license, name (+6 more)
+
+### Community 1639 - "instagram-follow/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1640 - "lens-flare/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, license, name (+6 more)
+
+### Community 1641 - "light-edge/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, license, name (+6 more)
+
+### Community 1642 - "light-leak/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1643 - "liquid-metal/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, license, name (+6 more)
+
+### Community 1644 - "lt-neon-border/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, params (+6 more)
+
+### Community 1645 - "macos-notification/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1646 - "marble/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, license, name (+6 more)
+
+### Community 1647 - "mesh-gradient/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, license, name (+6 more)
+
+### Community 1648 - "nebula/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, license, name (+6 more)
+
+### Community 1649 - "obsidian/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, license, name (+6 more)
+
+### Community 1650 - "orbit-card/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1651 - "organic-light-leak-overlay/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1652 - "plasma/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, license, name (+6 more)
+
+### Community 1653 - "plastic/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, license, name (+6 more)
+
+### Community 1654 - "prism/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, license, name (+6 more)
+
+### Community 1655 - "rack-focus/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, params (+6 more)
+
+### Community 1656 - "reddit-post/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1657 - "ridged-burn/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1658 - "ripple-waves/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1659 - "ripples/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, license, name (+6 more)
+
+### Community 1660 - "sdf-iris/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1661 - "sine-wave/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, license, name (+6 more)
+
+### Community 1662 - "spain-map/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1663 - "spiral-galaxy/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, params (+6 more)
+
+### Community 1664 - "spiral/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, license, name (+6 more)
+
+### Community 1665 - "spotify-card/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1666 - "strands/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, license, name (+6 more)
+
+### Community 1667 - "stripes/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, license, name (+6 more)
+
+### Community 1668 - "sun-burst/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, license, name (+6 more)
+
+### Community 1669 - "swirl/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, license, name (+6 more)
+
+### Community 1670 - "swirl-vortex/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1671 - "thermal-distortion/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1672 - "thin-film/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, license, name (+6 more)
+
+### Community 1673 - "tiktok-follow/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1674 - "transitions-3d/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1675 - "transitions-blur/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1676 - "transitions-cover/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1677 - "transitions-destruction/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1678 - "transitions-dissolve/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1679 - "transitions-distortion/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1680 - "transitions-grid/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1681 - "transitions-light/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1682 - "transitions-mechanical/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1683 - "transitions-other/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1684 - "transitions-push/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1685 - "transitions-radial/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1686 - "transitions-scale/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1687 - "ui-3d-reveal/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1688 - "us-map-bubble/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1689 - "us-map-flow/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1690 - "us-map-hex/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1691 - "us-map/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1692 - "vfx-anamorphic-flare/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, params (+6 more)
+
+### Community 1693 - "voronoi/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, license, name (+6 more)
+
+### Community 1694 - "water/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, license, name (+6 more)
+
+### Community 1695 - "waveform/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, license, name (+6 more)
+
+### Community 1696 - "whip-pan/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1697 - "wireframe-portal-title/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1698 - "world-map/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1699 - "worley-noise/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, license, name (+6 more)
+
+### Community 1700 - "x-post/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1701 - "yt-lower-third/registry-item.json"
+Cohesion: 0.13
+Nodes (14): description, dimensions, height, width, duration, files, name, preview (+6 more)
+
+### Community 1702 - "check-pr-captures.test.mjs"
+Cohesion: 0.14
+Nodes (6): bytesByUrl, changed, clean, dupes(), forkEnv, fromMap()
+
+### Community 1703 - "Patterns that work with caveats"
+Cohesion: 0.18
+Nodes (11): Code-split components (`React.lazy`), Custom `presentation` in `<TransitionSeries>`, `<Loop>` with stateful children, Patterns that always work, Patterns that work with caveats, React patterns the skill refuses, Remotion's `<Img>` with crossOrigin, Reporting gaps to the user (+3 more)
+
+### Community 1704 - "File-Specific Reviews"
+Cohesion: 0.18
+Nodes (10): Compliance Checklist, compositions/data-graphics.html, compositions/grid-bg.html, compositions/intro-seq.html, Critical Issues, Empty Tween for Duration, Executive Summary, File-Specific Reviews (+2 more)
+
+### Community 1705 - "Three.js for HyperFrames"
+Cohesion: 0.13
+Nodes (14): AnimationMixer Pattern, Avoid, Basic Pattern, Camera Cuts Inside One Canvas, Contents, Contract, Credits And References, Good Uses (+6 more)
+
+### Community 1706 - "hyperframes/skills/pr-to-video/scripts/audio.mjs"
+Cohesion: 0.24
+Nodes (17): DEFAULT_ENGINE, flag(), HERE, neutralPath(), pad2(), parseScript(), previousHostAudio(), runEngine() (+9 more)
+
+### Community 1707 - "hyperframes/skills/remotion-to-hyperframes/assets/test-corpus/tier-1-title-card/remotion-src/package.json"
+Cohesion: 0.13
+Nodes (14): dependencies, react, react-dom, remotion, @remotion/cli, react, react-dom, remotion (+6 more)
+
+### Community 1708 - "hyperframes/skills/remotion-to-hyperframes/assets/test-corpus/tier-2-multi-scene/remotion-src/package.json"
+Cohesion: 0.13
+Nodes (14): dependencies, react, react-dom, remotion, @remotion/cli, react, react-dom, remotion (+6 more)
+
+### Community 1709 - "op_or"
+Cohesion: 0.50
+Nodes (4): bnOr(), bnpFromNumber(), bnSetBit(), op_or()
+
+### Community 1710 - "Sub-Compositions"
+Cohesion: 0.14
+Nodes (13): Animations Inside Sub-Compositions, Common pitfalls that pass static checks but break at render, File shape, Host Wiring, Mental model — what the runtime actually does, Per-Instance Variables, Pitfall 1 — `<style>` in `<head>` instead of inside `<template>`, Pitfall 2 — Host `data-composition-id` ≠ inner template `data-composition-id` (+5 more)
+
+### Community 1711 - "Visual Style Library"
+Cohesion: 0.14
+Nodes (13): 1. Swiss Pulse — Josef Müller-Brockmann, 2. Velvet Standard — Massimo Vignelli, 3. Deconstructed — Neville Brody, 4. Maximalist Type — Paula Scher, 5. Data Drift — Refik Anadol, 6. Soft Signal — Stefan Sagmeister, 7. Folk Frequency — Eduardo Terrazas, 8. Shadow Cut — Hans Hillmann (+5 more)
+
+### Community 1712 - ".agent/skills/hyperframes/scripts/lib/frame-packets-core.mjs"
+Cohesion: 0.29
+Nodes (13): blueprintId(), buildFramePackets(), buildRolePayload(), citedRules(), escapeRegExp(), field(), flag(), frameId() (+5 more)
+
+### Community 1713 - ".agent/skills/media-use/scripts/eval.mjs"
+Cohesion: 0.18
+Nodes (13): countAssetFiles(), walk(), escapeHtml(), evalBlock(), generateReport(), outPath, REPO_ROOT, report (+5 more)
+
+### Community 1714 - "hyperframes/skills/product-launch-video/scripts/lib/frame-packets-core.mjs"
+Cohesion: 0.24
+Nodes (14): blueprintId(), buildFramePackets(), buildRolePayload(), citedRules(), escapeRegExp(), field(), flag(), frameId() (+6 more)
+
+### Community 1715 - "creator-editing-recipes.test.mjs"
+Cohesion: 0.22
+Nodes (5): addMediaSection(), CLIP_ATTRS, read(), studioDefaultSeconds(), TWEEN_SCANNED
+
+### Community 1716 - "Remotion → HyperFrames API Map"
+Cohesion: 0.18
+Nodes (11): Composition root, Distributed rendering, Fonts, Media, Parameters, React patterns, Reading this table, Remotion → HyperFrames API Map (+3 more)
+
+### Community 1717 - "Sequencing translation: Sequence, Series, Composition root"
+Cohesion: 0.18
+Nodes (11): `<AbsoluteFill>` → positioned div, `<Composition>` → root `#stage`, Crossfading scene boundaries, `<Freeze>`, `<Loop>`, Multiple parallel tracks, Nested `<Sequence>` flattens, `<Sequence>` → sub-composition host (+3 more)
+
+### Community 1718 - "Eval: how to validate a translation end-to-end"
+Cohesion: 0.20
+Nodes (10): CI integration, Critical: encoder config, Eval: how to validate a translation end-to-end, Per-fixture flow, Reading `diff/summary.json`, The three scripts, Threshold rule of thumb, Validated tier thresholds (+2 more)
+
+### Community 1719 - "Typographic moves — a palette, not a cage"
+Cohesion: 0.20
+Nodes (9): Anti-patterns the DNA protects against, Example: memory-wall original, expressed in freeform, Named moves — pick per group, Narrative arcs (suggestions, not required), Position + layer vocabulary, Size vs text length — DO THIS BEFORE PICKING SIZE, Sizing discipline (frame-height-relative), Typographic moves — a palette, not a cage (+1 more)
+
+### Community 1720 - "items"
+Cohesion: 0.15
+Nodes (11): Paste it into your composition, Related topics, Variables, Paste it into your composition, Related topics, Variables, items(), Content override (items slot) (+3 more)
+
+### Community 1721 - "media-and-audio.mdx"
+Cohesion: 0.14
+Nodes (13): Background music, Background removal (transparent cutouts), Bring any footage, Captions and transcription, Gemini voiceover, Pace reveals to the narration, Related topics, Say what "no sound" actually means (+5 more)
+
+### Community 1722 - "Easing, Stagger, and Function-Based Values"
+Cohesion: 0.20
+Nodes (9): Contents, Defaults, Easing, Easing, Stagger, and Function-Based Values, Easing Vocabulary (character & mood), Function-Based Values, gsap.matchMedia (preview only), Spring Eases (baked physics, seek-safe) (+1 more)
+
+### Community 1723 - "Viewport Change (Virtual Camera)"
+Cohesion: 0.20
+Nodes (10): Contents, Critical Constraints, Extreme range — 4–12× outward (workspace reveal), How It Works, Recipe, Scale Value Guide, See also, Values (+2 more)
+
+### Community 1724 - "compositionCensus.ts"
+Cohesion: 0.26
+Nodes (12): anyElementHasInlineStyle(), anyElementHasInlineStyleValue(), buildCompositionCensus(), CompositionCensus, detectGsap(), EMPTY_VALUES, emptyCensus(), hasInlineStyleValueMatching() (+4 more)
+
+### Community 1725 - "Composition Patterns"
+Cohesion: 0.20
+Nodes (9): A. Content scene (default), B. Host media + main-timeline driver (one pattern for `<video>`/`<audio>`), C. Multi-scene merge, Composition Patterns, D. Audio at root, reactive visual inside, Modular Orchestrator Pattern, Naming Conventions, Sub-Composition Archetypes (+1 more)
+
+### Community 1726 - "core/package.json"
+Cohesion: 0.14
+Nodes (13): description, files, main, name, publishConfig, access, repository, directory (+5 more)
+
+### Community 1727 - "exports"
+Cohesion: 0.14
+Nodes (14): bun, import, node, types, exports, ./audible-video, ./runtime, ./runtime/position-edits (+6 more)
+
+### Community 1728 - "lint-runtime-preview-guards.ts"
+Cohesion: 0.22
+Nodes (13): BAN_SPECS, BanHit, BanSpec, checkBans(), checkGuards(), collectSourceFiles(), GUARD_SPECS, GuardCheckResult (+5 more)
+
+### Community 1729 - "compilerOptions"
+Cohesion: 0.14
+Nodes (13): compilerOptions, declaration, esModuleInterop, module, moduleResolution, noUncheckedIndexedAccess, outDir, rootDir (+5 more)
+
+### Community 1730 - "compilerOptions"
+Cohesion: 0.14
+Nodes (13): compilerOptions, declaration, esModuleInterop, module, moduleResolution, noUncheckedIndexedAccess, outDir, rootDir (+5 more)
+
+### Community 1731 - "gen.mjs"
+Cohesion: 0.24
+Nodes (8): Paste it into your composition, Related topics, Variables, html(), clips(), comp(), DUR, single()
+
+### Community 1732 - "compilerOptions"
+Cohesion: 0.14
+Nodes (13): compilerOptions, allowImportingTsExtensions, esModuleInterop, lib, module, moduleResolution, noEmit, resolveJsonModule (+5 more)
+
+### Community 1733 - "test-classification.mjs"
+Cohesion: 0.24
+Nodes (9): noNetwork, tests, vitestFiles, classifyTestSource(), collectTestFiles(), discoverProducerTests(), INTEGRATION_TEST_FILES, PRODUCER_ROOT (+1 more)
+
+### Community 1734 - "test-hyperframe-runtime-parity.ts"
+Cohesion: 0.20
+Nodes (8): distDir, iifePath, iifeSource, manifest, manifestPath, manifestRaw, runtimeSha, scriptsDir
+
+### Community 1735 - "PR to HyperFrames"
+Cohesion: 0.20
+Nodes (10): PR to HyperFrames, Quick Reference, Step 0: Setup, Step 1: Ingest the PR (no capture), Step 2: Design System, Step 3.1: Audio, Step 3: Storyboard and Script, Step 4: Frame Visual Design (+2 more)
+
+### Community 1736 - "sdk/package.json"
+Cohesion: 0.14
+Nodes (13): description, files, happy-dom, @hyperframes/core, @hyperframes/parsers, linkedom, @types/node, typescript (+5 more)
+
+### Community 1737 - "exports"
+Cohesion: 0.16
+Nodes (14): bun, import, types, bun, import, types, bun, import (+6 more)
+
+### Community 1738 - "compilerOptions"
+Cohesion: 0.14
+Nodes (13): compilerOptions, esModuleInterop, isolatedModules, lib, module, moduleResolution, noEmit, noUncheckedIndexedAccess (+5 more)
+
+### Community 1739 - "compilerOptions"
+Cohesion: 0.14
+Nodes (13): compilerOptions, declaration, esModuleInterop, module, moduleResolution, noUncheckedIndexedAccess, outDir, rootDir (+5 more)
+
+### Community 1740 - "OpenInDesktopButton.dom.test.tsx"
+Cohesion: 0.12
+Nodes (8): cardButton(), copied, guide(), MAC, noApp, showToast, stepState(), track
+
+### Community 1741 - "compilerOptions"
+Cohesion: 0.14
+Nodes (13): compilerOptions, declaration, esModuleInterop, module, moduleResolution, noUncheckedIndexedAccess, outDir, rootDir (+5 more)
+
+### Community 1742 - "unwrap"
+Cohesion: 0.05
+Nodes (55): appendToTrace(), areEqual(), beginRenderPass(), Bf(), $c(), CU(), cz(), D4() (+47 more)
+
+### Community 1743 - "ai-answer-rank/registry-item.json"
+Cohesion: 0.14
+Nodes (13): author, description, dimensions, height, width, duration, files, name (+5 more)
+
+### Community 1744 - "bar-chart-race/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, dimensions, height, width, duration, files, name, params (+5 more)
+
+### Community 1745 - "carousel-circle-1/registry-item.json"
+Cohesion: 0.14
+Nodes (13): author, description, dimensions, height, width, duration, files, name (+5 more)
+
+### Community 1746 - "carousel-circle-2/registry-item.json"
+Cohesion: 0.14
+Nodes (13): author, description, dimensions, height, width, duration, files, name (+5 more)
+
+### Community 1747 - "carousel-circle-3/registry-item.json"
+Cohesion: 0.14
+Nodes (13): author, description, dimensions, height, width, duration, files, name (+5 more)
+
+### Community 1748 - "carousel-circle-4/registry-item.json"
+Cohesion: 0.14
+Nodes (13): author, description, dimensions, height, width, duration, files, name (+5 more)
+
+### Community 1749 - "carousel-circle-5/registry-item.json"
+Cohesion: 0.14
+Nodes (13): author, description, dimensions, height, width, duration, files, name (+5 more)
+
+### Community 1750 - "carousel-orbit-1/registry-item.json"
+Cohesion: 0.14
+Nodes (13): author, description, dimensions, height, width, duration, files, name (+5 more)
+
+### Community 1751 - "carousel-orbit-2/registry-item.json"
+Cohesion: 0.14
+Nodes (13): author, description, dimensions, height, width, duration, files, name (+5 more)
+
+### Community 1752 - "carousel-orbit-3/registry-item.json"
+Cohesion: 0.14
+Nodes (13): author, description, dimensions, height, width, duration, files, name (+5 more)
+
+### Community 1753 - "carousel-orbit-4/registry-item.json"
+Cohesion: 0.14
+Nodes (13): author, description, dimensions, height, width, duration, files, name (+5 more)
+
+### Community 1754 - "carousel-orbit-5/registry-item.json"
+Cohesion: 0.14
+Nodes (13): author, description, dimensions, height, width, duration, files, name (+5 more)
+
+### Community 1755 - "carousel-path-1/registry-item.json"
+Cohesion: 0.14
+Nodes (13): author, description, dimensions, height, width, duration, files, name (+5 more)
+
+### Community 1756 - "carousel-path-2/registry-item.json"
+Cohesion: 0.14
+Nodes (13): author, description, dimensions, height, width, duration, files, name (+5 more)
+
+### Community 1757 - "carousel-path-3/registry-item.json"
+Cohesion: 0.14
+Nodes (13): author, description, dimensions, height, width, duration, files, name (+5 more)
+
+### Community 1758 - "carousel-path-4/registry-item.json"
+Cohesion: 0.14
+Nodes (13): author, description, dimensions, height, width, duration, files, name (+5 more)
+
+### Community 1759 - "carousel-path-5/registry-item.json"
+Cohesion: 0.14
+Nodes (13): author, description, dimensions, height, width, duration, files, name (+5 more)
+
+### Community 1760 - "carousel-text-circle-1/registry-item.json"
+Cohesion: 0.14
+Nodes (13): author, description, dimensions, height, width, duration, files, name (+5 more)
+
+### Community 1761 - "carousel-text-circle-2/registry-item.json"
+Cohesion: 0.14
+Nodes (13): author, description, dimensions, height, width, duration, files, name (+5 more)
+
+### Community 1762 - "carousel-text-circle-3/registry-item.json"
+Cohesion: 0.14
+Nodes (13): author, description, dimensions, height, width, duration, files, name (+5 more)
+
+### Community 1763 - "carousel-text-circle-4/registry-item.json"
+Cohesion: 0.14
+Nodes (13): author, description, dimensions, height, width, duration, files, name (+5 more)
+
+### Community 1764 - "carousel-text-circle-5/registry-item.json"
+Cohesion: 0.14
+Nodes (13): author, description, dimensions, height, width, duration, files, name (+5 more)
+
+### Community 1765 - "carousel-vision-1/registry-item.json"
+Cohesion: 0.14
+Nodes (13): author, description, dimensions, height, width, duration, files, name (+5 more)
+
+### Community 1766 - "carousel-vision-2/registry-item.json"
+Cohesion: 0.14
+Nodes (13): author, description, dimensions, height, width, duration, files, name (+5 more)
+
+### Community 1767 - "carousel-vision-3/registry-item.json"
+Cohesion: 0.14
+Nodes (13): author, description, dimensions, height, width, duration, files, name (+5 more)
+
+### Community 1768 - "carousel-vision-4/registry-item.json"
+Cohesion: 0.14
+Nodes (13): author, description, dimensions, height, width, duration, files, name (+5 more)
+
+### Community 1769 - "carousel-vision-5/registry-item.json"
+Cohesion: 0.14
+Nodes (13): author, description, dimensions, height, width, duration, files, name (+5 more)
+
+### Community 1771 - "mix"
+Cohesion: 0.06
+Nodes (34): Add it to your video, Change how it looks, Related topics, Variables, Add it to your video, Related topics, Variables, Dynamics — how level behaves over time (+26 more)
+
+### Community 1772 - "lottie-character-walk/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, dimensions, height, width, duration, files, license, name (+5 more)
+
+### Community 1773 - "engineModePageComposite.test.ts"
+Cohesion: 0.13
+Nodes (8): PAGE_COMPOSITOR_BUILD_CANARY, PAGE_COMPOSITOR_CANVAS_ID, FakeAnimation, FakeEl, FakeScene, fakeWebGl(), installTransparentInsetFilm(), installWithHiddenScenes()
+
+### Community 1774 - "Parameter translation: Zod schemas, defaultProps, calculateMetadata"
+Cohesion: 0.22
+Nodes (9): Async calculateMetadata (NOT translatable), Boolean props, Default props, Nested object / array props, Numeric props that need typed parsing, Parameter translation: Zod schemas, defaultProps, calculateMetadata, Sync calculateMetadata (translatable), When the composition uses props for computed prop derivation (+1 more)
+
+### Community 1775 - "declareStyleFontFamilies"
+Cohesion: 0.36
+Nodes (8): collectDeclaredFontFamilies(), declareLinkedFontFamilies(), declareStyleFontFamilies(), fontFaceRuleFamily(), googleFontsUrlFamilies(), importRuleUrl(), isUnconditionalMedia(), isUnconditionalStylesheet()
+
+### Community 1776 - "week-in-merges/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, dimensions, height, width, duration, files, name, params (+5 more)
+
+### Community 1777 - "weight-wave/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, dimensions, height, width, duration, files, license, name (+5 more)
+
+### Community 1778 - "ascii-render-pass/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1779 - "ascii-trail-reveal/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1780 - "avatar-cloud/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1781 - "beat-accent/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1782 - "before-after-wipe/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1783 - "camera-scan-gate/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1784 - "char-slam-explode/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1785 - "chart-story/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1786 - "code-terminal-run/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1787 - "comparison-split/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1788 - "constellation-hub/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1789 - "count-up/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1790 - "cta-close/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1791 - "cta-lockup/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1792 - "cursor-glyph-trail/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1793 - "cut-the-curve/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1794 - "echo-trail/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1795 - "facet-morph/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1796 - "focus-swap/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1797 - "gesture-tap/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1798 - "gloss-sweep/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1799 - "grid-card-assemble/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1800 - "halftone-dissolve/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1801 - "headline-slam/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1802 - "icon-morph-beat/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1803 - "ink-bleed-reveal/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1804 - "iris-reveal/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1805 - "kinetic-type-swap/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1806 - "light-sweep-pass/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1807 - "line-swap/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1808 - "logo-brand-close/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1809 - "logo-sting/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1810 - "marker-highlight/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1811 - "match-cut/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1812 - "modal-morph/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1813 - "morph-swap/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1814 - "native-notification-pop/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1815 - "notification-stack/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1816 - "offset-path-traveler/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1817 - "ordered-dither-pass/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1818 - "outline-draw/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1819 - "particle-image-reveal/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1820 - "particle-text-dissolve/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1821 - "per-word-rise/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1822 - "press-ripple/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1823 - "pull-to-refresh/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1824 - "radial-surround/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1825 - "rubber-band-bumper/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1826 - "scramble-reveal/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1827 - "scroll-camera-story/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1828 - "segmentation-flood/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1829 - "slit-scan-reveal/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1830 - "soft-blob-touch/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1831 - "split-tilt-cards/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1832 - "spring-pop/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1833 - "spring-stack-shuffle/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1834 - "star-rating-fill/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1835 - "state-chip-rail/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1836 - "stitched-text-draw/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1837 - "stop-motion-cadence/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1838 - "store-badge-lockup/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1839 - "svg-stroke-trace/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1840 - "telemetry-hud/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1841 - "testimonial-card/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1842 - "testimonial-proof-card/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1843 - "text-match-cut/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1844 - "titlecard-lockup/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1845 - "trust-strip/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1846 - "type-match-cut/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1847 - "typed-prompt/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1848 - "ui-focus-zoom/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1849 - "variable-font-flex/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1850 - "velocity-throw-snap/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1851 - "vox-annotate/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1852 - "whip-pan-cut/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1853 - "whiteboard-ink/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1854 - "wordmark-tiles/registry-item.json"
+Cohesion: 0.14
+Nodes (13): description, evidence, family, files, jobs, name, profile, $schema (+5 more)
+
+### Community 1855 - "clawhub-sync.mjs"
+Cohesion: 0.28
+Nodes (12): failedSkills(), latestTag(), main(), OWNER, parsedOutput(), republishTaken(), runClawhub(), SKIPPABLE_TAKEN (+4 more)
+
+### Community 1856 - "Timing translation: interpolate, spring, easing"
+Cohesion: 0.22
+Nodes (9): Conversion: frames → seconds, Custom count-up / number tweens, interpolate driving non-numeric properties, interpolate — linear, interpolate — multi-segment, interpolate with custom easing, spring → GSAP back.out, Stagger via per-instance prop (+1 more)
+
+### Community 1857 - "compilerOptions"
+Cohesion: 0.14
+Nodes (13): compilerOptions, allowImportingTsExtensions, allowJs, esModuleInterop, module, moduleResolution, noEmit, noUncheckedIndexedAccess (+5 more)
+
+### Community 1858 - "Sub-Compositions"
+Cohesion: 0.14
+Nodes (13): Animations Inside Sub-Compositions, Common pitfalls that pass static checks but break at render, File shape, Host Wiring, Mental model — what the runtime actually does, Per-Instance Variables, Pitfall 1 — `<style>` in `<head>` instead of inside `<template>`, Pitfall 2 — Host `data-composition-id` ≠ inner template `data-composition-id` (+5 more)
+
+### Community 1859 - "Visual Style Library"
+Cohesion: 0.14
+Nodes (13): 1. Swiss Pulse — Josef Müller-Brockmann, 2. Velvet Standard — Massimo Vignelli, 3. Deconstructed — Neville Brody, 4. Maximalist Type — Paula Scher, 5. Data Drift — Refik Anadol, 6. Soft Signal — Stefan Sagmeister, 7. Folk Frequency — Eduardo Terrazas, 8. Shadow Cut — Hans Hillmann (+5 more)
+
+### Community 1860 - "hyperframes/skills/hyperframes/scripts/lib/frame-packets-core.mjs"
+Cohesion: 0.29
+Nodes (13): blueprintId(), buildFramePackets(), buildRolePayload(), citedRules(), escapeRegExp(), field(), flag(), frameId() (+5 more)
+
+### Community 1861 - "🎬 TOPIC 02: VIDEO PRODUCTION & AUTO-EDITOR PIPELINE"
+Cohesion: 0.22
+Nodes (8): 1. MỤC ĐÍCH & Ý NGHĨA TRONG BỨC TRANH VMAX, 2. KIẾN TRÚC XỬ LÝ VIDEO, 3.1. Core Video Engine, 3.2. AI Concat Auto Editor & Bridge, 3.3. Quy chuẩn TikTok Safe Zone, 3. CÁC THÀNH PHẦN KỸ THUẬT, 4. CÁC FILE LIÊN QUAN CHÍNH, 🎬 TOPIC 02: VIDEO PRODUCTION & AUTO-EDITOR PIPELINE
+
+### Community 1862 - "hyperframes/skills/media-use/scripts/eval.mjs"
+Cohesion: 0.18
+Nodes (13): countAssetFiles(), walk(), escapeHtml(), evalBlock(), generateReport(), outPath, REPO_ROOT, report (+5 more)
+
+### Community 1863 - "write"
+Cohesion: 0.09
+Nodes (27): 0(), 3(), castElement(), dispatchThreads(), dispatchWorkgroups(), Fa(), fork(), g() (+19 more)
+
+### Community 1864 - "Caption Template — Anatomy (the shared engine)"
+Cohesion: 0.22
+Nodes (8): 1 · Asset prep (two CLI calls), 2 · The matte sandwich (HTML), 3 · Base CSS (layout · z-order · sizing), 4 · One paused GSAP timeline (the loop, made seek-safe), 5 · How to choose values, Caption Template — Anatomy (the shared engine), Critical constraints (HyperFrames), Pairs with HF skills
+
+### Community 1865 - "Component quality bar"
+Cohesion: 0.15
+Nodes (12): Calibration, Checklist, Component quality bar, Duplicates, which one survives, Fatal, cut the item, Fixable, keep and repair, How an audit runs, Mechanical first pass (+4 more)
+
+### Community 1866 - ".agent/skills/pr-to-video/scripts/fetch-pr.mjs"
+Cohesion: 0.15
+Nodes (9): argv, diff, diffPath, FIELDS, m, outDir, prJsonPath, prRef (+1 more)
+
+### Community 1867 - "compilerOptions"
+Cohesion: 0.15
+Nodes (12): compilerOptions, esModuleInterop, forceConsistentCasingInFileNames, isolatedModules, jsx, module, moduleResolution, resolveJsonModule (+4 more)
+
+### Community 1868 - "compilerOptions"
+Cohesion: 0.15
+Nodes (12): compilerOptions, esModuleInterop, forceConsistentCasingInFileNames, isolatedModules, jsx, module, moduleResolution, resolveJsonModule (+4 more)
+
+### Community 1869 - "compilerOptions"
+Cohesion: 0.15
+Nodes (12): compilerOptions, esModuleInterop, forceConsistentCasingInFileNames, isolatedModules, jsx, module, moduleResolution, resolveJsonModule (+4 more)
+
+### Community 1870 - "Remotion to HyperFrames"
+Cohesion: 0.18
+Nodes (11): How to grade your own translation, Overview, Remotion to HyperFrames, Step 1: Lint the source, Step 2: Plan the translation, Step 3: Generate the HF composition, Step 4: Validate, Step 5: Document gaps (+3 more)
+
+### Community 1871 - "Ambient Glow Bloom"
+Cohesion: 0.22
+Nodes (9): Ambient Glow Bloom, Contents, Critical Constraints, How It Works, Recipe, See also, Shimmer sweep (text-clipped status-phrase working-state), Values (+1 more)
+
+### Community 1872 - "ASR Keyword Glow"
+Cohesion: 0.25
+Nodes (9): ASR Keyword Glow, Contents, Critical Constraints, How It Works, Recipe, See also, Values, Variations (+1 more)
+
+### Community 1873 - "hyperframes/skills/product-launch-video/scripts/audio.mjs"
+Cohesion: 0.25
+Nodes (16): DEFAULT_ENGINE, flag(), HERE, neutralPath(), pad2(), parseScript(), previousHostAudio(), runEngine() (+8 more)
+
+### Community 1874 - "Card Morph Anchor"
+Cohesion: 0.22
+Nodes (9): Card Morph Anchor, Contents, Critical Constraints, How It Works, Morph channels, Recipe, See also, Values (+1 more)
+
+### Community 1875 - "Coordinate Target Zoom"
+Cohesion: 0.22
+Nodes (9): Contents, Coordinate Target Zoom, Critical Constraints, Getting the offset, How It Works, Recipe, See also, Values (+1 more)
+
+### Community 1876 - "Dynamic Content Sequencing"
+Cohesion: 0.22
+Nodes (9): Accelerating cadence (geometric hold decay), Contents, Critical Constraints, Dynamic Content Sequencing, How It Works, Recipe, See also, Values (+1 more)
+
+### Community 1877 - "Multi-Phase Camera"
+Cohesion: 0.22
+Nodes (9): Contents, Critical Constraints, How It Works, Multi-Phase Camera, Phase Patterns, Recipe, See also, Values (+1 more)
+
+### Community 1878 - "Visualization Registry"
+Cohesion: 0.15
+Nodes (11): Adding a surface, Checklist scene (last resort), Known surfaces (ui-recreate), Proven analogs (ui-analog), Visualization Registry, Adding a surface, Checklist scene (last resort), Known surfaces (ui-recreate) (+3 more)
+
+### Community 1879 - ".agents/skills/changelog-video/scripts/align-captions.mjs"
+Cohesion: 0.19
+Nodes (10): argv, close(), consume(), lev(), norm(), outFile, outLines, script (+2 more)
+
+### Community 1880 - "Pipeline"
+Cohesion: 0.15
+Nodes (12): 0 · Bootstrap the project from THIS skill's assets — non-negotiable, 1 · Parse + editorial cut, 2 · Visualization routing, 3 · Two-layer script (spoken vs display), 4 · VO — Annie (HeyGen, pinned), 5 · Build, 6 · Gates (all green before presenting), Anti-patterns (+4 more)
+
+### Community 1881 - ".claude/skills/changelog-video/scripts/align-captions.mjs"
+Cohesion: 0.19
+Nodes (10): argv, close(), consume(), lev(), norm(), outFile, outLines, script (+2 more)
+
+### Community 1882 - "Pipeline"
+Cohesion: 0.15
+Nodes (12): 0 · Bootstrap the project from THIS skill's assets — non-negotiable, 1 · Parse + editorial cut, 2 · Visualization routing, 3 · Two-layer script (spoken vs display), 4 · VO — Annie (HeyGen, pinned), 5 · Build, 6 · Gates (all green before presenting), Anti-patterns (+4 more)
+
+### Community 1883 - "rendering.mdx"
+Cohesion: 0.15
+Nodes (12): Batch and cloud work, Choose a format, Choose quality and frame rate, HLS streaming output, If rendering fails, Input video codecs, Local or Docker, Related topics (+4 more)
+
+### Community 1884 - "hyperframes/skills/hyperframes/SKILL.md"
+Cohesion: 0.03
+Nodes (50): changedFiles(), Capability menu — what HyperFrames can bring to a video, Genre lenses — the shipped workflows' taste, borrowable, The design ask — have it, pick it, or leave it, Adapt orthogonal inputs first, BRIEF.md frontmatter — the carry-away artifact, The eight steps, The intent layer — one conversation, before any workflow runs (+42 more)
+
+### Community 1885 - "3D Camera Flight"
+Cohesion: 0.25
+Nodes (8): 3D Camera Flight, Contents, Critical Constraints, How It Works, Recipe, See also, Values, Variations
+
+### Community 1886 - "Split Tilt Cards"
+Cohesion: 0.22
+Nodes (8): Contents, Critical Constraints, How It Works, Recipe, See also, Split Tilt Cards, Values, Variations
+
+### Community 1887 - "bnAndNot"
+Cohesion: 0.67
+Nodes (3): bnAndNot(), bnClearBit(), op_andnot()
+
+### Community 1888 - "compilerOptions"
+Cohesion: 0.15
+Nodes (12): compilerOptions, declaration, esModuleInterop, lib, module, moduleResolution, outDir, rootDir (+4 more)
+
+### Community 1889 - "3D Text Depth Layers"
+Cohesion: 0.25
+Nodes (8): 3D Text Depth Layers, Contents, Critical Constraints, How It Works, Recipe, See also, Values, Variations
+
+### Community 1890 - "HyperFrames Design Review"
+Cohesion: 0.15
+Nodes (12): Caption Box Suffocation, CRITICAL Design Failures, Design Improvements, Design Verdict, First Impression, HyperFrames Design Review, Robotic Graphic Entrances, The "Drunken" A-Roll Framing (+4 more)
+
+### Community 1891 - "HyperFrames Design Review"
+Cohesion: 0.15
+Nodes (12): CRITICAL Design Failures, Design Improvements, Design Verdict, First Impression, HyperFrames Design Review, Robotic Motion, Static Grid Background, The "Floating Box" Syndrome (+4 more)
+
+### Community 1892 - "HyperFrames Design Review"
+Cohesion: 0.15
+Nodes (12): CRITICAL Design Failures, Design Improvements, Design Verdict, First Impression, HyperFrames Design Review, Layout Suffocation, Robotic Motion Curves, Static Background Slashes (+4 more)
+
+### Community 1893 - "HyperFrames Design Review"
+Cohesion: 0.15
+Nodes (12): A-Roll Framing, Caption Box Laziness, CRITICAL Design Failures, Design Improvements, Design Verdict, First Impression, HyperFrames Design Review, Static Background Transitions (+4 more)
+
+### Community 1894 - "compilerOptions"
+Cohesion: 0.15
+Nodes (12): compilerOptions, declaration, esModuleInterop, lib, module, moduleResolution, outDir, rootDir (+4 more)
+
+### Community 1895 - "beat-freeze-cut/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, dimensions, height, width, duration, files, name, params (+4 more)
+
+### Community 1896 - "camera-dolly-zoom/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, dimensions, height, width, duration, files, name, $schema (+4 more)
+
+### Community 1897 - "hw-write-title/registry-item.json"
+Cohesion: 0.15
+Nodes (12): controls, description, dimensions, height, width, duration, files, name (+4 more)
+
+### Community 1898 - ".agent/skills/hyperframes-creative/references/house-style.md"
+Cohesion: 0.05
+Nodes (28): Bold / Energetic, Clean / Corporate, Dark / Premium, Jewel / Rich, Monochrome, Nature / Earth, Neon / Electric, Pastel / Soft (+20 more)
+
+### Community 1899 - "lower-third-bild/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, dimensions, height, width, duration, files, name, $schema (+4 more)
+
+### Community 1900 - "bnXor"
+Cohesion: 0.67
+Nodes (3): bnFlipBit(), bnXor(), op_xor()
+
+### Community 1901 - "split-flap-board/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, dimensions, height, width, duration, files, name, $schema (+4 more)
+
+### Community 1902 - "agent-cursor/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, family, files, jobs, name, profile, $schema, syncPoints (+4 more)
+
+### Community 1903 - "aurora-drift/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, evidence, family, files, jobs, name, profile, $schema (+4 more)
+
+### Community 1904 - "beat-pulse-background/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, evidence, family, files, jobs, name, profile, $schema (+4 more)
+
+### Community 1905 - "beat-timeline/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, evidence, family, files, jobs, name, profile, $schema (+4 more)
+
+### Community 1906 - "browser-device-stage/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, evidence, family, files, jobs, name, profile, $schema (+4 more)
+
+### Community 1907 - "conic-progress-ring/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, evidence, family, files, jobs, name, profile, $schema (+4 more)
+
+### Community 1908 - "cursor-annotate/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, family, files, jobs, name, profile, $schema, syncPoints (+4 more)
+
+### Community 1909 - "cursor-context-menu/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, family, files, jobs, name, profile, $schema, syncPoints (+4 more)
+
+### Community 1910 - "cursor-drag-drop/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, family, files, jobs, name, profile, $schema, syncPoints (+4 more)
+
+### Community 1911 - "cursor-marquee-select/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, family, files, jobs, name, profile, $schema, syncPoints (+4 more)
+
+### Community 1912 - "cursor-text-select/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, family, files, jobs, name, profile, $schema, syncPoints (+4 more)
+
+### Community 1913 - "cursor-zoom-follow/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, family, files, jobs, name, profile, $schema, syncPoints (+4 more)
+
+### Community 1914 - "dart-cursor/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, family, files, jobs, name, profile, $schema, syncPoints (+4 more)
+
+### Community 1915 - "decline-chart/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, evidence, family, files, jobs, name, profile, $schema (+4 more)
+
+### Community 1916 - "device-frame-stage/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, evidence, family, files, jobs, name, profile, $schema (+4 more)
+
+### Community 1917 - "drift-hold/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, evidence, family, files, jobs, name, profile, $schema (+4 more)
+
+### Community 1918 - "focus-rack/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, evidence, family, files, jobs, name, profile, $schema (+4 more)
+
+### Community 1919 - "grain-field/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, evidence, family, files, jobs, name, profile, $schema (+4 more)
+
+### Community 1920 - "locked-nucleus-orbit/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, evidence, family, files, jobs, name, profile, $schema (+4 more)
+
+### Community 1921 - "logo-wall/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, evidence, family, files, jobs, name, profile, $schema (+4 more)
+
+### Community 1922 - "magnetic-cursor/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, family, files, jobs, name, profile, $schema, syncPoints (+4 more)
+
+### Community 1923 - "multi-device-splay/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, evidence, family, files, jobs, name, profile, $schema (+4 more)
+
+### Community 1924 - "multiplayer-cursors/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, evidence, family, files, jobs, name, profile, $schema (+4 more)
+
+### Community 1925 - "notification-pileup/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, evidence, family, files, jobs, name, profile, $schema (+4 more)
+
+### Community 1926 - "oversized-cursor/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, evidence, family, files, jobs, name, profile, $schema (+4 more)
+
+### Community 1927 - "overwhelm-surround/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, evidence, family, files, jobs, name, profile, $schema (+4 more)
+
+### Community 1928 - "pan-stations/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, evidence, family, files, jobs, name, profile, $schema (+4 more)
+
+### Community 1929 - "parallax-device-dive/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, evidence, family, files, jobs, name, profile, $schema (+4 more)
+
+### Community 1930 - "physical-exit/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, evidence, family, files, jobs, name, profile, $schema (+4 more)
+
+### Community 1931 - "pull-back-reveal/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, evidence, family, files, jobs, name, profile, $schema (+4 more)
+
+### Community 1932 - "push-in/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, evidence, family, files, jobs, name, profile, $schema (+4 more)
+
+### Community 1933 - "scan-band/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, evidence, family, files, jobs, name, profile, $schema (+4 more)
+
+### Community 1934 - "screen-flow-carousel/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, evidence, family, files, jobs, name, profile, $schema (+4 more)
+
+### Community 1935 - "scroll-feed/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, evidence, family, files, jobs, name, profile, $schema (+4 more)
+
+### Community 1936 - "stagger-cascade/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, evidence, family, files, jobs, name, profile, $schema (+4 more)
+
+### Community 1937 - "sticky-mock-swap/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, evidence, family, files, jobs, name, profile, $schema (+4 more)
+
+### Community 1938 - "svg-mask-reveal/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, evidence, family, files, jobs, name, profile, $schema (+4 more)
+
+### Community 1939 - "swipe-rail/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, evidence, family, files, jobs, name, profile, $schema (+4 more)
+
+### Community 1940 - "text-shimmer/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, evidence, family, files, jobs, name, profile, $schema (+4 more)
+
+### Community 1941 - "ticker-takeover/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, evidence, family, files, jobs, name, profile, $schema (+4 more)
+
+### Community 1942 - "titlecard-calm/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, evidence, family, files, jobs, name, profile, $schema (+4 more)
+
+### Community 1943 - "toggle-flip/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, evidence, family, files, jobs, name, profile, $schema (+4 more)
+
+### Community 1944 - "touch-indicator/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, evidence, family, files, jobs, name, profile, $schema (+4 more)
+
+### Community 1945 - "tracing-beam/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, evidence, family, files, jobs, name, profile, $schema (+4 more)
+
+### Community 1946 - "variable-axis-type/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, evidence, family, files, jobs, name, profile, $schema (+4 more)
+
+### Community 1947 - "vector-editor-rig/registry-item.json"
+Cohesion: 0.15
+Nodes (12): description, evidence, family, files, jobs, name, profile, $schema (+4 more)
+
+### Community 1948 - "Stat Bars & Fills"
+Cohesion: 0.22
+Nodes (9): 1 — Growth Bars (CSS `scaleY` stagger), 2 — Progress Fill, 3 — Star-Rating Fill (fractional), Contents, Critical Constraints, Recipe, See also, Stat Bars & Fills (+1 more)
+
+### Community 1949 - "yE"
+Cohesion: 0.05
+Nodes (71): 8(), arrayBuffer(), az(), By(), createBindGroup(), createReadonly(), createTexture(), createUniform() (+63 more)
+
+### Community 1950 - "AI Tracking Box"
+Cohesion: 0.25
+Nodes (8): AI Tracking Box, Contents, Critical Constraints, How It Works, Recipe, See also, Values, Variations
+
+### Community 1951 - "Component quality bar"
+Cohesion: 0.15
+Nodes (12): Calibration, Checklist, Component quality bar, Duplicates, which one survives, Fatal, cut the item, Fixable, keep and repair, How an audit runs, Mechanical first pass (+4 more)
+
+### Community 1952 - "Avatar Cloud Network"
+Cohesion: 0.25
+Nodes (8): Avatar Cloud Network, Contents, Critical Constraints, How It Works, Recipe, See also, Values, Variations
+
+### Community 1953 - "Part 1 — the move vocabulary"
+Cohesion: 0.10
+Nodes (20): 1. Smooth beats bouncy — `power3` is the default, 2. Sequential reveal in the back ~50%, timed to the voiceover, 3. No lazy breathing, no bad pan/push — "no motion over bad motion", 4. Internal seams are velocity-matched cuts, Aliveness during a hold (use sparingly — see Part 2), Camera, Count-up / data, Emphasis / marker (+12 more)
+
+### Community 1954 - "hyperframes/skills/pr-to-video/scripts/fetch-pr.mjs"
+Cohesion: 0.15
+Nodes (9): argv, diff, diffPath, FIELDS, m, outDir, prJsonPath, prRef (+1 more)
+
+### Community 1955 - "compilerOptions"
+Cohesion: 0.15
+Nodes (12): compilerOptions, esModuleInterop, forceConsistentCasingInFileNames, isolatedModules, jsx, module, moduleResolution, resolveJsonModule (+4 more)
+
+### Community 1956 - "compilerOptions"
+Cohesion: 0.15
+Nodes (12): compilerOptions, esModuleInterop, forceConsistentCasingInFileNames, isolatedModules, jsx, module, moduleResolution, resolveJsonModule (+4 more)
+
+### Community 1957 - "compilerOptions"
+Cohesion: 0.15
+Nodes (12): compilerOptions, esModuleInterop, forceConsistentCasingInFileNames, isolatedModules, jsx, module, moduleResolution, resolveJsonModule (+4 more)
+
+### Community 1958 - "Per-Beat Direction"
+Cohesion: 0.17
+Nodes (11): Animation choreography, Beat Direction, Concept, Contents, Depth layers, Mood direction, Per-Beat Direction, Rhythm Planning (+3 more)
+
+### Community 1959 - ".agent/skills/motion-graphics/grounding/locate.mjs"
+Cohesion: 0.18
+Nodes (5): [cmd, ...rest], font(), gridFilters(), opt, pos
+
+### Community 1960 - "ai/skills/media-use/scripts/lib/index-gen.mjs"
+Cohesion: 0.36
+Nodes (8): Frame Craft Bar, The Frame, formatDims(), formatDur(), generateIndexContent(), pad(), regenerateIndex(), indexPath()
+
+### Community 1961 - "Audio-Reactive Animation"
+Cohesion: 0.22
+Nodes (8): Audio Data Format, Audio-Reactive Animation, Constraints, Content, Not Medium, Guidelines, Mapping Audio to Visuals, Sampling Pattern, textShadow Gotcha
+
+### Community 1962 - "export-and-share.mdx"
+Cohesion: 0.17
+Nodes (11): 1. Approve the project, not one good frame, 2. Run the project checks, 3. Render from where you are working, 4. Choose what the destination needs, 5. Watch the rendered file, 6. Share the right form, Ask the agent, If the finish fails (+3 more)
+
+### Community 1963 - ".agent/skills/product-launch-video/scripts/lib/frame-packets-core.mjs"
+Cohesion: 0.24
+Nodes (14): blueprintId(), buildFramePackets(), buildRolePayload(), citedRules(), escapeRegExp(), field(), flag(), frameId() (+6 more)
+
+### Community 1964 - "ce"
+Cohesion: 0.22
+Nodes (14): Ae(), ce(), $d(), ee(), ha(), ka(), le(), me() (+6 more)
+
+### Community 1965 - "Lottie for HyperFrames"
+Cohesion: 0.15
+Nodes (12): Avoid, Characters, Composition Duration, Contents, Contract, Credits And References, dotLottie Pattern, Good Uses (+4 more)
+
+### Community 1966 - "dependencies"
+Cohesion: 0.17
+Nodes (12): dependencies, hono, @hono/node-server, @hyperframes/core, @hyperframes/engine, @hyperframes/lint, @hyperframes/parsers, @hyperframes/studio-server (+4 more)
+
+### Community 1967 - "ffprobeArgvContract.test.ts"
+Cohesion: 0.26
+Nodes (11): argvTails(), discoverCallers(), isLiteralOnlyArgv(), isSourceFile(), MANIFEST, mentionsProbe(), REPO_ROOT, SKIP_DIRS (+3 more)
+
+### Community 1968 - ".agent/skills/hyperframes/SKILL.md"
+Cohesion: 0.03
+Nodes (58): Body — the intent in prose, Brief format — `BRIEF.md`, Example, Frontmatter — the confirmed fields, Lifecycle, Capability menu — what HyperFrames can bring to a video, Genre lenses — the shipped workflows' taste, borrowable, The design ask — have it, pick it, or leave it (+50 more)
+
+### Community 1969 - "HyperFrames Design Review"
+Cohesion: 0.17
+Nodes (11): Caption Background Cowardice, Color Palette Anemia, CRITICAL Design Failures, Design Improvements, Design Verdict, First Impression, HyperFrames Design Review, Robotic Animation Pacing (+3 more)
+
+### Community 1970 - "HyperFrames Design Review"
+Cohesion: 0.17
+Nodes (11): Caption Backgrounds are Distracting, CRITICAL Design Failures, Design Improvements, Design Verdict, First Impression, HyperFrames Design Review, Muddy "Mondrian" Palette, Robotic Motion (+3 more)
+
+### Community 1971 - "HyperFrames Design Review"
+Cohesion: 0.17
+Nodes (11): Color Overload, CRITICAL Design Failures, Design Improvements, Design Verdict, First Impression, HyperFrames Design Review, Robotic Motion, The "Everything is a Scanline" Obsession (+3 more)
+
+### Community 1972 - "HyperFrames Design Review"
+Cohesion: 0.17
+Nodes (11): Caption Chaos, CRITICAL Design Failures, Design Improvements, Design Verdict, First Impression, Hero Moment Hierarchy, HyperFrames Design Review, Robotic Motion (+3 more)
+
+### Community 1973 - "HyperFrames Design Review"
+Cohesion: 0.17
+Nodes (11): Contrast Suicide, CRITICAL Design Failures, Design Improvements, Design Verdict, First Impression, HyperFrames Design Review, Robotic "Organic" Shapes, The "Everything Everywhere All At Once" Layout (+3 more)
+
+### Community 1974 - "HyperFrames Design Review"
+Cohesion: 0.17
+Nodes (11): Caption Boredom, CRITICAL Design Failures, Design Improvements, Design Verdict, First Impression, HyperFrames Design Review, Robotic Motion, The "Dead Zone" Layout (+3 more)
+
+### Community 1975 - "HyperFrames Design Review"
+Cohesion: 0.17
+Nodes (11): CRITICAL Design Failures, Design Improvements, Design Verdict, First Impression, HyperFrames Design Review, Robotic Motion Curves, Static Background Void, The "Floating Box" Caption Aesthetic (+3 more)
+
+### Community 1976 - "HyperFrames Design Review"
+Cohesion: 0.17
+Nodes (11): Caption Box Laziness, CRITICAL Design Failures, Design Improvements, Design Verdict, First Impression, HyperFrames Design Review, Motion Rhythm, The "Floating Head" Problem (+3 more)
+
+### Community 1977 - "HyperFrames Design Review"
+Cohesion: 0.17
+Nodes (11): Caption Box Laziness, CRITICAL Design Failures, Design Improvements, Design Verdict, First Impression, HyperFrames Design Review, Robotic Motion, The "Gold" is Actually Mustard (+3 more)
+
+### Community 1978 - "HyperFrames Design Review"
+Cohesion: 0.17
+Nodes (11): Caption Letter-Spacing Overkill, CRITICAL Design Failures, Design Improvements, Design Verdict, First Impression, Generic Background Gradient, HyperFrames Design Review, Robotic Stat Transitions (+3 more)
+
+### Community 1979 - "HyperFrames Design Review"
+Cohesion: 0.17
+Nodes (11): Caption Legibility & Placement, CRITICAL Design Failures, Design Improvements, Design Verdict, First Impression, HyperFrames Design Review, Obscene Stat Typography, Robotic Motion (+3 more)
+
+### Community 1980 - "Features"
+Cohesion: 0.17
+Nodes (11): Editor modal, Element tree, Features, File persistence, @hyperframes/sdk-playground, Ops panel, Planned / not yet wired, Preview iframe (+3 more)
+
+### Community 1981 - "HyperFrames Handoff — for Open Design"
+Cohesion: 0.10
+Nodes (19): 3a. Content goes inside `.scene-content`, 3b. Entrance tweens (offset 0.1–0.3s into each scene), 3c. Mid-scene activity (this is what separates video from slides), 3d. Adjust scene duration by reading time, 3e. Vary eases, Hard rules (must-pass before emitting `<artifact>`), HyperFrames Handoff — for Open Design, `index.html` — the composition (+11 more)
+
+### Community 1982 - "The casual author's view of the FX rack"
+Cohesion: 0.17
+Nodes (11): Family lettering, carried over from the first round, Proposed: a multi-band EQ ("Tone"), Status, The casual author's view of the FX rack, The collapsed state is a sentence, The hole in the single-knob rule: picking the range, The shared vocabulary, The three rules (+3 more)
+
+### Community 1983 - "hyperframes/plugin.json"
+Cohesion: 0.17
+Nodes (11): author, email, name, url, description, homepage, license, name (+3 more)
+
+### Community 1984 - "cn"
+Cohesion: 0.18
+Nodes (20): 2(), AB(), aC(), an(), cn(), EB(), eC(), Hs() (+12 more)
+
+### Community 1985 - "cinemagraph/registry-item.json"
+Cohesion: 0.17
+Nodes (11): description, dimensions, height, width, duration, files, name, $schema (+3 more)
+
+### Community 1986 - "code-snippet-dark-2026/registry-item.json"
+Cohesion: 0.17
+Nodes (11): description, dimensions, height, width, duration, files, name, $schema (+3 more)
+
+### Community 1987 - "code-snippet-dark-modern/registry-item.json"
+Cohesion: 0.17
+Nodes (11): description, dimensions, height, width, duration, files, name, $schema (+3 more)
+
+### Community 1988 - "exploded-stack/registry-item.json"
+Cohesion: 0.17
+Nodes (11): description, dimensions, height, width, duration, files, name, $schema (+3 more)
+
+### Community 1989 - "extruded-logo/registry-item.json"
+Cohesion: 0.17
+Nodes (11): description, dimensions, height, width, duration, files, name, $schema (+3 more)
+
+### Community 1990 - "Web Animations API for HyperFrames"
+Cohesion: 0.18
+Nodes (10): Avoid, Basic Pattern, Composition Duration, Contents, Contract, Credits And References, Good Uses, Stagger Pattern (+2 more)
+
+### Community 1991 - "Kinetic Beat Slam"
+Cohesion: 0.25
+Nodes (8): Contents, Critical Constraints, How It Works, Kinetic Beat Slam, Recipe, See also, Values, Variations
+
+### Community 1992 - "glass-hero/registry-item.json"
+Cohesion: 0.17
+Nodes (11): description, dimensions, height, width, duration, files, name, $schema (+3 more)
+
+### Community 1993 - "gooey-split/registry-item.json"
+Cohesion: 0.17
+Nodes (11): description, dimensions, height, width, duration, files, name, $schema (+3 more)
+
+### Community 1994 - "Orbit with 3D Entry"
+Cohesion: 0.25
+Nodes (8): Contents, Critical Constraints, How It Works, Orbit with 3D Entry, Recipe, See also, Values, Variations
+
+### Community 1995 - "hw-frame/registry-item.json"
+Cohesion: 0.17
+Nodes (11): description, dimensions, height, width, duration, files, name, $schema (+3 more)
+
+### Community 1996 - "hw-path-text/registry-item.json"
+Cohesion: 0.17
+Nodes (11): description, dimensions, height, width, duration, files, name, $schema (+3 more)
+
+### Community 1997 - "hw-pipeline/registry-item.json"
+Cohesion: 0.17
+Nodes (11): description, dimensions, height, width, duration, files, name, $schema (+3 more)
+
+### Community 1998 - "hw-scribble-transition/registry-item.json"
+Cohesion: 0.17
+Nodes (11): description, dimensions, height, width, duration, files, name, $schema (+3 more)
+
+### Community 1999 - "hw-text-cloud/registry-item.json"
+Cohesion: 0.17
+Nodes (11): description, dimensions, height, width, duration, files, name, $schema (+3 more)
+
+### Community 2000 - "hw-title/registry-item.json"
+Cohesion: 0.17
+Nodes (11): description, dimensions, height, width, duration, files, name, $schema (+3 more)
+
+### Community 2001 - "hyperframes/skills/remotion-to-hyperframes/assets/test-corpus/tier-2-multi-scene/remotion-src/src/MultiScene.tsx"
+Cohesion: 0.43
+Nodes (5): ImageScene(), MultiScene(), OutroScene(), TitleScene(), RemotionRoot()
+
+### Community 2002 - "lt-accent-underline/registry-item.json"
+Cohesion: 0.17
+Nodes (11): description, dimensions, height, width, duration, files, name, $schema (+3 more)
+
+### Community 2003 - "lt-bold-block/registry-item.json"
+Cohesion: 0.17
+Nodes (11): description, dimensions, height, width, duration, files, name, $schema (+3 more)
+
+### Community 2004 - "lt-clean-bar/registry-item.json"
+Cohesion: 0.17
+Nodes (11): description, dimensions, height, width, duration, files, name, $schema (+3 more)
+
+### Community 2005 - "lt-color-block/registry-item.json"
+Cohesion: 0.17
+Nodes (11): description, dimensions, height, width, duration, files, name, $schema (+3 more)
+
+### Community 2006 - "lt-dark-card/registry-item.json"
+Cohesion: 0.17
+Nodes (11): description, dimensions, height, width, duration, files, name, $schema (+3 more)
+
+### Community 2007 - "lt-kicker-name/registry-item.json"
+Cohesion: 0.17
+Nodes (11): description, dimensions, height, width, duration, files, name, $schema (+3 more)
+
+### Community 2008 - "lt-mask-reveal/registry-item.json"
+Cohesion: 0.17
+Nodes (11): description, dimensions, height, width, duration, files, name, $schema (+3 more)
+
+### Community 2009 - "lt-side-rule/registry-item.json"
+Cohesion: 0.17
+Nodes (11): description, dimensions, height, width, duration, files, name, $schema (+3 more)
+
+### Community 2010 - "lt-soft-pill/registry-item.json"
+Cohesion: 0.17
+Nodes (11): description, dimensions, height, width, duration, files, name, $schema (+3 more)
+
+### Community 2011 - "lt-stack-bars/registry-item.json"
+Cohesion: 0.17
+Nodes (11): description, dimensions, height, width, duration, files, name, $schema (+3 more)
+
+### Community 2012 - "mk-background/registry-item.json"
+Cohesion: 0.17
+Nodes (11): description, dimensions, height, width, duration, files, name, $schema (+3 more)
+
+### Community 2013 - "mk-callout-highlight/registry-item.json"
+Cohesion: 0.17
+Nodes (11): description, dimensions, height, width, duration, files, name, $schema (+3 more)
+
+### Community 2014 - "mk-clone-wall-transition/registry-item.json"
+Cohesion: 0.17
+Nodes (11): description, dimensions, height, width, duration, files, name, $schema (+3 more)
+
+### Community 2015 - "mk-line-graph/registry-item.json"
+Cohesion: 0.17
+Nodes (11): description, dimensions, height, width, duration, files, name, $schema (+3 more)
+
+### Community 2016 - "mk-placeholder-grid/registry-item.json"
+Cohesion: 0.17
+Nodes (11): description, dimensions, height, width, duration, files, name, $schema (+3 more)
+
+### Community 2017 - "mk-progress-stat/registry-item.json"
+Cohesion: 0.17
+Nodes (11): description, dimensions, height, width, duration, files, name, $schema (+3 more)
+
+### Community 2018 - "mk-specs-list/registry-item.json"
+Cohesion: 0.17
+Nodes (11): description, dimensions, height, width, duration, files, name, $schema (+3 more)
+
+### Community 2019 - "news-ticker/registry-item.json"
+Cohesion: 0.17
+Nodes (11): description, dimensions, height, width, duration, files, name, $schema (+3 more)
+
+### Community 2020 - "product-turntable/registry-item.json"
+Cohesion: 0.17
+Nodes (11): description, dimensions, height, width, duration, files, name, $schema (+3 more)
+
+### Community 2021 - "thread-message-stack/registry-item.json"
+Cohesion: 0.17
+Nodes (11): description, dimensions, height, width, duration, files, name, $schema (+3 more)
+
+### Community 2022 - "write"
+Cohesion: 0.09
+Nodes (27): 0(), 3(), castElement(), dispatchThreads(), dispatchWorkgroups(), Fa(), fork(), g() (+19 more)
+
+### Community 2023 - "yt-comment-card/registry-item.json"
+Cohesion: 0.17
+Nodes (11): description, dimensions, height, width, duration, files, name, $schema (+3 more)
+
+### Community 2024 - "yt-lcd-background/registry-item.json"
+Cohesion: 0.17
+Nodes (11): description, dimensions, height, width, duration, files, name, $schema (+3 more)
+
+### Community 2025 - "yt-logo-intro/registry-item.json"
+Cohesion: 0.17
+Nodes (11): description, dimensions, height, width, duration, files, name, $schema (+3 more)
+
+### Community 2026 - "yt-prism-title/registry-item.json"
+Cohesion: 0.17
+Nodes (11): description, dimensions, height, width, duration, files, name, $schema (+3 more)
+
+### Community 2027 - "yt-vertical-fill/registry-item.json"
+Cohesion: 0.17
+Nodes (11): description, dimensions, height, width, duration, files, name, $schema (+3 more)
+
+### Community 2028 - "caption-texture/registry-item.json"
+Cohesion: 0.17
+Nodes (11): description, files, name, preview, poster, video, $schema, tags (+3 more)
+
+### Community 2029 - "filmed-screen/registry-item.json"
+Cohesion: 0.17
+Nodes (11): description, files, name, preview, poster, video, $schema, stability (+3 more)
+
+### Community 2030 - "check-docs-snippet-motion.mjs"
+Cohesion: 0.29
+Nodes (9): argumentAt(), auditSnippets(), autoplays(), findMotionGuardViolations(), readsPreferenceLazily(), REQUIREMENTS, SNIPPETS_DIR, splitComponents() (+1 more)
+
+### Community 2031 - "Steps"
+Cohesion: 0.22
+Nodes (8): 1. Install the component, 2. Read the snippet, 3. Wire into your composition, 4. Lint and preview, 5. Customize, Scenario, Steps, Worked Example: Adding a Component
+
+### Community 2032 - "Template: champion"
+Cohesion: 0.29
+Nodes (6): Crown placement rules, Layout decisions agent makes, Plan.json shape, Slot assignment, Template: champion, When to apply
+
+### Community 2033 - "generate-catalog-pages.test.ts"
+Cohesion: 0.21
+Nodes (9): mdxStringAttribute(), DECLARED, here, plainPlayer, runBootstrap(), runWrapper(), scriptBody(), variableBootstrap() (+1 more)
+
+### Community 2035 - "Rail track — standard lower-third subtitle"
+Cohesion: 0.29
+Nodes (7): Hand-off to embed, Lines, length, timing, Look (restrained on purpose), Position & safe area, Rail track — standard lower-third subtitle, The `emphasis` flag (active-word highlight), What the rail never does
+
+### Community 2036 - "Motion-Blur Streak"
+Cohesion: 0.18
+Nodes (11): Camera-Travel Carve-Out, Contents, Critical Constraints, How It Works, Motion-Blur Streak, Per-Frame-Driven Carve-In (baked tracks), Recipe, See also (+3 more)
+
+### Community 2037 - "Background Removal"
+Cohesion: 0.18
+Nodes (10): Background Removal, Canonical 3-layer template (plate + content + cutout), Compositing patterns — pick the right one, Device (`--device`), Layer separation (`--background-output`), Output Format, Quality (`--quality`), Text-behind-subject pattern (two non-obvious rules) (+2 more)
+
+### Community 2038 - "Resolve — command, flags, reuse, adopt, inventory"
+Cohesion: 0.18
+Nodes (10): Adopt existing projects, Cross-project reuse, Examples, Flags, How it works, Reading the inventory, Resolve — command, flags, reuse, adopt, inventory, Reuse before you resolve (+2 more)
+
+### Community 2039 - ".agent/skills/music-to-video/scripts/stage-assets.mjs"
+Cohesion: 0.18
+Nodes (8): argv, destDir, fromAbs, fromDir, hyperframesDir, into, landed, MEDIA
+
+### Community 2040 - ".agent/skills/pr-to-video/scripts/fetch-people-avatars.mjs"
+Cohesion: 0.22
+Nodes (8): argv, AVATAR_HOSTS, fetchOne(), isAllowedAvatarUrl(), isUnderProject(), peoplePath, projectDir, TIMEOUT
+
+### Community 2041 - "Center-Outward Expansion"
+Cohesion: 0.29
+Nodes (7): Center-Outward Expansion, Critical Constraints, How It Works, Recipe, See also, Values, Variations
+
+### Community 2042 - "V—Take Visual Design Library"
+Cohesion: 0.22
+Nodes (8): Constraints you must obey when copying from these references, Decision guide (loose, not prescriptive), Layouts — how video and card share the canvas, Portrait sizing — bigger type for mobile, Source aspect ratio independence, Styles — the card's visual language, V—Take Visual Design Library, Video Frames — decoration around the video element
+
+### Community 2044 - "t"
+Cohesion: 0.24
+Nodes (11): _a(), Context(), Db(), Eb(), fb(), Hc(), ib(), Ic() (+3 more)
+
+### Community 2045 - "parsers.mdx"
+Cohesion: 0.22
+Nodes (8): GSAP Constants, GSAP Script Parsing, hf-ids, HTML Parsing, Modifying HTML, Related topics, Spring Ease, When to Use
+
+### Community 2047 - "seamTransitionLoop.test.ts"
+Cohesion: 0.33
+Nodes (8): createMockCanvas(), createMockGl(), fromSource, startLoop(), startRunningLoop(), stubRaf(), toSource, DEFAULT_ACCENT_COLORS
+
+### Community 2048 - "gsapAnimationCallbacks.ts"
+Cohesion: 0.31
+Nodes (5): ANIMATION_META_LABELS, trackAnimationMetaUpdate(), trackAnimationProperty(), TrackDesignInput, withTrackedGsapAnimationCallbacks()
+
+### Community 2049 - "HyperFrames v0.7.59"
+Cohesion: 0.18
+Nodes (10): Internal, STUDIO_FLAT_INSPECTOR_ENABLED(), Catalog, Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.7.59 (+2 more)
+
+### Community 2050 - "catalog.mdx"
+Cohesion: 0.18
+Nodes (10): Binary assets, Build an item, Build for reuse, Choose how to contribute, Choose the item type, Define the manifest, Installer metadata, Open the pull request (+2 more)
+
+### Community 2051 - "What HyperFrames can make"
+Cohesion: 0.18
+Nodes (10): Most-installed blocks, Motion, sound & effects, Product & launch films, Project templates, Recreate any video, 1:1, Related topics, The tooling, shown working, What HyperFrames can make (+2 more)
+
+### Community 2052 - "de"
+Cohesion: 0.24
+Nodes (11): Be(), $d(), de(), fe(), ka(), ma(), me(), ne() (+3 more)
+
+### Community 2053 - "Physics Press Reaction (Cursor + Element Synced)"
+Cohesion: 0.29
+Nodes (7): Contents, Critical Constraints, Physics Press Reaction (Cursor + Element Synced), Recipe, See also, Values, Variations
+
+### Community 2054 - "editing-existing-videos.mdx"
+Cohesion: 0.18
+Nodes (10): Adjust a keyframe, Change copy, Make it snappier (retiming *feel*, not just duration), Related, Restyle one element, Retime a scene, Split a scene, Swap an asset (+2 more)
+
+### Community 2055 - "animation.mdx"
+Cohesion: 0.18
+Nodes (10): Add or change a keyframe, Edit animation created by an agent or helper, Record a movement you can perform, Related topics, Retime before redesigning, Review the finished motion, Shape a motion path, Shape the easing (+2 more)
+
+### Community 2056 - "Tracks and Clips"
+Cohesion: 0.12
+Nodes (14): Authoring Hints, Clip Attributes, Composition Root, Data Attributes Reference, Legacy / Removed Attributes, Sub-Composition Host Attributes, Clip Time Inside the Composition, Cut one source into multiple ranges (+6 more)
+
+### Community 2057 - "Media treatments"
+Cohesion: 0.29
+Nodes (6): Classify the request, Common workflow, Media treatments, Permission and scope, Seed or assemble, Translate vague feedback conservatively
+
+### Community 2058 - "parsePx"
+Cohesion: 0.22
+Nodes (11): alphaFromParts(), capitalizeWords(), glyphRects(), hasMeaningfulBoxStyle(), hasPaint(), horizontalTextMetrics(), inkRect(), intersectsTextWindow() (+3 more)
+
+### Community 2059 - "media-use/lib/error-diffusion.mjs"
+Cohesion: 0.31
+Nodes (9): applyErrorDiffusionRgba(), correctedChannel(), DEFAULTS, ERROR_DIFFUSION_ALGORITHMS, errorDiffusionBufferLength(), integerInRange(), numberInRange(), parsePalette() (+1 more)
+
+### Community 2061 - "maps — category module"
+Cohesion: 0.29
+Nodes (6): Build (reuse-first), maps — category module, Out of scope, Plan (Director), Register, Vocabulary / leans on
+
+### Community 2062 - "compilerOptions"
+Cohesion: 0.18
+Nodes (10): compilerOptions, esModuleInterop, lib, module, moduleResolution, skipLibCheck, strict, target (+2 more)
+
+### Community 2063 - "compilerOptions"
+Cohesion: 0.18
+Nodes (10): compilerOptions, declaration, emitDeclarationOnly, noEmit, outDir, rootDir, extends, files (+2 more)
+
+### Community 2064 - "Tier 3 — stargazed-data-driven"
+Cohesion: 0.29
+Nodes (6): Composition shape, How to render and evaluate, The lossy parts (and why threshold = 0.90), Tier 3 — stargazed-data-driven, Translation walk-through (skill cheat sheet), What it tests
+
+### Community 2066 - "HyperFrame Schema Compliance Review"
+Cohesion: 0.18
+Nodes (10): Compliance Checklist, compositions/typography.html, Critical Issues, Empty Tweens for Duration, Executive Summary, Fix 1: Declarative Duration in index.html, Fix 2: Declarative Duration in typography.html, HyperFrame Schema Compliance Review (+2 more)
+
+### Community 2067 - "HyperFrame Schema Compliance Review"
+Cohesion: 0.18
+Nodes (10): Compliance Checklist, [compositions/mondrian-bg.html], [compositions/mondrian-captions.html], [compositions/mondrian-colors.html], Critical Issues, Executive Summary, File Reviews, HyperFrame Schema Compliance Review (+2 more)
+
+### Community 2068 - "Compliance Checklist"
+Cohesion: 0.18
+Nodes (10): Compliance Checklist, compositions/aroll.html, compositions/background.html, compositions/captions.html, compositions/hero_moment.html, compositions/mograph_overlays.html, Critical Issues, Executive Summary (+2 more)
+
+### Community 2069 - "HyperFrames Design Review"
+Cohesion: 0.18
+Nodes (10): Caption Shadow Monotony, CRITICAL Design Failures, Design Improvements, Design Verdict, First Impression, HyperFrames Design Review, The "Floating Head" Problem, The "Static" Background (+2 more)
+
+### Community 2070 - "HyperFrame Schema Compliance Review"
+Cohesion: 0.18
+Nodes (10): Compliance Checklist, compositions/captions.html, compositions/intro.html, compositions/stats.html, Critical Issues, Executive Summary, File-by-File Analysis, HyperFrame Schema Compliance Review (+2 more)
+
+### Community 2071 - "HyperFrame Schema Compliance Review"
+Cohesion: 0.18
+Nodes (10): Actionable Fixes, Compliance Checklist, compositions/captions.html, compositions/intro.html, compositions/main.html, Critical Issues, Executive Summary, File-by-File Analysis (+2 more)
+
+### Community 2072 - "HyperFrame Schema Compliance Review"
+Cohesion: 0.18
+Nodes (10): Compliance Checklist, compositions/captions.html, compositions/main-video.html, compositions/title-card.html, Critical Issues, Executive Summary, File Analysis, HyperFrame Schema Compliance Review (+2 more)
+
+### Community 2073 - "exports"
+Cohesion: 0.18
+Nodes (11): bun, import, node, types, exports, ./draft-markers, ./hf-ids, bun (+3 more)
+
+### Community 2074 - "exports"
+Cohesion: 0.18
+Nodes (11): ./media-codec-map, ./package.json, bun, import, node, types, publishConfig, access (+3 more)
+
+### Community 2075 - "Agent Reach — 互联网能力路由器"
+Cohesion: 0.20
+Nodes (10): Agent Reach — 互联网能力路由器, OpenCLI 适配器发现, 工作区规则, 常驻规则（全程适用）, 环境检查, 详细文档, 路由表, 配置渠道 (+2 more)
+
+### Community 2076 - "stats.mjs"
+Cohesion: 0.38
+Nodes (9): buildStats(), diskBytes(), emptyReport(), increment(), inWindow(), normalizeIntent(), sourceOf(), timestampOf() (+1 more)
+
+### Community 2077 - "avatar-group-hover/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, $schema, tags, title (+2 more)
+
+### Community 2078 - "badge-pop/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, $schema, tags, title (+2 more)
+
+### Community 2079 - "blur-in/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, $schema, tags, title (+2 more)
+
+### Community 2080 - "blur-out-up/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, $schema, tags, title (+2 more)
+
+### Community 2081 - "bottom-up-letters/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, $schema, tags, title (+2 more)
+
+### Community 2082 - "caption-clip-wipe/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, video, $schema, tags (+2 more)
+
+### Community 2083 - "caption-editorial-emphasis/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, video, $schema, tags (+2 more)
+
+### Community 2084 - "caption-emoji-pop/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, video, $schema, tags (+2 more)
+
+### Community 2085 - "caption-glitch-rgb/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, video, $schema, tags (+2 more)
+
+### Community 2086 - "caption-gradient-fill/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, video, $schema, tags (+2 more)
+
+### Community 2087 - "caption-highlight/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, video, $schema, tags (+2 more)
+
+### Community 2088 - "caption-kinetic-slam/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, video, $schema, tags (+2 more)
+
+### Community 2089 - "caption-matrix-decode/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, video, $schema, tags (+2 more)
+
+### Community 2090 - "caption-neon-accent/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, video, $schema, tags (+2 more)
+
+### Community 2091 - "caption-neon-glow/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, video, $schema, tags (+2 more)
+
+### Community 2092 - "caption-parallax-layers/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, video, $schema, tags (+2 more)
+
+### Community 2093 - "caption-particle-burst/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, video, $schema, tags (+2 more)
+
+### Community 2094 - "caption-pill-karaoke/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, video, $schema, tags (+2 more)
+
+### Community 2095 - "caption-weight-shift/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, video, $schema, tags (+2 more)
+
+### Community 2096 - "card-resize/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, $schema, tags, title (+2 more)
+
+### Community 2097 - "chromatic-aberration-wipe/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, $schema, tags, title (+2 more)
+
+### Community 2098 - "directional-wipe/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, $schema, tags, title (+2 more)
+
+### Community 2099 - "dynamic-grid/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, $schema, tags, title (+2 more)
+
+### Community 2100 - "fade-through/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, $schema, tags, title (+2 more)
+
+### Community 2101 - "focus-blur-resolve/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, $schema, tags, title (+2 more)
+
+### Community 2102 - "icon-swap/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, $schema, tags, title (+2 more)
+
+### Community 2103 - "inline-highlight/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, $schema, tags, title (+2 more)
+
+### Community 2104 - "input-feedback/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, $schema, tags, title (+2 more)
+
+### Community 2105 - "line-by-line-slide/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, $schema, tags, title (+2 more)
+
+### Community 2106 - "matrix-decode/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, $schema, tags, title (+2 more)
+
+### Community 2107 - "menu-morph/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, $schema, tags, title (+2 more)
+
+### Community 2108 - "micro-transitions/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, $schema, tags, title (+2 more)
+
+### Community 2109 - "number-pop-in/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, $schema, tags, title (+2 more)
+
+### Community 2110 - "number-wheel/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, $schema, tags, title (+2 more)
+
+### Community 2111 - "page-slide/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, $schema, tags, title (+2 more)
+
+### Community 2112 - "panel-reveal/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, $schema, tags, title (+2 more)
+
+### Community 2113 - "pendulum-swing/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, $schema, tags, title (+2 more)
+
+### Community 2114 - "per-word-crossfade/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, $schema, tags, title (+2 more)
+
+### Community 2115 - "perspective-marquee/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, $schema, tags, title (+2 more)
+
+### Community 2116 - "rgb-glitch-text/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, $schema, tags, title (+2 more)
+
+### Community 2117 - "separator/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, $schema, tags, title (+2 more)
+
+### Community 2118 - "shared-axis-y/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, $schema, tags, title (+2 more)
+
+### Community 2119 - "shared-axis-z/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, $schema, tags, title (+2 more)
+
+### Community 2120 - "skeleton-reveal/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, $schema, tags, title (+2 more)
+
+### Community 2121 - "slot-machine-roll/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, $schema, tags, title (+2 more)
+
+### Community 2122 - "soft-blur-in/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, $schema, tags, title (+2 more)
+
+### Community 2123 - "staggered-fade-up/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, $schema, tags, title (+2 more)
+
+### Community 2124 - "strikethrough-replace/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, $schema, tags, title (+2 more)
+
+### Community 2125 - "success-check/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, $schema, tags, title (+2 more)
+
+### Community 2126 - "tabs-slide-indicator/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, $schema, tags, title (+2 more)
+
+### Community 2127 - "text-stagger/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, $schema, tags, title (+2 more)
+
+### Community 2128 - "text-state-swap/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, $schema, tags, title (+2 more)
+
+### Community 2129 - "texture-mask-text/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, $schema, tags, textureGroups (+2 more)
+
+### Community 2130 - "tilt-card/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, $schema, tags, title (+2 more)
+
+### Community 2131 - "top-down-letters/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, $schema, tags, title (+2 more)
+
+### Community 2132 - "tracking-in/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, $schema, tags, title (+2 more)
+
+### Community 2133 - "typewriter/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, $schema, tags, title (+2 more)
+
+### Community 2134 - "zoom-through-transition/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, files, name, preview, poster, $schema, tags, title (+2 more)
+
+### Community 2135 - "decision-tree/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, dimensions, height, width, duration, files, name, $schema (+2 more)
+
+### Community 2136 - "kinetic-type/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, dimensions, height, width, duration, files, name, $schema (+2 more)
+
+### Community 2137 - "nyt-graph/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, dimensions, height, width, duration, files, name, $schema (+2 more)
+
+### Community 2138 - "play-mode/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, dimensions, height, width, duration, files, name, $schema (+2 more)
+
+### Community 2139 - "product-promo/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, dimensions, height, width, duration, files, name, $schema (+2 more)
+
+### Community 2140 - "swiss-grid/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, dimensions, height, width, duration, files, name, $schema (+2 more)
+
+### Community 2141 - "vignelli/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, dimensions, height, width, duration, files, name, $schema (+2 more)
+
+### Community 2142 - "warm-grain/registry-item.json"
+Cohesion: 0.18
+Nodes (10): description, dimensions, height, width, duration, files, name, $schema (+2 more)
+
+### Community 2143 - "check-package-cycles.mjs"
+Cohesion: 0.35
+Nodes (9): ALLOWED_COMPATIBILITY_CYCLES, canonicalComponent(), listPackageCycleIssues(), listRuntimePackageCycles(), visit(), main(), readWorkspacePackages(), ROOT (+1 more)
+
+### Community 2144 - "attemptDownload"
+Cohesion: 0.24
+Nodes (11): attemptDownload(), downloadAsset(), fetchTrusted(), isRetryableStatus(), isServerRetryable(), LimitExceeded, NonRetryable, pause() (+3 more)
+
+### Community 2145 - "check-workspace-contracts.mjs"
+Cohesion: 0.33
+Nodes (9): checkWorkspaceContracts(), hasDocumentedOptOut(), hasExecutableScript(), hasSpecificReason(), listWorkspaceContractIssues(), listWorkspacePackages(), main(), REQUIRED_WORKSPACE_SCRIPTS (+1 more)
+
+### Community 2146 - "Agent Reach — internet capability router"
+Cohesion: 0.20
+Nodes (10): Agent Reach — internet capability router, Configure a channel, Detailed references, Discovering OpenCLI adapters, Environment check, Login-backed platforms (pick by doctor's active_backend), Routing table, Standing rules (apply for the whole session) (+2 more)
+
+### Community 2147 - "🎭 Gobi Video Motion Mimic Workflow (Quy Trình AI KOC Bắt Chước Video Nạp Vào)"
+Cohesion: 0.18
+Nodes (10): 1. Giới thiệu tổng quan, 2. Kiến trúc 5 bước thực thi, 3. Các bố cục hiển thị (HyperFrames Layouts), 4.1. Lệnh cơ bản nạp video cho Gobi bắt chước:, 4.2. Dựng video 3 tầng chuẩn What's up AI:, 4.3. Dựng video so sánh Song Song (Duet Side-by-Side):, 4. Hướng dẫn sử dụng CLI, 5. Sử dụng qua Python API (+2 more)
+
+### Community 2148 - "Web Animations API for HyperFrames"
+Cohesion: 0.18
+Nodes (10): Avoid, Basic Pattern, Composition Duration, Contents, Contract, Credits And References, Good Uses, Stagger Pattern (+2 more)
+
+### Community 2149 - "Motion-Blur Streak"
+Cohesion: 0.18
+Nodes (11): Camera-Travel Carve-Out, Contents, Critical Constraints, How It Works, Motion-Blur Streak, Per-Frame-Driven Carve-In (baked tracks), Recipe, See also (+3 more)
+
+### Community 2150 - "视频/播客"
+Cohesion: 0.20
+Nodes (10): B站 / Bilibili（bili-cli 为主，OpenCLI 补字幕）, 前置要求, 字幕 (OpenCLI，需要桌面 Chrome), 小宇宙播客 / Xiaoyuzhou Podcast, 检查状态, 视频/播客, 视频详情/搜索/热门/排行 (bili-cli，只读无需登录), 转录单集播客（可选 --polish 增强标点） (+2 more)
+
+### Community 2151 - "Background Removal"
+Cohesion: 0.18
+Nodes (10): Background Removal, Canonical 3-layer template (plate + content + cutout), Compositing patterns — pick the right one, Device (`--device`), Layer separation (`--background-output`), Output Format, Quality (`--quality`), Text-behind-subject pattern (two non-obvious rules) (+2 more)
+
+### Community 2152 - "Resolve — command, flags, reuse, adopt, inventory"
+Cohesion: 0.18
+Nodes (10): Adopt existing projects, Cross-project reuse, Examples, Flags, How it works, Reading the inventory, Resolve — command, flags, reuse, adopt, inventory, Reuse before you resolve (+2 more)
+
+### Community 2153 - "hyperframes/skills/motion-graphics/grounding/locate.mjs"
+Cohesion: 0.20
+Nodes (5): [cmd, ...rest], font(), gridFilters(), opt, pos
+
+### Community 2154 - "hyperframes/skills/music-to-video/scripts/stage-assets.mjs"
+Cohesion: 0.18
+Nodes (8): argv, destDir, fromAbs, fromDir, hyperframesDir, into, landed, MEDIA
+
+### Community 2155 - "hyperframes/skills/pr-to-video/scripts/fetch-people-avatars.mjs"
+Cohesion: 0.22
+Nodes (8): argv, AVATAR_HOSTS, fetchOne(), isAllowedAvatarUrl(), isUnderProject(), peoplePath, projectDir, TIMEOUT
+
+### Community 2156 - "Viewport Change (Virtual Camera)"
+Cohesion: 0.20
+Nodes (10): Contents, Critical Constraints, Extreme range — 4–12× outward (workspace reveal), How It Works, Recipe, Scale Value Guide, See also, Values (+2 more)
+
+### Community 2157 - "Composition Patterns"
+Cohesion: 0.20
+Nodes (9): A. Content scene (default), B. Host media + main-timeline driver (one pattern for `<video>`/`<audio>`), C. Multi-scene merge, Composition Patterns, D. Audio at root, reactive visual inside, Modular Orchestrator Pattern, Naming Conventions, Sub-Composition Archetypes (+1 more)
+
+### Community 2159 - "browser-device-stage"
+Cohesion: 0.22
+Nodes (8): browser-device-stage, browser: product screenshot with a swap, Motion envelope, phone: portrait screen, The screen slot, Variables, window: custom HTML screen, Worked examples
+
+### Community 2160 - "ui-focus-zoom"
+Cohesion: 0.22
+Nodes (8): Motion envelope, Quiet establish, late push, The camera, The surface slot, ui-focus-zoom, Variables, Worked examples, Zoom into a product screenshot
+
+### Community 2161 - "HyperFrames GSAP"
+Cohesion: 0.22
+Nodes (8): Common vars (cheatsheet), Contents, Core Tween Methods, Credits And References, Do Not, HyperFrames Contract, HyperFrames GSAP, References
+
+### Community 2162 - "HyperFrames documentation rules"
+Cohesion: 0.22
+Nodes (8): Component doctrine, Custom React components, Freshness and ownership, HyperFrames documentation rules, Page standard, Verification, DocsVideo(), ShowcaseWall()
+
+### Community 2163 - "directional-wipe.mdx"
+Cohesion: 0.20
+Nodes (8): Paste it into your composition, Related topics, Variables, Paste it into your composition, Related topics, Variables, teal(), corner()
+
+### Community 2165 - "concepts/index.mdx"
+Cohesion: 0.20
+Nodes (9): Compositions hold the video together, Go deeper when you need it, How a project moves forward, Related topics, The source is the project, Time is part of the source, Variables keep approved parts changeable, What the agent creates (+1 more)
+
+### Community 2166 - "Font translation"
+Cohesion: 0.25
+Nodes (8): Font loading and `delayRender`, Font subsetting, Font translation, Multi-weight loading, Pattern: local fonts via `@font-face`, Pattern: `@remotion/google-fonts/<Family>`, Pattern: system font fallback (no font load), When in doubt: use Inter
+
+### Community 2167 - "On-device meaning search"
+Cohesion: 0.20
+Nodes (9): How the index is built, On-device meaning search, Privacy, Rebuilding it, The model, Turning it on, What is compared, What is downloaded, and where (+1 more)
+
+### Community 2168 - "skills.mdx"
+Cohesion: 0.20
+Nodes (9): If the agent cannot see a skill, Install for a person, Install more only when you need it, Install or refresh from an agent, Let the router choose, Related topics, Use the skills in GitHub Copilot CLI, Use the skills in Google Antigravity (+1 more)
+
+### Community 2169 - "help.mdx"
+Cohesion: 0.20
+Nodes (9): Animation is wrong, Copy a useful diagnostic, I cannot select or edit something, Media is missing or black, Preview is wrong or stale, Related topics, Render failed or differs from preview, Still stuck (+1 more)
+
+### Community 2170 - "📝 BÁO CÁO PHIÊN LÀM VIỆC: SESS-014 - PHÂN TÍCH VIDEO TIKTOK AI NATIVE LAB & ĐỀ XUẤT ỨNG DỤNG STUDIO VÀO VMAX"
+Cohesion: 0.25
+Nodes (7): 🎯 1. MỤC TIÊU CỦA ĐOẠN CHAT NÀY, 🏆 2. KẾT QUẢ CỤ THỂ ĐÃ HOÀN THÀNH (DELIVERABLES), 📸 3. BẰNG CHỨNG THỰC TẾ (PROOF-OF-WORK), 💻 4. DANH SÁCH CÁC FILE CODE ĐÃ TẠO HOẶC CHỈNH SỬA, 🧠 5. GHI CHÚ KỸ THUẬT / BÀI HỌC KINH NGHIỆM, ⏭️ 6. BƯỚC TIẾP THEO (NEXT ACTIONS), 📝 BÁO CÁO PHIÊN LÀM VIỆC: SESS-014 - PHÂN TÍCH VIDEO TIKTOK AI NATIVE LAB & ĐỀ XUẤT ỨNG DỤNG STUDIO VÀO VMAX
+
+### Community 2171 - "studio-app/troubleshooting.mdx"
+Cohesion: 0.20
+Nodes (9): Claude Code blocked a step, How updates arrive, My agent hit its usage limit, Other messages, Related topics, The agent is not installed or won't start, The app asks me to sign in to HyperFrames, Where your work is kept (+1 more)
+
+### Community 2172 - "timeline.mdx"
+Cohesion: 0.20
+Nodes (9): Move a clip, Move several items, Open a nested scene, Related topics, Split a clip, Trim a clip, Undo mistakes, Work with beats (+1 more)
+
+### Community 2173 - "studio/troubleshooting.mdx"
+Cohesion: 0.20
+Nodes (9): A canvas move became animation, A direct edit is unavailable, A render failed, An edit failed to save, I cannot select the right element, Media is missing or slow, Related topics, The preview did not update (+1 more)
+
+### Community 2174 - "2. CÁC THÀNH PHẦN KỸ THUẬT CỐT LÕI"
+Cohesion: 0.25
+Nodes (7): 1. MỤC ĐÍCH & Ý NGHĨA TRONG BỨC TRANH VMAX, 2.1. Quản lý DNA & Nhận diện nhân vật KOC, 2.2. Động cơ sinh Prompt kịch bản, 2.3. Hệ thống sao chép giọng nói (Voice Cloning & TTS), 2. CÁC THÀNH PHẦN KỸ THUẬT CỐT LÕI, 3. CÁC FILE LIÊN QUAN CHÍNH, 🎙️ TOPIC 01: KOC AI & VOICE CLONING PIPELINE
+
+### Community 2175 - "2. KIẾN TRÚC TỰ ĐỘNG HÓA TRÌNH DUYỆT (BROWSER ARCHITECTURE)"
+Cohesion: 0.25
+Nodes (7): 1. MỤC ĐÍCH & Ý NGHĨA TRONG BỨC TRANH VMAX, 2.1. Quản lý Profile & Kết nối CDP, 2.2. Xử lý Google OAuth & Đa cửa sổ Popup, 2.3. Giải Captcha & Theo dõi trực quan qua Live Viewer, 2. KIẾN TRÚC TỰ ĐỘNG HÓA TRÌNH DUYỆT (BROWSER ARCHITECTURE), 3. CÁC FILE LIÊN QUAN CHÍNH, 🤖 TOPIC 03: TIKTOK SHOP AUTOMATION & STEALTH BROWSER BOT
+
+### Community 2176 - "frameDirCache.test.ts"
+Cohesion: 0.31
+Nodes (6): cache, clearMaxFrameIndex(), getMaxFrameIndex(), getMaxFrameIndexCacheSize(), MAX_ENTRIES, __resetMaxFrameIndexCacheForTests()
+
+### Community 2177 - "2. CƠ CHẾ HOẠT ĐỘNG"
+Cohesion: 0.25
+Nodes (7): 1. MỤC ĐÍCH & Ý NGHĨA TRONG BỨC TRANH VMAX, 2.1. Cào & Phân tích Big Data thị trường, 2.2. Kiểm tra tuân thủ chính sách (Policy Compliance Checker), 2.3. Động cơ tự học liên tục (Continuous Learning Engine), 2. CƠ CHẾ HOẠT ĐỘNG, 3. CÁC FILE LIÊN QUAN CHÍNH, 🧠 TOPIC 04: BIG DATA, KNOWLEDGE HUB & CONTINUOUS LEARNING
+
+### Community 2178 - "Timelines and Labels"
+Cohesion: 0.25
+Nodes (7): Creating a Timeline, Inside Sub-Compositions: prefer `fromTo` over `from`, Labels, Nesting Timelines, Playback Control (debug / preview only), Position Parameter, Timelines and Labels
+
+### Community 2180 - "Patterns that work with caveats"
+Cohesion: 0.20
+Nodes (10): Code-split components (`React.lazy`), Custom `presentation` in `<TransitionSeries>`, `<Loop>` with stateful children, Patterns that work with caveats, React patterns the skill refuses, Remotion's `<Img>` with crossOrigin, Reporting gaps to the user, Translation limitations (+2 more)
+
+### Community 2181 - "./distributed"
+Cohesion: 0.22
+Nodes (10): bun, import, types, exports, ./distributed, ./server, publishConfig, access (+2 more)
+
+### Community 2182 - "Easing, Stagger, and Function-Based Values"
+Cohesion: 0.20
+Nodes (9): Contents, Defaults, Easing, Easing, Stagger, and Function-Based Values, Easing Vocabulary (character & mood), Function-Based Values, gsap.matchMedia (preview only), Spring Eases (baked physics, seek-safe) (+1 more)
+
+### Community 2183 - "File-by-File Analysis"
+Cohesion: 0.20
+Nodes (9): Compliance Checklist, compositions/captions.html, compositions/graphics.html, compositions/main-orchestration.html, Critical Issues, Executive Summary, File-by-File Analysis, HyperFrame Schema Compliance Review (+1 more)
+
+### Community 2184 - "Compliance Checklist"
+Cohesion: 0.20
+Nodes (9): Compliance Checklist, compositions/background.html, compositions/captions.html, compositions/overlays.html, compositions/transitions.html, Critical Issues, Executive Summary, HyperFrame Schema Compliance Review (+1 more)
+
+### Community 2185 - "File Reviews"
+Cohesion: 0.20
+Nodes (9): Compliance Checklist, compositions/captions.html, compositions/graphics.html, compositions/intro.html, Critical Issues, Executive Summary, File Reviews, HyperFrame Schema Compliance Review (+1 more)
+
+### Community 2186 - "File Analysis"
+Cohesion: 0.20
+Nodes (9): Compliance Checklist, compositions/captions.html, compositions/graphics.html, compositions/intro.html, Critical Issues, Executive Summary, File Analysis, HyperFrame Schema Compliance Review (+1 more)
+
+### Community 2187 - "3D Camera Flight"
+Cohesion: 0.25
+Nodes (8): 3D Camera Flight, Contents, Critical Constraints, How It Works, Recipe, See also, Values, Variations
+
+### Community 2188 - "animated-bar-chart/registry-item.json"
+Cohesion: 0.20
+Nodes (9): description, files, name, preview, poster, $schema, tags, title (+1 more)
+
+### Community 2189 - "arc-motion-path/registry-item.json"
+Cohesion: 0.20
+Nodes (9): description, files, name, preview, poster, $schema, tags, title (+1 more)
+
+### Community 2190 - "camera-rig-depth-stack/registry-item.json"
+Cohesion: 0.20
+Nodes (9): description, files, name, preview, poster, $schema, tags, title (+1 more)
+
+### Community 2191 - "chat-message/registry-item.json"
+Cohesion: 0.20
+Nodes (9): author, description, files, name, $schema, tags, title, type (+1 more)
+
+### Community 2192 - "chat-thread/registry-item.json"
+Cohesion: 0.20
+Nodes (9): author, description, files, name, $schema, tags, title, type (+1 more)
+
+### Community 2193 - "confetti/registry-item.json"
+Cohesion: 0.20
+Nodes (9): description, files, name, preview, poster, $schema, tags, title (+1 more)
+
+### Community 2194 - "grain-overlay/registry-item.json"
+Cohesion: 0.20
+Nodes (9): description, files, name, preview, poster, $schema, tags, title (+1 more)
+
+### Community 2195 - "grid-pixelate-wipe/registry-item.json"
+Cohesion: 0.20
+Nodes (9): description, files, name, preview, poster, $schema, tags, title (+1 more)
+
+### Community 2196 - "keyframe-scrub-stack/registry-item.json"
+Cohesion: 0.20
+Nodes (9): description, files, name, preview, poster, $schema, tags, title (+1 more)
+
+### Community 2197 - "marker-checklist-card/registry-item.json"
+Cohesion: 0.20
+Nodes (9): author, description, files, name, $schema, tags, title, type (+1 more)
+
+### Community 2198 - "mesh-gradient-bg/registry-item.json"
+Cohesion: 0.20
+Nodes (9): description, files, name, preview, poster, $schema, tags, title (+1 more)
+
+### Community 2199 - "morph-text/registry-item.json"
+Cohesion: 0.20
+Nodes (9): description, files, name, preview, video, $schema, tags, title (+1 more)
+
+### Community 2200 - "motion-blur/registry-item.json"
+Cohesion: 0.20
+Nodes (9): description, files, name, preview, poster, $schema, tags, title (+1 more)
+
+### Community 2201 - "notes-typing/registry-item.json"
+Cohesion: 0.20
+Nodes (9): author, description, files, name, $schema, tags, title, type (+1 more)
+
+### Community 2202 - "onboarding-stepper-flow/registry-item.json"
+Cohesion: 0.20
+Nodes (9): description, files, name, preview, poster, $schema, tags, title (+1 more)
+
+### Community 2203 - "parallax-unzoom/registry-item.json"
+Cohesion: 0.20
+Nodes (9): description, files, name, preview, poster, $schema, tags, title (+1 more)
+
+### Community 2204 - "parallax-zoom/registry-item.json"
+Cohesion: 0.20
+Nodes (9): description, files, name, preview, poster, $schema, tags, title (+1 more)
+
+### Community 2205 - "settings-toggle-flow/registry-item.json"
+Cohesion: 0.20
+Nodes (9): description, files, name, preview, poster, $schema, tags, title (+1 more)
+
+### Community 2206 - "sheet-spring-up/registry-item.json"
+Cohesion: 0.20
+Nodes (9): author, description, files, name, $schema, tags, title, type (+1 more)
+
+### Community 2207 - "shimmer-sweep/registry-item.json"
+Cohesion: 0.20
+Nodes (9): description, files, name, preview, poster, $schema, tags, title (+1 more)
+
+### Community 2208 - "shutter-slam/registry-item.json"
+Cohesion: 0.20
+Nodes (9): description, files, name, preview, poster, $schema, tags, title (+1 more)
+
+### Community 2209 - "signup-flow/registry-item.json"
+Cohesion: 0.20
+Nodes (9): description, files, name, preview, poster, $schema, tags, title (+1 more)
+
+### Community 2210 - "social-proof-card/registry-item.json"
+Cohesion: 0.20
+Nodes (9): author, description, files, name, $schema, tags, title, type (+1 more)
+
+### Community 2211 - "spotlight-card/registry-item.json"
+Cohesion: 0.20
+Nodes (9): description, files, name, preview, poster, $schema, tags, title (+1 more)
+
+### Community 2212 - "stagger-lattice/registry-item.json"
+Cohesion: 0.20
+Nodes (9): description, files, name, preview, poster, $schema, tags, title (+1 more)
+
+### Community 2213 - "streaming-text/registry-item.json"
+Cohesion: 0.20
+Nodes (9): author, description, files, name, $schema, tags, title, type (+1 more)
+
+### Community 2214 - "svg-line-draw-loader/registry-item.json"
+Cohesion: 0.20
+Nodes (9): description, files, name, preview, poster, $schema, tags, title (+1 more)
+
+### Community 2215 - "terminal-simulator/registry-item.json"
+Cohesion: 0.20
+Nodes (9): description, files, name, preview, poster, $schema, tags, title (+1 more)
+
+### Community 2216 - "three-orbiting-cards/registry-item.json"
+Cohesion: 0.20
+Nodes (9): description, files, name, preview, poster, $schema, tags, title (+1 more)
+
+### Community 2217 - "typing-indicator/registry-item.json"
+Cohesion: 0.20
+Nodes (9): author, description, files, name, $schema, tags, title, type (+1 more)
+
+### Community 2218 - "vignette/registry-item.json"
+Cohesion: 0.20
+Nodes (9): description, files, name, preview, poster, $schema, tags, title (+1 more)
+
+### Community 2219 - "x-follow-card/registry-item.json"
+Cohesion: 0.20
+Nodes (9): description, files, name, preview, poster, $schema, tags, title (+1 more)
+
+### Community 2220 - "HyperFrames v0.7.96"
+Cohesion: 0.20
+Nodes (9): Catalog, Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.7.96, Internal, Other Changes (+1 more)
+
+### Community 2221 - "main"
+Cohesion: 0.22
+Nodes (10): attachCommand(), blocking(), flag(), isFork(), main(), prFromEnv(), printFailure(), printList() (+2 more)
+
+### Community 2222 - "k4"
+Cohesion: 0.57
+Nodes (7): advanceBy(), consume(), isAt(), isFinished(), k4(), m4(), parseUntil()
+
+### Community 2223 - "title"
+Cohesion: 0.03
+Nodes (57): Add it to your video, Change how it looks, Related topics, Variables, Add it to your video, Related topics, Variables, Add it to your video (+49 more)
+
+### Community 2224 - "Viewport Change (Virtual Camera)"
+Cohesion: 0.20
+Nodes (10): Contents, Critical Constraints, Extreme range — 4–12× outward (workspace reveal), How It Works, Recipe, Scale Value Guide, See also, Values (+2 more)
+
+### Community 2225 - "Composition Patterns"
+Cohesion: 0.20
+Nodes (9): A. Content scene (default), B. Host media + main-timeline driver (one pattern for `<video>`/`<audio>`), C. Multi-scene merge, Composition Patterns, D. Audio at root, reactive visual inside, Modular Orchestrator Pattern, Naming Conventions, Sub-Composition Archetypes (+1 more)
+
+### Community 2226 - "Easing, Stagger, and Function-Based Values"
+Cohesion: 0.20
+Nodes (9): Contents, Defaults, Easing, Easing, Stagger, and Function-Based Values, Easing Vocabulary (character & mood), Function-Based Values, gsap.matchMedia (preview only), Spring Eases (baked physics, seek-safe) (+1 more)
+
+### Community 2227 - "Split Tilt Cards"
+Cohesion: 0.22
+Nodes (8): Contents, Critical Constraints, How It Works, Recipe, See also, Split Tilt Cards, Values, Variations
+
+### Community 2228 - "Remotion to HyperFrames"
+Cohesion: 0.18
+Nodes (11): How to grade your own translation, Overview, Remotion to HyperFrames, Step 1: Lint the source, Step 2: Plan the translation, Step 3: Generate the HF composition, Step 4: Validate, Step 5: Document gaps (+3 more)
+
+### Community 2230 - "3D Page Scroll"
+Cohesion: 0.25
+Nodes (8): 3D Page Scroll, Contents, Critical Constraints, How It Works, Recipe, See also, Values, Variations
+
+### Community 2231 - "Steps"
+Cohesion: 0.22
+Nodes (8): 1. Install the component, 2. Read the snippet, 3. Wire into your composition, 4. Lint and preview, 5. Customize, Scenario, Steps, Worked Example: Adding a Component
+
+### Community 2232 - "3D Text Depth Layers"
+Cohesion: 0.25
+Nodes (8): 3D Text Depth Layers, Contents, Critical Constraints, How It Works, Recipe, See also, Values, Variations
+
+### Community 2233 - "AI Tracking Box"
+Cohesion: 0.25
+Nodes (8): AI Tracking Box, Contents, Critical Constraints, How It Works, Recipe, See also, Values, Variations
+
+### Community 2234 - "Anchored Layout Expand"
+Cohesion: 0.25
+Nodes (8): Anchored Layout Expand, Contents, Critical Constraints, How It Works, Recipe, See also, Values, Variations
+
+### Community 2235 - "Patterns that work with caveats"
+Cohesion: 0.18
+Nodes (11): Code-split components (`React.lazy`), Custom `presentation` in `<TransitionSeries>`, `<Loop>` with stateful children, Patterns that always work, Patterns that work with caveats, React patterns the skill refuses, Remotion's `<Img>` with crossOrigin, Reporting gaps to the user (+3 more)
+
+### Community 2236 - "Avatar Cloud Network"
+Cohesion: 0.25
+Nodes (8): Avatar Cloud Network, Contents, Critical Constraints, How It Works, Recipe, See also, Values, Variations
+
+### Community 2237 - "Stat Bars & Fills"
+Cohesion: 0.22
+Nodes (9): 1 — Growth Bars (CSS `scaleY` stagger), 2 — Progress Fill, 3 — Star-Rating Fill (fractional), Contents, Critical Constraints, Recipe, See also, Stat Bars & Fills (+1 more)
+
+### Community 2238 - "whiteboard-ink"
+Cohesion: 0.29
+Nodes (6): Contract notes, Files, The strokes slot, Variables, whiteboard-ink, Worked example
+
+### Community 2239 - "Two-Phase Camera Cursor Tracking"
+Cohesion: 0.25
+Nodes (8): Contents, Critical Constraints, How It Works, Recipe, See also, Two-Phase Camera Cursor Tracking, Values, Variations
+
+### Community 2240 - "Chart Scrub Readout"
+Cohesion: 0.25
+Nodes (8): Chart Scrub Readout, Contents, Critical Constraints, How It Works, Recipe, See also, Values, Variations
+
+### Community 2241 - "Chromatic Glitch"
+Cohesion: 0.25
+Nodes (8): Chromatic Glitch, Contents, Critical Constraints, How It Works, Recipe, See also, Values, Variations
+
+### Community 2242 - "developers/overview.mdx"
+Cohesion: 0.22
+Nodes (8): Choose the smallest integration surface, CLI: operate complete projects, Player: embed and seek, Related topics, Rendering: choose the layer you need, SDK: inspect and edit, Start with the composition contract, The complete mental model
+
+### Community 2243 - "gsap-animation.mdx"
+Cohesion: 0.22
+Nodes (8): Duration, Load fonts before measuring text, Media belongs to the runtime, Minimal contract, Nested compositions, Related topics, Rules that matter, Verify the motion
+
+### Community 2244 - "mcp.mdx"
+Cohesion: 0.22
+Nodes (8): Choose hosted or local, Connect HyperFrames, Create a first composition, Current limits, Related topics, Render, Revise it conversationally, Troubleshooting
+
+### Community 2245 - "remove-background.mdx"
+Cohesion: 0.22
+Nodes (8): Balance quality and speed, Common problems, Compositing patterns and pitfalls, Create the transparent file, Know when it will work well, Put something behind the subject, Related topics, Use the cutout
+
+### Community 2246 - "parseSlideshow.ts"
+Cohesion: 0.09
+Nodes (28): Package Exports, isHotspotRegion(), isManifest(), isOptionalBoolean(), isOptionalNumberArray(), isRecord(), isSlideHotspot(), isSlideRef() (+20 more)
+
+### Community 2247 - "July 2026"
+Cohesion: 0.22
+Nodes (8): A clearer Studio inspector, Better storyboard and agent review, July 2026, Keep your project current, Media that previews reliably, More reliable rendering and long-running work, Related topics, Safer agent-created motion
+
+### Community 2248 - "capstone.mdx"
+Cohesion: 0.22
+Nodes (8): Change two colors, re-skin the film, Related topics, The idea, The prompt, word for word, What the prompt actually adds, Which chapter taught which region, Why it is one file, Why the first two builds failed
+
+### Community 2249 - "design-systems.mdx"
+Cohesion: 0.22
+Nodes (8): Brand is truth for color and type — not for layout, Bringing in a Figma frame, brand, or logo, Keeping a multi-video series consistent, Point at a spec, don't describe a vibe, Related, Supply inputs a workflow accepts — don't fight its preset, Supplying brand assets by path, Use the site's own palette and fonts
+
+### Community 2250 - "studio/audio-effects.mdx"
+Cohesion: 0.22
+Nodes (8): Add a single effect, Common problems, Even out a drifting take, Fix a voice with one preset, Open a track's effect rack, Related topics, Use the one-knob controls, What should happen
+
+### Community 2251 - "audio-groups.mdx"
+Cohesion: 0.22
+Nodes (8): Common problems, Create a group, Membership lives on the member, Mute and solo are not symmetric, Read a group row, Related topics, What should happen, When to use a group
+
+### Community 2252 - "canvas.mdx"
+Cohesion: 0.22
+Nodes (8): 1. Pause where the element is visible, 2. Change only what is wrong, 3. Work with overlaps and groups, 4. Decide whether the edit should animate, 5. Replace media without breaking the scene, 6. Play the result, not just the frame, Related topics, When Studio cannot edit it safely
+
+### Community 2253 - "gcp-cloud-run/scripts/smoke.sh"
+Cohesion: 0.44
+Nodes (8): canonicalize_output(), cleanup(), delete_owned_image(), is_not_found(), SEEN_PROTOCOLS, smoke.sh script, verify_absent(), verify_service_account_absent()
+
+### Community 2254 - "compilerOptions"
+Cohesion: 0.22
+Nodes (8): compilerOptions, declaration, noEmit, outDir, paths, rootDir, extends, ./tsconfig.json
+
+### Community 2255 - "collectSolidTextBlocks"
+Cohesion: 0.22
+Nodes (9): clipsOverflowValue(), collectSolidTextBlocks(), contentOverlapIssues(), elementsOnScreenScenes(), hasAllowOverlapFlag(), hiddenVisibilityAncestor(), isSolidTextBlock(), unionRects() (+1 more)
+
+### Community 2256 - "overlapIssue"
+Cohesion: 0.22
+Nodes (9): fragmentIntersectionArea(), intersectionArea(), isInFlow(), isManagedFlowOverlap(), isNested(), nearestFlexGridAncestor(), overlapIssue(), overlapsByAFifth() (+1 more)
+
+### Community 2257 - "matteOcclusionIssue"
+Cohesion: 0.25
+Nodes (9): lostNeighbourPair(), lostWordsMessage(), markLostSiblingWords(), markMatteWordsLost(), matteCoverage(), matteOcclusionIssue(), matteSampleCount(), percent() (+1 more)
+
+### Community 2258 - "test-hyperframe-runtime-security.ts"
+Cohesion: 0.22
+Nodes (5): ALLOWED_HOSTS, allowedMessages, allowedRuntimeFixtures, blockedMessages, blockedRuntimeFixtures
+
+### Community 2259 - "Context-Sensitive Cursor"
+Cohesion: 0.25
+Nodes (8): Contents, Context-Sensitive Cursor, Critical Constraints, How It Works, Recipe, See also, Values, Variations
+
+### Community 2260 - "compilerOptions"
+Cohesion: 0.22
+Nodes (8): compilerOptions, declaration, noEmit, outDir, paths, rootDir, extends, ./tsconfig.json
+
+### Community 2261 - "escape-hatch-fatal-fallback — field-signal reproducer"
+Cohesion: 0.22
+Nodes (8): Composition shape (verbatim from field envelope), Diagnostic starting points, escape-hatch-fatal-fallback — field-signal reproducer, Failure mode, Field signal envelope, How this fixture is skipped, When a fix lands, Why this fixture matters — both escape hatches fail
+
+### Community 2262 - "Compliance Checklist"
+Cohesion: 0.22
+Nodes (8): Compliance Checklist, [compositions/bg-grid.html], [compositions/captions.html], [compositions/mg-overlays.html], Critical Issues, Executive Summary, HyperFrame Schema Compliance Review, [index.html]
+
+### Community 2263 - "Compliance Checklist"
+Cohesion: 0.22
+Nodes (8): Compliance Checklist, compositions/bg-graphics.html, compositions/captions.html, compositions/data-viz.html, Critical Issues, Executive Summary, HyperFrame Schema Compliance Review, index.html
+
+### Community 2264 - "Compliance Checklist"
+Cohesion: 0.22
+Nodes (8): Compliance Checklist, compositions/background-grid.html, compositions/captions.html, compositions/stats-overlay.html, Critical Issues, Executive Summary, HyperFrame Schema Compliance Review, index.html
+
+### Community 2265 - "Background music (BGM)"
+Cohesion: 0.17
+Nodes (10): Paste it into your composition, Related topics, Variables, Background music (BGM), Driving it from the request, Failure modes, HeyGen retrieval (default), Local generation (fallback) — Lyria → MusicGen (+2 more)
+
+### Community 2266 - "Control-Target Sync"
+Cohesion: 0.25
+Nodes (8): Contents, Control-Target Sync, Critical Constraints, How It Works, Recipe, See also, Values, Variations
+
+### Community 2267 - "Vertical Spring Ticker (Slot Machine)"
+Cohesion: 0.29
+Nodes (7): Contents, How It Works, Recipe, See also, Values, Variations, Vertical Spring Ticker (Slot Machine)
+
+### Community 2268 - "compilerOptions"
+Cohesion: 0.22
+Nodes (8): compilerOptions, incremental, noEmit, paths, rootDir, exclude, extends, ./tsconfig.json
+
+### Community 2269 - "Counting with Dynamic Scale"
+Cohesion: 0.25
+Nodes (8): Contents, Counting with Dynamic Scale, Critical Constraints, How It Works, Recipe, See also, Values, Variations
+
+### Community 2270 - "CSS Patterns for Marker Highlighting"
+Cohesion: 0.25
+Nodes (8): 1. Highlight Mode, 2. Circle Mode, 3. Burst Mode, 4. Scribble Mode, 5. Sketchout Mode, Combining Modes in Captions, Contents, CSS Patterns for Marker Highlighting
+
+### Community 2271 - "wordPx"
+Cohesion: 0.40
+Nodes (6): famMetrics(), paradigmLaserrail(), paradigmScoperail(), setpieceBiobloom(), setpieceInkbloom(), wordPx()
+
+### Community 2272 - "createOrbitScene"
+Cohesion: 0.31
+Nodes (5): MOTION, createOrbitScene(), cameraAt(), channelAt(), renderAt()
+
+### Community 2273 - "camera-shake/registry-item.json"
+Cohesion: 0.22
+Nodes (8): description, files, name, $schema, tags, title, type, variables
+
+### Community 2274 - "caption-camera-follow/registry-item.json"
+Cohesion: 0.22
+Nodes (8): description, files, name, $schema, tags, title, type, variables
+
+### Community 2275 - "curtain-reveal/registry-item.json"
+Cohesion: 0.22
+Nodes (8): description, files, name, $schema, tags, title, type, variables
+
+### Community 2276 - "grade-split-reveal/registry-item.json"
+Cohesion: 0.22
+Nodes (8): description, files, name, $schema, tags, title, type, variables
+
+### Community 2277 - "hw-arrow/registry-item.json"
+Cohesion: 0.22
+Nodes (8): controls, description, files, name, $schema, tags, title, type
+
+### Community 2278 - "hw-boil/registry-item.json"
+Cohesion: 0.22
+Nodes (8): controls, description, files, name, $schema, tags, title, type
+
+### Community 2279 - "hw-box-label/registry-item.json"
+Cohesion: 0.22
+Nodes (8): controls, description, files, name, $schema, tags, title, type
+
+### Community 2280 - "hw-callout-circle/registry-item.json"
+Cohesion: 0.22
+Nodes (8): controls, description, files, name, $schema, tags, title, type
+
+### Community 2281 - "paper-collage-reveal/registry-item.json"
+Cohesion: 0.22
+Nodes (8): description, files, name, $schema, tags, title, type, variables
+
+### Community 2282 - "torn-paper-rip/registry-item.json"
+Cohesion: 0.22
+Nodes (8): description, files, name, $schema, tags, title, type, variables
+
+### Community 2283 - "HyperFrames v0.7.4"
+Cohesion: 0.22
+Nodes (8): Catalog, Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.7.4, Internal, Other Changes
+
+### Community 2284 - "HyperFrames v0.7.61"
+Cohesion: 0.22
+Nodes (8): Catalog, Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.7.61, Internal, Other Changes
+
+### Community 2285 - "HyperFrames v0.8.144"
+Cohesion: 0.22
+Nodes (8): Catalog, Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.8.144, Internal, Performance
+
+### Community 2286 - "evaluate"
+Cohesion: 0.25
+Nodes (9): captureProblems(), evaluate(), findSection(), hasMedia(), isVisualFile(), noVisibleChangeFailures(), noVisibleChangeVerdict(), parseSections() (+1 more)
+
+### Community 2287 - "3D Text Depth Layers"
+Cohesion: 0.22
+Nodes (8): 3D Text Depth Layers, Contents, Critical Constraints, How It Works, Recipe, See also, Values, Variations
+
+### Community 2288 - "Multi-Phase Camera"
+Cohesion: 0.22
+Nodes (9): Contents, Critical Constraints, How It Works, Multi-Phase Camera, Phase Patterns, Recipe, See also, Values (+1 more)
+
+### Community 2289 - "Reactive Displacement"
+Cohesion: 0.33
+Nodes (6): Critical Constraints, Reactive Displacement, Recipe, See also, Values, Variations
+
+### Community 2290 - "Chromatic Glitch"
+Cohesion: 0.25
+Nodes (8): Chromatic Glitch, Contents, Critical Constraints, How It Works, Recipe, See also, Values, Variations
+
+### Community 2291 - "Linear / Push"
+Cohesion: 0.33
+Nodes (5): Elastic Push, Linear / Push, Push Slide, Squeeze, Vertical Push
+
+### Community 2292 - "preview, play, render, publish"
+Cohesion: 0.22
+Nodes (8): Agent context from Studio selection, feedback (report after rendering), Launching with an external browser (preview + play), play (lightweight player), preview, preview, play, render, publish, publish, render
+
+### Community 2293 - "The three audio attributes"
+Cohesion: 0.33
+Nodes (5): `data-automation` — the envelopes, `data-fx-carve` — the carve's settings, `data-fx-chain` on the root — the master bus, `data-fx-chain` — the effects, The three audio attributes
+
+### Community 2294 - "Steps"
+Cohesion: 0.22
+Nodes (8): 1. Install the component, 2. Read the snippet, 3. Wire into your composition, 4. Lint and preview, 5. Customize, Scenario, Steps, Worked Example: Adding a Component
+
+### Community 2295 - "Cursor Drag"
+Cohesion: 0.25
+Nodes (8): Contents, Critical Constraints, Cursor Drag, How It Works, Recipe, See also, Values, Variations
+
+### Community 2296 - "demo/hyperframes.json"
+Cohesion: 0.22
+Nodes (8): media, autoProxy, paths, assets, blocks, components, registry, $schema
+
+### Community 2297 - "scripts"
+Cohesion: 0.22
+Nodes (8): name, private, scripts, check, dev, publish, render, type
+
+### Community 2298 - "write"
+Cohesion: 0.08
+Nodes (28): By(), cw(), dispatchThreads(), dispatchWorkgroups(), dS(), Fa(), fork(), Gy() (+20 more)
+
+### Community 2299 - "Setup and providers — install, auth, RAM ladders, forcing a provider"
+Cohesion: 0.33
+Nodes (5): CLI tools used (what to run, and how to enable each), Host HeyGen access (no CLI sign-in), Providers, Setup and providers — install, auth, RAM ladders, forcing a provider, Setup — install heygen first (free-usage path)
+
+### Community 2300 - "Anchored Layout Expand"
+Cohesion: 0.25
+Nodes (8): Anchored Layout Expand, Contents, Critical Constraints, How It Works, Recipe, See also, Values, Variations
+
+### Community 2301 - "CSS Patterns for Marker Highlighting"
+Cohesion: 0.25
+Nodes (8): 1. Highlight Mode, 2. Circle Mode, 3. Burst Mode, 4. Scribble Mode, 5. Sketchout Mode, Combining Modes in Captions, Contents, CSS Patterns for Marker Highlighting
+
+### Community 2302 - "Gradient Text Sweep"
+Cohesion: 0.25
+Nodes (8): Contents, Critical Constraints, Gradient Text Sweep, How It Works, Recipe, See also, Values, Variations
+
+### Community 2303 - "media-use usage dashboard"
+Cohesion: 0.33
+Nodes (5): Dashboard tiles, Event catalog (verified present in-project), Identity (see `scripts/lib/telemetry.mjs`), media-use usage dashboard, Recreate in an analytics dashboard
+
+### Community 2304 - "Depth Scatter ↔ Assemble"
+Cohesion: 0.25
+Nodes (8): Contents, Critical Constraints, Depth Scatter ↔ Assemble, How It Works, Recipe, See also, Values, Variations
+
+### Community 2305 - "la"
+Cohesion: 0.28
+Nodes (9): Aa(), Animation(), Ca(), Da(), la(), na(), Ua(), Va() (+1 more)
+
+### Community 2306 - "Kinetic Beat Slam"
+Cohesion: 0.25
+Nodes (8): Contents, Critical Constraints, How It Works, Kinetic Beat Slam, Recipe, See also, Values, Variations
+
+### Community 2307 - "Depth-of-Field Blur (Selective Focus / Rack Focus)"
+Cohesion: 0.25
+Nodes (8): Contents, Critical Constraints, Depth-of-Field Blur (Selective Focus / Rack Focus), How It Works, Recipe, See also, Values, Variations
+
+### Community 2308 - "Caption Template — Anatomy (the shared engine)"
+Cohesion: 0.04
+Nodes (50): `caption_container_relative_position`, `caption_exit_missing_hard_kill`, `caption_fittext_scale_mismatch`, `caption_overflow_clips_scaled_words`, `caption_text_overflow_risk`, `caption_textshadow_on_group_container`, `caption_transcript_not_inline`, Captions (+42 more)
+
+### Community 2309 - "Particle Burst"
+Cohesion: 0.25
+Nodes (8): Contents, Critical Constraints, How It Works, Particle Burst, Recipe, See also, Values, Variations
+
+### Community 2310 - "Depth Scatter ↔ Assemble"
+Cohesion: 0.25
+Nodes (8): Contents, Critical Constraints, Depth Scatter ↔ Assemble, How It Works, Recipe, See also, Values, Variations
+
+### Community 2311 - "Transition Catalog"
+Cohesion: 0.25
+Nodes (7): Contents, CSS Transitions, Hard Rules (CSS), Scene Template, Shader Transitions, Shader Transitions, Transition Catalog
+
+### Community 2312 - "Timelines and Labels"
+Cohesion: 0.25
+Nodes (7): Creating a Timeline, Inside Sub-Compositions: prefer `fromTo` over `from`, Labels, Nesting Timelines, Playback Control (debug / preview only), Position Parameter, Timelines and Labels
+
+### Community 2313 - "HyperFrames Tailwind"
+Cohesion: 0.25
+Nodes (7): Composition Pattern, Dynamic Class Safety, HyperFrames Tailwind, v4 Browser Runtime Rules, Validation, Version Contract, Video-Specific Guardrails
+
+### Community 2314 - "Composition Patterns"
+Cohesion: 0.25
+Nodes (7): Composition Patterns, Contents, Picture-in-Picture (Video in a Frame), Slide Show with Section Headers, Text Behind Subject (transparent webm overlay), Title Card with Fade, Top-Level Composition Example
+
+### Community 2315 - "Narration & Script"
+Cohesion: 0.25
+Nodes (7): Example, Narration & Script, Number Pronunciation, Pacing, Structure, The Opening Line, Tone
+
+### Community 2316 - "Steps"
+Cohesion: 0.25
+Nodes (7): 1. Install the block, 2. Wire into index.html, 3. Lint and preview, 4. Customize (optional), Scenario, Steps, Worked Example: Adding a Block
+
+### Community 2317 - ".agent/skills/media-use/audio/scripts/lib/host-audio.test.mjs"
+Cohesion: 0.32
+Nodes (4): hostAudio(), keepHostAudio(), hostWhoosh, onDisk
+
+### Community 2318 - "locate — find "X" in an image (no detector API assumed)"
+Cohesion: 0.25
+Nodes (7): Ambiguity — resolve BEFORE localizing, Degradation path (if locate.mjs itself is unavailable), locate — find "X" in an image (no detector API assumed), Notes, Routing — pick the cheapest path that's actually available, The grid loop (you read images between steps), Why this exists
+
+### Community 2319 - "Multi-Cursor Choreography"
+Cohesion: 0.25
+Nodes (8): Contents, Critical Constraints, How It Works, Multi-Cursor Choreography, Recipe, See also, Values, Variations
+
+### Community 2320 - "Discrete Text Sequence"
+Cohesion: 0.25
+Nodes (8): Contents, Critical Constraints, Discrete Text Sequence, How It Works, Recipe, See also, Values, Variations
+
+### Community 2321 - "Gradient Text Sweep"
+Cohesion: 0.25
+Nodes (8): Contents, Critical Constraints, Gradient Text Sweep, How It Works, Recipe, See also, Values, Variations
+
+### Community 2322 - "Hacker Flip 3D Reveal"
+Cohesion: 0.25
+Nodes (8): Contents, Critical Constraints, Hacker Flip 3D Reveal, How It Works, Recipe, See also, Values, Variations
+
+### Community 2323 - "Kinetic Beat Slam"
+Cohesion: 0.25
+Nodes (8): Contents, Critical Constraints, How It Works, Kinetic Beat Slam, Recipe, See also, Values, Variations
+
+### Community 2324 - "Multi-Cursor Choreography"
+Cohesion: 0.25
+Nodes (8): Contents, Critical Constraints, How It Works, Multi-Cursor Choreography, Recipe, See also, Values, Variations
+
+### Community 2325 - "Orbit with 3D Entry"
+Cohesion: 0.25
+Nodes (8): Contents, Critical Constraints, How It Works, Orbit with 3D Entry, Recipe, See also, Values, Variations
+
+### Community 2326 - "Particle Burst"
+Cohesion: 0.25
+Nodes (8): Contents, Critical Constraints, How It Works, Particle Burst, Recipe, See also, Values, Variations
+
+### Community 2327 - "Spring-Pop Entrance"
+Cohesion: 0.25
+Nodes (8): Contents, Critical Constraints, How It Works, Recipe, See also, Spring-Pop Entrance, Values, Variations
+
+### Community 2328 - "SVG Icon Enrichment"
+Cohesion: 0.25
+Nodes (8): Contents, Critical Constraints, Recipe, See also, SVG Icon Enrichment, ❗ The transform-center gotcha, Values, Variations
+
+### Community 2329 - "Theme Crossfade Morph"
+Cohesion: 0.25
+Nodes (8): Contents, Critical Constraints, How It Works, Recipe, See also, Theme Crossfade Morph, Values, Variations
+
+### Community 2330 - "Vertical Spring Ticker (Slot Machine)"
+Cohesion: 0.25
+Nodes (8): Contents, Critical Constraints, How It Works, Recipe, See also, Values, Variations, Vertical Spring Ticker (Slot Machine)
+
+### Community 2331 - "Transition Catalog"
+Cohesion: 0.25
+Nodes (7): Contents, CSS Transitions, Hard Rules (CSS), Scene Template, Shader Transitions, Shader Transitions, Transition Catalog
+
+### Community 2332 - "Split Tilt Cards"
+Cohesion: 0.22
+Nodes (8): Contents, Critical Constraints, How It Works, Recipe, See also, Split Tilt Cards, Values, Variations
+
+### Community 2333 - "Cursor Drag"
+Cohesion: 0.25
+Nodes (8): Contents, Critical Constraints, Cursor Drag, How It Works, Recipe, See also, Values, Variations
+
+### Community 2334 - "na"
+Cohesion: 0.25
+Nodes (6): Aa(), Ca(), na(), Vb(), wb(), Xb()
+
+### Community 2335 - "Transition Registry — machine source of truth"
+Cohesion: 0.25
+Nodes (7): Choosing as a planner (the only agent touchpoint), Contents, Default-derivation (used by prep.mjs when the planner omits `**Transition:**`), How the injector applies a transition, Registry, Template placeholders, Transition Registry — machine source of truth
+
+### Community 2336 - "Transition Registry — machine source of truth"
+Cohesion: 0.25
+Nodes (7): Choosing as a planner (the only agent touchpoint), Contents, Default-derivation (used by prep.mjs when the planner omits `**Transition:**`), How the injector applies a transition, Registry, Template placeholders, Transition Registry — machine source of truth
+
+### Community 2337 - "Discrete Text Sequence"
+Cohesion: 0.25
+Nodes (8): Contents, Critical Constraints, Discrete Text Sequence, How It Works, Recipe, See also, Values, Variations
+
+### Community 2338 - ".agent/skills/remotion-to-hyperframes/assets/test-corpus/tier-2-multi-scene/remotion-src/src/MultiScene.tsx"
+Cohesion: 0.43
+Nodes (5): ImageScene(), MultiScene(), OutroScene(), TitleScene(), RemotionRoot()
+
+### Community 2339 - "hyperframes/skills/media-use/audio/scripts/lib/host-audio.test.mjs"
+Cohesion: 0.32
+Nodes (5): hostAudio(), keepHostAudio(), exists(), hostWhoosh, onDisk
+
+### Community 2340 - "HyperFrames Tailwind"
+Cohesion: 0.25
+Nodes (7): Composition Pattern, Dynamic Class Safety, HyperFrames Tailwind, v4 Browser Runtime Rules, Validation, Version Contract, Video-Specific Guardrails
+
+### Community 2341 - "AI Tracking Box"
+Cohesion: 0.22
+Nodes (8): AI Tracking Box, Contents, Critical Constraints, How It Works, Recipe, See also, Values, Variations
+
+### Community 2342 - "Composition Patterns"
+Cohesion: 0.25
+Nodes (7): Composition Patterns, Contents, Picture-in-Picture (Video in a Frame), Slide Show with Section Headers, Text Behind Subject (transparent webm overlay), Title Card with Fade, Top-Level Composition Example
+
+### Community 2343 - "Narration & Script"
+Cohesion: 0.25
+Nodes (7): Example, Narration & Script, Number Pronunciation, Pacing, Structure, The Opening Line, Tone
+
+### Community 2344 - "Two-Phase Camera Cursor Tracking"
+Cohesion: 0.25
+Nodes (8): Contents, Critical Constraints, How It Works, Recipe, See also, Two-Phase Camera Cursor Tracking, Values, Variations
+
+### Community 2345 - "Steps"
+Cohesion: 0.25
+Nodes (7): 1. Install the block, 2. Wire into index.html, 3. Lint and preview, 4. Customize (optional), Scenario, Steps, Worked Example: Adding a Block
+
+### Community 2346 - "ai/skills/media-use/audio/scripts/lib/host-audio.test.mjs"
+Cohesion: 0.32
+Nodes (4): hostAudio(), keepHostAudio(), hostWhoosh, onDisk
+
+### Community 2347 - "locate — find "X" in an image (no detector API assumed)"
+Cohesion: 0.25
+Nodes (7): Ambiguity — resolve BEFORE localizing, Degradation path (if locate.mjs itself is unavailable), locate — find "X" in an image (no detector API assumed), Notes, Routing — pick the cheapest path that's actually available, The grid loop (you read images between steps), Why this exists
+
+### Community 2348 - "na"
+Cohesion: 0.25
+Nodes (6): Aa(), Ca(), na(), Vb(), wb(), Xb()
+
+### Community 2349 - "ai/skills/remotion-to-hyperframes/assets/test-corpus/tier-2-multi-scene/remotion-src/src/MultiScene.tsx"
+Cohesion: 0.43
+Nodes (5): ImageScene(), MultiScene(), OutroScene(), TitleScene(), RemotionRoot()
+
+### Community 2350 - "ai/skills/remotion-to-hyperframes/assets/test-corpus/tier-4-escape-hatch/cases/07-custom-hook.tsx"
+Cohesion: 0.29
+Nodes (6): CustomHookDriven(), useFadeIn(), Cases, Tier 4 — escape-hatch, Validation, What it tests
+
+### Community 2351 - "Avatar Cloud Network"
+Cohesion: 0.22
+Nodes (8): Avatar Cloud Network, Contents, Critical Constraints, How It Works, Recipe, See also, Values, Variations
+
+### Community 2352 - "na"
+Cohesion: 0.25
+Nodes (6): Aa(), Ca(), na(), Vb(), wb(), Xb()
+
+### Community 2353 - "audio-automation.mdx"
+Cohesion: 0.25
+Nodes (7): Common problems, Draw and edit an envelope, Not every knob can move, Related topics, Show a track's lanes, Two things that surprise people, What should happen
+
+### Community 2355 - "Oversized Cursor — the eye-carrier"
+Cohesion: 0.25
+Nodes (7): Checklist, Entry law — physical, never revealed, Exit law & cross-scene handoff, Oversized Cursor — the eye-carrier, Size & look (house convention), The click IGNITES the next beat, Tip-targeting & the click tap
+
+### Community 2356 - "Oversized Cursor — the eye-carrier"
+Cohesion: 0.25
+Nodes (7): Checklist, Entry law — physical, never revealed, Exit law & cross-scene handoff, Oversized Cursor — the eye-carrier, Size & look (house convention), The click IGNITES the next beat, Tip-targeting & the click tap
+
+### Community 2357 - "testing-local-changes.mdx"
+Cohesion: 0.25
+Nodes (7): Build the workspace, Call the built entry directly, Common problems, Link the CLI, Run the local build, Test the package archive, What to verify
+
+### Community 2358 - "cloud.mdx"
+Cohesion: 0.25
+Nodes (7): Check what will upload, Choose another renderer, Choose the output, Fill template variables, Related topics, Render a project, Run asynchronously
+
+### Community 2359 - "deploy/overview.mdx"
+Cohesion: 0.25
+Nodes (7): A Node application: use Producer, Exact frame capture: use Engine, Infrastructure you control, Local or CI: use the CLI, No infrastructure: use HyperFrames Cloud, Related topics, The decision
+
+### Community 2360 - "authentication.mdx"
+Cohesion: 0.25
+Nodes (7): Environment variables, How the HeyGen credential resolves, Providers used by agent workflows, Publishing without an account, Related topics, Sign in, Working offline
+
+### Community 2361 - "deploy.mdx"
+Cohesion: 0.25
+Nodes (7): Before exposing the endpoint, Cloudflare, Modal, Related topics, Source, Use your own composition, Vercel
+
+### Community 2362 - "Preview loads during the shell's first layout"
+Cohesion: 0.11
+Nodes (17): Layout, Current flow (cited), Goal and non-goals, Invariant, Open questions for the owner, Preview loads during the shell's first layout, Problem, Recommendation and why (+9 more)
+
+### Community 2363 - "prompting/audio-effects.mdx"
+Cohesion: 0.25
+Nodes (7): Ask for levels before asking for more depth, Ask for movement when a static setting will not do, Describe the whole mix once, at the end, Group the things that belong together, Say what it sounds like, not what to add, The one request worth learning by name, Three requests with no honest answer
+
+### Community 2364 - "code-blocks.mdx"
+Cohesion: 0.25
+Nodes (7): Choosing a theme by name, Pairing with a pull request, Pick the motion by what the viewer should learn, Prompting a diff or a highlight, Prompting a scroll-through, Prompting a typing reveal, Where to go next
+
+### Community 2365 - "rendering-and-output.mdx"
+Cohesion: 0.25
+Nodes (7): Format, HDR, Preview before you commit the slow render, Quality tier, Related, Resolution and framerate, Where the render runs
+
+### Community 2366 - "runtimes-and-3d.mdx"
+Cohesion: 0.25
+Nodes (7): Determinism surfaces in the prompt, Existing animation files → Lottie, Real 3D → Three.js via the adapter, Related topics, Scene-to-scene → shader transitions, Simple UI and text motion → the default, The capstone thread
+
+### Community 2367 - "storyboards.mdx"
+Cohesion: 0.25
+Nodes (7): Give each frame a job, Prompt the plan, not the scenes, Related, Set the direction once, apply it to every frame, State the film's shape once, The callback, Worked example: a silent 3-frame storyboard
+
+### Community 2368 - "edit-with-the-agent.mdx"
+Cohesion: 0.25
+Nodes (7): Change the timeline yourself, Get inspired, Point, draw, or comment on the picture, Related topics, Send several edits at once, Type a change, Undo
+
+### Community 2369 - "studio/index.mdx"
+Cohesion: 0.25
+Nodes (7): Change time on the timeline, Check and render the version, Compose preview guides in a host app, Hand a broader change back to the agent, Know the workspace, Make one safe edit, Related topics
+
+### Community 2370 - "source.mdx"
+Cohesion: 0.25
+Nodes (7): Ask about the selected element, Choose the smallest safe surface, Make a focused source edit, Related topics, Run Studio Lint, Use the project-level gates before delivery, When the preview and source disagree
+
+### Community 2371 - "Google Cloud Run example"
+Cohesion: 0.25
+Nodes (7): Google Cloud Run example, Isolation and cleanup, Layout, Prerequisites, Protocol rollout, Run the smoke, Test the handler locally
+
+### Community 2372 - "na"
+Cohesion: 0.25
+Nodes (6): Aa(), Ca(), na(), Vb(), wb(), Xb()
+
+### Community 2373 - "connectorShafts"
+Cohesion: 0.29
+Nodes (8): connectorNameFor(), connectorShafts(), dashArrayLengths(), dashLength(), isConnectorPath(), pathScreenEndpoints(), pathUserEndpoints(), shaftDashHidden()
+
+### Community 2374 - "HyperFrames Composition Project"
+Cohesion: 0.25
+Nodes (7): Commands, Documentation, HyperFrames Composition Project, Key Rules, Linting — ALWAYS RUN AFTER CHANGES, Project Structure, Skills — USE THESE FIRST
+
+### Community 2375 - "HyperFrames Composition Project"
+Cohesion: 0.25
+Nodes (7): Commands, Documentation, HyperFrames Composition Project, Key Rules, Linting — ALWAYS RUN AFTER CHANGES, Project Structure, Skills — USE THESE FIRST
+
+### Community 2376 - "Interactive Compositions"
+Cohesion: 0.25
+Nodes (7): Core Notes, Future Extensions, Interactive Compositions, Navigation Behavior: Replace, Ownership Model, Why `data-start="interactive"`, Why `window.__navigate()` instead of `data-goto`
+
+### Community 2377 - "Cursor Drag"
+Cohesion: 0.25
+Nodes (8): Contents, Critical Constraints, Cursor Drag, How It Works, Recipe, See also, Values, Variations
+
+### Community 2378 - "Depth-of-Field Blur (Selective Focus / Rack Focus)"
+Cohesion: 0.25
+Nodes (8): Contents, Critical Constraints, Depth-of-Field Blur (Selective Focus / Rack Focus), How It Works, Recipe, See also, Values, Variations
+
+### Community 2379 - "light-sweep-pass"
+Cohesion: 0.33
+Nodes (5): Files, light-sweep-pass, The slot mechanism, Variables, Worked example
+
+### Community 2380 - "tsconfig.runtime.json"
+Cohesion: 0.25
+Nodes (7): compilerOptions, noEmit, exclude, extends, files, include, ./tsconfig.json
+
+### Community 2381 - "dependencies"
+Cohesion: 0.25
+Nodes (8): dependencies, hono, @hono/node-server, @hyperframes/core, @hyperframes/parsers, linkedom, puppeteer, puppeteer-core
+
+### Community 2382 - "@hyperframes/engine"
+Cohesion: 0.25
+Nodes (7): Documentation, @hyperframes/engine, Install, Key services, Related packages, Usage, What it does
+
+### Community 2383 - "Discrete Text Sequence"
+Cohesion: 0.25
+Nodes (8): Contents, Critical Constraints, Discrete Text Sequence, How It Works, Recipe, See also, Values, Variations
+
+### Community 2384 - "devDependencies"
+Cohesion: 0.25
+Nodes (8): devDependencies, esbuild, @hyperframes/aws-lambda, tsx, @types/node, typescript, vitest, @webgpu/types
+
+### Community 2385 - "Compliance Checklist"
+Cohesion: 0.25
+Nodes (7): Compliance Checklist, Critical Issues, Executive Summary, HyperFrame Schema Compliance Review, index.html, script.js, style.css
+
+### Community 2386 - "Compliance Checklist"
+Cohesion: 0.25
+Nodes (7): Compliance Checklist, compositions/captions.html, compositions/motion-graphics.html, Critical Issues, Executive Summary, HyperFrame Schema Compliance Review, index.html
+
+### Community 2387 - "tsconfig.check.json"
+Cohesion: 0.25
+Nodes (7): compilerOptions, noEmit, rootDir, exclude, extends, include, ./tsconfig.json
+
+### Community 2388 - "@hyperframes/studio"
+Cohesion: 0.25
+Nodes (7): Development, Documentation, @hyperframes/studio, Install, Related packages, Tech stack, What it does
+
+### Community 2389 - "dependencies"
+Cohesion: 0.25
+Nodes (8): dependencies, hono, @hyperframes/core, @hyperframes/parsers, linkedom, postcss, postcss-selector-parser, sharp
+
+### Community 2390 - "scripts"
+Cohesion: 0.25
+Nodes (8): scripts, build, prepublishOnly, report:gsap-writers, test, test:acorn-writer, test:watch, typecheck
+
+### Community 2391 - "velocityEaseFitter.ts"
+Cohesion: 0.39
+Nodes (5): averageSpeed(), fitEasesFromVelocity(), FittedKeyframe, speedAtEdge(), TimedSample
+
+### Community 2392 - "caption-blend-difference/registry-item.json"
+Cohesion: 0.25
+Nodes (7): description, files, name, $schema, tags, title, type
+
+### Community 2393 - "colorama-wipe/registry-item.json"
+Cohesion: 0.25
+Nodes (7): description, files, name, $schema, tags, title, type
+
+### Community 2394 - "extended-keyframe/registry-item.json"
+Cohesion: 0.25
+Nodes (7): description, files, name, $schema, tags, title, type
+
+### Community 2395 - "hw-underline/registry-item.json"
+Cohesion: 0.25
+Nodes (7): description, files, name, $schema, tags, title, type
+
+### Community 2396 - "mk-emphasis-type/registry-item.json"
+Cohesion: 0.25
+Nodes (7): description, files, name, $schema, tags, title, type
+
+### Community 2397 - "mk-usage-arc/registry-item.json"
+Cohesion: 0.25
+Nodes (7): description, files, name, $schema, tags, title, type
+
+### Community 2398 - "yt-camera-move/registry-item.json"
+Cohesion: 0.25
+Nodes (7): description, files, name, $schema, tags, title, type
+
+### Community 2399 - "yt-circle-pointer/registry-item.json"
+Cohesion: 0.25
+Nodes (7): description, files, name, $schema, tags, title, type
+
+### Community 2400 - "yt-feather-highlight/registry-item.json"
+Cohesion: 0.25
+Nodes (7): description, files, name, $schema, tags, title, type
+
+### Community 2401 - "yt-screen-warp/registry-item.json"
+Cohesion: 0.25
+Nodes (7): description, files, name, $schema, tags, title, type
+
+### Community 2402 - "HyperFrames v0.6.101"
+Cohesion: 0.25
+Nodes (7): Catalog, Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.6.101, Internal
+
+### Community 2403 - "HyperFrames v0.6.74"
+Cohesion: 0.25
+Nodes (7): Catalog, Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.6.74, Internal
+
+### Community 2404 - "HyperFrames v0.6.85"
+Cohesion: 0.25
+Nodes (7): Catalog, Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.6.85, Internal
+
+### Community 2405 - "HyperFrames v0.6.99"
+Cohesion: 0.25
+Nodes (7): Catalog, Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.6.99, Internal
+
+### Community 2406 - "HyperFrames v0.7.106"
+Cohesion: 0.25
+Nodes (7): Catalog, Docs & Examples, Fixes, Full changelog, HyperFrames v0.7.106, Internal, Other Changes
+
+### Community 2407 - "HyperFrames v0.7.108"
+Cohesion: 0.25
+Nodes (7): Catalog, Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.7.108, Internal
+
+### Community 2408 - "HyperFrames v0.7.20"
+Cohesion: 0.25
+Nodes (7): Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.7.20, Internal, Performance
+
+### Community 2409 - "HyperFrames v0.7.43"
+Cohesion: 0.25
+Nodes (7): Catalog, Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.7.43, Internal
+
+### Community 2410 - "HyperFrames v0.7.46"
+Cohesion: 0.25
+Nodes (7): Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.7.46, Internal, Other Changes
+
+### Community 2411 - "HyperFrames v0.7.57"
+Cohesion: 0.25
+Nodes (7): Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.7.57, Internal, Performance
+
+### Community 2412 - "HyperFrames v0.7.77"
+Cohesion: 0.25
+Nodes (7): Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.7.77, Internal, Performance
+
+### Community 2413 - "HyperFrames v0.7.78"
+Cohesion: 0.25
+Nodes (7): Catalog, Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.7.78, Internal
+
+### Community 2414 - "HyperFrames v0.7.85"
+Cohesion: 0.25
+Nodes (7): Catalog, Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.7.85, Internal
+
+### Community 2415 - "HyperFrames v0.8.115"
+Cohesion: 0.25
+Nodes (7): Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.8.115, Internal, Performance
+
+### Community 2416 - "HyperFrames v0.8.151"
+Cohesion: 0.25
+Nodes (7): Catalog, Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.8.151, Internal
+
+### Community 2417 - "HyperFrames v0.8.152"
+Cohesion: 0.25
+Nodes (7): Catalog, Compatibility notes, Features, Fixes, Full changelog, HyperFrames v0.8.152, Internal
+
+### Community 2418 - "HyperFrames v0.8.34"
+Cohesion: 0.25
+Nodes (7): Catalog, Docs & Examples, Fixes, Full changelog, HyperFrames v0.8.34, Internal, Performance
+
+### Community 2419 - "HyperFrames v0.8.45"
+Cohesion: 0.25
+Nodes (7): Catalog, Choosing a motion blur, and what each one costs, Features, Fixes, Full changelog, HyperFrames v0.8.45, Known limits of the engine path
+
+### Community 2420 - "HyperFrames v0.8.51"
+Cohesion: 0.25
+Nodes (7): Catalog, Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.8.51, Internal
+
+### Community 2421 - "HyperFrames v0.8.63"
+Cohesion: 0.25
+Nodes (7): Catalog, Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.8.63, Internal
+
+### Community 2422 - "HyperFrames v0.8.7"
+Cohesion: 0.25
+Nodes (7): Catalog, Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.8.7, Internal
+
+### Community 2423 - "HyperFrames v0.8.76"
+Cohesion: 0.25
+Nodes (7): Catalog, Features, Fixes, Full changelog, HyperFrames v0.8.76, Internal, Performance
+
+### Community 2424 - "HyperFrames v0.8.79"
+Cohesion: 0.25
+Nodes (7): Catalog, Features, Fixes, Full changelog, HyperFrames v0.8.79, Internal, Performance
+
+### Community 2425 - "HyperFrames v0.8.80"
+Cohesion: 0.25
+Nodes (7): Catalog, Docs & Examples, Fixes, Full changelog, HyperFrames v0.8.80, Internal, Performance
+
+### Community 2426 - "HyperFrames v0.8.82"
+Cohesion: 0.25
+Nodes (7): Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.8.82, Internal, Performance
+
+### Community 2427 - "HyperFrames v0.8.87"
+Cohesion: 0.25
+Nodes (7): Catalog, Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.8.87, Performance
+
+### Community 2428 - "uncomparable"
+Cohesion: 0.46
+Nodes (8): captureUrls(), isAttachmentUrl(), isMediaUrl(), isRetryableAttachment404(), linkIdentity(), parseUrl(), trimmedLinks(), uncomparable()
+
+### Community 2429 - "duplicateCaptureProblems"
+Cohesion: 0.32
+Nodes (8): compareCaptures(), duplicateCaptureProblems(), findProblems(), hashCaptures(), identicalPairs(), linkLimitProblem(), noProblems(), sha256()
+
+### Community 2430 - "When to bow out: the runtime interop pattern"
+Cohesion: 0.29
+Nodes (7): The lint output already includes recommendations, The recommendation message, What the interop pattern actually does, When NOT to bow out: warnings only, When the source has BOTH blockers AND warnings, When to bow out: the runtime interop pattern, When to recommend interop
+
+### Community 2431 - "📝 TÓM TẮT PHIÊN LÀM VIỆC - SESS-011: CHUẨN HÓA KOC MASTER DNA & SẢN XUẤT VIDEO MẪU GOBI THÚI 9S"
+Cohesion: 0.29
+Nodes (6): 🎯 1. BỐI CẢNH & MỤC TIÊU CUỘC HỘI THOẠI, ⚙️ 2. CÁC HÀNH ĐỘNG KỸ THUẬT ĐÃ TRIỂN KHAI, 🏆 3. KẾT QUẢ ĐẠT ĐƯỢC & BẰNG CHỨNG (PROOF-OF-WORK), 🧠 4. BÀI HỌC KINH NGHIỆM ĐÚC KẾT ĐƯỢC, ⏭️ 5. BƯỚC TIẾP THEO (NEXT ACTIONS), 📝 TÓM TẮT PHIÊN LÀM VIỆC - SESS-011: CHUẨN HÓA KOC MASTER DNA & SẢN XUẤT VIDEO MẪU GOBI THÚI 9S
+
+### Community 2432 - "test-skills-fresh.sh"
+Cohesion: 0.50
+Nodes (7): check_skill(), fail(), needs_build(), ok(), say(), test-skills-fresh.sh script, warn()
+
+### Community 2433 - "Timelines and Labels"
+Cohesion: 0.25
+Nodes (7): Creating a Timeline, Inside Sub-Compositions: prefer `fromTo` over `from`, Labels, Nesting Timelines, Playback Control (debug / preview only), Position Parameter, Timelines and Labels
+
+### Community 2434 - "Cursor Click Ripple"
+Cohesion: 0.29
+Nodes (7): Contents, Critical Constraints, Cursor Click Ripple, Recipe, See also, Values, Variations
+
+### Community 2435 - "📝 TÓM TẮT PHIÊN LÀM VIỆC - SESS-012: CHUẨN HÓA KOC MASTER DNA & SẢN XUẤT VIDEO MẪU GOBI THÚI 9S"
+Cohesion: 0.29
+Nodes (6): 🎯 1. BỐI CẢNH & MỤC TIÊU CUỘC HỘI THOẠI, ⚙️ 2. CÁC HÀNH ĐỘNG KỸ THUẬT ĐÃ TRIỂN KHAI, 🏆 3. KẾT QUẢ ĐẠT ĐƯỢC & BẰNG CHỨNG (PROOF-OF-WORK), 🧠 4. BÀI HỌC KINH NGHIỆM ĐÚC KẾT ĐƯỢC, ⏭️ 5. BƯỚC TIẾP THEO (NEXT ACTIONS), 📝 TÓM TẮT PHIÊN LÀM VIỆC - SESS-012: CHUẨN HÓA KOC MASTER DNA & SẢN XUẤT VIDEO MẪU GOBI THÚI 9S
+
+### Community 2436 - "cursor-glyph-trail"
+Cohesion: 0.33
+Nodes (5): Actor slot, cursor-glyph-trail, Mount, Notes, Variables
+
+### Community 2437 - "📝 TÓM TẮT PHIÊN LÀM VIỆC - SESS-013: RÀ SOÁT CÁC NGÁCH VIDEO AI KIẾM TIỀN TỪ VIEW & KẾ HOẠCH HỆ SINH THÁI ĐA KÊNH"
+Cohesion: 0.29
+Nodes (6): 🎯 1. BỐI CẢNH & MỤC TIÊU CUỘC HỘI THOẠI, ⚙️ 2. CÁC HÀNH ĐỘNG KỸ THUẬT ĐÃ TRIỂN KHAI, 🏆 3. KẾT QUẢ ĐẠT ĐƯỢC & BẰNG CHỨNG (PROOF-OF-WORK), 🧠 4. BÀI HỌC KINH NGHIỆM ĐÚC KẾT ĐƯỢC, ⏭️ 5. BƯỚC TIẾP THEO (NEXT ACTIONS), 📝 TÓM TẮT PHIÊN LÀM VIỆC - SESS-013: RÀ SOÁT CÁC NGÁCH VIDEO AI KIẾM TIỀN TỪ VIEW & KẾ HOẠCH HỆ SINH THÁI ĐA KÊNH
+
+### Community 2438 - "📝 TÓM TẮT CUỘC HỘI THOẠI - SESS-018"
+Cohesion: 0.29
+Nodes (6): 🎯 1. BỐI CẢNH & MỤC TIÊU CUỘC HỘI THOẠI, ⚙️ 2. CÁC HÀNH ĐỘNG KỸ THUẬT ĐÃ TRIỂN KHAI, 🏆 3. KẾT QUẢ ĐẠT ĐƯỢC & BẰNG CHỨNG (PROOF-OF-WORK), 🧠 4. BÀI HỌC KINH NGHIỆM ĐÚC KẾT ĐƯỢC, ⏭️ 5. BƯỚC TIẾP THEO (NEXT ACTIONS), 📝 TÓM TẮT CUỘC HỘI THOẠI - SESS-018
+
+### Community 2439 - "na"
+Cohesion: 0.25
+Nodes (6): Aa(), Ca(), na(), Vb(), wb(), Xb()
+
+### Community 2440 - "📝 TÓM TẮT CUỘC HỘI THOẠI - SESS-019"
+Cohesion: 0.29
+Nodes (6): 🎯 1. BỐI CẢNH & MỤC TIÊU CUỘC HỘI THOẠI, ⚙️ 2. CÁC HÀNH ĐỘNG KỸ THUẬT ĐÃ TRIỂN KHAI, 🏆 3. KẾT QUẢ ĐẠT ĐƯỢC & BẰNG CHỨNG (PROOF-OF-WORK), 🧠 4. BÀI HỌC KINH NGHIỆM ĐÚC KẾT ĐƯỢC, ⏭️ 5. BƯỚC TIẾP THEO (NEXT ACTIONS), 📝 TÓM TẮT CUỘC HỘI THOẠI - SESS-019
+
+### Community 2441 - "Orbit with 3D Entry"
+Cohesion: 0.25
+Nodes (8): Contents, Critical Constraints, How It Works, Orbit with 3D Entry, Recipe, See also, Values, Variations
+
+### Community 2442 - "CSS Patterns for Marker Highlighting"
+Cohesion: 0.25
+Nodes (8): 1. Highlight Mode, 2. Circle Mode, 3. Burst Mode, 4. Scribble Mode, 5. Sketchout Mode, Combining Modes in Captions, Contents, CSS Patterns for Marker Highlighting
+
+### Community 2443 - "Template: champion"
+Cohesion: 0.29
+Nodes (6): Crown placement rules, Layout decisions agent makes, Plan.json shape, Slot assignment, Template: champion, When to apply
+
+### Community 2444 - "Anchored Layout Expand"
+Cohesion: 0.25
+Nodes (8): Anchored Layout Expand, Contents, Critical Constraints, How It Works, Recipe, See also, Values, Variations
+
+### Community 2445 - "Particle Burst"
+Cohesion: 0.25
+Nodes (8): Contents, Critical Constraints, How It Works, Particle Burst, Recipe, See also, Values, Variations
+
+### Community 2446 - "Template: memory-wall"
+Cohesion: 0.29
+Nodes (6): Don't fight the template, Plan.json shape, Slot assignment rules, Template: memory-wall, What agent decides per scene, When to apply
+
+### Community 2447 - "ASR Keyword Glow"
+Cohesion: 0.25
+Nodes (8): ASR Keyword Glow, Contents, Critical Constraints, How It Works, Recipe, See also, Values, Variations
+
+### Community 2448 - "Hacker Flip 3D Reveal"
+Cohesion: 0.25
+Nodes (8): Contents, Critical Constraints, Hacker Flip 3D Reveal, How It Works, Recipe, See also, Values, Variations
+
+### Community 2449 - "Center-Outward Expansion"
+Cohesion: 0.29
+Nodes (7): Center-Outward Expansion, Critical Constraints, How It Works, Recipe, See also, Values, Variations
+
+### Community 2450 - "Multi-Cursor Choreography"
+Cohesion: 0.25
+Nodes (8): Contents, Critical Constraints, How It Works, Multi-Cursor Choreography, Recipe, See also, Values, Variations
+
+### Community 2451 - "Cursor Click Ripple"
+Cohesion: 0.29
+Nodes (7): Contents, Critical Constraints, Cursor Click Ripple, Recipe, See also, Values, Variations
+
+### Community 2452 - "Physics Press Reaction (Cursor + Element Synced)"
+Cohesion: 0.29
+Nodes (7): Contents, Critical Constraints, Physics Press Reaction (Cursor + Element Synced), Recipe, See also, Values, Variations
+
+### Community 2453 - "Spring-Pop Entrance"
+Cohesion: 0.25
+Nodes (8): Contents, Critical Constraints, How It Works, Recipe, See also, Spring-Pop Entrance, Values, Variations
+
+### Community 2454 - "SVG Icon Enrichment"
+Cohesion: 0.25
+Nodes (8): Contents, Critical Constraints, Recipe, See also, SVG Icon Enrichment, ❗ The transform-center gotcha, Values, Variations
+
+### Community 2455 - "Transition Catalog"
+Cohesion: 0.25
+Nodes (7): Contents, CSS Transitions, Hard Rules (CSS), Scene Template, Shader Transitions, Shader Transitions, Transition Catalog
+
+### Community 2456 - "Press-Release Spring Chain"
+Cohesion: 0.29
+Nodes (7): Contents, Critical Constraints, Press-Release Spring Chain, Recipe, See also, Values, Variations
+
+### Community 2457 - "HyperFrames Tailwind"
+Cohesion: 0.25
+Nodes (7): Composition Pattern, Dynamic Class Safety, HyperFrames Tailwind, v4 Browser Runtime Rules, Validation, Version Contract, Video-Specific Guardrails
+
+### Community 2458 - "Composition Patterns"
+Cohesion: 0.25
+Nodes (7): Composition Patterns, Contents, Picture-in-Picture (Video in a Frame), Slide Show with Section Headers, Text Behind Subject (transparent webm overlay), Title Card with Fade, Top-Level Composition Example
+
+### Community 2459 - "SVG Path Draw"
+Cohesion: 0.29
+Nodes (7): Contents, Critical Constraints, Recipe, See also, SVG Path Draw, Values, Variations
+
+### Community 2460 - "Narration & Script"
+Cohesion: 0.25
+Nodes (7): Example, Narration & Script, Number Pronunciation, Pacing, Structure, The Opening Line, Tone
+
+### Community 2461 - "Steps"
+Cohesion: 0.25
+Nodes (7): 1. Install the block, 2. Wire into index.html, 3. Lint and preview, 4. Customize (optional), Scenario, Steps, Worked Example: Adding a Block
+
+### Community 2462 - "Background music (BGM)"
+Cohesion: 0.29
+Nodes (6): Background music (BGM), Driving it from the request, Failure modes, HeyGen retrieval (default), Local generation (fallback) — Lyria → MusicGen, Lyria knobs (direct recipe use)
+
+### Community 2463 - "Sound effects (SFX)"
+Cohesion: 0.29
+Nodes (6): Bundled library (fallback), Cues — request → meta, Licences, Openverse, Rules, Sound effects (SFX)
+
+### Community 2464 - "locate — find "X" in an image (no detector API assumed)"
+Cohesion: 0.25
+Nodes (7): Ambiguity — resolve BEFORE localizing, Degradation path (if locate.mjs itself is unavailable), locate — find "X" in an image (no detector API assumed), Notes, Routing — pick the cheapest path that's actually available, The grid loop (you read images between steps), Why this exists
+
+### Community 2465 - "na"
+Cohesion: 0.25
+Nodes (6): Aa(), Ca(), na(), Vb(), wb(), Xb()
+
+### Community 2466 - "Media treatments"
+Cohesion: 0.29
+Nodes (6): Classify the request, Common workflow, Media treatments, Permission and scope, Seed or assemble, Translate vague feedback conservatively
+
+### Community 2467 - "news — category module (search-driven)"
+Cohesion: 0.29
+Nodes (6): Critical, Layout A — centered-emphasis (9:16, text-only) — Builder, Layout B — full article (16:9, logo + person) — Builder, news — category module (search-driven), Source (Step 2), The highlight core (shared by both layouts) — the marker-band technique
+
+### Community 2468 - "modal-morph"
+Cohesion: 0.33
+Nodes (5): Card content slot, modal-morph, Mount, Notes, Variables
+
+### Community 2469 - "Template: memory-wall"
+Cohesion: 0.29
+Nodes (6): Don't fight the template, Plan.json shape, Slot assignment rules, Template: memory-wall, What agent decides per scene, When to apply
+
+### Community 2470 - "text module · motion vocabulary (primitive → GSAP)"
+Cohesion: 0.29
+Nodes (6): Accent graphics (not text), Emphasis (in place, often on a beat), Entry, Exit, Prefer HF registry components when they fit, text module · motion vocabulary (primitive → GSAP)
+
+### Community 2471 - "Sound effects (SFX)"
+Cohesion: 0.29
+Nodes (6): Bundled library (fallback), Cues — request → meta, Licences, Openverse, Rules, Sound effects (SFX)
+
+### Community 2472 - "dependencies"
+Cohesion: 0.25
+Nodes (8): dependencies, @google-cloud/storage, @google-cloud/workflows, hono, @hono/node-server, @hyperframes/producer, puppeteer-core, tar
+
+### Community 2473 - "news — category module (search-driven)"
+Cohesion: 0.29
+Nodes (6): Critical, Layout A — centered-emphasis (9:16, text-only) — Builder, Layout B — full article (16:9, logo + person) — Builder, news — category module (search-driven), Source (Step 2), The highlight core (shared by both layouts) — the marker-band technique
+
+### Community 2474 - "text module · motion vocabulary (primitive → GSAP)"
+Cohesion: 0.29
+Nodes (6): Accent graphics (not text), Emphasis (in place, often on a beat), Entry, Exit, Prefer HF registry components when they fit, text module · motion vocabulary (primitive → GSAP)
+
+### Community 2475 - ".agent/skills/remotion-to-hyperframes/assets/test-corpus/run.sh"
+Cohesion: 0.57
+Nodes (6): read_json_value(), require_render_tier_tools(), run_lint_tier(), run_render_tier(), run.sh script, write_result()
+
+### Community 2476 - "ai/skills/remotion-to-hyperframes/assets/test-corpus/run.sh"
+Cohesion: 0.57
+Nodes (6): read_json_value(), require_render_tier_tools(), run_lint_tier(), run_render_tier(), run.sh script, write_result()
+
+### Community 2477 - "lint.mdx"
+Cohesion: 0.29
+Nodes (6): Linting a Project, Linting a Single Composition, Package Exports, Related topics, What the Linter Catches, When to Use
+
+### Community 2478 - "audioAutomation.ts"
+Cohesion: 0.00
+Nodes (731): Add it to your video, Related topics, Variables, `data-automation`, Voiceover carve, AutomatableNode, AutomationTiming, cancelParamLane() (+723 more)
+
+### Community 2479 - "shader-transitions.mdx"
+Cohesion: 0.29
+Nodes (6): Available Shaders, Configuration, Preview and Render Behavior, Quick Start, Related topics, When to Use
+
+### Community 2480 - "createPreviewAdapter"
+Cohesion: 0.38
+Nodes (4): createPreviewAdapter(), clearDraftProps(), revertGesture(), adapterWith()
+
+### Community 2481 - "createPost"
+Cohesion: 0.38
+Nodes (4): createPost(), build(), dispose(), update()
+
+### Community 2482 - "screen-flow-carousel"
+Cohesion: 0.33
+Nodes (5): Mount, Notes, screen-flow-carousel, Screen slots, Variables
+
+### Community 2483 - "equals"
+Cohesion: 0.33
+Nodes (7): te(), Xe(), closePath(), equals(), extractPoints(), getPoints(), getPointsHoles()
+
+### Community 2484 - "k4"
+Cohesion: 0.57
+Nodes (7): advanceBy(), consume(), isAt(), isFinished(), k4(), m4(), parseUntil()
+
+### Community 2485 - "k4"
+Cohesion: 0.57
+Nodes (7): advanceBy(), consume(), isAt(), isFinished(), k4(), m4(), parseUntil()
+
+### Community 2486 - "Build Spec — square 1080 changelog master"
+Cohesion: 0.29
+Nodes (6): Animated background (the house pattern), Brand tokens (HeyGen for Developers), Build Spec — square 1080 changelog master, Lint/check gotchas (all hit before, all pre-solved), Scene anatomy, Seams + internal life (doctrine mechanics)
+
+### Community 2487 - "Script + Voice: the two-layer contract"
+Cohesion: 0.29
+Nodes (6): Alignment (spoken timestamps → display captions), Caption rail (rendering), Phonetics rules (ElevenLabs-style best practices, plain-text), Register (how it should sound), Script + Voice: the two-layer contract, Token-line format (`script-tokens.json`)
+
+### Community 2488 - "Build Spec — square 1080 changelog master"
+Cohesion: 0.29
+Nodes (6): Animated background (the house pattern), Brand tokens (HeyGen for Developers), Build Spec — square 1080 changelog master, Lint/check gotchas (all hit before, all pre-solved), Scene anatomy, Seams + internal life (doctrine mechanics)
+
+### Community 2489 - "Script + Voice: the two-layer contract"
+Cohesion: 0.29
+Nodes (6): Alignment (spoken timestamps → display captions), Caption rail (rendering), Phonetics rules (ElevenLabs-style best practices, plain-text), Register (how it should sound), Script + Voice: the two-layer contract, Token-line format (`script-tokens.json`)
+
+### Community 2490 - "texture-mask-text.mdx"
+Cohesion: 0.29
+Nodes (6): Ask an agent for it, Every texture, Make the texture move, Paste it into your composition, Related topics, Texture masks
+
+### Community 2491 - "4k-rendering.mdx"
+Cohesion: 0.29
+Nodes (6): Author a project at 4K, Constraints, Related topics, Render an existing project in 4K, Verify the file, What gets sharper
+
+### Community 2492 - "design-tools.mdx"
+Cohesion: 0.29
+Nodes (6): Is the handoff any good?, Related topics, Start from Claude Design or Open Design, Start from Figma, What to keep as a picture, What to rebuild in HTML
+
+### Community 2493 - "feedback.mdx"
+Cohesion: 0.29
+Nodes (6): About feedback data, Include enough evidence, Related topics, Report a reproducible bug, Send feedback from the command line, Talk with the HyperFrames team
+
+### Community 2494 - "hyperframes-vs-remotion.mdx"
+Cohesion: 0.29
+Nodes (6): Moving a Remotion project across, Related topics, The same title card, twice, What HyperFrames does better, What Remotion does better, Where they actually differ
+
+### Community 2495 - "media.mdx"
+Cohesion: 0.29
+Nodes (6): Bring it into the project, Check the final timeline, Choose a media task, Prepare only what the result needs, Related topics, Start with the role, not the effect
+
+### Community 2496 - "media-effects.mdx"
+Cohesion: 0.29
+Nodes (6): Keeping it useful, Or just ask the agent, Related topics, Try one in Studio, Two limits worth knowing, What each family is for
+
+### Community 2497 - "guides/motion-graphics.mdx"
+Cohesion: 0.29
+Nodes (6): A finished one, end to end, Choose the output, Make the request, Related topics, Review the motion, What are you animating?
+
+### Community 2498 - "performance.mdx"
+Cohesion: 0.29
+Nodes (6): Make a fast review render, Measure instead of guessing, Reduce expensive browser work, Related topics, Start with the symptom, Tune transparent WebM only when needed
+
+### Community 2499 - "slideshow.mdx"
+Cohesion: 0.29
+Nodes (6): Keep the main story clear, Make the request, Present the deck, Related topics, Review it as a presenter, What control does the presenter need?
+
+### Community 2500 - "video-components.mdx"
+Cohesion: 0.29
+Nodes (6): Avoid fragile sources, Change or replace the source, Import a file, Place it deliberately, Related topics, The same edits in Studio
+
+### Community 2501 - "voice-and-audio.mdx"
+Cohesion: 0.29
+Nodes (6): Create a voiceover, Mix for understanding, Related topics, Review the complete sound pass, Transcribe recorded speech, Turn the transcript into captions
+
+### Community 2502 - "IE"
+Cohesion: 0.38
+Nodes (7): aW(), b0(), computeBounds(), IE(), nW(), oW(), w0()
+
+### Community 2503 - "captions-and-talking-heads.mdx"
+Cohesion: 0.29
+Nodes (6): Base prompt — overlay cards, Failure modes, The knobs that matter, Two things you can add to a talking head, Variants, Your first win
+
+### Community 2504 - "captions-catalog.mdx"
+Cohesion: 0.29
+Nodes (6): Example prompts, Failure modes, Knobs, Text-effect components, Tone → caption component, What caption styles do and when they trigger
+
+### Community 2505 - "overlays-and-lower-thirds.mdx"
+Cohesion: 0.29
+Nodes (6): Brand tone → lower third, Example prompts, Failure modes, Knobs, Use → social overlay, What overlays do and when they trigger
+
+### Community 2506 - "remotion-migration.mdx"
+Cohesion: 0.29
+Nodes (6): Base prompt, Common failure modes, The knobs that matter, Validation is not optional, What this makes, What won't translate — and why that's correct
+
+### Community 2507 - "shortcuts.mdx"
+Cohesion: 0.29
+Nodes (6): Canvas and panels, Editing, Keyframes and recording, Playback, Related topics, Timeline navigation
+
+### Community 2508 - "eval.sh"
+Cohesion: 0.48
+Nodes (6): audio_residual_rms_db(), AWS_DEFAULT_REGION, cleanup_and_exit(), psnr_of(), eval.sh script, usage()
+
+### Community 2509 - ".oxlintrc.json"
+Cohesion: 0.29
+Nodes (6): categories, correctness, ignorePatterns, overrides, plugins, $schema
+
+### Community 2510 - "k4"
+Cohesion: 0.57
+Nodes (7): advanceBy(), consume(), isAt(), isFinished(), k4(), m4(), parseUntil()
+
+### Community 2511 - "Troubleshooting"
+Cohesion: 0.29
+Nodes (6): "FFmpeg not found", Lint errors, "No composition found", Preview not updating, Render looks different from preview, Troubleshooting
+
+### Community 2512 - "k4"
+Cohesion: 0.57
+Nodes (7): advanceBy(), consume(), isAt(), isFinished(), k4(), m4(), parseUntil()
+
+### Community 2513 - "k4"
+Cohesion: 0.57
+Nodes (7): advanceBy(), consume(), isAt(), isFinished(), k4(), m4(), parseUntil()
+
+### Community 2514 - "ink-bleed-reveal"
+Cohesion: 0.29
+Nodes (6): getImageData(), ink-bleed-reveal, Mark slot, Mount, Notes, Variables
+
+### Community 2515 - "k4"
+Cohesion: 0.57
+Nodes (7): advanceBy(), consume(), isAt(), isFinished(), k4(), m4(), parseUntil()
+
+### Community 2516 - "runtime-message-handler.ts"
+Cohesion: 0.21
+Nodes (12): applyRuntimeStateMessage(), isAtEnd(), olderRuntimeBounds(), PlaybackState, PlaybackStateCallbacks, PlayBounds, RuntimeStateData, runtimeTime() (+4 more)
+
+### Community 2517 - "SVG Path Draw"
+Cohesion: 0.29
+Nodes (7): Contents, Critical Constraints, Recipe, See also, SVG Path Draw, Values, Variations
+
+### Community 2518 - "InMemoryBroadcastChannel"
+Cohesion: 0.29
+Nodes (3): InMemoryBroadcastChannel, MsgHandler, registry
+
+### Community 2519 - "Ambient Glow Bloom"
+Cohesion: 0.22
+Nodes (9): Ambient Glow Bloom, Contents, Critical Constraints, How It Works, Recipe, See also, Shimmer sweep (text-clipped status-phrase working-state), Values (+1 more)
+
+### Community 2520 - "frontend/package.json"
+Cohesion: 0.29
+Nodes (6): dependencies, react, react-dom, react, react-dom, private
+
+### Community 2521 - "paths"
+Cohesion: 0.29
+Nodes (6): paths, assets, blocks, components, registry, $schema
+
+### Community 2522 - "paths"
+Cohesion: 0.29
+Nodes (6): paths, assets, blocks, components, registry, $schema
+
+### Community 2523 - "paths"
+Cohesion: 0.29
+Nodes (6): paths, assets, blocks, components, registry, $schema
+
+### Community 2524 - "paths"
+Cohesion: 0.29
+Nodes (6): paths, assets, blocks, components, registry, $schema
+
+### Community 2525 - "paths"
+Cohesion: 0.29
+Nodes (6): paths, assets, blocks, components, registry, $schema
+
+### Community 2526 - "paths"
+Cohesion: 0.29
+Nodes (6): paths, assets, blocks, components, registry, $schema
+
+### Community 2528 - "circle"
+Cohesion: 0.03
+Nodes (56): Add it to your video, Related topics, Variables, Add it to your video, Related topics, Variables, Add it to your video, Related topics (+48 more)
+
+### Community 2529 - "3D Page Scroll"
+Cohesion: 0.25
+Nodes (8): 3D Page Scroll, Contents, Critical Constraints, How It Works, Recipe, See also, Values, Variations
+
+### Community 2530 - "k4"
+Cohesion: 0.57
+Nodes (7): advanceBy(), consume(), isAt(), isFinished(), k4(), m4(), parseUntil()
+
+### Community 2531 - "k4"
+Cohesion: 0.57
+Nodes (7): advanceBy(), consume(), isAt(), isFinished(), k4(), m4(), parseUntil()
+
+### Community 2532 - "ClipperLib"
+Cohesion: 0.29
+Nodes (6): Categories, ClipperLib, Description, Features, License, Links
+
+### Community 2533 - "Hyperframe Runtime Engine"
+Cohesion: 0.25
+Nodes (6): Build, Current Direction, Hyperframe Runtime Engine, Product Editing Model, Runtime Contract (Stable Surface), Security Expectations
+
+### Community 2534 - "sync-schemas.ts"
+Cohesion: 0.33
+Nodes (4): MIRRORED, ROOT, SOURCE_DIR, TARGET_DIR
+
+### Community 2535 - "k4"
+Cohesion: 0.57
+Nodes (7): advanceBy(), consume(), isAt(), isFinished(), k4(), m4(), parseUntil()
+
+### Community 2536 - "ErosionField"
+Cohesion: 0.04
+Nodes (28): Interaction, ShapeName, AssemblyField, assemblyReach(), ErosionField, CrackPlanes, IceMaterialBundle, IceMaterialOptions (+20 more)
+
+### Community 2537 - "wordPx"
+Cohesion: 0.40
+Nodes (6): famMetrics(), paradigmLaserrail(), paradigmScoperail(), setpieceBiobloom(), setpieceInkbloom(), wordPx()
+
+### Community 2538 - "Reactive Displacement"
+Cohesion: 0.33
+Nodes (6): Critical Constraints, Reactive Displacement, Recipe, See also, Values, Variations
+
+### Community 2539 - "Scale-Swap Transition"
+Cohesion: 0.33
+Nodes (6): Critical Constraints, Recipe, Scale-Swap Transition, See also, Values, Variations
+
+### Community 2540 - "Orbit Card"
+Cohesion: 0.29
+Nodes (6): Editing rules (from the source project), Files, Install, Orbit Card, Runtime contract, Variables
+
+### Community 2541 - "la"
+Cohesion: 0.47
+Nodes (6): Animation(), Da(), la(), ma(), Ua(), Va()
+
+### Community 2542 - "k4"
+Cohesion: 0.57
+Nodes (7): advanceBy(), consume(), isAt(), isFinished(), k4(), m4(), parseUntil()
+
+### Community 2543 - "k4"
+Cohesion: 0.57
+Nodes (7): advanceBy(), consume(), isAt(), isFinished(), k4(), m4(), parseUntil()
+
+### Community 2544 - "Press-Release Spring Chain"
+Cohesion: 0.29
+Nodes (7): Contents, Critical Constraints, Press-Release Spring Chain, Recipe, See also, Values, Variations
+
+### Community 2545 - "Two-Phase Camera Cursor Tracking"
+Cohesion: 0.25
+Nodes (8): Contents, Critical Constraints, How It Works, Recipe, See also, Two-Phase Camera Cursor Tracking, Values, Variations
+
+### Community 2546 - "shadows.js"
+Cohesion: 0.32
+Nodes (5): ia(), u(), draw(), pair(), prepare()
+
+### Community 2547 - "Counting with Dynamic Scale"
+Cohesion: 0.29
+Nodes (7): Contents, Counting with Dynamic Scale, Critical Constraints, How It Works, Recipe, See also, Values
+
+### Community 2548 - ".background"
+Cohesion: 0.01
+Nodes (143): Add it to your video, Related topics, Add it to your video, Related topics, Add it to your video, Related topics, Variables, Add it to your video (+135 more)
+
+### Community 2549 - "ascii-render-pass"
+Cohesion: 0.29
+Nodes (6): ascii-render-pass, Choreography, Determinism, Mounting, Scene slot, Variables
+
+### Community 2550 - "press-ripple"
+Cohesion: 0.29
+Nodes (6): Choreography, Known tripwire, Mounting, press-ripple, Target slot, Variables
+
+### Community 2551 - "Coordinate Target Zoom"
+Cohesion: 0.08
+Nodes (23): Anti-patterns, Centering, Cold-seek visibility, Layout waivers, and the one that bites, Lint rules to know, Rules to know, Seek-order safety, SVG draw-on (+15 more)
+
+### Community 2552 - "registry.json"
+Cohesion: 0.29
+Nodes (6): catalogArtifact, revision, homepage, items, name, $schema
+
+### Community 2553 - "HyperFrames v0.6.102"
+Cohesion: 0.29
+Nodes (6): Catalog, Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.6.102
+
+### Community 2554 - "HyperFrames v0.6.108"
+Cohesion: 0.29
+Nodes (6): Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.6.108, Internal
+
+### Community 2555 - "HyperFrames v0.6.114"
+Cohesion: 0.29
+Nodes (6): Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.6.114, Internal
+
+### Community 2556 - "HyperFrames v0.6.115"
+Cohesion: 0.29
+Nodes (6): Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.6.115, Internal
+
+### Community 2557 - "HyperFrames v0.6.70"
+Cohesion: 0.29
+Nodes (6): Catalog, Features, Fixes, Full changelog, HyperFrames v0.6.70, Internal
+
+### Community 2558 - "HyperFrames v0.6.82"
+Cohesion: 0.29
+Nodes (6): Catalog, Docs & Examples, Fixes, Full changelog, HyperFrames v0.6.82, Internal
+
+### Community 2559 - "HyperFrames v0.7.100"
+Cohesion: 0.29
+Nodes (6): Catalog, Features, Fixes, Full changelog, HyperFrames v0.7.100, Internal
+
+### Community 2560 - "HyperFrames v0.7.110"
+Cohesion: 0.29
+Nodes (6): Catalog, Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.7.110
+
+### Community 2561 - "HyperFrames v0.7.19"
+Cohesion: 0.29
+Nodes (6): Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.7.19, Internal
+
+### Community 2562 - "HyperFrames v0.7.26"
+Cohesion: 0.29
+Nodes (6): Features, Fixes, Full changelog, HyperFrames v0.7.26, Internal, Other Changes
+
+### Community 2563 - "HyperFrames v0.7.29"
+Cohesion: 0.29
+Nodes (6): Features, Fixes, Full changelog, HyperFrames v0.7.29, Internal, Performance
+
+### Community 2564 - "HyperFrames v0.7.38"
+Cohesion: 0.29
+Nodes (6): Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.7.38, Performance
+
+### Community 2565 - "HyperFrames v0.7.47"
+Cohesion: 0.29
+Nodes (6): Features, Fixes, Full changelog, HyperFrames v0.7.47, Internal, Performance
+
+### Community 2566 - "HyperFrames v0.7.50"
+Cohesion: 0.29
+Nodes (6): Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.7.50, Internal
+
+### Community 2567 - "HyperFrames v0.7.54"
+Cohesion: 0.29
+Nodes (6): Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.7.54, Internal
+
+### Community 2568 - "HyperFrames v0.7.55"
+Cohesion: 0.29
+Nodes (6): Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.7.55, Internal
+
+### Community 2569 - "HyperFrames v0.7.60"
+Cohesion: 0.29
+Nodes (6): Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.7.60, Internal
+
+### Community 2570 - "HyperFrames v0.7.62"
+Cohesion: 0.29
+Nodes (6): Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.7.62, Internal
+
+### Community 2571 - "HyperFrames v0.7.65"
+Cohesion: 0.29
+Nodes (6): Catalog, Docs & Examples, Fixes, Full changelog, HyperFrames v0.7.65, Internal
+
+### Community 2572 - "HyperFrames v0.7.72"
+Cohesion: 0.29
+Nodes (6): Catalog, Features, Fixes, Full changelog, HyperFrames v0.7.72, Internal
+
+### Community 2573 - "HyperFrames v0.7.79"
+Cohesion: 0.29
+Nodes (6): Features, Fixes, Full changelog, HyperFrames v0.7.79, Internal, Other Changes
+
+### Community 2574 - "HyperFrames v0.7.8"
+Cohesion: 0.29
+Nodes (6): Catalog, Features, Fixes, Full changelog, HyperFrames v0.7.8, Internal
+
+### Community 2575 - "HyperFrames v0.7.83"
+Cohesion: 0.29
+Nodes (6): Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.7.83, Internal
+
+### Community 2576 - "HyperFrames v0.7.87"
+Cohesion: 0.29
+Nodes (6): Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.7.87, Internal
+
+### Community 2577 - "HyperFrames v0.7.90"
+Cohesion: 0.29
+Nodes (6): Catalog, Fixes, Full changelog, HyperFrames v0.7.90, Internal, Rollout
+
+### Community 2578 - "HyperFrames v0.7.93"
+Cohesion: 0.29
+Nodes (6): Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.7.93, Internal
+
+### Community 2579 - "HyperFrames v0.7.95"
+Cohesion: 0.29
+Nodes (6): Docs & Examples, Fixes, Full changelog, HyperFrames v0.7.95, Internal, Performance
+
+### Community 2580 - "HyperFrames v0.8.106"
+Cohesion: 0.29
+Nodes (6): Features, Fixes, Full changelog, HyperFrames v0.8.106, Internal, Performance
+
+### Community 2581 - "HyperFrames v0.8.112"
+Cohesion: 0.29
+Nodes (6): Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.8.112, Internal
+
+### Community 2582 - "HyperFrames v0.8.12"
+Cohesion: 0.29
+Nodes (6): Breaking Changes, Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.8.12
+
+### Community 2583 - "HyperFrames v0.8.128"
+Cohesion: 0.29
+Nodes (6): Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.8.128, Performance
+
+### Community 2584 - "HyperFrames v0.8.135"
+Cohesion: 0.29
+Nodes (6): Catalog, Docs & Examples, Fixes, Full changelog, HyperFrames v0.8.135, Internal
+
+### Community 2585 - "HyperFrames v0.8.139"
+Cohesion: 0.29
+Nodes (6): Catalog, Features, Fixes, Full changelog, HyperFrames v0.8.139, Performance
+
+### Community 2586 - "HyperFrames v0.8.143"
+Cohesion: 0.29
+Nodes (6): Docs & Examples, Fixes, Full changelog, HyperFrames v0.8.143, Internal, Performance
+
+### Community 2587 - "HyperFrames v0.8.146"
+Cohesion: 0.29
+Nodes (6): Catalog, Features, Fixes, Full changelog, HyperFrames v0.8.146, Performance
+
+### Community 2588 - "HyperFrames v0.8.168"
+Cohesion: 0.29
+Nodes (6): Features, Fixes, Full changelog, HyperFrames v0.8.168, Internal, Performance
+
+### Community 2589 - "HyperFrames v0.8.170"
+Cohesion: 0.29
+Nodes (6): Features, Fixes, Full changelog, HyperFrames v0.8.170, Internal, Performance
+
+### Community 2590 - "HyperFrames v0.8.174"
+Cohesion: 0.29
+Nodes (6): Docs & Examples, Fixes, Full changelog, HyperFrames v0.8.174, Internal, Performance
+
+### Community 2591 - "HyperFrames v0.8.178"
+Cohesion: 0.29
+Nodes (6): Docs & Examples, Fixes, Full changelog, HyperFrames v0.8.178, Internal, Performance
+
+### Community 2592 - "HyperFrames v0.8.179"
+Cohesion: 0.29
+Nodes (6): Features, Fixes, Full changelog, HyperFrames v0.8.179, Internal, Performance
+
+### Community 2593 - "HyperFrames v0.8.21"
+Cohesion: 0.29
+Nodes (6): Catalog, Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.8.21
+
+### Community 2594 - "HyperFrames v0.8.28"
+Cohesion: 0.29
+Nodes (6): Catalog, Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.8.28
+
+### Community 2595 - "HyperFrames v0.8.32"
+Cohesion: 0.29
+Nodes (6): Catalog, Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.8.32
+
+### Community 2596 - "HyperFrames v0.8.48"
+Cohesion: 0.29
+Nodes (6): Catalog, Features, Fixes, Full changelog, HyperFrames v0.8.48, Internal
+
+### Community 2597 - "HyperFrames v0.8.52"
+Cohesion: 0.29
+Nodes (6): Catalog, Features, Fixes, Full changelog, HyperFrames v0.8.52, Internal
+
+### Community 2598 - "HyperFrames v0.8.58"
+Cohesion: 0.29
+Nodes (6): Catalog, Features, Fixes, Full changelog, HyperFrames v0.8.58, Internal
+
+### Community 2599 - "HyperFrames v0.8.59"
+Cohesion: 0.29
+Nodes (6): Features, Fixes, Full changelog, HyperFrames v0.8.59, No visible change, Performance
+
+### Community 2600 - "HyperFrames v0.8.61"
+Cohesion: 0.29
+Nodes (6): Catalog, Features, Fixes, Full changelog, HyperFrames v0.8.61, Internal
+
+### Community 2601 - "HyperFrames v0.8.74"
+Cohesion: 0.29
+Nodes (6): Catalog, Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.8.74
+
+### Community 2602 - "HyperFrames v0.8.75"
+Cohesion: 0.29
+Nodes (6): Catalog, Features, Fixes, Full changelog, HyperFrames v0.8.75, Internal
+
+### Community 2603 - "HyperFrames v0.8.81"
+Cohesion: 0.29
+Nodes (6): Features, Fixes, Full changelog, HyperFrames v0.8.81, Internal, Performance
+
+### Community 2604 - "HyperFrames v0.8.83"
+Cohesion: 0.29
+Nodes (6): Features, Fixes, Full changelog, HyperFrames v0.8.83, Internal, Performance
+
+### Community 2605 - "HyperFrames v0.8.91"
+Cohesion: 0.29
+Nodes (6): Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.8.91, Other Changes
+
+### Community 2606 - "HyperFrames v0.8.98"
+Cohesion: 0.29
+Nodes (6): Features, Fixes, Full changelog, HyperFrames v0.8.98, Internal, Performance
+
+### Community 2607 - "Template: memory-wall"
+Cohesion: 0.29
+Nodes (6): Don't fight the template, Plan.json shape, Slot assignment rules, Template: memory-wall, What agent decides per scene, When to apply
+
+### Community 2608 - "Depth-of-Field Blur (Selective Focus / Rack Focus)"
+Cohesion: 0.25
+Nodes (8): Contents, Critical Constraints, Depth-of-Field Blur (Selective Focus / Rack Focus), How It Works, Recipe, See also, Values, Variations
+
+### Community 2609 - "Spring-Pop Entrance"
+Cohesion: 0.25
+Nodes (8): Contents, Critical Constraints, How It Works, Recipe, See also, Spring-Pop Entrance, Values, Variations
+
+### Community 2610 - "📝 BÁO CÁO PHIÊN LÀM VIỆC: SESS-016 - SẢN XUẤT VIDEO KOC REVIEW ÁO CARDIGAN 45S (MỞ MIỆNG NÓI TIẾNG VIỆT & TIKTOK SAFE ZONE)"
+Cohesion: 0.33
+Nodes (5): 🎯 1. BỐI CẢNH & YÊU CẦU CỦA NGƯỜI DÙNG, ⚙️ 2. CÁC HÀNH ĐỘNG KỸ THUẬT ĐÃ TRIỂN KHAI, 🏆 3. KẾT QUẢ ĐẠT ĐƯỢC & BẰNG CHỨNG (PROOF-OF-WORK), 🧠 4. BÀI HỌC KINH NGHIỆM ĐÚC KẾT (LSN-012), 📝 BÁO CÁO PHIÊN LÀM VIỆC: SESS-016 - SẢN XUẤT VIDEO KOC REVIEW ÁO CARDIGAN 45S (MỞ MIỆNG NÓI TIẾNG VIỆT & TIKTOK SAFE ZONE)
+
+### Community 2611 - "📝 TÓM TẮT CUỘC HỘI THOẠI - SESS-018"
+Cohesion: 0.33
+Nodes (5): 🎯 1. BỐI CẢNH & MỤC TIÊU CUỘC HỘI THOẠI, ⚙️ 2. CÁC HÀNH ĐỘNG KỸ THUẬT ĐÃ TRIỂN KHAI, 🏆 3. KẾT QUẢ ĐẠT ĐƯỢC & BẰNG CHỨNG (PROOF-OF-WORK), 🧠 4. BÀI HỌC KINH NGHIỆM ĐÚC KẾT (CHỐNG TRÔI NHÂN VẬT 100%), 📝 TÓM TẮT CUỘC HỘI THOẠI - SESS-018
+
+### Community 2612 - "Depth Scatter ↔ Assemble"
+Cohesion: 0.25
+Nodes (8): Contents, Critical Constraints, Depth Scatter ↔ Assemble, How It Works, Recipe, See also, Values, Variations
+
+### Community 2613 - "Gradient Text Sweep"
+Cohesion: 0.25
+Nodes (8): Contents, Critical Constraints, Gradient Text Sweep, How It Works, Recipe, See also, Values, Variations
+
+### Community 2614 - "Sound effects (SFX)"
+Cohesion: 0.29
+Nodes (6): Bundled library (fallback), Cues — request → meta, Licences, Openverse, Rules, Sound effects (SFX)
+
+### Community 2615 - "📝 [MẪU] TÓM TẮT CUỘC HỘI THOẠI - SESS-XXX"
+Cohesion: 0.33
+Nodes (6): 🎯 1. BỐI CẢNH & MỤC TIÊU CUỘC HỘI THOẠI, ⚙️ 2. CÁC HÀNH ĐỘNG KỸ THUẬT ĐÃ TRIỂN KHAI, 🏆 3. KẾT QUẢ ĐẠT ĐƯỢC & BẰNG CHỨNG (PROOF-OF-WORK), 🧠 4. BÀI HỌC KINH NGHIỆM ĐÚC KẾT ĐƯỢC, ⏭️ 5. BƯỚC TIẾP THEO (NEXT ACTIONS), 📝 [MẪU] TÓM TẮT CUỘC HỘI THOẠI - SESS-XXX
+
+### Community 2616 - "news — category module (search-driven)"
+Cohesion: 0.29
+Nodes (6): Critical, Layout A — centered-emphasis (9:16, text-only) — Builder, Layout B — full article (16:9, logo + person) — Builder, news — category module (search-driven), Source (Step 2), The highlight core (shared by both layouts) — the marker-band technique
+
+### Community 2617 - "text module · motion vocabulary (primitive → GSAP)"
+Cohesion: 0.29
+Nodes (6): Accent graphics (not text), Emphasis (in place, often on a beat), Entry, Exit, Prefer HF registry components when they fit, text module · motion vocabulary (primitive → GSAP)
+
+### Community 2618 - "hyperframes/skills/remotion-to-hyperframes/assets/test-corpus/run.sh"
+Cohesion: 0.57
+Nodes (6): read_json_value(), require_render_tier_tools(), run_lint_tier(), run_render_tier(), run.sh script, write_result()
+
+### Community 2619 - "Distortion"
+Cohesion: 0.33
+Nodes (5): Chromatic Aberration, Distortion, Glitch, Ripple, VHS Tape
+
+### Community 2620 - "Template: portrait-header"
+Cohesion: 0.33
+Nodes (5): Layout decisions, Plan.json shape, Slot assignment, Template: portrait-header, When to apply
+
+### Community 2621 - "Transition Registry — machine source of truth"
+Cohesion: 0.25
+Nodes (7): Choosing as a planner (the only agent touchpoint), Contents, Default-derivation (used by prep.mjs when the planner omits `**Transition:**`), How the injector applies a transition, Registry, Template placeholders, Transition Registry — machine source of truth
+
+### Community 2622 - "Frame worker — general-video delta"
+Cohesion: 0.33
+Nodes (5): Boundaries, Design truth, Frame worker — general-video delta, Output contract — composition + motion sidecar, Your scene is invented, not captured
+
+### Community 2623 - "Linear / Push"
+Cohesion: 0.33
+Nodes (5): Elastic Push, Linear / Push, Push Slide, Squeeze, Vertical Push
+
+### Community 2624 - "kinetic-type-beats — Kinetic-Type Beats"
+Cohesion: 0.40
+Nodes (4): Contents, kinetic-type-beats — Kinetic-Type Beats, roles served, rule mapping
+
+### Community 2625 - "Cover"
+Cohesion: 0.40
+Nodes (4): Cover, Horizontal Blinds, Staggered Color Blocks, Vertical Blinds
+
+### Community 2626 - "Prompt Expansion"
+Cohesion: 0.33
+Nodes (5): Output, Prerequisites, Prompt Expansion, What to generate, Why always run it
+
+### Community 2627 - "The demo.html Convention"
+Cohesion: 0.33
+Nodes (5): Blocks don't need demo.html, Demo structure, Demos are not installed, The demo.html Convention, Why components ship demo.html
+
+### Community 2628 - "Ownership matrix, usage stats, telemetry, privacy"
+Cohesion: 0.33
+Nodes (5): Ownership matrix, usage stats, telemetry, privacy, Privacy, Telemetry, Usage stats, What it owns (the gaps HyperFrames leaves)
+
+### Community 2629 - "Builder contract — composition rules (detail behind agents/builder.md)"
+Cohesion: 0.33
+Nodes (5): Builder contract — composition rules (detail behind agents/builder.md), Correctness, Layout before animation, Root must be sized, Timeline / clip contract
+
+### Community 2630 - "parseFrontmatter"
+Cohesion: 0.40
+Nodes (6): assignGlobal(), emptyGlobals(), findFrontmatterRange(), parseFrontmatter(), parseFrontmatterEntries(), stripQuotes()
+
+### Community 2631 - "Tier 2 — title-image-outro"
+Cohesion: 0.33
+Nodes (5): How to render and evaluate, Tier 2 — title-image-outro, Translation walk-through, What it tests, Why threshold 0.95?
+
+### Community 2632 - "Chromatic Glitch"
+Cohesion: 0.25
+Nodes (8): Chromatic Glitch, Contents, Critical Constraints, How It Works, Recipe, See also, Values, Variations
+
+### Community 2633 - "🛠️ TOPIC 05: EXTENDED TOOLS (JOB SEARCH & MULTI-CHANNEL REACH)"
+Cohesion: 0.33
+Nodes (5): 1. MỤC ĐÍCH & Ý NGHĨA TRONG BỨC TRANH VMAX, 2. PHÂN HỆ JOB SEARCH (`integrations/job_search/`), 3. PHÂN HỆ AGENT REACH (`integrations/agent_reach/`), 4. CÁC FILE LIÊN QUAN CHÍNH, 🛠️ TOPIC 05: EXTENDED TOOLS (JOB SEARCH & MULTI-CHANNEL REACH)
+
+### Community 2634 - "Light"
+Cohesion: 0.40
+Nodes (4): Film Burn, Light, Light Leak, Overexposure Burn
+
+### Community 2635 - "Template: portrait-header"
+Cohesion: 0.33
+Nodes (5): Layout decisions, Plan.json shape, Slot assignment, Template: portrait-header, When to apply
+
+### Community 2636 - "devDependencies"
+Cohesion: 0.29
+Nodes (7): devDependencies, esbuild, tsx, @types/node, @types/tar, typescript, yaml
+
+### Community 2638 - "Radial / Shape"
+Cohesion: 0.40
+Nodes (4): Circle Iris, Diagonal Split, Diamond Iris, Radial / Shape
+
+### Community 2639 - "wordPx"
+Cohesion: 0.40
+Nodes (6): famMetrics(), paradigmLaserrail(), paradigmScoperail(), setpieceBiobloom(), setpieceInkbloom(), wordPx()
+
+### Community 2640 - "Frame worker — general-video delta"
+Cohesion: 0.33
+Nodes (5): Boundaries, Design truth, Frame worker — general-video delta, Output contract — composition + motion sidecar, Your scene is invented, not captured
+
+### Community 2641 - "Reactive Displacement"
+Cohesion: 0.33
+Nodes (6): Critical Constraints, Reactive Displacement, Recipe, See also, Values, Variations
+
+### Community 2642 - "Scale-Swap Transition"
+Cohesion: 0.33
+Nodes (6): Critical Constraints, Recipe, Scale-Swap Transition, See also, Values, Variations
+
+### Community 2643 - "Sine Wave Loop (subtle jitter / bounded ambient)"
+Cohesion: 0.33
+Nodes (6): Critical Constraints, Recipe, See also, Sine Wave Loop (subtle jitter / bounded ambient), Values, Variations
+
+### Community 2644 - "Dissolve"
+Cohesion: 0.33
+Nodes (5): Blur Crossfade, Color Dip, Crossfade, Dissolve, Focus Pull
+
+### Community 2645 - "Distortion"
+Cohesion: 0.33
+Nodes (5): Chromatic Aberration, Distortion, Glitch, Ripple, VHS Tape
+
+### Community 2646 - "SVG Icon Enrichment"
+Cohesion: 0.25
+Nodes (8): Contents, Critical Constraints, Recipe, See also, SVG Icon Enrichment, ❗ The transform-center gotcha, Values, Variations
+
+### Community 2647 - "determinism.mdx"
+Cohesion: 0.33
+Nodes (5): Related topics, Rule out your machine as a variable, What happens on each frame, Why the same frame always comes out the same, Will the preview match the render?
+
+### Community 2648 - "contributing.mdx"
+Cohesion: 0.33
+Nodes (5): Check your change, Pull request requirements, Related topics, Set up the repository, Work in the right package
+
+### Community 2649 - "canary-rollouts.mdx"
+Cohesion: 0.33
+Nodes (5): Add one, Override one, Related topics, Remove one from your machine, Where it lives
+
+### Community 2650 - "developers/cli.mdx"
+Cohesion: 0.33
+Nodes (5): Everyday project loop, Related topics, Rendering and automation, Reuse and inspect, Work with media
+
+### Community 2651 - "avatar-presenter.mdx"
+Cohesion: 0.33
+Nodes (5): Ask for the complete result, Build around the clip, Check the result, Choose the right path, Related topics
+
+### Community 2652 - "captions-and-recuts.mdx"
+Cohesion: 0.33
+Nodes (5): Before it builds, Make the request, Related topics, Review what matters, What should change?
+
+### Community 2653 - "choose-creation-path.mdx"
+Cohesion: 0.33
+Nodes (5): Related topics, Start in a design tool if the look is the open question, Start in an AI chat if you want nothing installed, Start in HeyGen if you want it done for you, Start on your computer if the video will change
+
+### Community 2654 - "faceless-explainer.mdx"
+Cohesion: 0.33
+Nodes (5): From information to understanding, How should the idea land?, Make the request, Related topics, Review whether it teaches
+
+### Community 2655 - "general-video.mdx"
+Cohesion: 0.33
+Nodes (5): How should the agent work with you?, Keep feedback useful, Make the request, Related topics, Use the custom route when
+
+### Community 2656 - "hdr.mdx"
+Cohesion: 0.33
+Nodes (5): Control detection, Limits, Mixed compositions, Related topics, Render and verify
+
+### Community 2657 - "music-to-video.mdx"
+Cohesion: 0.33
+Nodes (5): Make the request, Related topics, Review the rhythm, The track sets the structure, What should the track drive?
+
+### Community 2658 - "pr-to-video.mdx"
+Cohesion: 0.33
+Nodes (5): Before it builds, Make the request, Related topics, Verify the proof, Who needs to understand it?
+
+### Community 2659 - "product-launch-video.mdx"
+Cohesion: 0.33
+Nodes (5): Make the request, Related topics, Review the result, What HyperFrames builds from, What should the video do?
+
+### Community 2660 - "code-and-prs.mdx"
+Cohesion: 0.33
+Nodes (5): Common failure modes, The knobs that matter, Variants, What this makes, Your first win
+
+### Community 2661 - "data-and-maps.mdx"
+Cohesion: 0.33
+Nodes (5): Charts: name the block, or hand-draw, Count-up stats, Maps: match the ask to the map, Routes and flights, Where to go next
+
+### Community 2662 - "explainers.mdx"
+Cohesion: 0.33
+Nodes (5): Common failure modes, The knobs that matter, Variants, What this makes, Your first win
+
+### Community 2663 - "prompting/motion-graphics.mdx"
+Cohesion: 0.33
+Nodes (5): Failure modes, The knobs that matter, Variants, What a motion graphic is, Your first win
+
+### Community 2664 - "product-launch.mdx"
+Cohesion: 0.33
+Nodes (5): Common failure modes, The knobs that matter, Variants, What this makes, Your first win
+
+### Community 2665 - "recreating-references.mdx"
+Cohesion: 0.33
+Nodes (5): Distill the converged values back into the prompt, Iterate with absolute targets, Know where the text-only ceiling is, Related, Transcribe motion, not just composition
+
+### Community 2666 - "visual-specs.mdx"
+Cohesion: 0.33
+Nodes (5): A loose description, then a spec, Related topics, The density contract, Two more worked specs, What a spec can't carry
+
+### Community 2667 - "docs/quickstart.mdx"
+Cohesion: 0.33
+Nodes (5): 1. Install the plugin or skills, 2. Ask for the video, 3. Continue from the first version, Related topics, The short way: hand it to your agent
+
+### Community 2668 - "studio-app/export.mdx"
+Cohesion: 0.33
+Nodes (5): Choose the file, Find the file, If the export fails, Related topics, Render
+
+### Community 2669 - "studio/export.mdx"
+Cohesion: 0.33
+Nodes (5): Before you send the file, Choose quality and size, Choose the format, Related topics, Start and manage a render
+
+### Community 2670 - "slideshows.mdx"
+Cohesion: 0.33
+Nodes (5): Add an optional path, Add fragment reveals, Build the main path, Related topics, Test it as a presentation
+
+### Community 2671 - "pull_request_template.md"
+Cohesion: 0.33
+Nodes (5): How, Related work, Test plan, What, Why
+
+### Community 2672 - "Linear / Push"
+Cohesion: 0.33
+Nodes (5): Elastic Push, Linear / Push, Push Slide, Squeeze, Vertical Push
+
+### Community 2673 - "motion-sample.browser.js"
+Cohesion: 0.60
+Nodes (5): safeQuery(), sampleElement(), sampleLiveness(), sampleSelectors(), toRect()
+
+### Community 2674 - "Data Attributes"
+Cohesion: 0.33
+Nodes (5): Composition, Data Attributes, Element Visibility, Media, Timing
+
+### Community 2675 - "Templates"
+Cohesion: 0.33
+Nodes (5): blank, Custom Templates, Templates, title-card, video-edit
+
+### Community 2676 - "Rendering"
+Cohesion: 0.33
+Nodes (5): Docker Mode (--docker), Local Mode (default), Options, Rendering, Tips
+
+### Community 2677 - "User memory — preferences and recipes"
+Cohesion: 0.40
+Nodes (4): Files, Preferences — remembered defaults, Recipes — frozen video bundles, User memory — preferences and recipes
+
+### Community 2678 - "cdp-headless-experimental.d.ts"
+Cohesion: 0.33
+Nodes (5): Commands, devtools-protocol/types/protocol-mapping.js, HeadlessExperimentalBeginFrameRequest, HeadlessExperimentalBeginFrameResponse, ProtocolMapping
+
+### Community 2679 - "SVG Path Draw"
+Cohesion: 0.29
+Nodes (7): Contents, Critical Constraints, Recipe, See also, SVG Path Draw, Values, Variations
+
+### Community 2680 - "scripts"
+Cohesion: 0.33
+Nodes (6): scripts, build, test, test:watch, typecheck, typecheck:examples
+
+### Community 2681 - "devDependencies"
+Cohesion: 0.33
+Nodes (6): devDependencies, tsup, tsx, @types/node, typescript, vitest
+
+### Community 2682 - "fb"
+Cohesion: 0.40
+Nodes (5): Context(), Db(), Eb(), fb(), Gw()
+
+### Community 2683 - "he"
+Cohesion: 0.40
+Nodes (5): he(), Md(), Nd(), Od(), Pd()
+
+### Community 2684 - "Za"
+Cohesion: 0.40
+Nodes (5): kb(), ob(), ra(), rb(), Za()
+
+### Community 2686 - "paths"
+Cohesion: 0.33
+Nodes (5): paths, assets, blocks, components, $schema
+
+### Community 2687 - "paths"
+Cohesion: 0.33
+Nodes (5): paths, assets, blocks, components, $schema
+
+### Community 2688 - "paths"
+Cohesion: 0.33
+Nodes (5): paths, assets, blocks, components, $schema
+
+### Community 2689 - "paths"
+Cohesion: 0.33
+Nodes (5): paths, assets, blocks, components, $schema
+
+### Community 2690 - "AI Answer Rank editing contract"
+Cohesion: 0.33
+Nodes (5): AI Answer Rank editing contract, Editable slots, Protected, Safe editing mechanics, Surface ownership
+
+### Community 2691 - "AI Chat Reveal editing contract"
+Cohesion: 0.33
+Nodes (5): AI Chat Reveal editing contract, Editable slots, Protected, Safe editing mechanics, Surface ownership
+
+### Community 2692 - "ChatGPT Exchange editing contract"
+Cohesion: 0.33
+Nodes (5): ChatGPT Exchange editing contract, Editable slots, Protected, Safe editing mechanics, Surface ownership
+
+### Community 2693 - "Claude Exchange editing contract"
+Cohesion: 0.33
+Nodes (5): Claude Exchange editing contract, Editable slots, Protected, Safe editing mechanics, Surface ownership
+
+### Community 2696 - "Message Thread Reveal editing contract"
+Cohesion: 0.33
+Nodes (5): Editable slots, Message Thread Reveal editing contract, Protected, Safe editing mechanics, Surface ownership
+
+### Community 2697 - "Notes Reveal editing contract"
+Cohesion: 0.33
+Nodes (5): Editable slots, Notes Reveal editing contract, Protected, Safe editing mechanics, Surface ownership
+
+### Community 2698 - "Notification Cascade editing contract"
+Cohesion: 0.33
+Nodes (5): Editable slots, Notification Cascade editing contract, Protected, Safe editing mechanics, Surface ownership
+
+### Community 2699 - "Share-Sheet Carousel editing contract"
+Cohesion: 0.33
+Nodes (5): Editable slots, Protected, Safe editing mechanics, Share-Sheet Carousel editing contract, Surface ownership
+
+### Community 2700 - "Slack Notification Ad editing contract"
+Cohesion: 0.33
+Nodes (5): Editable slots, Protected, Safe editing mechanics, Slack Notification Ad editing contract, Surface ownership
+
+### Community 2701 - "Rd"
+Cohesion: 0.40
+Nodes (5): Rd(), Vd(), Wd(), yd(), ye()
+
+### Community 2702 - "Prompt Expansion"
+Cohesion: 0.33
+Nodes (5): Output, Prerequisites, Prompt Expansion, What to generate, Why always run it
+
+### Community 2703 - "The demo.html Convention"
+Cohesion: 0.33
+Nodes (5): Blocks don't need demo.html, Demo structure, Demos are not installed, The demo.html Convention, Why components ship demo.html
+
+### Community 2704 - "slit-scan-reveal"
+Cohesion: 0.33
+Nodes (5): Choreography, Determinism, Mounting, slit-scan-reveal, Variables
+
+### Community 2705 - "HyperFrames v0.6.100"
+Cohesion: 0.33
+Nodes (5): Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.6.100
+
+### Community 2706 - "HyperFrames v0.6.107"
+Cohesion: 0.33
+Nodes (5): Features, Fixes, Full changelog, HyperFrames v0.6.107, Internal
+
+### Community 2707 - "HyperFrames v0.6.111"
+Cohesion: 0.33
+Nodes (5): Features, Fixes, Full changelog, HyperFrames v0.6.111, Internal
+
+### Community 2708 - "HyperFrames v0.6.113"
+Cohesion: 0.33
+Nodes (5): Features, Fixes, Full changelog, HyperFrames v0.6.113, Internal
+
+### Community 2709 - "HyperFrames v0.6.71"
+Cohesion: 0.33
+Nodes (5): Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.6.71
+
+### Community 2710 - "HyperFrames v0.6.76"
+Cohesion: 0.33
+Nodes (5): Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.6.76
+
+### Community 2711 - "HyperFrames v0.6.81"
+Cohesion: 0.33
+Nodes (5): Catalog, Features, Full changelog, HyperFrames v0.6.81, Internal
+
+### Community 2712 - "HyperFrames v0.6.89"
+Cohesion: 0.33
+Nodes (5): Docs & Examples, Fixes, Full changelog, HyperFrames v0.6.89, Internal
+
+### Community 2713 - "HyperFrames v0.6.91"
+Cohesion: 0.33
+Nodes (5): Features, Fixes, Full changelog, HyperFrames v0.6.91, Internal
+
+### Community 2714 - "HyperFrames v0.7.101"
+Cohesion: 0.33
+Nodes (5): Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.7.101
+
+### Community 2715 - "HyperFrames v0.7.103"
+Cohesion: 0.33
+Nodes (5): Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.7.103
+
+### Community 2716 - "HyperFrames v0.7.105"
+Cohesion: 0.33
+Nodes (5): Catalog, Features, Fixes, Full changelog, HyperFrames v0.7.105
+
+### Community 2717 - "HyperFrames v0.7.11"
+Cohesion: 0.33
+Nodes (5): Features, Fixes, Full changelog, HyperFrames v0.7.11, Performance
+
+### Community 2718 - "HyperFrames v0.7.111"
+Cohesion: 0.33
+Nodes (5): Catalog, Features, Full changelog, HyperFrames v0.7.111, Internal
+
+### Community 2719 - "HyperFrames v0.7.16"
+Cohesion: 0.33
+Nodes (5): Features, Fixes, Full changelog, HyperFrames v0.7.16, Internal
+
+### Community 2720 - "HyperFrames v0.7.18"
+Cohesion: 0.33
+Nodes (5): Features, Fixes, Full changelog, HyperFrames v0.7.18, Performance
+
+### Community 2721 - "HyperFrames v0.7.21"
+Cohesion: 0.33
+Nodes (5): Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.7.21
+
+### Community 2722 - "Ownership matrix, usage stats, telemetry, privacy"
+Cohesion: 0.33
+Nodes (5): Ownership matrix, usage stats, telemetry, privacy, Privacy, Telemetry, Usage stats, What it owns (the gaps HyperFrames leaves)
+
+### Community 2723 - "HyperFrames v0.7.23"
+Cohesion: 0.33
+Nodes (5): Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.7.23
+
+### Community 2724 - "HyperFrames v0.7.3"
+Cohesion: 0.33
+Nodes (5): Docs & Examples, Fixes, Full changelog, HyperFrames v0.7.3, Performance
+
+### Community 2725 - "HyperFrames v0.7.37"
+Cohesion: 0.33
+Nodes (5): Docs & Examples, Fixes, Full changelog, HyperFrames v0.7.37, Internal
+
+### Community 2726 - "HyperFrames v0.7.40"
+Cohesion: 0.33
+Nodes (5): Features, Fixes, Full changelog, HyperFrames v0.7.40, Internal
+
+### Community 2727 - "HyperFrames v0.7.44"
+Cohesion: 0.33
+Nodes (5): Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.7.44
+
+### Community 2728 - "HyperFrames v0.7.49"
+Cohesion: 0.33
+Nodes (5): Docs & Examples, Fixes, Full changelog, HyperFrames v0.7.49, Internal
+
+### Community 2729 - "HyperFrames v0.7.58"
+Cohesion: 0.33
+Nodes (5): Features, Fixes, Full changelog, HyperFrames v0.7.58, Internal
+
+### Community 2730 - "HyperFrames v0.7.67"
+Cohesion: 0.33
+Nodes (5): Features, Fixes, Full changelog, HyperFrames v0.7.67, Internal
+
+### Community 2731 - "HyperFrames v0.7.68"
+Cohesion: 0.33
+Nodes (5): Docs & Examples, Fixes, Full changelog, HyperFrames v0.7.68, Other Changes
+
+### Community 2732 - "HyperFrames v0.7.7"
+Cohesion: 0.33
+Nodes (5): Features, Fixes, Full changelog, HyperFrames v0.7.7, Internal
+
+### Community 2733 - "HyperFrames v0.7.71"
+Cohesion: 0.33
+Nodes (5): Catalog, Features, Fixes, Full changelog, HyperFrames v0.7.71
+
+### Community 2734 - "HyperFrames v0.7.73"
+Cohesion: 0.33
+Nodes (5): Features, Fixes, Full changelog, HyperFrames v0.7.73, Internal
+
+### Community 2735 - "HyperFrames v0.7.80"
+Cohesion: 0.33
+Nodes (5): Features, Fixes, Full changelog, HyperFrames v0.7.80, Internal
+
+### Community 2736 - "HyperFrames v0.8.105"
+Cohesion: 0.33
+Nodes (5): Features, Fixes, Full changelog, HyperFrames v0.8.105, Internal
+
+### Community 2737 - "HyperFrames v0.8.107"
+Cohesion: 0.33
+Nodes (5): Features, Fixes, Full changelog, HyperFrames v0.8.107, Internal
+
+### Community 2738 - "HyperFrames v0.8.114"
+Cohesion: 0.33
+Nodes (5): Fixes, Full changelog, HyperFrames v0.8.114, Internal, Performance
+
+### Community 2739 - "HyperFrames v0.8.116"
+Cohesion: 0.33
+Nodes (5): Features, Fixes, Full changelog, HyperFrames v0.8.116, Internal
+
+### Community 2740 - "HyperFrames v0.8.117"
+Cohesion: 0.33
+Nodes (5): Fixes, Full changelog, HyperFrames v0.8.117, Internal, Performance
+
+### Community 2741 - "HyperFrames v0.8.118"
+Cohesion: 0.33
+Nodes (5): Catalog, Features, Fixes, Full changelog, HyperFrames v0.8.118
+
+### Community 2742 - "HyperFrames v0.8.127"
+Cohesion: 0.33
+Nodes (5): Fixes, Full changelog, HyperFrames v0.8.127, Internal, Performance
+
+### Community 2743 - "HyperFrames v0.8.129"
+Cohesion: 0.33
+Nodes (5): Fixes, Full changelog, HyperFrames v0.8.129, Internal, Performance
+
+### Community 2744 - "HyperFrames v0.8.13"
+Cohesion: 0.33
+Nodes (5): Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.8.13
+
+### Community 2745 - "HyperFrames v0.8.138"
+Cohesion: 0.33
+Nodes (5): Features, Fixes, Full changelog, HyperFrames v0.8.138, Internal
+
+### Community 2746 - "HyperFrames v0.8.158"
+Cohesion: 0.33
+Nodes (5): Features, Fixes, Full changelog, HyperFrames v0.8.158, Internal
+
+### Community 2747 - "HyperFrames v0.8.159"
+Cohesion: 0.33
+Nodes (5): Features, Fixes, Full changelog, HyperFrames v0.8.159, Internal
+
+### Community 2748 - "HyperFrames v0.8.163"
+Cohesion: 0.33
+Nodes (5): Features, Fixes, Full changelog, HyperFrames v0.8.163, Internal
+
+### Community 2749 - "HyperFrames v0.8.167"
+Cohesion: 0.33
+Nodes (5): Fixes, Full changelog, HyperFrames v0.8.167, Internal, Performance
+
+### Community 2750 - "HyperFrames v0.8.173"
+Cohesion: 0.33
+Nodes (5): Features, Fixes, Full changelog, HyperFrames v0.8.173, Internal
+
+### Community 2751 - "HyperFrames v0.8.175"
+Cohesion: 0.33
+Nodes (5): Fixes, Full changelog, HyperFrames v0.8.175, Internal, Performance
+
+### Community 2752 - "HyperFrames v0.8.177"
+Cohesion: 0.33
+Nodes (5): Catalog, Fixes, Full changelog, HyperFrames v0.8.177, Performance
+
+### Community 2753 - "HyperFrames v0.8.180"
+Cohesion: 0.33
+Nodes (5): Features, Fixes, Full changelog, HyperFrames v0.8.180, Performance
+
+### Community 2754 - "HyperFrames v0.8.23"
+Cohesion: 0.33
+Nodes (5): Catalog, Fixes, Full changelog, HyperFrames v0.8.23, Internal
+
+### Community 2755 - "HyperFrames v0.8.24"
+Cohesion: 0.33
+Nodes (5): Catalog, Fixes, Full changelog, HyperFrames v0.8.24, Internal
+
+### Community 2756 - "HyperFrames v0.8.31"
+Cohesion: 0.33
+Nodes (5): Catalog, Features, Fixes, Full changelog, HyperFrames v0.8.31
+
+### Community 2757 - "HyperFrames v0.8.35"
+Cohesion: 0.33
+Nodes (5): Catalog, Features, Fixes, Full changelog, HyperFrames v0.8.35
+
+### Community 2758 - "HyperFrames v0.8.4"
+Cohesion: 0.33
+Nodes (5): Features, Fixes, Full changelog, HyperFrames v0.8.4, Internal
+
+### Community 2759 - "HyperFrames v0.8.47"
+Cohesion: 0.33
+Nodes (5): Catalog, Features, Fixes, Full changelog, HyperFrames v0.8.47
+
+### Community 2760 - "HyperFrames v0.8.49"
+Cohesion: 0.33
+Nodes (5): Catalog, Features, Fixes, Full changelog, HyperFrames v0.8.49
+
+### Community 2761 - "HyperFrames v0.8.5"
+Cohesion: 0.33
+Nodes (5): Features, Fixes, Full changelog, HyperFrames v0.8.5, Internal
+
+### Community 2762 - "HyperFrames v0.8.50"
+Cohesion: 0.33
+Nodes (5): Catalog, Features, Fixes, Full changelog, HyperFrames v0.8.50
+
+### Community 2763 - "HyperFrames v0.8.57"
+Cohesion: 0.33
+Nodes (5): Features, Fixes, Full changelog, HyperFrames v0.8.57, Internal
+
+### Community 2764 - "HyperFrames v0.8.65"
+Cohesion: 0.33
+Nodes (5): Catalog, Fixes, Full changelog, HyperFrames v0.8.65, Performance
+
+### Community 2765 - "HyperFrames v0.8.66"
+Cohesion: 0.33
+Nodes (5): Catalog, Fixes, Full changelog, HyperFrames v0.8.66, Performance
+
+### Community 2766 - "HyperFrames v0.8.70"
+Cohesion: 0.33
+Nodes (5): Features, Fixes, Full changelog, HyperFrames v0.8.70, Performance
+
+### Community 2767 - "HyperFrames v0.8.73"
+Cohesion: 0.33
+Nodes (5): Features, Fixes, Full changelog, HyperFrames v0.8.73, Internal
+
+### Community 2768 - "HyperFrames v0.8.78"
+Cohesion: 0.33
+Nodes (5): Features, Fixes, Full changelog, HyperFrames v0.8.78, Internal
+
+### Community 2769 - "HyperFrames v0.8.8"
+Cohesion: 0.33
+Nodes (5): Features, Fixes, Full changelog, HyperFrames v0.8.8, Internal
+
+### Community 2770 - "HyperFrames v0.8.9"
+Cohesion: 0.33
+Nodes (5): Docs & Examples, Features, Fixes, Full changelog, HyperFrames v0.8.9
+
+### Community 2771 - "check-no-main-deletions.mjs"
+Cohesion: 0.67
+Nodes (4): ALLOWED_DELETIONS, classify(), main(), parseBase()
+
+### Community 2772 - "exports"
+Cohesion: 0.02
+Nodes (112): bun, import, node, types, bun, import, node, types (+104 more)
+
+### Community 2773 - "Template: portrait-header"
+Cohesion: 0.33
+Nodes (5): Layout decisions, Plan.json shape, Slot assignment, Template: portrait-header, When to apply
+
+### Community 2774 - "media-use usage dashboard"
+Cohesion: 0.33
+Nodes (5): Dashboard tiles, Event catalog (verified present in-project), Identity (see `scripts/lib/telemetry.mjs`), media-use usage dashboard, Recreate in an analytics dashboard
+
+### Community 2775 - "Frame worker — general-video delta"
+Cohesion: 0.33
+Nodes (5): Boundaries, Design truth, Frame worker — general-video delta, Output contract — composition + motion sidecar, Your scene is invented, not captured
+
+### Community 2776 - "Builder contract — composition rules (detail behind agents/builder.md)"
+Cohesion: 0.33
+Nodes (5): Builder contract — composition rules (detail behind agents/builder.md), Correctness, Layout before animation, Root must be sized, Timeline / clip contract
+
+### Community 2777 - "V2EX (公开 API)"
+Cohesion: 0.29
+Nodes (7): Python 调用示例, V2EX (公开 API), 主题回复, 主题详情, 热门主题, 用户信息, 节点主题
+
+### Community 2778 - "Compare and batch rendering"
+Cohesion: 0.33
+Nodes (5): Batch template renders, Compare and batch rendering, Compare color grades, Compare projects or variants, Contents
+
+### Community 2779 - "Prompt Expansion"
+Cohesion: 0.33
+Nodes (5): Output, Prerequisites, Prompt Expansion, What to generate, Why always run it
+
+### Community 2780 - "The demo.html Convention"
+Cohesion: 0.33
+Nodes (5): Blocks don't need demo.html, Demo structure, Demos are not installed, The demo.html Convention, Why components ship demo.html
+
+### Community 2781 - "Ownership matrix, usage stats, telemetry, privacy"
+Cohesion: 0.33
+Nodes (5): Ownership matrix, usage stats, telemetry, privacy, Privacy, Telemetry, Usage stats, What it owns (the gaps HyperFrames leaves)
+
+### Community 2782 - "Builder contract — composition rules (detail behind agents/builder.md)"
+Cohesion: 0.33
+Nodes (5): Builder contract — composition rules (detail behind agents/builder.md), Correctness, Layout before animation, Root must be sized, Timeline / clip contract
+
+### Community 2783 - "YouTube (yt-dlp)"
+Cohesion: 0.29
+Nodes (7): YouTube (yt-dlp), 下载字幕, 字幕失败时的重试链（按序执行，拿到实质内容即停）, 搜索视频, 无字幕兜底：Whisper 音频转写, 获取视频元数据, 获取评论
+
+### Community 2784 - "parseFrontmatter"
+Cohesion: 0.40
+Nodes (6): assignGlobal(), emptyGlobals(), findFrontmatterRange(), parseFrontmatter(), parseFrontmatterEntries(), stripQuotes()
+
+### Community 2785 - "Tier 2 — title-image-outro"
+Cohesion: 0.33
+Nodes (5): How to render and evaluate, Tier 2 — title-image-outro, Translation walk-through, What it tests, Why threshold 0.95?
+
+### Community 2786 - "la"
+Cohesion: 0.47
+Nodes (6): Animation(), Da(), la(), ma(), Ua(), Va()
+
+### Community 2787 - ".agent/skills/embedded-captions/scripts/render-and-composite.sh"
+Cohesion: 0.70
+Nodes (4): compiler_for(), hf_render_dir(), link_assets(), render-and-composite.sh script
+
+### Community 2788 - "parseFrontmatter"
+Cohesion: 0.40
+Nodes (6): assignGlobal(), emptyGlobals(), findFrontmatterRange(), parseFrontmatter(), parseFrontmatterEntries(), stripQuotes()
+
+### Community 2789 - "Storyboard recipe — plan a video as stills the person approves"
+Cohesion: 0.40
+Nodes (4): 1. The run, 2. The page, 3. The plan beside it, Storyboard recipe — plan a video as stills the person approves
+
+### Community 2790 - "Keyframe Mechanism Reference"
+Cohesion: 0.40
+Nodes (4): Keyframe Mechanism Reference, Mechanisms, Runtime Skeletons, Source Links
+
+### Community 2791 - ".agent/skills/media-use/audio/assets/sfx/manifest.json"
+Cohesion: 0.40
+Nodes (4): chime, description, duration, file
+
+### Community 2792 - "Motion-Graphics Director"
+Cohesion: 0.40
+Nodes (4): Heuristics (design-led short motion), Motion-Graphics Director, Part 1 — Plan (before sourcing), Part 2 — Design (after sourcing)
+
+### Community 2793 - "Tier 2 — title-image-outro"
+Cohesion: 0.33
+Nodes (5): How to render and evaluate, Tier 2 — title-image-outro, Translation walk-through, What it tests, Why threshold 0.95?
+
+### Community 2794 - "Director → catalog block map (reuse-first)"
+Cohesion: 0.40
+Nodes (4): Asset-fusion: borrow + net-new (the only real net-new IP), Category → block(s), Director → catalog block map (reuse-first), Reuse mechanics
+
+### Community 2795 - "kinetic-type — category module"
+Cohesion: 0.40
+Nodes (4): Build (reuse-first), kinetic-type — category module, Plan (Director), Vocabulary
+
+### Community 2796 - "logo-reveal — category module"
+Cohesion: 0.40
+Nodes (4): Build (reuse-first), logo-reveal — category module, Plan (Director), Vocabulary / leans on
+
+### Community 2797 - "lower-thirds — category module"
+Cohesion: 0.40
+Nodes (4): Build (reuse-first), lower-thirds — category module, Plan (Director), Vocabulary / leans on
+
+### Community 2798 - "tweet — category module (search-driven)"
+Cohesion: 0.40
+Nodes (4): Build (reuse-first), Source (Step 2), tweet — category module (search-driven), Vocabulary / leans on
+
+### Community 2799 - "webpage — category module (search-driven)"
+Cohesion: 0.40
+Nodes (4): Build (reuse-first), Source (Step 2), Vocabulary / leans on, webpage — category module (search-driven)
+
+### Community 2800 - "source phase — asset sourcing (asset-first)"
+Cohesion: 0.40
+Nodes (4): Degrade gracefully, Per asset_need, source phase — asset sourcing (asset-first), Steps
+
+### Community 2801 - "Using `text-spectral-rays` — it OWNS its wordmark"
+Cohesion: 0.40
+Nodes (4): Integrate in one pass, Pairs with, The one trap: never give the word a second source, Using `text-spectral-rays` — it OWNS its wordmark
+
+### Community 2802 - "Tier 1 — title-card-fade"
+Cohesion: 0.40
+Nodes (4): How to render and evaluate, Tier 1 — title-card-fade, Translation walk-through, What it tests
+
+### Community 2803 - "Tier 4 — escape-hatch"
+Cohesion: 0.40
+Nodes (4): Cases, Tier 4 — escape-hatch, Validation, What it tests
+
+### Community 2804 - "la"
+Cohesion: 0.47
+Nodes (6): Animation(), Da(), la(), ma(), Ua(), Va()
+
+### Community 2805 - "sheet-spring-up.mdx"
+Cohesion: 0.40
+Nodes (4): Paste it into your composition, Related topics, Variables, sheet()
+
+### Community 2806 - "godrays/source/build.mjs"
+Cohesion: 0.29
+Nodes (6): blocks, imports, LIB, onlyTheseShaders, shaderDefs, SHADERS
+
+### Community 2807 - "overrides"
+Cohesion: 0.40
+Nodes (5): overrides, react, react-dom, @types/react, @types/react-dom
+
+### Community 2808 - "(MẶC ĐỊNH LÀM ĐẾN CÙNG - KHÔNG CẦN GÕ /GOAL)"
+Cohesion: 0.33
+Nodes (5): (MẶC ĐỊNH LÀM ĐẾN CÙNG - KHÔNG CẦN GÕ /GOAL), NGUYÊN TẮC BẮT BUỘC (MANDATORY OPERATING DIRECTIVES), Skills & Agents Registry, VMAX AGENT OPERATING DIRECTIVE: RELENTLESS PROBLEM SOLVING BY DEFAULT, ĐIỀU KHOẢN TỐI CAO: CHẾ ĐỘ MẶC ĐỊNH (DEFAULT RELENTLESS MODE)
+
+### Community 2809 - "resolutions"
+Cohesion: 0.40
+Nodes (5): resolutions, react, react-dom, @types/react, @types/react-dom
+
+### Community 2810 - "facet-morph"
+Cohesion: 0.33
+Nodes (5): facet-morph, Files, How it works (and how to restyle it), Variables, Worked example
+
+### Community 2811 - "logo-brand-close"
+Cohesion: 0.33
+Nodes (5): Envelope, logo-brand-close, Mount contract, Scale, Variables
+
+### Community 2812 - "scroll-camera-story"
+Cohesion: 0.33
+Nodes (5): Mount, Notes, scroll-camera-story, Sections slot, Variables
+
+### Community 2813 - "🌌 VMAX SYSTEM - BẢN ĐỒ TỔNG THỂ & ĐỒNG NHẤT HỆ THỐNG"
+Cohesion: 0.40
+Nodes (5): 🗺️ 1. BỨC TRANH TỔNG THỂ (VMAX UNIFIED BLUEPRINT), 📂 2. CẤU TRÚC THƯ MỤC `conversation/`, 🧭 3. MA TRẬN PHÂN HỆ VÀ LIÊN KẾT MÃ NGUỒN, 📌 4. HƯỚNG DẪN DUY TRÌ TÍNH ĐỒNG NHẤT, 🌌 VMAX SYSTEM - BẢN ĐỒ TỔNG THỂ & ĐỒNG NHẤT HỆ THỐNG
+
+### Community 2814 - "attachComposedAncestors"
+Cohesion: 0.40
+Nodes (5): animatedAncestors(), attachComposedAncestors(), bumpRange(), safeMatches(), summarizeMotion()
+
+### Community 2815 - "📝 TÓM TẮT CUỘC HỘI THOẠI - SESS-022"
+Cohesion: 0.40
+Nodes (4): 🎯 1. BỐI CẢNH & MỤC TIÊU, 🏆 3. KẾT QUẢ & BẰNG CHỨNG, 🧠 4. BÀI HỌC KINH NGHIỆM, 📝 TÓM TẮT CUỘC HỘI THOẠI - SESS-022
+
+### Community 2816 - "Cursor Click Ripple"
+Cohesion: 0.29
+Nodes (7): Contents, Critical Constraints, Cursor Click Ripple, Recipe, See also, Values, Variations
+
+### Community 2817 - "ai/skills/embedded-captions/scripts/render-and-composite.sh"
+Cohesion: 0.70
+Nodes (4): compiler_for(), hf_render_dir(), link_assets(), render-and-composite.sh script
+
+### Community 2818 - "kinetic-type-beats — Kinetic-Type Beats"
+Cohesion: 0.40
+Nodes (4): Contents, kinetic-type-beats — Kinetic-Type Beats, roles served, rule mapping
+
+### Community 2819 - "Cover"
+Cohesion: 0.40
+Nodes (4): Cover, Horizontal Blinds, Staggered Color Blocks, Vertical Blinds
+
+### Community 2820 - "Light"
+Cohesion: 0.40
+Nodes (4): Film Burn, Light, Light Leak, Overexposure Burn
+
+### Community 2821 - "Radial / Shape"
+Cohesion: 0.40
+Nodes (4): Circle Iris, Diagonal Split, Diamond Iris, Radial / Shape
+
+### Community 2822 - "Storyboard recipe — plan a video as stills the person approves"
+Cohesion: 0.40
+Nodes (4): 1. The run, 2. The page, 3. The plan beside it, Storyboard recipe — plan a video as stills the person approves
+
+### Community 2823 - "Keyframe Mechanism Reference"
+Cohesion: 0.40
+Nodes (4): Keyframe Mechanism Reference, Mechanisms, Runtime Skeletons, Source Links
+
+### Community 2824 - "ai/skills/media-use/audio/assets/sfx/manifest.json"
+Cohesion: 0.40
+Nodes (4): chime, description, duration, file
+
+### Community 2825 - "User memory — preferences and recipes"
+Cohesion: 0.40
+Nodes (4): Files, Preferences — remembered defaults, Recipes — frozen video bundles, User memory — preferences and recipes
+
+### Community 2826 - "Director → catalog block map (reuse-first)"
+Cohesion: 0.40
+Nodes (4): Asset-fusion: borrow + net-new (the only real net-new IP), Category → block(s), Director → catalog block map (reuse-first), Reuse mechanics
+
+### Community 2827 - "kinetic-type — category module"
+Cohesion: 0.40
+Nodes (4): Build (reuse-first), kinetic-type — category module, Plan (Director), Vocabulary
+
+### Community 2828 - "logo-reveal — category module"
+Cohesion: 0.40
+Nodes (4): Build (reuse-first), logo-reveal — category module, Plan (Director), Vocabulary / leans on
+
+### Community 2829 - "lower-thirds — category module"
+Cohesion: 0.40
+Nodes (4): Build (reuse-first), lower-thirds — category module, Plan (Director), Vocabulary / leans on
+
+### Community 2830 - "tweet — category module (search-driven)"
+Cohesion: 0.40
+Nodes (4): Build (reuse-first), Source (Step 2), tweet — category module (search-driven), Vocabulary / leans on
+
+### Community 2831 - "Seam Craft — render prerequisites for scene-to-scene transitions"
+Cohesion: 0.40
+Nodes (4): How the injector applies a transition, Seam Craft — render prerequisites for scene-to-scene transitions, Stage ground prerequisite (white-flash guard), Template placeholders
+
+### Community 2832 - "Seam Craft — render prerequisites for scene-to-scene transitions"
+Cohesion: 0.40
+Nodes (4): How the injector applies a transition, Seam Craft — render prerequisites for scene-to-scene transitions, Stage ground prerequisite (white-flash guard), Template placeholders
+
+### Community 2833 - "Credits"
+Cohesion: 0.40
+Nodes (4): Credits, Prior art, Thanks, Third-party licenses
+
+### Community 2834 - "lt-neon-border.mdx"
+Cohesion: 0.40
+Nodes (4): Add it to your video, Change how it looks, Related topics, Variables
+
+### Community 2835 - "motion-blur.mdx"
+Cohesion: 0.40
+Nodes (4): How it works, Options, Related topics, Usage
+
+### Community 2836 - "webpage — category module (search-driven)"
+Cohesion: 0.40
+Nodes (4): Build (reuse-first), Source (Step 2), Vocabulary / leans on, webpage — category module (search-driven)
+
+### Community 2837 - "data-attributes.mdx"
+Cohesion: 0.40
+Nodes (4): Keep negative layers inside their parent, Media and nested compositions, Start relative to another clip, Tracks are not layers
+
+### Community 2838 - "source phase — asset sourcing (asset-first)"
+Cohesion: 0.40
+Nodes (4): Degrade gracefully, Per asset_need, source phase — asset sourcing (asset-first), Steps
+
+### Community 2839 - "developers/index.mdx"
+Cohesion: 0.40
+Nodes (4): Add HyperFrames to an application, Related topics, Understand the architecture, Write and render a project yourself
+
+### Community 2840 - "fb"
+Cohesion: 0.40
+Nodes (5): Context(), Db(), Eb(), fb(), Gw()
+
+### Community 2841 - "introduction.mdx"
+Cohesion: 0.40
+Nodes (4): Make one, Related topics, Three things to know, What can it make?
+
+### Community 2842 - "generated-artwork.mdx"
+Cohesion: 0.40
+Nodes (4): The difference, side by side, The hybrid: generate the art, animate it in code, Three rules that make this work, What code draws well — and what it doesn't
+
+### Community 2843 - "connect-your-agent.mdx"
+Cohesion: 0.40
+Nodes (4): Claude Code, Codex, Related topics, Switch agents
+
+### Community 2844 - "first-video.mdx"
+Cohesion: 0.40
+Nodes (4): Build it, Related topics, Start from your own words instead, What should happen
+
+### Community 2845 - "studio-app/index.mdx"
+Cohesion: 0.40
+Nodes (4): Download and install, First launch, Related topics, Sign in with HeyGen
+
+### Community 2846 - "assets-and-blocks.mdx"
+Cohesion: 0.40
+Nodes (4): Add a Catalog item, Import an asset, Related topics, Reuse project assets
+
+### Community 2847 - "captions.mdx"
+Cohesion: 0.40
+Nodes (4): Adjust a word on the canvas, Related topics, Review the result, Use the timeline to inspect the rhythm
+
+### Community 2848 - "thirty-days.mdx"
+Cohesion: 0.40
+Nodes (4): Direct and refine, Extend and ship, Related topics, Start and create
+
+### Community 2849 - "he"
+Cohesion: 0.40
+Nodes (5): he(), Md(), Nd(), Od(), Pd()
+
+### Community 2850 - "GSAP Animation"
+Cohesion: 0.40
+Nodes (4): GSAP Animation, Key Rules, Setup, Supported Properties
+
+### Community 2851 - "./atomic-file"
+Cohesion: 0.40
+Nodes (5): bun, import, node, types, ./atomic-file
+
+### Community 2852 - "./audio-analysis"
+Cohesion: 0.40
+Nodes (5): bun, import, node, types, ./audio-analysis
+
+### Community 2853 - "./audio-automation"
+Cohesion: 0.40
+Nodes (5): bun, import, node, types, ./audio-automation
+
+### Community 2854 - "./audio-carve"
+Cohesion: 0.40
+Nodes (5): bun, import, node, types, ./audio-carve
+
+### Community 2855 - "./audio-fade"
+Cohesion: 0.40
+Nodes (5): bun, import, node, types, ./audio-fade
+
+### Community 2856 - "./audio-fx"
+Cohesion: 0.40
+Nodes (5): bun, import, node, types, ./audio-fx
+
+### Community 2857 - "./audio-fx-copy"
+Cohesion: 0.40
+Nodes (5): bun, import, node, types, ./audio-fx-copy
+
+### Community 2858 - "./audio-fx-eq"
+Cohesion: 0.40
+Nodes (5): bun, import, node, types, ./audio-fx-eq
+
+### Community 2859 - "./audio-fx-jobs"
+Cohesion: 0.40
+Nodes (5): bun, import, node, types, ./audio-fx-jobs
+
+### Community 2860 - "./audio-fx-presets"
+Cohesion: 0.40
+Nodes (5): bun, import, node, types, ./audio-fx-presets
+
+### Community 2861 - "./audio-fx-profiles"
+Cohesion: 0.40
+Nodes (5): bun, import, node, types, ./audio-fx-profiles
+
+### Community 2862 - "./audio-fx-runtime"
+Cohesion: 0.40
+Nodes (5): bun, import, node, types, ./audio-fx-runtime
+
+### Community 2863 - "./audio-fx-tail"
+Cohesion: 0.40
+Nodes (5): bun, import, node, types, ./audio-fx-tail
+
+### Community 2864 - "./audio-gain"
+Cohesion: 0.40
+Nodes (5): bun, import, node, types, ./audio-gain
+
+### Community 2865 - "./audio-groups"
+Cohesion: 0.40
+Nodes (5): bun, import, node, types, ./audio-groups
+
+### Community 2866 - "./audio-leveller"
+Cohesion: 0.40
+Nodes (5): bun, import, node, types, ./audio-leveller
+
+### Community 2867 - "./canary-registry"
+Cohesion: 0.40
+Nodes (5): bun, import, node, types, ./canary-registry
+
+### Community 2868 - "./clip-facts"
+Cohesion: 0.40
+Nodes (5): bun, import, node, types, ./clip-facts
+
+### Community 2869 - "./color-grading"
+Cohesion: 0.40
+Nodes (5): bun, import, node, types, ./color-grading
+
+### Community 2870 - "./color-luts"
+Cohesion: 0.40
+Nodes (5): bun, import, node, types, ./color-luts
+
+### Community 2871 - "./compiler"
+Cohesion: 0.40
+Nodes (5): bun, import, node, types, ./compiler
+
+### Community 2872 - "./compiler/html-document"
+Cohesion: 0.40
+Nodes (5): bun, import, node, types, ./compiler/html-document
+
+### Community 2873 - "./composition-contract"
+Cohesion: 0.40
+Nodes (5): bun, import, node, types, ./composition-contract
+
+### Community 2874 - "./composition-readiness"
+Cohesion: 0.40
+Nodes (5): bun, import, node, types, ./composition-readiness
+
+### Community 2875 - "./editing"
+Cohesion: 0.40
+Nodes (5): bun, import, node, types, ./editing
+
+### Community 2876 - "./editing/draft-markers"
+Cohesion: 0.40
+Nodes (5): bun, import, node, types, ./editing/draft-markers
+
+### Community 2877 - "./figma"
+Cohesion: 0.40
+Nodes (5): ./figma, bun, import, node, types
+
+### Community 2878 - "./fonts/aliases"
+Cohesion: 0.40
+Nodes (5): ./fonts/aliases, bun, import, node, types
+
+### Community 2879 - "./fonts/embed"
+Cohesion: 0.40
+Nodes (5): ./fonts/embed, bun, import, node, types
+
+### Community 2880 - "./fonts/embedded-data"
+Cohesion: 0.40
+Nodes (5): ./fonts/embedded-data, bun, import, node, types
+
+### Community 2881 - "./fonts/system-locator"
+Cohesion: 0.40
+Nodes (5): ./fonts/system-locator, bun, import, node, types
+
+### Community 2882 - "./generators"
+Cohesion: 0.40
+Nodes (5): ./generators, bun, import, node, types
+
+### Community 2883 - "./gsap-cdn"
+Cohesion: 0.40
+Nodes (5): ./gsap-cdn, bun, import, node, types
+
+### Community 2884 - "./gsap-constants"
+Cohesion: 0.40
+Nodes (5): ./gsap-constants, bun, import, node, types
+
+### Community 2885 - "./gsap-parser"
+Cohesion: 0.40
+Nodes (5): ./gsap-parser, bun, import, node, types
+
+### Community 2886 - "./gsap-parser-acorn"
+Cohesion: 0.40
+Nodes (5): ./gsap-parser-acorn, bun, import, node, types
+
+### Community 2887 - "./gsap-writer-acorn"
+Cohesion: 0.40
+Nodes (5): ./gsap-writer-acorn, bun, import, node, types
+
+### Community 2888 - "./hf-ids"
+Cohesion: 0.40
+Nodes (5): ./hf-ids, bun, import, node, types
+
+### Community 2889 - "./html-attr-safety"
+Cohesion: 0.40
+Nodes (5): ./html-attr-safety, bun, import, node, types
+
+### Community 2890 - "./keyframe-defaults"
+Cohesion: 0.40
+Nodes (5): ./keyframe-defaults, bun, import, node, types
+
+### Community 2891 - "./lint"
+Cohesion: 0.40
+Nodes (5): ./lint, bun, import, node, types
+
+### Community 2892 - "./media-grade-analyzer"
+Cohesion: 0.40
+Nodes (5): ./media-grade-analyzer, bun, import, node, types
+
+### Community 2893 - "./media-link"
+Cohesion: 0.40
+Nodes (5): ./media-link, bun, import, node, types
+
+### Community 2894 - "./media-timing"
+Cohesion: 0.40
+Nodes (5): ./media-timing, bun, import, node, types
+
+### Community 2895 - "./media-volume-envelope"
+Cohesion: 0.40
+Nodes (5): ./media-volume-envelope, bun, import, node, types
+
+### Community 2896 - "./projects"
+Cohesion: 0.40
+Nodes (5): ./projects, bun, import, node, types
+
+### Community 2897 - "./registry"
+Cohesion: 0.40
+Nodes (5): ./registry, bun, import, node, types
+
+### Community 2898 - "./rich-text-sanitize"
+Cohesion: 0.40
+Nodes (5): ./rich-text-sanitize, bun, import, node, types
+
+### Community 2899 - "./runtime/clip-window"
+Cohesion: 0.40
+Nodes (5): ./runtime/clip-window, bun, import, node, types
+
+### Community 2900 - "./runtime/clipTree"
+Cohesion: 0.40
+Nodes (5): ./runtime/clipTree, bun, import, node, types
+
+### Community 2901 - "./runtime/composition-length"
+Cohesion: 0.40
+Nodes (5): ./runtime/composition-length, bun, import, node, types
+
+### Community 2902 - "./runtime/custom-ease"
+Cohesion: 0.40
+Nodes (5): ./runtime/custom-ease, bun, import, node, types
+
+### Community 2903 - "./runtime/dom-realm"
+Cohesion: 0.40
+Nodes (5): ./runtime/dom-realm, bun, import, node, types
+
+### Community 2904 - "./runtime/levelTap"
+Cohesion: 0.40
+Nodes (5): ./runtime/levelTap, bun, import, node, types
+
+### Community 2905 - "./runtime/lottie-readiness"
+Cohesion: 0.40
+Nodes (5): ./runtime/lottie-readiness, bun, import, node, types
+
+### Community 2906 - "./runtime/position-edits-render"
+Cohesion: 0.40
+Nodes (5): ./runtime/position-edits-render, bun, import, node, types
+
+### Community 2907 - "./runtime/protocol"
+Cohesion: 0.40
+Nodes (5): ./runtime/protocol, bun, import, node, types
+
+### Community 2908 - "./runtime/stacking-context"
+Cohesion: 0.40
+Nodes (5): ./runtime/stacking-context, bun, import, node, types
+
+### Community 2909 - "./runtime/start-expression"
+Cohesion: 0.40
+Nodes (5): ./runtime/start-expression, bun, import, node, types
+
+### Community 2910 - "./runtime/start-resolver"
+Cohesion: 0.40
+Nodes (5): ./runtime/start-resolver, bun, import, node, types
+
+### Community 2911 - "./runtime/web-audio-route"
+Cohesion: 0.40
+Nodes (5): ./runtime/web-audio-route, bun, import, node, types
+
+### Community 2912 - "./slideshow"
+Cohesion: 0.40
+Nodes (5): ./slideshow, bun, import, node, types
+
+### Community 2913 - "./speed-ramp"
+Cohesion: 0.40
+Nodes (5): ./speed-ramp, bun, import, node, types
+
+### Community 2914 - "./spring-ease"
+Cohesion: 0.40
+Nodes (5): ./spring-ease, bun, import, node, types
+
+### Community 2915 - "./storyboard"
+Cohesion: 0.40
+Nodes (5): ./storyboard, bun, import, node, types
+
+### Community 2916 - "./studio-api"
+Cohesion: 0.40
+Nodes (5): ./studio-api, bun, import, node, types
+
+### Community 2917 - "./studio-api/draft-markers"
+Cohesion: 0.40
+Nodes (5): ./studio-api/draft-markers, bun, import, node, types
+
+### Community 2918 - "./studio-api/finite-mutation"
+Cohesion: 0.40
+Nodes (5): ./studio-api/finite-mutation, bun, import, node, types
+
+### Community 2919 - "./studio-api/manual-edits-render-script"
+Cohesion: 0.40
+Nodes (5): ./studio-api/manual-edits-render-script, bun, import, node, types
+
+### Community 2920 - "./studio-api/screenshot-clip"
+Cohesion: 0.40
+Nodes (5): ./studio-api/screenshot-clip, bun, import, node, types
+
+### Community 2921 - "./studio-api/studio-motion-render-script"
+Cohesion: 0.40
+Nodes (5): ./studio-api/studio-motion-render-script, bun, import, node, types
+
+### Community 2922 - "./studio-preview-mark"
+Cohesion: 0.40
+Nodes (5): ./studio-preview-mark, bun, import, node, types
+
+### Community 2923 - "./text"
+Cohesion: 0.40
+Nodes (5): ./text, bun, import, node, types
+
+### Community 2924 - "./timeline-asset-id"
+Cohesion: 0.40
+Nodes (5): ./timeline-asset-id, bun, import, node, types
+
+### Community 2925 - "./variables"
+Cohesion: 0.40
+Nodes (5): ./variables, bun, import, node, types
+
+### Community 2926 - "./wiggle-ease"
+Cohesion: 0.40
+Nodes (5): ./wiggle-ease, bun, import, node, types
+
+### Community 2927 - "devDependencies"
+Cohesion: 0.40
+Nodes (5): devDependencies, @types/node, typescript, vitest, @webgpu/types
+
+### Community 2928 - "Za"
+Cohesion: 0.40
+Nodes (5): kb(), ob(), ra(), rb(), Za()
+
+### Community 2929 - "Rd"
+Cohesion: 0.40
+Nodes (5): Rd(), Vd(), Wd(), yd(), ye()
+
+### Community 2930 - "qt"
+Cohesion: 0.07
+Nodes (39): advanceBy(), bx(), consume(), Df(), dR(), ep(), eR(), gR() (+31 more)
+
+### Community 2931 - "Using `text-spectral-rays` — it OWNS its wordmark"
+Cohesion: 0.40
+Nodes (4): Integrate in one pass, Pairs with, The one trap: never give the word a second source, Using `text-spectral-rays` — it OWNS its wordmark
+
+### Community 2932 - "Canopy Part Title"
+Cohesion: 0.29
+Nodes (6): Canopy Part Title, Editing rules (from the source project), Files, Install, Runtime contract, Variables
+
+### Community 2933 - "Tier 1 — title-card-fade"
+Cohesion: 0.40
+Nodes (4): How to render and evaluate, Tier 1 — title-card-fade, Translation walk-through, What it tests
+
+### Community 2935 - "Center-Outward Expansion"
+Cohesion: 0.29
+Nodes (7): Center-Outward Expansion, Critical Constraints, How It Works, Recipe, See also, Values, Variations
+
+### Community 2936 - "Press-Release Spring Chain"
+Cohesion: 0.29
+Nodes (7): Contents, Critical Constraints, Press-Release Spring Chain, Recipe, See also, Values, Variations
+
+### Community 2937 - "Physics Press Reaction (Cursor + Element Synced)"
+Cohesion: 0.29
+Nodes (7): Contents, Critical Constraints, Physics Press Reaction (Cursor + Element Synced), Recipe, See also, Values, Variations
+
+### Community 2938 - "kinetic-type-beats — Kinetic-Type Beats"
+Cohesion: 0.40
+Nodes (4): Contents, kinetic-type-beats — Kinetic-Type Beats, roles served, rule mapping
+
+### Community 2939 - "k4"
+Cohesion: 0.57
+Nodes (7): advanceBy(), consume(), isAt(), isFinished(), k4(), m4(), parseUntil()
+
+### Community 2940 - "Cover"
+Cohesion: 0.40
+Nodes (4): Cover, Horizontal Blinds, Staggered Color Blocks, Vertical Blinds
+
+### Community 2941 - "scripts"
+Cohesion: 0.33
+Nodes (6): scripts, build, start, test, test:dockerfile-workspaces, typecheck
+
+### Community 2943 - "fb"
+Cohesion: 0.40
+Nodes (5): Context(), Db(), Eb(), fb(), Gw()
+
+### Community 2944 - "Light"
+Cohesion: 0.40
+Nodes (4): Film Burn, Light, Light Leak, Overexposure Burn
+
+### Community 2945 - "@hyperframes/core"
+Cohesion: 0.12
+Nodes (16): Parse or generate HTML, addElement, deleteAllForSelector, reorderElements, setClassStyle, setCompositionMetadata, Structure, Documentation (+8 more)
+
+### Community 2946 - "Radial / Shape"
+Cohesion: 0.40
+Nodes (4): Circle Iris, Diagonal Split, Diamond Iris, Radial / Shape
+
+### Community 2947 - "k4"
+Cohesion: 0.57
+Nodes (7): advanceBy(), consume(), isAt(), isFinished(), k4(), m4(), parseUntil()
+
+### Community 2948 - "qt"
+Cohesion: 0.08
+Nodes (36): advanceBy(), bx(), consume(), Df(), dR(), ep(), eR(), gR() (+28 more)
+
+### Community 2949 - "HDR Regression Suite"
+Cohesion: 0.40
+Nodes (4): Fixtures, HDR Regression Suite, Running, Windows
+
+### Community 2950 - "many-cuts/src/script.js"
+Cohesion: 0.40
+Nodes (4): colors, masterTL, particlesContainer, variants
+
+### Community 2951 - "devDependencies"
+Cohesion: 0.40
+Nodes (5): devDependencies, happy-dom, @types/node, typescript, vitest
+
+### Community 2952 - "./encoder-options"
+Cohesion: 0.40
+Nodes (5): bun, import, node, types, ./encoder-options
+
+### Community 2953 - "./finite-mutation"
+Cohesion: 0.40
+Nodes (5): ./finite-mutation, bun, import, node, types
+
+### Community 2954 - "./history"
+Cohesion: 0.40
+Nodes (5): ./history, bun, import, node, types
+
+### Community 2955 - "./loudness"
+Cohesion: 0.40
+Nodes (5): ./loudness, bun, import, node, types
+
+### Community 2956 - "./manual-edits-render-script"
+Cohesion: 0.40
+Nodes (5): ./manual-edits-render-script, bun, import, node, types
+
+### Community 2957 - "./media-proxy-preview"
+Cohesion: 0.40
+Nodes (5): ./media-proxy-preview, bun, import, node, types
+
+### Community 2958 - "./proxy-transcoder"
+Cohesion: 0.40
+Nodes (5): ./proxy-transcoder, bun, import, node, types
+
+### Community 2959 - "./safe-path"
+Cohesion: 0.40
+Nodes (5): ./safe-path, bun, import, node, types
+
+### Community 2960 - "./screenshot-clip"
+Cohesion: 0.40
+Nodes (5): ./screenshot-clip, bun, import, node, types
+
+### Community 2961 - "./source-mutation"
+Cohesion: 0.40
+Nodes (5): ./source-mutation, bun, import, node, types
+
+### Community 2962 - "./studio-motion-render-script"
+Cohesion: 0.40
+Nodes (5): ./studio-motion-render-script, bun, import, node, types
+
+### Community 2963 - "he"
+Cohesion: 0.40
+Nodes (5): he(), Md(), Nd(), Od(), Pd()
+
+### Community 2964 - "Za"
+Cohesion: 0.40
+Nodes (5): kb(), ob(), ra(), rb(), Za()
+
+### Community 2966 - "Avatar Promo Card editing contract"
+Cohesion: 0.40
+Nodes (4): Avatar Promo Card editing contract, Editable slots, Protected, Surface ownership
+
+### Community 2967 - "norm"
+Cohesion: 0.67
+Nodes (4): findPhrase(), LINES, norm(), takeWord()
+
+### Community 2968 - "logo-assemble-lockup — Logo Assemble → Lockup"
+Cohesion: 0.50
+Nodes (3): Contents, logo-assemble-lockup — Logo Assemble → Lockup, roles served
+
+### Community 2969 - "Nudge Curve"
+Cohesion: 0.50
+Nodes (4): Anti-patterns, JS, Nudge Curve, Rules
+
+### Community 2970 - "la"
+Cohesion: 0.47
+Nodes (6): Animation(), Da(), la(), ma(), Ua(), Va()
+
+### Community 2971 - "Rd"
+Cohesion: 0.40
+Nodes (5): Rd(), Vd(), Wd(), yd(), ye()
+
+### Community 2972 - "HyperFrames v0.6.112"
+Cohesion: 0.40
+Nodes (4): Features, Fixes, Full changelog, HyperFrames v0.6.112
+
+### Community 2973 - "HyperFrames v0.6.73"
+Cohesion: 0.40
+Nodes (4): Fixes, Full changelog, HyperFrames v0.6.73, Internal
+
+### Community 2974 - "HyperFrames v0.6.90"
+Cohesion: 0.40
+Nodes (4): Features, Full changelog, HyperFrames v0.6.90, Internal
+
+### Community 2975 - "HyperFrames v0.7.107"
+Cohesion: 0.40
+Nodes (4): Features, Fixes, Full changelog, HyperFrames v0.7.107
+
+### Community 2976 - "HyperFrames v0.7.109"
+Cohesion: 0.40
+Nodes (4): Features, Fixes, Full changelog, HyperFrames v0.7.109
+
+### Community 2977 - "HyperFrames v0.7.12"
+Cohesion: 0.40
+Nodes (4): Features, Fixes, Full changelog, HyperFrames v0.7.12
+
+### Community 2978 - "HyperFrames v0.7.15"
+Cohesion: 0.40
+Nodes (4): Fixes, Full changelog, HyperFrames v0.7.15, Internal
+
+### Community 2979 - "HyperFrames v0.7.2"
+Cohesion: 0.40
+Nodes (4): Fixes, Full changelog, HyperFrames v0.7.2, Internal
+
+### Community 2980 - "HyperFrames v0.7.25"
+Cohesion: 0.40
+Nodes (4): Features, Fixes, Full changelog, HyperFrames v0.7.25
+
+### Community 2981 - "HyperFrames v0.7.27"
+Cohesion: 0.40
+Nodes (4): Features, Fixes, Full changelog, HyperFrames v0.7.27
+
+### Community 2982 - "HyperFrames v0.7.30"
+Cohesion: 0.40
+Nodes (4): Features, Fixes, Full changelog, HyperFrames v0.7.30
+
+### Community 2983 - "HyperFrames v0.7.39"
+Cohesion: 0.40
+Nodes (4): Features, Fixes, Full changelog, HyperFrames v0.7.39
+
+### Community 2984 - "HyperFrames v0.7.41"
+Cohesion: 0.40
+Nodes (4): Features, Fixes, Full changelog, HyperFrames v0.7.41
+
+### Community 2985 - "HyperFrames v0.7.42"
+Cohesion: 0.40
+Nodes (4): Features, Fixes, Full changelog, HyperFrames v0.7.42
+
+### Community 2986 - "HyperFrames v0.7.51"
+Cohesion: 0.40
+Nodes (4): Features, Fixes, Full changelog, HyperFrames v0.7.51
+
+### Community 2987 - "HyperFrames v0.7.52"
+Cohesion: 0.40
+Nodes (4): Features, Fixes, Full changelog, HyperFrames v0.7.52
+
+### Community 2988 - "HyperFrames v0.7.53"
+Cohesion: 0.40
+Nodes (4): Fixes, Full changelog, HyperFrames v0.7.53, Internal
+
+### Community 2989 - "HyperFrames v0.7.56"
+Cohesion: 0.40
+Nodes (4): Features, Fixes, Full changelog, HyperFrames v0.7.56
+
+### Community 2990 - "HyperFrames v0.7.64"
+Cohesion: 0.40
+Nodes (4): Fixes, Full changelog, HyperFrames v0.7.64, Internal
+
+### Community 2991 - "HyperFrames v0.7.66"
+Cohesion: 0.40
+Nodes (4): Features, Fixes, Full changelog, HyperFrames v0.7.66
+
+### Community 2992 - "HyperFrames v0.7.69"
+Cohesion: 0.40
+Nodes (4): Features, Fixes, Full changelog, HyperFrames v0.7.69
+
+### Community 2993 - "HyperFrames v0.7.74"
+Cohesion: 0.40
+Nodes (4): Fixes, Full changelog, HyperFrames v0.7.74, Performance
+
+### Community 2994 - "HyperFrames v0.7.75"
+Cohesion: 0.40
+Nodes (4): Fixes, Full changelog, HyperFrames v0.7.75, Internal
+
+### Community 2995 - "HyperFrames v0.7.84"
+Cohesion: 0.40
+Nodes (4): Features, Fixes, Full changelog, HyperFrames v0.7.84
+
+### Community 2996 - "HyperFrames v0.7.88"
+Cohesion: 0.40
+Nodes (4): Docs & Examples, Fixes, Full changelog, HyperFrames v0.7.88
+
+### Community 2997 - "HyperFrames v0.8.0"
+Cohesion: 0.40
+Nodes (4): Catalog, Full changelog, HyperFrames v0.8.0, Migration
+
+### Community 2998 - "HyperFrames v0.8.1"
+Cohesion: 0.40
+Nodes (4): Features, Fixes, Full changelog, HyperFrames v0.8.1
+
+### Community 2999 - "HyperFrames v0.8.100"
+Cohesion: 0.40
+Nodes (4): Fixes, Full changelog, HyperFrames v0.8.100, Internal
+
+### Community 3000 - "HyperFrames v0.8.101"
+Cohesion: 0.40
+Nodes (4): Features, Fixes, Full changelog, HyperFrames v0.8.101
+
+### Community 3001 - "HyperFrames v0.8.102"
+Cohesion: 0.40
+Nodes (4): Features, Fixes, Full changelog, HyperFrames v0.8.102
+
+### Community 3002 - "HyperFrames v0.8.108"
+Cohesion: 0.40
+Nodes (4): Features, Fixes, Full changelog, HyperFrames v0.8.108
+
+### Community 3003 - "HyperFrames v0.8.109"
+Cohesion: 0.40
+Nodes (4): Features, Fixes, Full changelog, HyperFrames v0.8.109
+
+### Community 3004 - "HyperFrames v0.8.11"
+Cohesion: 0.40
+Nodes (4): Fixes, Full changelog, HyperFrames v0.8.11, Internal
+
+### Community 3005 - "HyperFrames v0.8.110"
+Cohesion: 0.40
+Nodes (4): Features, Fixes, Full changelog, HyperFrames v0.8.110
+
+### Community 3006 - "HyperFrames v0.8.113"
+Cohesion: 0.40
+Nodes (4): Catalog, Fixes, Full changelog, HyperFrames v0.8.113
+
+### Community 3007 - "HyperFrames v0.8.120"
+Cohesion: 0.40
+Nodes (4): Features, Fixes, Full changelog, HyperFrames v0.8.120
+
+### Community 3008 - "HyperFrames v0.8.121"
+Cohesion: 0.40
+Nodes (4): Fixes, Full changelog, HyperFrames v0.8.121, Internal
+
+### Community 3009 - "HyperFrames v0.8.122"
+Cohesion: 0.40
+Nodes (4): Fixes, Full changelog, HyperFrames v0.8.122, Internal
+
+### Community 3010 - "HyperFrames v0.8.123"
+Cohesion: 0.40
+Nodes (4): Features, Fixes, Full changelog, HyperFrames v0.8.123
+
+### Community 3011 - "HyperFrames v0.8.124"
+Cohesion: 0.40
+Nodes (4): Features, Fixes, Full changelog, HyperFrames v0.8.124
+
+### Community 3012 - "HyperFrames v0.8.125"
+Cohesion: 0.40
+Nodes (4): Docs & Examples, Fixes, Full changelog, HyperFrames v0.8.125
+
+### Community 3013 - "HyperFrames v0.8.126"
+Cohesion: 0.40
+Nodes (4): Fixes, Full changelog, HyperFrames v0.8.126, Internal
+
+### Community 3014 - "HyperFrames v0.8.134"
+Cohesion: 0.40
+Nodes (4): Docs & Examples, Fixes, Full changelog, HyperFrames v0.8.134
+
+### Community 3015 - "HyperFrames v0.8.14"
+Cohesion: 0.40
+Nodes (4): Catalog, Fixes, Full changelog, HyperFrames v0.8.14
+
+### Community 3016 - "HyperFrames v0.8.142"
+Cohesion: 0.40
+Nodes (4): Features, Fixes, Full changelog, HyperFrames v0.8.142
+
+### Community 3017 - "HyperFrames v0.8.145"
+Cohesion: 0.40
+Nodes (4): Features, Fixes, Full changelog, HyperFrames v0.8.145
+
+### Community 3018 - "HyperFrames v0.8.15"
+Cohesion: 0.40
+Nodes (4): Features, Fixes, Full changelog, HyperFrames v0.8.15
+
+### Community 3019 - "HyperFrames v0.8.155"
+Cohesion: 0.40
+Nodes (4): Features, Fixes, Full changelog, HyperFrames v0.8.155
+
+### Community 3020 - "HyperFrames v0.8.157"
+Cohesion: 0.40
+Nodes (4): Fixes, Full changelog, HyperFrames v0.8.157, Internal
+
+### Community 3021 - "HyperFrames v0.8.16"
+Cohesion: 0.40
+Nodes (4): Features, Fixes, Full changelog, HyperFrames v0.8.16
+
+### Community 3022 - "HyperFrames v0.8.160"
+Cohesion: 0.40
+Nodes (4): Features, Fixes, Full changelog, HyperFrames v0.8.160
+
+### Community 3023 - "HyperFrames v0.8.161"
+Cohesion: 0.40
+Nodes (4): Features, Fixes, Full changelog, HyperFrames v0.8.161
+
+### Community 3024 - "HyperFrames v0.8.169"
+Cohesion: 0.40
+Nodes (4): Fixes, Full changelog, HyperFrames v0.8.169, Internal
+
+### Community 3025 - "HyperFrames v0.8.17"
+Cohesion: 0.40
+Nodes (4): Features, Fixes, Full changelog, HyperFrames v0.8.17
+
+### Community 3026 - "HyperFrames v0.8.171"
+Cohesion: 0.40
+Nodes (4): Catalog, Fixes, Full changelog, HyperFrames v0.8.171
+
+### Community 3027 - "HyperFrames v0.8.176"
+Cohesion: 0.40
+Nodes (4): Fixes, Full changelog, HyperFrames v0.8.176, Internal
+
+### Community 3028 - "HyperFrames v0.8.181"
+Cohesion: 0.40
+Nodes (4): Fixes, Full changelog, HyperFrames v0.8.181, Performance
+
+### Community 3029 - "HyperFrames v0.8.2"
+Cohesion: 0.40
+Nodes (4): Catalog, Fixes, Full changelog, HyperFrames v0.8.2
+
+### Community 3030 - "HyperFrames v0.8.25"
+Cohesion: 0.40
+Nodes (4): Catalog, Features, Full changelog, HyperFrames v0.8.25
+
+### Community 3031 - "HyperFrames v0.8.27"
+Cohesion: 0.40
+Nodes (4): Features, Fixes, Full changelog, HyperFrames v0.8.27
+
+### Community 3032 - "HyperFrames v0.8.3"
+Cohesion: 0.40
+Nodes (4): Features, Fixes, Full changelog, HyperFrames v0.8.3
+
+### Community 3033 - "HyperFrames v0.8.30"
+Cohesion: 0.40
+Nodes (4): Features, Fixes, Full changelog, HyperFrames v0.8.30
+
+### Community 3034 - "HyperFrames v0.8.37"
+Cohesion: 0.40
+Nodes (4): Docs & Examples, Fixes, Full changelog, HyperFrames v0.8.37
+
+### Community 3035 - "HyperFrames v0.8.38"
+Cohesion: 0.40
+Nodes (4): Features, Full changelog, HyperFrames v0.8.38, Internal
+
+### Community 3036 - "HyperFrames v0.8.41"
+Cohesion: 0.40
+Nodes (4): Docs & Examples, Fixes, Full changelog, HyperFrames v0.8.41
+
+### Community 3037 - "HyperFrames v0.8.42"
+Cohesion: 0.40
+Nodes (4): Fixes, Full changelog, HyperFrames v0.8.42, Internal
+
+### Community 3038 - "HyperFrames v0.8.43"
+Cohesion: 0.40
+Nodes (4): Features, Fixes, Full changelog, HyperFrames v0.8.43
+
+### Community 3039 - "HyperFrames v0.8.44"
+Cohesion: 0.40
+Nodes (4): Features, Fixes, Full changelog, HyperFrames v0.8.44
+
+### Community 3040 - "HyperFrames v0.8.53"
+Cohesion: 0.40
+Nodes (4): Features, Fixes, Full changelog, HyperFrames v0.8.53
+
+### Community 3041 - "HyperFrames v0.8.56"
+Cohesion: 0.40
+Nodes (4): Features, Full changelog, HyperFrames v0.8.56, Internal
+
+### Community 3042 - "HyperFrames v0.8.62"
+Cohesion: 0.40
+Nodes (4): Catalog, Fixes, Full changelog, HyperFrames v0.8.62
+
+### Community 3043 - "HyperFrames v0.8.68"
+Cohesion: 0.40
+Nodes (4): Fixes, Full changelog, HyperFrames v0.8.68, Improvements
+
+### Community 3044 - "HyperFrames v0.8.69"
+Cohesion: 0.40
+Nodes (4): Fixes, Full changelog, HyperFrames v0.8.69, Performance
+
+### Community 3045 - "HyperFrames v0.8.72"
+Cohesion: 0.40
+Nodes (4): Features, Fixes, Full changelog, HyperFrames v0.8.72
+
+### Community 3046 - "HyperFrames v0.8.77"
+Cohesion: 0.40
+Nodes (4): Docs & Examples, Fixes, Full changelog, HyperFrames v0.8.77
+
+### Community 3047 - "HyperFrames v0.8.84"
+Cohesion: 0.40
+Nodes (4): Fixes, Full changelog, HyperFrames v0.8.84, Performance
+
+### Community 3048 - "HyperFrames v0.8.85"
+Cohesion: 0.40
+Nodes (4): Docs & Examples, Features, Full changelog, HyperFrames v0.8.85
+
+### Community 3049 - "HyperFrames v0.8.86"
+Cohesion: 0.40
+Nodes (4): Features, Fixes, Full changelog, HyperFrames v0.8.86
+
+### Community 3050 - "HyperFrames v0.8.89"
+Cohesion: 0.40
+Nodes (4): Features, Fixes, Full changelog, HyperFrames v0.8.89
+
+### Community 3051 - "HyperFrames v0.8.90"
+Cohesion: 0.40
+Nodes (4): Fixes, Full changelog, HyperFrames v0.8.90, Performance
+
+### Community 3052 - "HyperFrames v0.8.94"
+Cohesion: 0.40
+Nodes (4): Features, Fixes, Full changelog, HyperFrames v0.8.94
+
+### Community 3053 - "HyperFrames v0.8.95"
+Cohesion: 0.40
+Nodes (4): Features, Fixes, Full changelog, HyperFrames v0.8.95
+
+### Community 3054 - "HyperFrames v0.8.97"
+Cohesion: 0.40
+Nodes (4): Features, Fixes, Full changelog, HyperFrames v0.8.97
+
+### Community 3055 - "HyperFrames v0.8.99"
+Cohesion: 0.40
+Nodes (4): Fixes, Full changelog, HyperFrames v0.8.99, Internal
+
+### Community 3056 - "check-large-files.sh"
+Cohesion: 0.70
+Nodes (4): list_files(), list_registry_ids(), read_bytes(), check-large-files.sh script
+
+### Community 3057 - "hyperframes/skills/embedded-captions/scripts/render-and-composite.sh"
+Cohesion: 0.70
+Nodes (4): compiler_for(), hf_render_dir(), link_assets(), render-and-composite.sh script
+
+### Community 3058 - "init, capture, skills"
+Cohesion: 0.40
+Nodes (4): capture, init, init, capture, skills, skills
+
+### Community 3059 - "Storyboard recipe — plan a video as stills the person approves"
+Cohesion: 0.40
+Nodes (4): 1. The run, 2. The page, 3. The plan beside it, Storyboard recipe — plan a video as stills the person approves
+
+### Community 3060 - "Keyframe Mechanism Reference"
+Cohesion: 0.40
+Nodes (4): Keyframe Mechanism Reference, Mechanisms, Runtime Skeletons, Source Links
+
+### Community 3061 - "hyperframes/skills/media-use/audio/assets/sfx/manifest.json"
+Cohesion: 0.40
+Nodes (4): chime, description, duration, file
+
+### Community 3062 - "Motion-Graphics Director"
+Cohesion: 0.40
+Nodes (4): Heuristics (design-led short motion), Motion-Graphics Director, Part 1 — Plan (before sourcing), Part 2 — Design (after sourcing)
+
+### Community 3063 - "Finalize / repair subagent"
+Cohesion: 0.40
+Nodes (4): Dispatch context, Finalize / repair subagent, Flow, STOP / escalate
+
+### Community 3064 - "Director → catalog block map (reuse-first)"
+Cohesion: 0.40
+Nodes (4): Asset-fusion: borrow + net-new (the only real net-new IP), Category → block(s), Director → catalog block map (reuse-first), Reuse mechanics
+
+### Community 3065 - "Waterfall Entry"
+Cohesion: 0.50
+Nodes (4): Anti-patterns, Choreography, JS, Waterfall Entry
+
+### Community 3066 - "kinetic-type — category module"
+Cohesion: 0.40
+Nodes (4): Build (reuse-first), kinetic-type — category module, Plan (Director), Vocabulary
+
+### Community 3067 - "logo-reveal — category module"
+Cohesion: 0.40
+Nodes (4): Build (reuse-first), logo-reveal — category module, Plan (Director), Vocabulary / leans on
+
+### Community 3068 - "lower-thirds — category module"
+Cohesion: 0.40
+Nodes (4): Build (reuse-first), lower-thirds — category module, Plan (Director), Vocabulary / leans on
+
+### Community 3069 - "stitched-text-draw"
+Cohesion: 0.29
+Nodes (6): Draw mechanic (attribute dashoffset, no mask), Letter path approach, Mount, Notes, stitched-text-draw, Variables
+
+### Community 3070 - "tweet — category module (search-driven)"
+Cohesion: 0.40
+Nodes (4): Build (reuse-first), Source (Step 2), tweet — category module (search-driven), Vocabulary / leans on
+
+### Community 3071 - "webpage — category module (search-driven)"
+Cohesion: 0.40
+Nodes (4): Build (reuse-first), Source (Step 2), Vocabulary / leans on, webpage — category module (search-driven)
+
+### Community 3072 - "source phase — asset sourcing (asset-first)"
+Cohesion: 0.40
+Nodes (4): Degrade gracefully, Per asset_need, source phase — asset sourcing (asset-first), Steps
+
+### Community 3073 - "Blur"
+Cohesion: 0.50
+Nodes (3): Blur, Blur Through, Directional Blur
+
+### Community 3074 - "Mechanical"
+Cohesion: 0.50
+Nodes (3): Clock Wipe, Mechanical, Shutter
+
+### Community 3075 - "frame-adapters.mdx"
+Cohesion: 0.40
+Nodes (4): Adapt a GSAP timeline, Continue, Contract, Interface
+
+### Community 3077 - "Using `text-spectral-rays` — it OWNS its wordmark"
+Cohesion: 0.40
+Nodes (4): Integrate in one pass, Pairs with, The one trap: never give the word a second source, Using `text-spectral-rays` — it OWNS its wordmark
+
+### Community 3078 - "Tier 1 — title-card-fade"
+Cohesion: 0.40
+Nodes (4): How to render and evaluate, Tier 1 — title-card-fade, Translation walk-through, What it tests
+
+### Community 3079 - "Tier 4 — escape-hatch"
+Cohesion: 0.40
+Nodes (4): Cases, Tier 4 — escape-hatch, Validation, What it tests
+
+### Community 3080 - "Theme token contract"
+Cohesion: 0.40
+Nodes (4): Final token set, One-off contract violations, Theme pack rules, Theme token contract
+
+### Community 3081 - "Qv"
+Cohesion: 0.40
+Nodes (5): WB(), Qv(), WB(), WB(), WB()
+
+### Community 3082 - "SFX Credits"
+Cohesion: 0.50
+Nodes (3): Files, License, SFX Credits
+
+### Community 3083 - "click"
+Cohesion: 0.50
+Nodes (4): click, description, duration, file
+
+### Community 3084 - "click-soft"
+Cohesion: 0.50
+Nodes (4): click-soft, description, duration, file
+
+### Community 3085 - "error"
+Cohesion: 0.50
+Nodes (4): error, description, duration, file
+
+### Community 3086 - "glitch-1"
+Cohesion: 0.50
+Nodes (4): glitch-1, description, duration, file
+
+### Community 3087 - "glitch-2"
+Cohesion: 0.50
+Nodes (4): glitch-2, description, duration, file
+
+### Community 3088 - "glitch-3"
+Cohesion: 0.50
+Nodes (4): glitch-3, description, duration, file
+
+### Community 3089 - "impact-bass-1"
+Cohesion: 0.50
+Nodes (4): impact-bass-1, description, duration, file
+
+### Community 3090 - "impact-bass-2"
+Cohesion: 0.50
+Nodes (4): impact-bass-2, description, duration, file
+
+### Community 3091 - "key-press"
+Cohesion: 0.50
+Nodes (4): key-press, description, duration, file
+
+### Community 3092 - "notification"
+Cohesion: 0.50
+Nodes (4): notification, description, duration, file
+
+### Community 3093 - "ping"
+Cohesion: 0.50
+Nodes (4): ping, description, duration, file
+
+### Community 3094 - "pop"
+Cohesion: 0.50
+Nodes (4): pop, description, duration, file
+
+### Community 3095 - "riser"
+Cohesion: 0.50
+Nodes (4): riser, description, duration, file
+
+### Community 3096 - "sparkle"
+Cohesion: 0.50
+Nodes (4): sparkle, description, duration, file
+
+### Community 3097 - "typing"
+Cohesion: 0.50
+Nodes (4): typing, description, duration, file
+
+### Community 3098 - "whoosh"
+Cohesion: 0.50
+Nodes (4): whoosh, description, duration, file
+
+### Community 3099 - "whoosh-cinematic"
+Cohesion: 0.50
+Nodes (4): whoosh-cinematic, description, duration, file
+
+### Community 3100 - "whoosh-short"
+Cohesion: 0.50
+Nodes (4): whoosh-short, description, duration, file
+
+### Community 3101 - "Requirements & Caches"
+Cohesion: 0.50
+Nodes (3): Credential & key priority, Model caches & system dependencies, Requirements & Caches
+
+### Community 3102 - "Es"
+Cohesion: 0.06
+Nodes (65): 0(), 3(), array(), atomic(), aW(), b(), b0(), Bi() (+57 more)
+
+### Community 3103 - "line-swap"
+Cohesion: 0.40
+Nodes (4): line-swap, Mount, Notes, Variables
+
+### Community 3104 - "oversized-cursor"
+Cohesion: 0.40
+Nodes (4): Mount, Notes, oversized-cursor, Variables
+
+### Community 3105 - "per-word-rise"
+Cohesion: 0.40
+Nodes (4): Mount, Notes, per-word-rise, Variables
+
+### Community 3106 - "state-chip-rail"
+Cohesion: 0.40
+Nodes (4): Notes, state-chip-rail, Usage, Variables
+
+### Community 3107 - "stop-motion-cadence"
+Cohesion: 0.40
+Nodes (4): Mount, Notes, stop-motion-cadence, Variables
+
+### Community 3108 - "Text Effects — Reference"
+Cohesion: 0.40
+Nodes (5): Effect names — vocabulary (do NOT use this as the implementation source), How to use it, In the storyboard, Text Effects — Reference, When you don't need the upstream skill
+
+### Community 3109 - "norm"
+Cohesion: 0.67
+Nodes (4): findPhrase(), LINES, norm(), takeWord()
+
+### Community 3110 - "logo-assemble-lockup — Logo Assemble → Lockup"
+Cohesion: 0.50
+Nodes (3): Contents, logo-assemble-lockup — Logo Assemble → Lockup, roles served
+
+### Community 3111 - "Nudge Curve"
+Cohesion: 0.50
+Nodes (4): Anti-patterns, JS, Nudge Curve, Rules
+
+### Community 3112 - "Waterfall Entry"
+Cohesion: 0.50
+Nodes (4): Anti-patterns, Choreography, JS, Waterfall Entry
+
+### Community 3113 - "Blur"
+Cohesion: 0.50
+Nodes (3): Blur, Blur Through, Directional Blur
+
+### Community 3114 - "Mechanical"
+Cohesion: 0.50
+Nodes (3): Clock Wipe, Mechanical, Shutter
+
+### Community 3115 - "Other"
+Cohesion: 0.50
+Nodes (3): Gravity Drop, Morph Circle, Other
+
+### Community 3116 - "Scale / Zoom"
+Cohesion: 0.50
+Nodes (3): Scale / Zoom, Zoom Out, Zoom Through
+
+### Community 3117 - "Full-Screen Motion Pattern"
+Cohesion: 0.50
+Nodes (3): Full-Screen Motion Pattern, Pattern, Rules
+
+### Community 3118 - "SFX Credits"
+Cohesion: 0.50
+Nodes (3): Files, License, SFX Credits
+
+### Community 3119 - "click"
+Cohesion: 0.50
+Nodes (4): click, description, duration, file
+
+### Community 3120 - "click-soft"
+Cohesion: 0.50
+Nodes (4): click-soft, description, duration, file
+
+### Community 3121 - "error"
+Cohesion: 0.50
+Nodes (4): error, description, duration, file
+
+### Community 3122 - "glitch-1"
+Cohesion: 0.50
+Nodes (4): glitch-1, description, duration, file
+
+### Community 3123 - "[ MỞ BÁN - PREMIUM ] Áo Thun Nữ Chất Thun Giấy PREMIUM Vân Tuyết Hoa Mềm Mịn Tay Dài Cổ Khuy Cúc QC Phong Cách Hàn Quốc Thư Thái, Thanh Lịch, Thoải Mái  BYJANE - 702"
+Cohesion: 0.50
+Nodes (3): [ MỞ BÁN - PREMIUM ] Áo Thun Nữ Chất Thun Giấy PREMIUM Vân Tuyết Hoa Mềm Mịn Tay Dài Cổ Khuy Cúc QC Phong Cách Hàn Quốc Thư Thái, Thanh Lịch, Thoải Mái  BYJANE - 702, 📌 Thông tin sản phẩm, 🎬 Video nguồn
+
+### Community 3124 - "seam-stamp.mjs + seam-gate.mjs — usage + ledger schema"
+Cohesion: 0.50
+Nodes (3): ledger.json, seam-stamp.mjs + seam-gate.mjs — usage + ledger schema, What each check enforces (Seam Gate rule ↔ report row)
+
+### Community 3125 - "seam-stamp.mjs + seam-gate.mjs — usage + ledger schema"
+Cohesion: 0.50
+Nodes (3): ledger.json, seam-stamp.mjs + seam-gate.mjs — usage + ledger schema, What each check enforces (Seam Gate rule ↔ report row)
+
+### Community 3126 - "ai-answer-rank.mdx"
+Cohesion: 0.50
+Nodes (3): Add it to your video, Related topics, Variables
+
+### Community 3127 - "ai-chat-reveal.mdx"
+Cohesion: 0.50
+Nodes (3): Add it to your video, Related topics, Variables
+
+### Community 3128 - "beat-freeze-cut.mdx"
+Cohesion: 0.50
+Nodes (3): Add it to your video, Change the colors, Related topics
+
+### Community 3129 - "logo-outro.mdx"
+Cohesion: 0.50
+Nodes (3): Add it to your video, Change the colors, Related topics
+
+### Community 3130 - "lower-third-bild.mdx"
+Cohesion: 0.50
+Nodes (3): Add it to your video, Related topics, Variables
+
+### Community 3131 - "message-thread-reveal.mdx"
+Cohesion: 0.50
+Nodes (3): Add it to your video, Related topics, Variables
+
+### Community 3132 - "notes-reveal.mdx"
+Cohesion: 0.50
+Nodes (3): Add it to your video, Related topics, Variables
+
+### Community 3133 - "notification-cascade.mdx"
+Cohesion: 0.50
+Nodes (3): Add it to your video, Related topics, Variables
+
+### Community 3134 - "share-sheet-carousel.mdx"
+Cohesion: 0.50
+Nodes (3): Add it to your video, Related topics, Variables
+
+### Community 3135 - "snow.mdx"
+Cohesion: 0.50
+Nodes (3): Add it to your video, Related topics, Variables
+
+### Community 3136 - "starfield.mdx"
+Cohesion: 0.50
+Nodes (3): Add it to your video, Related topics, Variables
+
+### Community 3137 - "vfx-liquid-glass.mdx"
+Cohesion: 0.50
+Nodes (3): Add it to your video, Change the colors, Related topics
+
+### Community 3138 - "vfx-magnetic.mdx"
+Cohesion: 0.50
+Nodes (3): Add it to your video, Change the colors, Related topics
+
+### Community 3139 - "vfx-portal.mdx"
+Cohesion: 0.50
+Nodes (3): Add it to your video, Change the colors, Related topics
+
+### Community 3140 - "avatar-group-hover.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3141 - "blur-in.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3142 - "blur-out-up.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3143 - "camera-scan-gate.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3144 - "camera-shake.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3145 - "caption-camera-follow.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3146 - "caption-texture.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3147 - "card-resize.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3148 - "caret-swap.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3149 - "chat-thread.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3150 - "chromatic-aberration-wipe.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3151 - "cursor-drag-drop.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3152 - "cursor-marquee-select.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3153 - "cursor-zoom-follow.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3154 - "dart-cursor.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3155 - "device-frame-stage.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3156 - "drift-hold.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3157 - "focus-blur-resolve.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3158 - "gesture-tap.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3159 - "gloss-sweep.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3160 - "icon-morph-beat.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3161 - "line-by-line-slide.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3162 - "magnetic-cursor.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3163 - "match-cut.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3164 - "matrix-decode.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3165 - "menu-morph.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3166 - "multi-device-splay.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3167 - "multiplayer-cursors.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3168 - "notification-pileup.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3169 - "offset-path-traveler.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3170 - "glitch-2"
+Cohesion: 0.50
+Nodes (4): glitch-2, description, duration, file
+
+### Community 3171 - "pan-stations.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3172 - "parallax-device-dive.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3173 - "per-word-crossfade.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3174 - "pull-to-refresh.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3175 - "rgb-glitch-text.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3176 - "rubber-band-bumper.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3177 - "scan-band.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3178 - "shared-axis-y.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3179 - "shared-axis-z.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3180 - "slot-machine-roll.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3181 - "glitch-3"
+Cohesion: 0.50
+Nodes (4): glitch-3, description, duration, file
+
+### Community 3182 - "streaming-text.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3183 - "success-check.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3184 - "swipe-rail.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3185 - "tabs-slide-indicator.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3186 - "text-shimmer.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3187 - "text-stagger.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3188 - "text-state-swap.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3189 - "toggle-flip.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3190 - "top-down-letters.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3191 - "torn-paper-rip.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3192 - "tracing-beam.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3193 - "type-match-cut.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3194 - "variable-axis-type.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3195 - "vector-editor-rig.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3196 - "velocity-throw-snap.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3197 - "zoom-through-transition.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3198 - "anatomy.mdx"
+Cohesion: 0.50
+Nodes (3): Common rewrites, The beat formula, The framework's own vocabulary
+
+### Community 3199 - "iterating.mdx"
+Cohesion: 0.50
+Nodes (3): Calibrate with absolute targets, Editing is for nudging, not gambling, The gates can't tell you it's good
+
+### Community 3200 - "impact-bass-1"
+Cohesion: 0.50
+Nodes (4): impact-bass-1, description, duration, file
+
+### Community 3201 - "reference/color-grading.mdx"
+Cohesion: 0.50
+Nodes (3): Animate a supported property, Limit a grade to part of the frame, Persist a grade
+
+### Community 3202 - "impact-bass-2"
+Cohesion: 0.50
+Nodes (4): impact-bass-2, description, duration, file
+
+### Community 3203 - "key-press"
+Cohesion: 0.50
+Nodes (4): key-press, description, duration, file
+
+### Community 3204 - "./chrome-host-ceiling"
+Cohesion: 0.50
+Nodes (4): bun, import, types, ./chrome-host-ceiling
+
+### Community 3205 - "./shader-transitions"
+Cohesion: 0.50
+Nodes (4): ./shader-transitions, bun, import, types
+
+### Community 3206 - "publishConfig"
+Cohesion: 0.50
+Nodes (4): publishConfig, access, main, types
+
+### Community 3207 - "repository"
+Cohesion: 0.50
+Nodes (4): repository, directory, type, url
+
+### Community 3208 - "scripts"
+Cohesion: 0.50
+Nodes (4): scripts, build, test, typecheck
+
+### Community 3209 - "repository"
+Cohesion: 0.50
+Nodes (4): repository, directory, type, url
+
+### Community 3210 - "./adapters/headless"
+Cohesion: 0.50
+Nodes (4): bun, import, types, ./adapters/headless
+
+### Community 3211 - "./adapters/memory"
+Cohesion: 0.50
+Nodes (4): bun, import, types, ./adapters/memory
+
+### Community 3212 - "dependencies"
+Cohesion: 0.50
+Nodes (4): dependencies, @hyperframes/core, @hyperframes/parsers, linkedom
+
+### Community 3213 - "publishConfig"
+Cohesion: 0.50
+Nodes (4): publishConfig, access, main, types
+
+### Community 3214 - "repository"
+Cohesion: 0.50
+Nodes (4): repository, directory, type, url
+
+### Community 3215 - "repository"
+Cohesion: 0.50
+Nodes (4): repository, directory, type, url
+
+### Community 3216 - "notification"
+Cohesion: 0.50
+Nodes (4): notification, description, duration, file
+
+### Community 3218 - "ping"
+Cohesion: 0.50
+Nodes (4): ping, description, duration, file
+
+### Community 3219 - "pop"
+Cohesion: 0.50
+Nodes (4): pop, description, duration, file
+
+### Community 3220 - "Source for assets/frost.js and assets/motion.js"
+Cohesion: 0.50
+Nodes (3): Build, Scope, Source for assets/frost.js and assets/motion.js
+
+### Community 3221 - "Scale-Swap Transition"
+Cohesion: 0.33
+Nodes (6): Critical Constraints, Recipe, Scale-Swap Transition, See also, Values, Variations
+
+### Community 3222 - "riser"
+Cohesion: 0.50
+Nodes (4): riser, description, duration, file
+
+### Community 3223 - "Catalog artifact"
+Cohesion: 0.50
+Nodes (3): Catalog artifact, Provenance, Rebuilding
+
+### Community 3224 - "HyperFrames v0.6.103"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.6.103
+
+### Community 3225 - "HyperFrames v0.6.105"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.6.105
+
+### Community 3226 - "HyperFrames v0.6.109"
+Cohesion: 0.50
+Nodes (3): Catalog, Full changelog, HyperFrames v0.6.109
+
+### Community 3227 - "HyperFrames v0.6.110"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.6.110
+
+### Community 3228 - "HyperFrames v0.6.116"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.6.116
+
+### Community 3229 - "HyperFrames v0.6.117"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.6.117
+
+### Community 3230 - "HyperFrames v0.6.119"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.6.119
+
+### Community 3231 - "HyperFrames v0.6.120"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.6.120
+
+### Community 3232 - "HyperFrames v0.6.121"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.6.121
+
+### Community 3233 - "HyperFrames v0.6.52"
+Cohesion: 0.50
+Nodes (3): Fixed, Full changelog, HyperFrames v0.6.52
+
+### Community 3234 - "HyperFrames v0.6.72"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.6.72
+
+### Community 3235 - "HyperFrames v0.6.77"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.6.77
+
+### Community 3236 - "HyperFrames v0.6.78"
+Cohesion: 0.50
+Nodes (3): Full changelog, HyperFrames v0.6.78, Internal
+
+### Community 3237 - "HyperFrames v0.6.79"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.6.79
+
+### Community 3238 - "HyperFrames v0.6.83"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.6.83
+
+### Community 3239 - "HyperFrames v0.6.84"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.6.84
+
+### Community 3240 - "HyperFrames v0.6.86"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.6.86
+
+### Community 3241 - "HyperFrames v0.6.88"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.6.88
+
+### Community 3242 - "HyperFrames v0.7.10"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.7.10
+
+### Community 3243 - "HyperFrames v0.7.102"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.7.102
+
+### Community 3244 - "HyperFrames v0.7.104"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.7.104
+
+### Community 3245 - "HyperFrames v0.7.13"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.7.13
+
+### Community 3246 - "HyperFrames v0.7.14"
+Cohesion: 0.50
+Nodes (3): Features, Full changelog, HyperFrames v0.7.14
+
+### Community 3247 - "HyperFrames v0.7.24"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.7.24
+
+### Community 3248 - "HyperFrames v0.7.28"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.7.28
+
+### Community 3249 - "HyperFrames v0.7.31"
+Cohesion: 0.50
+Nodes (3): Features, Full changelog, HyperFrames v0.7.31
+
+### Community 3250 - "HyperFrames v0.7.32"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.7.32
+
+### Community 3251 - "HyperFrames v0.7.33"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.7.33
+
+### Community 3252 - "HyperFrames v0.7.34"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.7.34
+
+### Community 3253 - "HyperFrames v0.7.35"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.7.35
+
+### Community 3254 - "HyperFrames v0.7.36"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.7.36
+
+### Community 3255 - "HyperFrames v0.7.48"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.7.48
+
+### Community 3256 - "HyperFrames v0.7.5"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.7.5
+
+### Community 3257 - "HyperFrames v0.7.63"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.7.63
+
+### Community 3258 - "HyperFrames v0.7.70"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.7.70
+
+### Community 3259 - "HyperFrames v0.7.76"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.7.76
+
+### Community 3260 - "HyperFrames v0.7.81"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.7.81
+
+### Community 3261 - "HyperFrames v0.7.82"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.7.82
+
+### Community 3262 - "HyperFrames v0.7.89"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.7.89
+
+### Community 3263 - "HyperFrames v0.7.9"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.7.9
+
+### Community 3264 - "HyperFrames v0.7.94"
+Cohesion: 0.50
+Nodes (3): Features, Full changelog, HyperFrames v0.7.94
+
+### Community 3265 - "HyperFrames v0.7.97"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.7.97
+
+### Community 3266 - "HyperFrames v0.7.98"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.7.98
+
+### Community 3267 - "HyperFrames v0.7.99"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.7.99
+
+### Community 3268 - "HyperFrames v0.8.10"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.8.10
+
+### Community 3269 - "HyperFrames v0.8.103"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.8.103
+
+### Community 3270 - "HyperFrames v0.8.104"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.8.104
+
+### Community 3271 - "HyperFrames v0.8.111"
+Cohesion: 0.50
+Nodes (3): Features, Full changelog, HyperFrames v0.8.111
+
+### Community 3272 - "HyperFrames v0.8.119"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.8.119
+
+### Community 3273 - "HyperFrames v0.8.130"
+Cohesion: 0.50
+Nodes (3): Features, Full changelog, HyperFrames v0.8.130
+
+### Community 3274 - "HyperFrames v0.8.131"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.8.131
+
+### Community 3275 - "HyperFrames v0.8.132"
+Cohesion: 0.50
+Nodes (3): Features, Full changelog, HyperFrames v0.8.132
+
+### Community 3276 - "HyperFrames v0.8.133"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.8.133
+
+### Community 3277 - "HyperFrames v0.8.136"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.8.136
+
+### Community 3278 - "HyperFrames v0.8.137"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.8.137
+
+### Community 3279 - "HyperFrames v0.8.140"
+Cohesion: 0.50
+Nodes (3): Changes, Full changelog, HyperFrames v0.8.140
+
+### Community 3280 - "HyperFrames v0.8.141"
+Cohesion: 0.50
+Nodes (3): Changes, Full changelog, HyperFrames v0.8.141
+
+### Community 3281 - "HyperFrames v0.8.147"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.8.147
+
+### Community 3282 - "HyperFrames v0.8.148"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.8.148
+
+### Community 3283 - "HyperFrames v0.8.153"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.8.153
+
+### Community 3284 - "HyperFrames v0.8.154"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.8.154
+
+### Community 3285 - "HyperFrames v0.8.162"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.8.162
+
+### Community 3286 - "HyperFrames v0.8.164"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.8.164
+
+### Community 3287 - "HyperFrames v0.8.165"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.8.165
+
+### Community 3288 - "HyperFrames v0.8.166"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.8.166
+
+### Community 3289 - "HyperFrames v0.8.172"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.8.172
+
+### Community 3290 - "HyperFrames v0.8.18"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.8.18
+
+### Community 3291 - "HyperFrames v0.8.19"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.8.19
+
+### Community 3292 - "HyperFrames v0.8.20"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.8.20
+
+### Community 3293 - "HyperFrames v0.8.22"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.8.22
+
+### Community 3294 - "HyperFrames v0.8.26"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.8.26
+
+### Community 3295 - "HyperFrames v0.8.29"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.8.29
+
+### Community 3296 - "HyperFrames v0.8.39"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.8.39
+
+### Community 3297 - "HyperFrames v0.8.40"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.8.40
+
+### Community 3298 - "HyperFrames v0.8.46"
+Cohesion: 0.50
+Nodes (3): Features, Full changelog, HyperFrames v0.8.46
+
+### Community 3299 - "HyperFrames v0.8.54"
+Cohesion: 0.50
+Nodes (3): Features, Full changelog, HyperFrames v0.8.54
+
+### Community 3300 - "HyperFrames v0.8.55"
+Cohesion: 0.50
+Nodes (3): Features, Full changelog, HyperFrames v0.8.55
+
+### Community 3301 - "HyperFrames v0.8.6"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.8.6
+
+### Community 3302 - "HyperFrames v0.8.64"
+Cohesion: 0.50
+Nodes (3): Features, Full changelog, HyperFrames v0.8.64
+
+### Community 3303 - "HyperFrames v0.8.67"
+Cohesion: 0.50
+Nodes (3): Changes, Full changelog, HyperFrames v0.8.67
+
+### Community 3304 - "HyperFrames v0.8.71"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.8.71
+
+### Community 3305 - "HyperFrames v0.8.88"
+Cohesion: 0.50
+Nodes (3): Features, Full changelog, HyperFrames v0.8.88
+
+### Community 3306 - "HyperFrames v0.8.92"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.8.92
+
+### Community 3307 - "HyperFrames v0.8.93"
+Cohesion: 0.50
+Nodes (3): Full changelog, HyperFrames v0.8.93, Performance
+
+### Community 3308 - "HyperFrames v0.8.96"
+Cohesion: 0.50
+Nodes (3): Fixes, Full changelog, HyperFrames v0.8.96
+
+### Community 3309 - "sparkle"
+Cohesion: 0.50
+Nodes (4): sparkle, description, duration, file
+
+### Community 3310 - "SFX Credits"
+Cohesion: 0.50
+Nodes (3): Files, License, SFX Credits
+
+### Community 3311 - "click"
+Cohesion: 0.50
+Nodes (4): click, description, duration, file
+
+### Community 3312 - "click-soft"
+Cohesion: 0.50
+Nodes (4): click-soft, description, duration, file
+
+### Community 3313 - "error"
+Cohesion: 0.50
+Nodes (4): error, description, duration, file
+
+### Community 3314 - "glitch-1"
+Cohesion: 0.50
+Nodes (4): glitch-1, description, duration, file
+
+### Community 3315 - "glitch-2"
+Cohesion: 0.50
+Nodes (4): glitch-2, description, duration, file
+
+### Community 3316 - "glitch-3"
+Cohesion: 0.50
+Nodes (4): glitch-3, description, duration, file
+
+### Community 3317 - "impact-bass-1"
+Cohesion: 0.50
+Nodes (4): impact-bass-1, description, duration, file
+
+### Community 3318 - "impact-bass-2"
+Cohesion: 0.50
+Nodes (4): impact-bass-2, description, duration, file
+
+### Community 3319 - "key-press"
+Cohesion: 0.50
+Nodes (4): key-press, description, duration, file
+
+### Community 3320 - "notification"
+Cohesion: 0.50
+Nodes (4): notification, description, duration, file
+
+### Community 3321 - "ping"
+Cohesion: 0.50
+Nodes (4): ping, description, duration, file
+
+### Community 3322 - "pop"
+Cohesion: 0.50
+Nodes (4): pop, description, duration, file
+
+### Community 3323 - "riser"
+Cohesion: 0.50
+Nodes (4): riser, description, duration, file
+
+### Community 3324 - "sparkle"
+Cohesion: 0.50
+Nodes (4): sparkle, description, duration, file
+
+### Community 3325 - "typing"
+Cohesion: 0.50
+Nodes (4): typing, description, duration, file
+
+### Community 3326 - "whoosh"
+Cohesion: 0.50
+Nodes (4): whoosh, description, duration, file
+
+### Community 3327 - "whoosh-cinematic"
+Cohesion: 0.50
+Nodes (4): whoosh-cinematic, description, duration, file
+
+### Community 3328 - "whoosh-short"
+Cohesion: 0.50
+Nodes (4): whoosh-short, description, duration, file
+
+### Community 3329 - "Requirements & Caches"
+Cohesion: 0.50
+Nodes (3): Credential & key priority, Model caches & system dependencies, Requirements & Caches
+
+### Community 3330 - "typing"
+Cohesion: 0.50
+Nodes (4): typing, description, duration, file
+
+### Community 3331 - "whoosh"
+Cohesion: 0.50
+Nodes (4): whoosh, description, duration, file
+
+### Community 3332 - "whoosh-cinematic"
+Cohesion: 0.50
+Nodes (4): whoosh-cinematic, description, duration, file
+
+### Community 3333 - "Dissolve"
+Cohesion: 0.33
+Nodes (5): Blur Crossfade, Color Dip, Crossfade, Dissolve, Focus Pull
+
+### Community 3334 - "Distortion"
+Cohesion: 0.33
+Nodes (5): Chromatic Aberration, Distortion, Glitch, Ripple, VHS Tape
+
+### Community 3335 - "NAVIE - Quần short kaki ORINA cạp thấp viền ren thời trang nữ"
+Cohesion: 0.50
+Nodes (3): NAVIE - Quần short kaki ORINA cạp thấp viền ren thời trang nữ, 📌 Thông tin sản phẩm, 🎬 Video nguồn
+
+### Community 3341 - "whoosh-short"
+Cohesion: 0.50
+Nodes (4): whoosh-short, description, duration, file
+
+### Community 3470 - "ai/skills/remotion-to-hyperframes/scripts/tests/fixtures/clean.tsx"
+Cohesion: 0.83
+Nodes (3): MyComposition(), pick(), TitleCard()
+
+### Community 3479 - "halftone-dissolve.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3480 - "line-swap.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3485 - "logo-brand-close.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3500 - "physical-exit.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3501 - "stitched-text-draw.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3502 - "telemetry-hud.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3503 - "variable-font-flex.mdx"
+Cohesion: 0.50
+Nodes (3): Paste it into your composition, Related topics, Variables
+
+### Community 3504 - "srcdoc"
+Cohesion: 0.50
+Nodes (3): Editable scene timing, Interface, srcdoc()
+
+### Community 3505 - "fontCssFor"
+Cohesion: 0.67
+Nodes (3): bgSkeleton(), fgSkeleton(), fontCssFor()
+
+### Community 3506 - "ransomChipCss"
+Cohesion: 0.67
+Nodes (3): paradigmRansomrail(), ransomChipCss(), setpieceRansomnote()
+
+### Community 3532 - "cut-the-curve"
+Cohesion: 0.40
+Nodes (4): cut-the-curve, Mount, Notes, Variables
+
+### Community 3533 - "Other"
+Cohesion: 0.50
+Nodes (3): Gravity Drop, Morph Circle, Other
+
+### Community 3585 - "la"
+Cohesion: 0.47
+Nodes (6): Animation(), Da(), la(), ma(), Ua(), Va()
+
+### Community 3586 - "Scale / Zoom"
+Cohesion: 0.50
+Nodes (3): Scale / Zoom, Zoom Out, Zoom Through
+
+### Community 3588 - "Full-Screen Motion Pattern"
+Cohesion: 0.50
+Nodes (3): Full-Screen Motion Pattern, Pattern, Rules
+
+### Community 3589 - "repository"
+Cohesion: 0.50
+Nodes (4): repository, directory, type, url
+
+### Community 3591 - "fb"
+Cohesion: 0.40
+Nodes (5): Context(), Db(), Eb(), fb(), Gw()
+
+### Community 3592 - "he"
+Cohesion: 0.40
+Nodes (5): he(), Md(), Nd(), Od(), Pd()
+
+### Community 3593 - "Za"
+Cohesion: 0.40
+Nodes (5): kb(), ob(), ra(), rb(), Za()
+
+### Community 3594 - "Rd"
+Cohesion: 0.40
+Nodes (5): Rd(), Vd(), Wd(), yd(), ye()
+
+### Community 3598 - ".agent/skills/remotion-to-hyperframes/scripts/tests/fixtures/clean.tsx"
+Cohesion: 0.83
+Nodes (3): MyComposition(), pick(), TitleCard()
+
+### Community 3608 - "hyperframes/skills/remotion-to-hyperframes/scripts/tests/fixtures/clean.tsx"
+Cohesion: 0.83
+Nodes (3): MyComposition(), pick(), TitleCard()
+
+### Community 3621 - "Dissolve"
+Cohesion: 0.33
+Nodes (5): Blur Crossfade, Color Dip, Crossfade, Dissolve, Focus Pull
+
+### Community 3624 - "la"
+Cohesion: 0.47
+Nodes (6): Animation(), Da(), la(), ma(), Ua(), Va()
+
+### Community 3626 - "fb"
+Cohesion: 0.40
+Nodes (5): Context(), Db(), Eb(), fb(), Gw()
+
+### Community 3627 - "he"
+Cohesion: 0.40
+Nodes (5): he(), Md(), Nd(), Od(), Pd()
+
+### Community 3628 - "Za"
+Cohesion: 0.40
+Nodes (5): kb(), ob(), ra(), rb(), Za()
+
+### Community 3629 - "Rd"
+Cohesion: 0.40
+Nodes (5): Rd(), Vd(), Wd(), yd(), ye()
+
+### Community 3636 - "Boss直聘"
+Cohesion: 0.40
+Nodes (5): Boss直聘, Fallback 方案, LinkedIn, 环境体检与恢复（抓取前必查）, 职场招聘
+
+### Community 3637 - "Exa AI 搜索"
+Cohesion: 0.40
+Nodes (5): Exa AI 搜索, 与其他搜索工具对比, 使用场景, 搜索工具, 特点
+
+### Community 3638 - "小红书 / XiaoHongShu（多后端）"
+Cohesion: 0.40
+Nodes (5): 后端 A：OpenCLI（桌面首选）, 后端 B：xiaohongshu-mcp（服务器场景）, 后端 C：xhs-cli（存量备选，上游 2026-03 起停更）, 小红书 / XiaoHongShu（多后端）, 通用注意事项
+
+### Community 3639 - "网页阅读"
+Cohesion: 0.40
+Nodes (5): RSS (feedparser), Web Reader (MCP), 网页阅读, 选择指南, 通用网页 (Jina Reader)
+
+### Community 3641 - "KỊCH BẢN KOC AI: Áo Thun Giấy Tay Dài Cổ Henley Byjane Form Suông (SP-BJ-001)"
+Cohesion: 0.33
+Nodes (5): 1. HOOK 3 GIÂY ĐẦU (00:00 - 00:03), 2. SOI CHI TIẾT & CHẤT LIỆU (00:03 - 00:15), 3. LÊN DÁNG & MIX MATCH (00:15 - 00:27), 4. KÊU GỌI HÀNH ĐỘNG (00:27 - 00:35), KỊCH BẢN KOC AI: Áo Thun Giấy Tay Dài Cổ Henley Byjane Form Suông (SP-BJ-001)
+
+### Community 3642 - "KỊCH BẢN KOC AI: Áo Khoác Cardigan Len Mỏng Dáng Rộng Nàng Thơ SuChang (SP-CD-005)"
+Cohesion: 0.33
+Nodes (5): 1. HOOK 3 GIÂY ĐẦU (00:00 - 00:03), 2. SOI CHI TIẾT & CHẤT LIỆU (00:03 - 00:15), 3. LÊN DÁNG & MIX MATCH (00:15 - 00:27), 4. KÊU GỌI HÀNH ĐỘNG (00:27 - 00:35), KỊCH BẢN KOC AI: Áo Khoác Cardigan Len Mỏng Dáng Rộng Nàng Thơ SuChang (SP-CD-005)
+
+### Community 3643 - "KỊCH BẢN KOC AI: Quần Jean Nữ Ống Rộng Cạp Cao Vintage Retro Hàn Quốc (SP-QJ-003)"
+Cohesion: 0.33
+Nodes (5): 1. HOOK 3 GIÂY ĐẦU (00:00 - 00:03), 2. SOI CHI TIẾT & CHẤT LIỆU (00:03 - 00:15), 3. LÊN DÁNG & MIX MATCH (00:15 - 00:27), 4. KÊU GỌI HÀNH ĐỘNG (00:27 - 00:35), KỊCH BẢN KOC AI: Quần Jean Nữ Ống Rộng Cạp Cao Vintage Retro Hàn Quốc (SP-QJ-003)
+
+### Community 3644 - "KỊCH BẢN KOC AI: Quần Short Nắp Túi Cạp Trễ Tôn Dáng Y2K Năng Động (SP-QS-004)"
+Cohesion: 0.33
+Nodes (5): 1. HOOK 3 GIÂY ĐẦU (00:00 - 00:03), 2. SOI CHI TIẾT & CHẤT LIỆU (00:03 - 00:15), 3. LÊN DÁNG & MIX MATCH (00:15 - 00:27), 4. KÊU GỌI HÀNH ĐỘNG (00:27 - 00:35), KỊCH BẢN KOC AI: Quần Short Nắp Túi Cạp Trễ Tôn Dáng Y2K Năng Động (SP-QS-004)
+
+### Community 3645 - "KỊCH BẢN KOC AI: Quần Tây Ống Suông Lưng Cao Vải Tuyết Mưa Hack Dáng 1m7 (SP-QT-002)"
+Cohesion: 0.33
+Nodes (5): 1. HOOK 3 GIÂY ĐẦU (00:00 - 00:03), 2. SOI CHI TIẾT & CHẤT LIỆU (00:03 - 00:15), 3. LÊN DÁNG & MIX MATCH (00:15 - 00:27), 4. KÊU GỌI HÀNH ĐỘNG (00:27 - 00:35), KỊCH BẢN KOC AI: Quần Tây Ống Suông Lưng Cao Vải Tuyết Mưa Hack Dáng 1m7 (SP-QT-002)
+
+### Community 3646 - "KỊCH BẢN KOC AI: Túi Xách Nữ Kẹp Nách Da Mềm Đính Dây Xích Bạc MOLLIX (SP-TX-007)"
+Cohesion: 0.33
+Nodes (5): 1. HOOK 3 GIÂY ĐẦU (00:00 - 00:03), 2. SOI CHI TIẾT & CHẤT LIỆU (00:03 - 00:15), 3. LÊN DÁNG & MIX MATCH (00:15 - 00:27), 4. KÊU GỌI HÀNH ĐỘNG (00:27 - 00:35), KỊCH BẢN KOC AI: Túi Xách Nữ Kẹp Nách Da Mềm Đính Dây Xích Bạc MOLLIX (SP-TX-007)
+
+### Community 3647 - "KỊCH BẢN KOC AI: Váy Body Tay Dài Cổ Vuông Tôn Dáng Phối Ren LAVENDER (SP-VB-006)"
+Cohesion: 0.33
+Nodes (5): 1. HOOK 3 GIÂY ĐẦU (00:00 - 00:03), 2. SOI CHI TIẾT & CHẤT LIỆU (00:03 - 00:15), 3. LÊN DÁNG & MIX MATCH (00:15 - 00:27), 4. KÊU GỌI HÀNH ĐỘNG (00:27 - 00:35), KỊCH BẢN KOC AI: Váy Body Tay Dài Cổ Vuông Tôn Dáng Phối Ren LAVENDER (SP-VB-006)
+
+### Community 3651 - "Za"
+Cohesion: 0.40
+Nodes (5): kb(), ob(), ra(), rb(), Za()
+
+### Community 3655 - "groupTraces"
+Cohesion: 0.50
+Nodes (4): groupTraces(), isDrawnStroke(), pathTravels(), traceOf()
+
+### Community 3656 - "unresolvedFields"
+Cohesion: 0.50
+Nodes (4): hasNoProperties(), hasRawExpressions(), missesEndpointProperties(), unresolvedFields()
+
+### Community 3657 - "Visual Techniques Reference"
+Cohesion: 0.11
+Nodes (18): em(), 10. Velocity-Matched Transitions, 11. Audio-Reactive Animation, 12. Clip-Path Reveal Masks, 13. WebGL Fragment Shader Art, 1. SVG Path Drawing, 2. Canvas 2D Procedural Art, 3. CSS 3D Transforms (+10 more)
+
+### Community 3658 - "fb"
+Cohesion: 0.40
+Nodes (5): Context(), Db(), Eb(), fb(), Gw()
+
+### Community 3659 - "he"
+Cohesion: 0.40
+Nodes (5): he(), Md(), Nd(), Od(), Pd()
+
+### Community 3660 - "Za"
+Cohesion: 0.40
+Nodes (5): kb(), ob(), ra(), rb(), Za()
+
+### Community 3661 - "Rd"
+Cohesion: 0.40
+Nodes (5): Rd(), Vd(), Wd(), yd(), ye()
+
+### Community 3662 - "金融行情"
+Cohesion: 0.50
+Nodes (4): OpenCLI（桌面已有 Chrome 登录态时优先）, 先检查状态, 金融行情, 验收与失败处理
+
+### Community 3663 - "tweenSpan"
+Cohesion: 0.50
+Nodes (4): knownRepeatCycle(), staggerSpread(), targetCount(), tweenSpan()
+
+### Community 3664 - "norm"
+Cohesion: 0.67
+Nodes (4): findPhrase(), LINES, norm(), takeWord()
+
+### Community 3669 - "Oc"
+Cohesion: 0.50
+Nodes (4): ja(), Mc(), Oc(), Vb()
+
+### Community 3670 - "Mechanical"
+Cohesion: 0.50
+Nodes (3): Clock Wipe, Mechanical, Shutter
+
+### Community 3675 - "Scale / Zoom"
+Cohesion: 0.50
+Nodes (3): Scale / Zoom, Zoom Out, Zoom Through
+
+### Community 3677 - "fontCssFor"
+Cohesion: 0.67
+Nodes (3): bgSkeleton(), fgSkeleton(), fontCssFor()
+
+### Community 3678 - "ransomChipCss"
+Cohesion: 0.67
+Nodes (3): paradigmRansomrail(), ransomChipCss(), setpieceRansomnote()
+
+### Community 3692 - "fontCssFor"
+Cohesion: 0.67
+Nodes (3): bgSkeleton(), fgSkeleton(), fontCssFor()
+
+### Community 3693 - "ransomChipCss"
+Cohesion: 0.67
+Nodes (3): paradigmRansomrail(), ransomChipCss(), setpieceRansomnote()
+
+## Knowledge Gaps
+- **271 isolated node(s):** `@remotion/cli`, `react`, `react-dom`, `remotion`, `@remotion/cli` (+266 more)
+  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 41751 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
+- **467 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
+
+## Suggested Questions
+_Questions this graph is uniquely positioned to answer:_
+
+- **Why does `$i()` connect `$i` to `get`, `get`, `get`, `get`, `falling-lines/lib/shaders.iife.js`, `get`, `chrome-orb/lib/shaders.iife.js`, `nebula/lib/shaders.iife.js`, `goo/lib/shaders.iife.js`, `obsidian/lib/shaders.iife.js`, `get`, `get`, `thin-film/lib/shaders.iife.js`, `qt`, `se`, `se`, `se`, `Bt`, `marble/lib/shaders.iife.js`, `get`, `mesh-gradient/lib/shaders.iife.js`, `get`, `plasma/lib/shaders.iife.js`, `light-edge/lib/shaders.iife.js`, `get`, `sun-burst/lib/shaders.iife.js`, `get`, `get`, `get`, `spiral/lib/shaders.iife.js`, `s`, `get`, `waveform/lib/shaders.iife.js`, `get`, `get`, `fractal-noise/lib/shaders.iife.js`, `get`, `color-wheel/lib/shaders.iife.js`, `get`, `lens-flare/lib/shaders.iife.js`, `get`, `flowing-gradient/lib/shaders.iife.js`, `holographic/lib/shaders.iife.js`, `Bt`, `get`, `get`, `qt`, `blob/lib/shaders.iife.js`, `stripes/lib/shaders.iife.js`, `get`, `frost/lib/shaders.iife.js`, `get`, `get`, `heatmap/lib/shaders.iife.js`, `sine-wave/lib/shaders.iife.js`, `get`, `ref_node_fs`, `gabor-noise/lib/shaders.iife.js`, `qt`, `get`, `get`, `strands/lib/shaders.iife.js`, `worley-noise/lib/shaders.iife.js`, `aurora/lib/shaders.iife.js`, `godrays/lib/shaders.iife.js`, `hologram/lib/shaders.iife.js`, `liquid-metal/lib/shaders.iife.js`, `plastic/lib/shaders.iife.js`, `write`, `prism/lib/shaders.iife.js`, `get`, `ripples/lib/shaders.iife.js`, `swirl/lib/shaders.iife.js`, `voronoi/lib/shaders.iife.js`, `water/lib/shaders.iife.js`?**
+  _High betweenness centrality (0.204) - this node is a cross-community bridge._
+- **What connects `@remotion/cli`, `react`, `react-dom` to the rest of the system?**
+  _271 weakly-connected nodes found - possible documentation gaps or missing edges._
+- **Should `os` be split into smaller, more focused modules?**
+  _Cohesion score 0.010323389237949175 - nodes in this community are weakly interconnected._
+- **Why does `t()` connect `ref_node_fs` to `videoFrameExtractor.ts`, `heygen-cli.mjs`, `runtime/media.ts`, `publish-catalog.mjs`, `audioAutomation.ts`, `media-use/lib/manifest.mjs`, `runtime/init.test.ts`, `$i`?**
+  _High betweenness centrality (0.140) - this node is a cross-community bridge._
+- **Should `manualEditsDom.ts` be split into smaller, more focused modules?**
+  _Cohesion score 0.014244825484324066 - nodes in this community are weakly interconnected._
+- **Why does `e()` connect `$i` to `DomEditSelection`, `iframe.ts`, `commands/init.ts`, `audioAutomation.ts`, `sdk/src/index.ts`, `core/src/index.ts`, `mutate.ts`, `design-panel.mjs`, `TimelineToolbar.tsx`?**
+  _High betweenness centrality (0.064) - this node is a cross-community bridge._
+- **Should `playerStore.ts` be split into smaller, more focused modules?**
+  _Cohesion score 0.0046002643202719615 - nodes in this community are weakly interconnected._
